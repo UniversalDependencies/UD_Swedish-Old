@@ -337,7 +337,7 @@
 # text = for budhit ær honum mere at ætæ
 # sent_id = 25429
 1	for	forbiuþa	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Variant=Short
-2	budhit	budhit	ADJ	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	goeswith	_	Variant=Short
+2	budhit	_	X	V-	_	1	goeswith	_	Variant=Short
 3	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 4	honum	han	PRON	Pp	Case=Dat|PronType=Prs	1	iobj	_	_
 5	mere	mere	ADJ	A-	Case=Acc|Degree=Cmp|Number=Sing	7	obj	_	Variant=Short
