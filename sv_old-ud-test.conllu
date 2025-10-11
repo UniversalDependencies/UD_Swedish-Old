@@ -336,8 +336,8 @@
 # source = Skämtan om abbotar, enligt Holm D 4a, Här sigx af abotum allum skemptan mykla.
 # text = for budhit ær honum mere at ætæ
 # sent_id = 25429
-1	for	forbiuþa	VERB	V-	Case=Nom|ExtPos=VERB|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	Variant=Short
-2	budhit	budhit	ADJ	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	fixed	_	Variant=Short
+1	for	forbiuþa	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Variant=Short
+2	budhit	budhit	ADJ	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	goeswith	_	Variant=Short
 3	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 4	honum	han	PRON	Pp	Case=Dat|PronType=Prs	1	iobj	_	_
 5	mere	mere	ADJ	A-	Case=Acc|Degree=Cmp|Number=Sing	7	obj	_	Variant=Short
@@ -541,9 +541,9 @@
 6	borde	borþ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	Variant=Short
 7	och	ok	CCONJ	C-	_	8	cc	_	_
 8	siger	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-9	Miserere	Miserere	VERB	F-	ExtPos=VERB	2	parataxis	_	_
-10	mei	mei	X	F-	_	9	fixed	_	_
-11	deus	deus	X	F-	_	9	fixed	_	_
+9	Miserere	Miserere	VERB	F-	Foreign=Yes|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	8	obj	_	Lang=la
+10	mei	mei	PRON	F-	Case=Gen|Foreign=Yes|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=la
+11	deus	deus	NOUN	F-	Case=Voc|Foreign=Yes|Gender=Masc|Number=Sing	9	vocative	_	Lang=la
 12	och	ok	CCONJ	C-	_	13	cc	_	_
 13	thakker	þakka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 14	gudhi	guþ	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing	13	iobj	_	Variant=Short
@@ -569,7 +569,7 @@
 8	later	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	han	han	PRON	Pp	Case=Nom|PronType=Prs	8	nsubj	_	_
 10	gøræ	göra	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	ccomp	_	_
-11	sik	sik	PRON	Pk	Case=Dat|PronType=Prs|Reflex=Yes	10	iobj	_	_
+11	sik	sik	PRON	Pk	Case=Dat|PronType=Prs	10	iobj	_	Reflex=Yes
 12	alskona	alzkona	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	Variant=Short
 13	supan	supan	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	Variant=Short
 14	at	at	SCONJ	G-	_	16	mark	_	_
