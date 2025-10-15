@@ -15,7 +15,7 @@
 1	Tha	þa	SCONJ	G-	_	4	mark	_	_
 2	herra	härra	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	Variant=Short
 3	abota	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Variant=Short
-4	ganger	ganga+in	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
+4	ganger	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	_
 5	i	i	ADP	R-	_	6	case	_	_
 6	kloster	kloster	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	4	obl	_	Variant=Short
 7	in	in	ADV	Df	_	4	advmod	_	_
@@ -110,15 +110,15 @@
 # source = Skämtan om abbotar, enligt Holm D 4a, Här sigx af abotum allum skemptan mykla.
 # text = Æn ther til komber om sidher at bordh lætz fram
 # sent_id = 25395
-1	Æn	än	CCONJ	C-	_	3	cc	_	_
-2	ther	þär	ADV	Df	_	3	advmod	_	_
+1	Æn	än	CCONJ	C-	_	4	cc	_	_
+2	ther	þär	ADV	Df	_	4	advmod	_	_
 3	til	til	ADP	V-	_	4	compound:prt	_	_
 4	komber	komma	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	om	um	ADV	Df	ExtPos=ADV	3	advmod	_	_
+5	om	um	ADV	Df	ExtPos=ADV	4	advmod	_	_
 6	sidher	sidh	ADV	Df	_	5	fixed	_	_
 7	at	at	SCONJ	G-	_	9	mark	_	_
 8	bordh	borþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	Variant=Short
-9	lætz	lata+fram	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	ccomp	_	_
+9	lætz	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	ccomp	_	_
 10	fram	fram	ADV	Df	Degree=Pos	9	advmod	_	_
 
 # source = Skämtan om abbotar, enligt Holm D 4a, Här sigx af abotum allum skemptan mykla.
@@ -131,12 +131,12 @@
 5	talt	tälia	ADJ	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	xcomp	_	Variant=Short
 6	rætte	rätter	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	Variant=Short
 7	tha	þän	DET	Pd	Case=Acc|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-8	som	sum	SCONJ	G-	_	9	mark	_	_
+8	som	sum	SCONJ	G-	_	10	mark	_	_
 9	in	in	ADP	V-	_	10	compound:prt	_	_
 10	komma	komma	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
 11	firi	for	ADP	R-	_	13	case	_	_
 12	herra	härra	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	Variant=Short
-13	abota	abbote	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obl	_	Variant=Short
+13	abota	abbote	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	Variant=Short
 
 # source = Skämtan om abbotar, enligt Holm D 4a, Här sigx af abotum allum skemptan mykla.
 # text = Æn herra abote æter ekke thet som fyreføt ær
@@ -247,7 +247,7 @@
 7	mun	munder	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	Variant=Short
 8	sin	sin	PRON	Ps	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
 9	och	ok	CCONJ	C-	_	10	cc	_	_
-10	super	supa+af	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+10	super	supa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
 11	aff	af	ADP	R-	_	10	obl	_	_
 12	hwan	hvar	PRON	Py	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	13	det	_	_
 13	supa	supi	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Variant=Short
@@ -279,7 +279,7 @@
 # text = Tha rætes in egh fore abotan
 # sent_id = 25406
 1	Tha	þa	ADV	Df	_	2	advmod	_	_
-2	rætes	rätta+in	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	rætes	rätta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	in	in	ADV	Df	_	2	advmod	_	_
 4	egh	äg	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	2	obj	_	Variant=Short
 5	fore	for	ADP	R-	_	6	case	_	_
@@ -357,7 +357,7 @@
 # text = tha bærs in twa stora nistor fore herra abota
 # sent_id = 25410
 1	tha	þa	ADV	Df	_	2	advmod	_	_
-2	bærs	bära+in	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+2	bærs	bära	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	in	in	ADV	Df	_	2	advmod	_	_
 4	twa	tver	NUM	Py	Case=Nom|Gender=Fem	6	nummod	_	_
 5	stora	stor	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	Variant=Short
@@ -395,13 +395,13 @@
 5	nistunar	nista	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur	2	obj	_	_
 6	wt	ut	ADP	V-	_	7	compound:prt	_	_
 7	super	super	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-8	lithit	litil	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	6	obj	_	Variant=Short
-9	aff	af	ADP	R-	_	6	obl	_	_
+8	lithit	litil	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	obj	_	Variant=Short
+9	aff	af	ADP	R-	_	7	obl	_	_
 10	och	ok	CCONJ	C-	_	11	cc	_	_
 11	ser	sea	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 12	huru	huru	ADV	Du	PronType=Int	14	advmod	_	_
 13	honum	han	PRON	Pp	Case=Dat|PronType=Prs	14	iobj	_	_
-14	gætz	gätas+at	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	ccomp	_	_
+14	gætz	gätas	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	11	ccomp	_	_
 15	aat	at	ADP	R-	_	14	obl	_	_
 
 # source = Skämtan om abbotar, enligt Holm D 4a, Här sigx af abotum allum skemptan mykla.
@@ -425,7 +425,7 @@
 16	onth	onder	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	Variant=Short
 17	øll	öl	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	Variant=Short
 18	j	i	ADP	R-	_	14	case	_	_
-19	Hæffuin	häfia+ut	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+19	Hæffuin	häfia	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 20	wt	ut	ADV	Df	Degree=Pos	19	advmod	_	_
 21	tha	þän	DET	Pd	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 22	bansatta	bansätia	ADJ	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	23	amod	_	_
