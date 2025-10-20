@@ -272,7 +272,7 @@
 6	ætæ	äta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
 7	fore	for	SCONJ	G-	_	12	mark	_	_
 8	thy	þy	SCONJ	G-	_	12	mark	_	_
-9	at	at*	SCONJ	G-	_	12	mak	_	_
+9	at	at*	SCONJ	G-	_	12	mark	_	_
 10	hon	hon	PRON	Pp	Case=Nom|PronType=Prs	12	nsubj	_	_
 11	är	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
 12	tæffløs	thäflös	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	advcl	_	Variant=Short
