@@ -133,9 +133,9 @@
 5	talt	tälia	ADJ	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	4	xcomp	_	Variant=Short
 6	rætte	rätter	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	Variant=Short
 7	tha	þän	DET	Pd	Case=Acc|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
-8	som	sum	SCONJ	G-	_	10	mark	_	_
+8	som	sum	PRON	G-	PronType=Rel	10	nsubj	_	_
 9	in	in	ADP	V-	_	10	compound:prt	_	_
-10	komma	komma	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	_
+10	komma	komma	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl:relcl	_	_
 11	firi	for	ADP	R-	_	13	case	_	_
 12	herra	härra	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	13	nmod	_	Variant=Short
 13	abota	abbote	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	Variant=Short
@@ -149,8 +149,8 @@
 4	æter	äta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ekke	äkke	ADV	Df	_	4	advmod	_	_
 6	thet	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	4	obj	_	_
-7	som	som	SCONJ	G-	_	8	mark	_	_
-8	fyreføt	fyrafötter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	acl	_	Variant=Short
+7	som	sum	PRON	G-	PronType=Rel	8	nsubj	_	_
+8	fyreføt	fyrafötter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	6	acl:relcl	_	Variant=Short
 9	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 
 # text = han æter gaas och høns och ænder och alskona fugla
@@ -215,8 +215,8 @@
 3	han	han	PRON	Pp	Case=Nom|PronType=Prs	5	nsubj	_	_
 4	ey	eigh	ADV	Df	Polarity=Neg	5	advmod	_	_
 5	ætæ	äta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
-6	thy	þy	SCONJ	G-	ExtPos=SCONJ	10	mark	_	_
-7	at	at	SCONJ	G-	_	6	fixed	_	_
+6	thy	þy	SCONJ	G-	_	10	mark	_	_
+7	at	at	SCONJ	G-	_	10	mark	_	_
 8	thet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	10	nsubj	_	_
 9	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
 10	fyræføt	fyrafötter	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	5	advcl	_	Variant=Short
@@ -250,11 +250,11 @@
 8	sin	sin	PRON	Ps	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
 9	och	ok	CCONJ	C-	_	10	cc	_	_
 10	super	supa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
-11	aff	af	ADP	R-	_	10	obl	_	_
+11	aff	af	ADP	R-	_	13	case	_	_
 12	hwan	hvar	PRON	Py	Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	13	det	_	_
-13	supa	supi	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	Variant=Short
-14	fyræ	for	SCONJ	G-	ExtPos=SCONJ	20	mark	_	_
-15	thy	þy*	SCONJ	G-	_	14	fixed	_	_
+13	supa	supi	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	10	obl	_	Variant=Short
+14	fyræ	for	SCONJ	G-	_	20	mark	_	_
+15	thy	þy*	SCONJ	G-	_	20	mark	_	_
 16	thet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	20	nsubj	_	_
 17	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	_	_
 18	goth	goþer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	20	amod	_	Variant=Short
@@ -270,9 +270,9 @@
 4	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Variant=Short
 5	kaku	kaka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	Variant=Short
 6	ætæ	äta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
-7	fore	for	SCONJ	G-	ExtPos=SCONJ	12	mark	_	_
-8	thy	þy	SCONJ	G-	_	7	fixed	_	_
-9	at	at*	SCONJ	G-	_	7	fixed	_	_
+7	fore	for	SCONJ	G-	_	12	mark	_	_
+8	thy	þy	SCONJ	G-	_	12	mark	_	_
+9	at	at*	SCONJ	G-	_	12	mak	_	_
 10	hon	hon	PRON	Pp	Case=Nom|PronType=Prs	12	nsubj	_	_
 11	är	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
 12	tæffløs	thäflös	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	advcl	_	Variant=Short
@@ -338,7 +338,7 @@
 # text = for budhit ær honum mere at ætæ
 # sent_id = swedish-old-abbot-21
 # old_sent_id = 25429
-1	for	forbiuþa	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Variant=Short
+1	for	forbiuþa	ADJ	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Typo=Yes|VerbForm=Part|Voice=Act	0	root	_	Variant=Short
 2	budhit	_	X	V-	_	1	goeswith	_	Variant=Short
 3	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
 4	honum	han	PRON	Pp	Case=Dat|PronType=Prs	1	iobj	_	_
@@ -363,7 +363,7 @@
 3	in	in	ADV	Df	_	2	advmod	_	_
 4	twa	tver	NUM	Py	Case=Nom|Gender=Fem	6	nummod	_	_
 5	stora	stor	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	Variant=Short
-6	nistor	nista	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	Variant=Short
+6	nistor	nista	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur	2	nsubj:pass	_	Variant=Short
 7	fore	for	ADP	R-	_	9	case	_	_
 8	herra	härra	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	Variant=Short
 9	abota	abbote	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	2	obl	_	Variant=Short
@@ -427,7 +427,7 @@
 16	onth	onder	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	17	amod	_	Variant=Short
 17	øll	öl	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	Variant=Short
 18	j	i	ADP	R-	_	14	case	_	_
-19	Hæffuin	häfia	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+19	Hæffuin	häfia	VERB	V-	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	ccomp	_	_
 20	wt	ut	ADV	Df	Degree=Pos	19	advmod	_	_
 21	tha	þän	DET	Pd	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 22	bansatta	bansätia	ADJ	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	23	amod	_	_
@@ -491,14 +491,14 @@
 5	abote	abbote	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Variant=Short
 6	fore	for	ADP	R-	_	7	case	_	_
 7	staplin	stapul	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	3	obl	_	_
-8	som	sum	SCONJ	G-	_	9	mark	_	_
-9	stander	standa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+8	som	sum	PRON	G-	PronType=Rel	9	nsubj	_	_
+9	stander	standa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
 10	j	i	ADP	R-	_	11	case	_	_
 11	babilone	Babylon	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	9	obl	_	Variant=Short
 12	at	at	SCONJ	G-	_	14	mark	_	_
 13	han	han	PRON	Pp	Case=Nom|PronType=Prs	14	nsubj	_	_
 14	falle	falla	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
-15	eygh	eigh	ADV	Df	_	14	advmod	_	_
+15	eygh	eigh	ADV	Df	Polarity=Neg	14	advmod	_	_
 
 # text = Fæmpte sinne drikker herra abote fore stora klokkona som stander j lund at hon brytes ey
 # sent_id = swedish-old-abbot-31
@@ -511,8 +511,8 @@
 6	fore	for	ADP	R-	_	8	case	_	_
 7	stora	stor	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
 8	klokkona	klokka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
-9	som	sum	SCONJ	G-	_	10	mark	_	_
-10	stander	standa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl	_	_
+9	som	sum	PRON	G-	PronType=Rel	10	nsubj	_	_
+10	stander	standa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
 11	j	i	ADP	R-	_	12	case	_	_
 12	lund	Lund	PROPN	Ne	Case=Dat|Number=Sing	10	obl	_	Variant=Short
 13	at	at	SCONJ	G-	_	15	mark	_	_
@@ -543,7 +543,7 @@
 6	borde	borþ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	2	obl	_	Variant=Short
 7	och	ok	CCONJ	C-	_	8	cc	_	_
 8	siger	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-9	Miserere	Miserere	VERB	F-	Foreign=Yes|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	8	obj	_	Lang=la
+9	Miserere	Miserere	VERB	F-	Foreign=Yes|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	8	ccomp	_	Lang=la
 10	mei	mei	PRON	F-	Case=Gen|Foreign=Yes|Number=Sing|Person=1|PronType=Prs	9	obl	_	Lang=la
 11	deus	deus	NOUN	F-	Case=Voc|Foreign=Yes|Gender=Masc|Number=Sing	9	vocative	_	Lang=la
 12	och	ok	CCONJ	C-	_	13	cc	_	_
@@ -585,8 +585,8 @@
 # old_sent_id = 25423
 1	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	_
 2	later	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ther	þär	ADV	Df	ExtPos=ADV	2	advmod	_	_
-4	j	i	ADV	Df	_	3	fixed	_	_
+3	ther	þär	ADV	Df	_	2	advmod	_	_
+4	j	i	ADP	Df	_	3	case	_	_
 5	win	vin	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Variant=Short
 6	och	ok	CCONJ	C-	_	7	cc	_	_
 7	piper	pipar	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	Variant=Short
@@ -616,8 +616,8 @@
 2	then	þän	DET	Pd	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 3	samma	samber	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 4	ember	ember	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	Variant=Short
-5	som	sum	SCONJ	G-	_	6	mark	_	_
-6	gar	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+5	som	sum	PRON	G-	PronType=Rel	6	nsubj	_	_
+6	gar	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
 7	wr	ur	ADP	R-	_	10	case	_	_
 8	herra	härra	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	Variant=Short
 9	abota	abbote	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod:poss	_	Variant=Short
@@ -665,5 +665,5 @@
 1	Swa	sva	ADV	Df	_	2	advmod	_	_
 2	lyktæs	lykta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	thenne	þänne	DET	Pd	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-4	fabula	fabula	NOUN	F-	_	2	nsubj	_	_
+4	fabula	fabula	NOUN	F-	_	2	nsubj:pass	_	_
 
