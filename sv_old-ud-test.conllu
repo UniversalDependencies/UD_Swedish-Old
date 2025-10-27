@@ -119,7 +119,7 @@
 5	om	um	ADV	Df	ExtPos=ADV	4	advmod	_	_
 6	sidher	sidh	ADV	Df	_	5	fixed	_	_
 7	at	at	SCONJ	G-	_	9	mark	_	_
-8	bordh	borþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	_
+8	bordh	borþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	9	nsubj:pass	_	_
 9	lætz	lata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	ccomp	_	_
 10	fram	fram	ADV	Df	Degree=Pos	9	advmod	_	_
 
@@ -516,7 +516,7 @@
 11	j	i	ADP	R-	_	12	case	_	_
 12	lund	Lund	PROPN	Ne	Case=Dat|Number=Sing	10	obl	_	_
 13	at	at	SCONJ	G-	_	15	mark	_	_
-14	hon	hon	PRON	Pp	Case=Nom|PronType=Prs	15	nsubj	_	_
+14	hon	hon	PRON	Pp	Case=Nom|PronType=Prs	15	nsubj:pass	_	_
 15	brytes	bryta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	3	advcl	_	_
 16	ey	eigh	PART	Df	Polarity=Neg	15	advmod	_	_
 
