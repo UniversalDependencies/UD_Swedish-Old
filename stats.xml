@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>40</sentences><tokens>507</tokens><words>507</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>40</sentences><tokens>507</tokens><words>507</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="193" /><!-- ok, han, abbote, härra, at, for, vara, þän, i, sin, þa, af, fäm, äta, drikka -->
+  <forms unique="247" /><!-- och, herra, han, at, abote, tha, aff, fore, fæm, j, ær, abota, siden, thet, æter -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">41</tag><!-- goþer, siuþa, alzkona, fyrafötter, göra, stekia, stor, vinstre, bansätia, drikka -->
+    <tag name="ADP">46</tag><!-- for, i, af, a, til, um, at, fran, in, mäþ -->
+    <tag name="ADV">48</tag><!-- þa, siþan, väl, þär, in, sva, fram, aldrigh, ater, eigh -->
+    <tag name="AUX">15</tag><!-- vara, magha, hava -->
+    <tag name="CCONJ">40</tag><!-- ok, än, baþe -->
+    <tag name="DET">8</tag><!-- þän, þänne -->
+    <tag name="NOUN">129</tag><!-- abbote, härra, nista, sin, äg, fisker, guþ, sinne, ar, borþ -->
+    <tag name="NUM">22</tag><!-- fäm, tio, fiurir, tver, atta, nio, siu, siutighi, siäxtan, þrir -->
+    <tag name="PART">3</tag><!-- eigh -->
+    <tag name="PRON">66</tag><!-- han, alder, annar, sin, þän, sum, hon, hvar, þy, baþir -->
+    <tag name="PROPN">2</tag><!-- Babylon, Lund -->
+    <tag name="SCONJ">18</tag><!-- at, at*, siþan, þa, þy -->
+    <tag name="VERB">68</tag><!-- äta, drikka, ganga, lata, sighia, göra, hava, komma, sea, standa -->
+    <tag name="X">1</tag><!-- _ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="39">
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,VERB">125</feat><!-- fæm, egh, fiska, thet, alt, sin, sinne, abota, alskona, annan -->
+    <feat name="Case" value="Dat" upos="ADJ,NOUN,NUM,PRON,PROPN">37</feat><!-- honum, sinnom, abota, abotum, adhrom, allum, babilone, bondom, borde, bozskom -->
+    <feat name="Case" value="Gen" upos="DET,NOUN,PRON">12</feat><!-- hans, abota, alla, brødra, herra, koua, mei, nistu, sins, thera -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,VERB">88</feat><!-- han, herra, abote, abota, ember, hon, thenne, thet, Loffuat, abotæ -->
+    <feat name="Case" value="Voc" upos="NOUN">1</feat><!-- deus -->
+    <feat name="Degree" value="Cmp" upos="ADJ">4</feat><!-- høgre, mere, vinstre, vinstræ -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">34</feat><!-- wæl, alskona, fram, goth, stora, Fiærde, Fæmpte, Tridhiæ, ater, feth -->
+    <feat name="ExtPos" value="ADV" upos="ADV">2</feat><!-- om, wtan -->
+    <feat name="Foreign" value="Yes" upos="NOUN,PRON,VERB">4</feat><!-- Miserere, deus, fabula, mei -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON">41</feat><!-- hand, stora, adhra, alskona, andra, badha, bansatta, enghin, fabula, geddo -->
+    <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">115</feat><!-- herra, abote, abota, fiska, annan, ember, thenne, tio, Fæmpte, abotan -->
+    <feat name="Gender" value="Masc,Neut" upos="ADJ,NOUN,NUM">10</feat><!-- Fiærde, Tridhiæ, fæm, sin, sinne, sinnom, sinnum, siw, siwtigi, tio -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,NUM,PRON,VERB">65</feat><!-- fæm, thet, egh, alt, goth, kloster, sinne, ænne, Annat, Flæsk -->
+    <feat name="Mood" value="Imp" upos="VERB">3</feat><!-- Hæffuin, Miserere, within -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">66</feat><!-- ær, æter, drikker, ganger, haffuer, ma, komber, later, ser, siger -->
+    <feat name="Mood" value="Sub" upos="VERB">4</feat><!-- brytes, falle, frælssi, giffui -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,VERB">57</feat><!-- egh, fiska, sinnom, Fæmpte, Hæffuin, abota, abotum, adhrom, alla, allum -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">228</feat><!-- herra, abote, ær, abota, thet, æter, drikker, alt, ganger, haffuer -->
+    <feat name="Person" value="1" upos="PRON">1</feat><!-- mei -->
+    <feat name="Person" value="2" upos="VERB">3</feat><!-- Hæffuin, Miserere, within -->
+    <feat name="Person" value="3" upos="AUX,VERB">70</feat><!-- ær, æter, drikker, ganger, haffuer, ma, komber, later, ser, siger -->
+    <feat name="Polarity" value="Neg" upos="ADV,PART">4</feat><!-- ey, eygh -->
+    <feat name="Poss" value="Yes" upos="PRON">8</feat><!-- hans, sin, sina, siner, sins -->
+    <feat name="PronType" value="Art" upos="DET,PRON">6</feat><!-- tha, en, then, thera, thæs -->
+    <feat name="PronType" value="Dem" upos="DET">3</feat><!-- thenne, thesso -->
+    <feat name="PronType" value="Ind" upos="PRON">6</feat><!-- annan, Annat, adhra, adhrom, andra -->
+    <feat name="PronType" value="Int" upos="ADV">1</feat><!-- huru -->
+    <feat name="PronType" value="Neg" upos="PRON">1</feat><!-- enghin -->
+    <feat name="PronType" value="Prs" upos="PRON">44</feat><!-- han, thet, honum, thy, hans, hon, sin, sina, hona, mei -->
+    <feat name="PronType" value="Rel" upos="PRON">5</feat><!-- som -->
+    <feat name="PronType" value="Tot" upos="PRON">9</feat><!-- alt, alla, allum, allæ, badha, hwan, hwario -->
+    <feat name="Tense" value="Past" upos="ADJ,AUX,VERB">16</feat><!-- Loffuat, bansatta, drukken, for, giord, giordæ, klædder, lesit, skoager, stekt -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">78</feat><!-- ær, æter, drikker, ganger, haffuer, ma, ætæ, gøræ, komber, later -->
+    <feat name="Typo" value="Yes" upos="ADJ">1</feat><!-- for -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">73</feat><!-- ær, æter, drikker, ganger, haffuer, ma, komber, later, ser, siger -->
+    <feat name="VerbForm" value="Inf" upos="VERB">7</feat><!-- ætæ, drikka, gøræ, skina, sla -->
+    <feat name="VerbForm" value="Part" upos="ADJ,VERB">15</feat><!-- Loffuat, bansatta, drukken, for, giord, giordæ, klædder, lesit, skoager, stekt -->
+    <feat name="Voice" value="Act" upos="ADJ,AUX,VERB">87</feat><!-- ær, æter, drikker, ganger, haffuer, ma, ætæ, gøræ, komber, later -->
+    <feat name="Voice" value="Pass" upos="VERB">7</feat><!-- brytes, bærs, gætz, lyktæs, lætz, rætes, sigx -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="29">
+    <dep name="acl">4</dep>
+    <dep name="acl:relcl">5</dep>
+    <dep name="advcl">12</dep>
+    <dep name="advcl:relcl">1</dep>
+    <dep name="advmod">48</dep>
+    <dep name="amod">20</dep>
+    <dep name="appos">2</dep>
+    <dep name="aux">4</dep>
+    <dep name="case">40</dep>
+    <dep name="cc">40</dep>
+    <dep name="ccomp">9</dep>
+    <dep name="compound:prt">5</dep>
+    <dep name="conj">33</dep>
+    <dep name="cop">11</dep>
+    <dep name="det">21</dep>
+    <dep name="fixed">2</dep>
+    <dep name="goeswith">1</dep>
+    <dep name="mark">18</dep>
+    <dep name="nmod">25</dep>
+    <dep name="nmod:poss">10</dep>
+    <dep name="nsubj">52</dep>
+    <dep name="nsubj:pass">3</dep>
+    <dep name="nummod">19</dep>
+    <dep name="obj">32</dep>
+    <dep name="obl">45</dep>
+    <dep name="orphan">1</dep>
+    <dep name="root">40</dep>
+    <dep name="vocative">1</dep>
+    <dep name="xcomp">3</dep>
+  </deps>
+</treebank>
