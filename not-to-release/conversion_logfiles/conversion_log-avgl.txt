@@ -1,0 +1,484 @@
+swedish-old-avgl-1
+Changed passive nominal subject to nsubj:pass: laghbok, 3
+Changed genitive nmod into nmod:poss: væsgöta, 4, head: laghbok
+
+swedish-old-avgl-2
+Added PronType {'Prs'} for token: warum, 6
+Marked possessive pronoun: warum, 6, head: laghum
+
+swedish-old-avgl-3
+Added PronType {'Prs'} for token: var, 4
+Marked possessive pronoun: var, 4, head: cristna
+Added PronType {'Tot'} for token: allir, 6
+Added PronType {'Tot'} for token: allir, 11
+Added PronType {'Tot'} for token: allir, 15
+
+swedish-old-avgl-4
+Changed participle to adjective: boret, 5, deprel: xcomp, head: Varþær
+Changed obl:arg to obl for cristnu, 8
+New auxiliary construction: scal (10) fa (14)
+Changed obl:arg to obl for guðfæþur, 15
+
+swedish-old-avgl-5
+Added PronType {'Prs'} for token: þæt, 1
+New auxiliary construction: scal (2) bæræ (3)
+
+swedish-old-avgl-6
+New auxiliary construction: scal (2) kallæ (5)
+
+swedish-old-avgl-7
+New auxiliary construction: skal (2) boæ (6)
+
+swedish-old-avgl-8
+New auxiliary construction: scal (2) brymsignæ (3)
+
+swedish-old-avgl-9
+New auxiliary construction: scal (2) wigyæ (4)
+
+swedish-old-avgl-10
+New auxiliary construction: scal (2) byuþe (3)
+New auxiliary construction: sculu (9) vardvetæ (10)
+
+swedish-old-avgl-11
+Added PronType {'Prs'} for token: þæt, 2
+Marked negation particle: igh, 8
+New auxiliary construction: ma (7) coma (11)
+New auxiliary construction: scal (13) döpæ (15)
+Found +-compound: vara+til, 24, particle is ADP, deprel obl
+Changed particle deprel to compound:prt: til, 25, head: ær
+
+swedish-old-avgl-12
+Added PronType {'Prs'} for token: þét, 3
+New auxiliary construction: scal (2) gravæ (7)
+
+swedish-old-avgl-13
+Added PronType {'Art'} for token: þerra, 3
+Found +-compound: brinna+up, 4, particle is ADV, deprel advmod
+
+swedish-old-avgl-14
+Changed obl:arg to obl for Byscupi, 1
+New auxiliary construction: scal (2) geræ (4)
+Changed twar, 5 to numeral
+Changed relation from 'det' to 'nummod' for token twar (5).Added PronType {'Art'} for token: hins, 10
+Changed tolf, 13 to numeral
+Changed relation from 'det' to 'nummod' for token tolf (13).
+swedish-old-avgl-15
+Added PronType {'Art'} for token: hin, 3
+
+swedish-old-avgl-16
+Added PronType {'Tot'} for token: allir, 6
+Marked possessive pronoun: hans, 8, head: klerkar
+
+swedish-old-avgl-17
+Changed participle to adjective: dræpin, 5, deprel: xcomp, head: Uerder
+Added PronType {'Prs'} for token: þet, 6
+Added PronType {'Tot'} for token: al, 13
+
+swedish-old-avgl-18
+Added PronType {'Prs'} for token: þet, 2
+Changed tiu, 4 to numeral
+Changed relation from 'det' to 'nummod' for token tiu (4).New auxiliary construction: scal (7) gyuæ (8)
+Changed obl:arg to obl for byscupe, 9
+Changed þrer, 10 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (10).Changed genitive nmod into nmod:poss: natter, 15, head: gengerd
+
+swedish-old-avgl-19
+Changed tiu, 3 to numeral
+Changed relation from 'det' to 'nummod' for token tiu (3).Added PronType {'Prs'} for token: þer, 7
+New auxiliary construction: uilia (10) letæ (13)
+Added PronType {'Prs'} for token: þer, 16
+New auxiliary construction: sculu (15) houodtiundæ (17)
+
+swedish-old-avgl-20
+Marked negation particle: eigh, 3
+New auxiliary construction: sculu (2) gæræ (5)
+Added PronType {'Art'} for token: enu, 8
+Added PronType {'Prs'} for token: þer, 11
+Added PronType {'Prs'} for token: þer, 15
+
+swedish-old-avgl-21
+New auxiliary construction: scal (6) uid (9)
+Added PronType {'Prs'} for token: sinum, 14
+Marked possessive pronoun: sinum, 14, head: marcum
+Changed þrim, 15 to numeral
+Changed relation from 'det' to 'nummod' for token þrim (15).Changed obl:arg to obl for marcum, 16
+
+swedish-old-avgl-22
+New auxiliary construction: sculu (2) giuæ (4)
+Changed obl:arg to obl for byscupi, 5
+Changed þrer, 6 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (6).Changed genitive nmod into nmod:poss: natter, 12, head: gengerð
+
+swedish-old-avgl-23
+Added PronType {'Tot'} for token: allen, 5
+Changed þrer, 6 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (6).Changed tolf, 12 to numeral
+Changed relation from 'det' to 'nummod' for token tolf (12).Changed tolf, 17 to numeral
+Changed relation from 'det' to 'nummod' for token tolf (17).
+swedish-old-avgl-24
+Added PronType {'Prs'} for token: þa, 7
+New auxiliary construction: scal (8) vighia (10)
+Added PronType {'Art'} for token: þen, 13
+Changed obl:arg to obl for hanum, 17
+
+swedish-old-avgl-25
+Added PronType {'Prs'} for token: sinæ, 24
+Marked possessive pronoun: sinæ, 24, head: vixl
+Added PronType {'Dem'} for token: þessi, 31
+Added PronType {'Tot'} for token: all, 33
+
+swedish-old-avgl-26
+Changed participle to adjective: brutin, 3, deprel: xcomp, head: Uerdher
+Changed participle to adjective: stolen, 7, deprel: conj, head: Uerdher
+Added PronType {'Prs'} for token: þet, 8
+
+swedish-old-avgl-27
+Added PronType {'Prs'} for token: þat, 1
+Changed niv, 3 to numeral
+Changed relation from 'det' to 'nummod' for token niv (3).Changed genitive nmod into nmod:poss: marcha, 4, head: sak
+Changed obl:arg to obl for kyrky, 6
+
+swedish-old-avgl-28
+Changed participle to adjective: in, 2, deprel: xcomp, head: Varþer
+Changed participle to adjective: gangit, 3, deprel: fixed, head: in
+New auxiliary construction: scal (8) gialdæ (10)
+Added PronType {'Prs'} for token: þen, 13
+Changed 'sum' (14) to relative obj pronoun.
+Changed þrer, 20 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (20).
+swedish-old-avgl-29
+Marked negation particle: eigh, 2
+Added PronType {'Prs'} for token: þy, 3
+
+swedish-old-avgl-30
+New auxiliary construction: skal (6) grauit (2)
+
+swedish-old-avgl-31
+Changed passive nominal subject to nsubj:pass: scaþi, 3
+Found +-compound: spyria+up, 1, particle is ADV, deprel advmod
+Changed obl:arg to obl for presti, 6
+Changed þrer, 8 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (8).Added PronType {'Prs'} for token: sit, 13
+Marked possessive pronoun: sit, 13, head: alt
+Added PronType {'Tot'} for token: alt, 14
+
+swedish-old-avgl-32
+Found +-compound: brinna+up, 1, particle is ADV, deprel advmod
+New auxiliary construction: skal (5) böta (7)
+Changed þrer, 8 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (8).
+swedish-old-avgl-33
+New auxiliary construction: skal (2) wardæ (3)
+Changed obl:arg to obl for framlyvsum, 4
+Added PronType {'Prs'} for token: þen, 6
+
+swedish-old-avgl-34
+Changed þrer, 16 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (16).
+swedish-old-avgl-35
+Marked negation particle: eigh, 1
+Added PronType {'Prs'} for token: þy, 2
+
+swedish-old-avgl-36
+Found +-compound: skilia+a, 1, particle is ADP, deprel obl
+Changed particle deprel to compound:prt: a, 3, head: Skil
+Changed obl:arg to obl for þem, 2
+Added PronType {'Prs'} for token: þem, 2
+Moved Reflex feature to MISC column for sik, 18
+Marked negation particle: eigh, 24
+New auxiliary construction: hauir (28) svoret (29)
+New auxiliary construction: skal (31) bötæ (33)
+
+swedish-old-avgl-37
+Changed passive nominal subject to nsubj:pass: þer, 7
+Added PronType {'Prs'} for token: þer, 7
+Changed obl:arg to obl for þem, 10
+Added PronType {'Prs'} for token: þem, 10
+New auxiliary construction: skal (8) apter (11)
+Added PronType {'Prs'} for token: þer, 14
+Changed participle to adjective: suornum, 18, deprel: amod, head: eþe
+Added PronType {'Prs'} for token: þer, 21
+Marked negation particle: eigh, 23
+
+swedish-old-avgl-38
+Changed niv, 12 to numeral
+Changed relation from 'det' to 'nummod' for token niv (12).Changed obl:arg to obl for marchum, 13
+
+swedish-old-avgl-39
+Found +-compound: falla+niþer, 1, particle is ADV, deprel advmod
+Changed obl:arg to obl for sopcn, 9
+Changed obl:arg to obl for marchum, 10
+Changed þrim, 11 to numeral
+Changed relation from 'det' to 'nummod' for token þrim (11).
+swedish-old-avgl-40
+Moved Reflex feature to MISC column for sær, 8
+Changed obl:arg to obl for sær, 8
+
+swedish-old-avgl-41
+Added PronType {'Prs'} for token: þem, 4
+
+swedish-old-avgl-42
+Added PronType {'Ind'} for token: annar, 2
+Changed þrer, 14 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (14).
+swedish-old-avgl-43
+Changed þrer, 5 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (5).
+swedish-old-avgl-44
+Changed obl:arg to obl for sopn, 2
+Added PronType {'Prs'} for token: þer, 4
+Changed 'sum' (5) to relative nsubj pronoun.
+
+swedish-old-avgl-45
+Changed participle to adjective: dræpin, 5, deprel: xcomp, head: Værþer
+Changed participle to adjective: sargheþer, 7, deprel: conj, head: dræpin
+Changed obl:arg to obl for biscupe, 9
+Changed þrer, 10 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (10).
+swedish-old-avgl-46
+Marked negation particle: eighi, 3
+New auxiliary construction: skal (2) uetæ (5)
+Solved fixed SCONJ construction 'fyr än' (tokens 8 and 7)
+Changed genitive nmod into nmod:poss: biscups, 9, head: lof
+Added PronType {'Prs'} for token: sinum, 16
+Marked possessive pronoun: sinum, 16, head: marchum
+Changed þrim, 17 to numeral
+Changed relation from 'det' to 'nummod' for token þrim (17).
+swedish-old-avgl-47
+New auxiliary construction: skal (2) mælæ (5)
+Added PronType {'Prs'} for token: þær, 7
+Added PronType {'Prs'} for token: þen, 9
+
+swedish-old-avgl-48
+Changed participle to adjective: lustin, 3, deprel: xcomp, head: Værþer
+Changed participle to adjective: takin, 9, deprel: conj, head: lustin
+Marked negation particle: eigh, 12
+New auxiliary construction: skal (11) sæghia (15)
+Solved fixed SCONJ construction 'fyr än' (tokens 19 and 17)
+Changed genitive nmod into nmod:poss: biscups, 20, head: lof
+Marked possessive pronoun: hans, 24, head: lænsprests
+
+swedish-old-avgl-49
+Changed obl:arg to obl for biscupi, 2
+Changed tolf, 3 to numeral
+Changed relation from 'det' to 'nummod' for token tolf (3).
+swedish-old-avgl-50
+Added PronType {'Prs'} for token: þer, 2
+Added PronType {'Prs'} for token: þæs, 5
+
+swedish-old-avgl-51
+Marked negation particle: eigh, 5
+Changed participle to adjective: brutin, 7, deprel: xcomp, head: kalla
+Changed genitive nmod into nmod:poss: biscups, 10, head: lensprester
+New auxiliary construction: skal (9) se (12)
+Moved Reflex feature to MISC column for sær, 19
+Changed obl:arg to obl for sær, 19
+Added PronType {'Prs'} for token: sinum, 25
+Marked possessive pronoun: sinum, 25, head: uatum
+Marked negation particle: eigh, 28
+
+swedish-old-avgl-52
+New auxiliary construction: skal (3) scipæ (4)
+
+swedish-old-avgl-53
+Added PronType {'Ind'} for token: annat, 7
+
+swedish-old-avgl-54
+Added PronType {'Tot'} for token: alþer, 3
+Added PronType {'Prs'} for token: þet, 5
+Changed þriggia, 7 to numeral
+Changed relation from 'det' to 'nummod' for token þriggia (7).Changed genitive nmod into nmod:poss: marcha, 8, head: sak
+
+swedish-old-avgl-55
+Added PronType {'Prs'} for token: þet, 1
+
+swedish-old-avgl-56
+Added PronType {'Prs'} for token: þæt, 4
+Changed siax, 6 to numeral
+Changed relation from 'det' to 'nummod' for token siax (6).Changed genitive nmod into nmod:poss: oræ, 7, head: sak
+
+swedish-old-avgl-57
+Added PronType {'Prs'} for token: þæt, 1
+
+swedish-old-avgl-58
+Added PronType {'Tot'} for token: han, 6
+Changed atta, 7 to numeral
+Changed relation from 'det' to 'nummod' for token atta (7).
+swedish-old-avgl-59
+
+swedish-old-avgl-60
+
+swedish-old-avgl-61
+New auxiliary construction: scal (2) cristna (4)
+
+swedish-old-avgl-62
+Added PronType {'Ind'} for token: annar, 5
+New auxiliary construction: skal (8) huslæ (11)
+
+swedish-old-avgl-63
+Marked negation particle: eigh, 3
+Marked negation particle: eigh, 6
+
+swedish-old-avgl-64
+Changed þrim, 10 to numeral
+Changed relation from 'det' to 'nummod' for token þrim (10).Changed þrim, 14 to numeral
+Changed relation from 'det' to 'nummod' for token þrim (14).
+swedish-old-avgl-65
+Changed genitive nmod into nmod:poss: prests, 2, head: Forfal
+Changed obl:arg to obl for hanum, 7
+New auxiliary construction: hauir (6) sænt (9)
+Changed participle to adjective: bortfarin, 12, deprel: conj, head: sænt
+
+swedish-old-avgl-66
+Added PronType {'Ind'} for token: Annur, 1
+
+swedish-old-avgl-67
+Changed participle to adjective: þighiændæ, 4, deprel: amod, head: mæssu
+
+swedish-old-avgl-68
+Changed participle to adjective: farin, 7, deprel: ccomp, head: Fyardæ
+Changed obl:arg to obl for siukum, 8
+
+swedish-old-avgl-69
+New auxiliary construction: skal (2) fara (4)
+Changed obl:arg to obl for sivkum, 6
+Marked negation particle: æigh, 11
+Changed participle to adjective: þighianda, 12, deprel: amod, head: mæssu
+
+swedish-old-avgl-70
+Found +-compound: skilia+a, 1, particle is ADP, deprel obl
+Changed particle deprel to compound:prt: a, 3, head: Skil
+Found +-compound: väria+sik, 14, particle is PRON, deprel obj
+New auxiliary construction: scal (12) væriæ (14)
+Moved Reflex feature to MISC column for sik, 15
+Changed siax, 19 to numeral
+Changed relation from 'det' to 'nummod' for token siax (19).
+swedish-old-avgl-71
+New auxiliary construction: scal (2) ola (4)
+Changed genitive nmod into nmod:poss: bonda, 6, head: kono
+Changed genitive nmod into nmod:poss: bonda, 8, head: svn
+Marked possessive pronoun: hans, 12, head: barn
+Added PronType {'Prs'} for token: sin, 17
+Marked possessive pronoun: sin, 17, head: tyunda
+
+swedish-old-avgl-72
+Changed genitive nmod into nmod:poss: hiona, 3, head: huart
+Added PronType {'Tot'} for token: huart, 4
+New auxiliary construction: scal (7) olia (6)
+Changed tva, 10 to numeral
+Changed relation from 'det' to 'nummod' for token tva (10).Added PronType {'Tot'} for token: alla, 14
+Added PronType {'Art'} for token: þa, 15
+Marked negation particle: eigh, 17
+Added PronType {'Prs'} for token: sin, 19
+Marked possessive pronoun: sin, 19, head: tyundæ
+Added PronType {'Tot'} for token: allum, 25
+Added PronType {'Art'} for token: þem, 28
+
+swedish-old-avgl-73
+Marked negation particle: Eigh, 1
+Marked negation particle: Eigh, 6
+Changed þrer, 19 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (19).
+swedish-old-avgl-74
+New auxiliary construction: Vill (1) læta (4)
+Added PronType {'Tot'} for token: huaria, 10
+
+swedish-old-avgl-75
+
+swedish-old-avgl-76
+
+swedish-old-avgl-77
+Changed obl:arg to obl for hanum, 8
+Moved Reflex feature to MISC column for sik, 11
+
+swedish-old-avgl-78
+
+swedish-old-avgl-79
+Added PronType {'Ind'} for token: annars, 5
+Changed genitive nmod into nmod:poss: prests, 6, head: sokn
+Changed þrim, 22 to numeral
+Changed relation from 'det' to 'nummod' for token þrim (22).
+swedish-old-avgl-80
+Changed tolf, 2 to numeral
+Changed relation from 'det' to 'nummod' for token tolf (2).Changed obl:arg to obl for biscupi, 4
+Changed tolf, 6 to numeral
+Changed relation from 'det' to 'nummod' for token tolf (6).
+swedish-old-avgl-81
+New auxiliary construction: scal (3) scipta (5)
+
+swedish-old-avgl-82
+Changed participle to adjective: til, 7, deprel: advcl, head: tacher
+Changed participle to adjective: vigþ, 8, deprel: fixed, head: til
+
+swedish-old-avgl-83
+New auxiliary construction: scal (2) sciptæ (3)
+Changed þrer, 5 to numeral
+Changed relation from 'det' to 'nummod' for token þrer (5).
+swedish-old-avgl-84
+Added PronType {'Art'} for token: En, 1
+Added PronType {'Ind'} for token: Annan, 4
+
+swedish-old-avgl-85
+Added PronType {'Tot'} for token: allan, 5
+Added PronType {'Art'} for token: þet, 8
+
+swedish-old-avgl-86
+New auxiliary construction: uill (6) hauæ (9)
+
+swedish-old-avgl-87
+Marked possessive pronoun: hans, 5, head: lik
+New auxiliary construction: skal (2) uighia (6)
+
+swedish-old-avgl-88
+Marked negation particle: eighi, 1
+
+swedish-old-avgl-89
+New auxiliary construction: skal (2) hauæ (6)
+Added PronType {'Prs'} for token: þén, 9
+
+swedish-old-avgl-90
+Changed obl:arg to obl for presti, 2
+New auxiliary construction: vill (3) gyuæ (5)
+Added PronType {'Prs'} for token: þet, 6
+Changed tvar, 8 to numeral
+Changed relation from 'det' to 'nummod' for token tvar (8).Changed genitive nmod into nmod:poss: pænningæ, 12, head: örtugh
+
+swedish-old-avgl-91
+Added PronType {'Ind'} for token: aþrum, 6
+New auxiliary construction: skal (11) lucæ (14)
+Changed obl:arg to obl for presti, 15
+Changed obl:arg to obl for kirkiugarþi, 22
+
+swedish-old-avgl-92
+Added PronType {'Ind'} for token: enka, 3
+Changed genitive nmod into nmod:poss: byiar, 6, head: aker
+Changed genitive nmod into nmod:poss: præstins, 9, head: tiundæ
+New auxiliary construction: skal (8) lætæ (11)
+Added PronType {'Tot'} for token: allæn, 14
+
+swedish-old-avgl-93
+Changed obl:arg to obl for hanum, 9
+
+swedish-old-avgl-94
+Marked negation particle: Eighi, 1
+New auxiliary construction: ma (2) nöghæ (4)
+Added PronType {'Ind'} for token: annarrær, 11
+
+swedish-old-avgl-95
+New auxiliary construction: skal (8) skæræ (10)
+
+swedish-old-avgl-96
+Added PronType {'Prs'} for token: þy, 6
+
+swedish-old-avgl-97
+Added PronType {'Neg'} for token: ængin, 3
+New auxiliary construction: ma (2) vrakæ (7)
+Added PronType {'Prs'} for token: þen, 9
+New auxiliary construction: havir (11) forboþét (12)
+
+swedish-old-avgl-98
+Added PronType {'Prs'} for token: þer, 6
+
+swedish-old-avgl-99
+Added PronType {'Prs'} for token: þat, 5
+

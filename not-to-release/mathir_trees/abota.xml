@@ -1,0 +1,861 @@
+<?xml version="1.0" ?><proiel export-time="2020-10-22T12:32:37+02:00" schema-version="2.1">
+  <annotation>
+    <relations>
+      <value primary="true" secondary="true" summary="adnominal" tag="adnom"/>
+      <value primary="true" secondary="true" summary="adverbial" tag="adv"/>
+      <value primary="true" secondary="true" summary="agens" tag="ag"/>
+      <value primary="true" secondary="true" summary="apposition" tag="apos"/>
+      <value primary="true" secondary="true" summary="argument (object or oblique)" tag="arg"/>
+      <value primary="true" secondary="true" summary="attribute" tag="atr"/>
+      <value primary="true" secondary="true" summary="auxiliary" tag="aux"/>
+      <value primary="true" secondary="true" summary="complement" tag="comp"/>
+      <value primary="true" secondary="true" summary="expletive" tag="expl"/>
+      <value primary="true" secondary="true" summary="adnominal argument" tag="narg"/>
+      <value primary="true" secondary="true" summary="non-subject (object, oblique or adverbial)" tag="nonsub"/>
+      <value primary="true" secondary="true" summary="object" tag="obj"/>
+      <value primary="true" secondary="true" summary="oblique" tag="obl"/>
+      <value primary="true" secondary="true" summary="parenthetical predication" tag="parpred"/>
+      <value primary="true" secondary="true" summary="partitive" tag="part"/>
+      <value primary="true" secondary="true" summary="peripheral (oblique or adverbial)" tag="per"/>
+      <value primary="false" secondary="true" summary="Predicate identity" tag="pid"/>
+      <value primary="true" secondary="true" summary="predicate" tag="pred"/>
+      <value primary="true" secondary="true" summary="apposition or attribute" tag="rel"/>
+      <value primary="true" secondary="true" summary="subject" tag="sub"/>
+      <value primary="true" secondary="true" summary="vocative" tag="voc"/>
+      <value primary="true" secondary="true" summary="open adverbial complement" tag="xadv"/>
+      <value primary="true" secondary="true" summary="open objective complement" tag="xobj"/>
+      <value primary="false" secondary="true" summary="external subject" tag="xsub"/>
+    </relations>
+    <parts-of-speech>
+      <value summary="adjective" tag="A-"/>
+      <value summary="adverb" tag="Df"/>
+      <value summary="article" tag="S-"/>
+      <value summary="cardinal numeral" tag="Ma"/>
+      <value summary="common noun" tag="Nb"/>
+      <value summary="conjunction" tag="C-"/>
+      <value summary="demonstrative pronoun" tag="Pd"/>
+      <value summary="foreign word" tag="F-"/>
+      <value summary="indefinite pronoun" tag="Px"/>
+      <value summary="infinitive marker" tag="N-"/>
+      <value summary="interjection" tag="I-"/>
+      <value summary="interrogative adverb" tag="Du"/>
+      <value summary="interrogative pronoun" tag="Pi"/>
+      <value summary="ordinal numeral" tag="Mo"/>
+      <value summary="personal pronoun" tag="Pp"/>
+      <value summary="personal reflexive pronoun" tag="Pk"/>
+      <value summary="possessive pronoun" tag="Ps"/>
+      <value summary="possessive reflexive pronoun" tag="Pt"/>
+      <value summary="preposition" tag="R-"/>
+      <value summary="proper noun" tag="Ne"/>
+      <value summary="quantifier" tag="Py"/>
+      <value summary="reciprocal pronoun" tag="Pc"/>
+      <value summary="relative adverb" tag="Dq"/>
+      <value summary="relative pronoun" tag="Pr"/>
+      <value summary="subjunction" tag="G-"/>
+      <value summary="verb" tag="V-"/>
+      <value summary="unassigned" tag="X-"/>
+    </parts-of-speech>
+    <morphology>
+      <field tag="person">
+        <value summary="first person" tag="1"/>
+        <value summary="second person" tag="2"/>
+        <value summary="third person" tag="3"/>
+        <value summary="uncertain person" tag="x"/>
+      </field>
+      <field tag="number">
+        <value summary="singular" tag="s"/>
+        <value summary="dual" tag="d"/>
+        <value summary="plural" tag="p"/>
+        <value summary="uncertain number" tag="x"/>
+      </field>
+      <field tag="tense">
+        <value summary="present" tag="p"/>
+        <value summary="imperfect" tag="i"/>
+        <value summary="perfect" tag="r"/>
+        <value summary="resultative" tag="s"/>
+        <value summary="aorist" tag="a"/>
+        <value summary="past" tag="u"/>
+        <value summary="pluperfect" tag="l"/>
+        <value summary="future" tag="f"/>
+        <value summary="future perfect" tag="t"/>
+        <value summary="uncertain tense" tag="x"/>
+      </field>
+      <field tag="mood">
+        <value summary="indicative" tag="i"/>
+        <value summary="subjunctive" tag="s"/>
+        <value summary="imperative" tag="m"/>
+        <value summary="optative" tag="o"/>
+        <value summary="infinitive" tag="n"/>
+        <value summary="participle" tag="p"/>
+        <value summary="gerund" tag="d"/>
+        <value summary="gerundive" tag="g"/>
+        <value summary="supine" tag="u"/>
+        <value summary="uncertain mood" tag="x"/>
+        <value summary="finiteness unspecified" tag="y"/>
+        <value summary="indicative or subjunctive" tag="e"/>
+        <value summary="indicative or imperative" tag="f"/>
+        <value summary="subjunctive or imperative" tag="h"/>
+        <value summary="finite" tag="t"/>
+      </field>
+      <field tag="voice">
+        <value summary="active" tag="a"/>
+        <value summary="middle" tag="m"/>
+        <value summary="passive" tag="p"/>
+        <value summary="middle or passive" tag="e"/>
+        <value summary="unspecified" tag="x"/>
+      </field>
+      <field tag="gender">
+        <value summary="masculine" tag="m"/>
+        <value summary="feminine" tag="f"/>
+        <value summary="neuter" tag="n"/>
+        <value summary="masculine or feminine" tag="p"/>
+        <value summary="masculine or neuter" tag="o"/>
+        <value summary="feminine or neuter" tag="r"/>
+        <value summary="masculine, feminine or neuter" tag="q"/>
+        <value summary="uncertain gender" tag="x"/>
+      </field>
+      <field tag="case">
+        <value summary="nominative" tag="n"/>
+        <value summary="accusative" tag="a"/>
+        <value summary="oblique" tag="o"/>
+        <value summary="genitive" tag="g"/>
+        <value summary="genitive or dative" tag="c"/>
+        <value summary="accusative or dative" tag="e"/>
+        <value summary="dative" tag="d"/>
+        <value summary="ablative" tag="b"/>
+        <value summary="instrumental" tag="i"/>
+        <value summary="locative" tag="l"/>
+        <value summary="vocative" tag="v"/>
+        <value summary="uncertain case" tag="x"/>
+        <value summary="no case" tag="z"/>
+      </field>
+      <field tag="degree">
+        <value summary="positive" tag="p"/>
+        <value summary="comparative" tag="c"/>
+        <value summary="superlative" tag="s"/>
+        <value summary="uncertain degree" tag="x"/>
+        <value summary="no degree" tag="z"/>
+      </field>
+      <field tag="strength">
+        <value summary="weak" tag="w"/>
+        <value summary="strong" tag="s"/>
+        <value summary="weak or strong" tag="t"/>
+      </field>
+      <field tag="inflection">
+        <value summary="non-inflecting" tag="n"/>
+        <value summary="inflecting" tag="i"/>
+      </field>
+    </morphology>
+    <information-statuses>
+      <value summary="new" tag="new"/>
+      <value summary="kind" tag="kind"/>
+      <value summary="acc-gen" tag="acc_gen"/>
+      <value summary="acc-sit" tag="acc_sit"/>
+      <value summary="acc-inf" tag="acc_inf"/>
+      <value summary="old" tag="old"/>
+      <value summary="old-inact" tag="old_inact"/>
+      <value summary="annotatable (undecided)" tag="no_info_status"/>
+      <value summary="unannotatable" tag="info_unannotatable"/>
+      <value summary="quantifier restriction" tag="quant"/>
+      <value summary="non-specific" tag="non_spec"/>
+      <value summary="inferred from non-specific" tag="non_spec_inf"/>
+      <value summary="non-specific old" tag="non_spec_old"/>
+    </information-statuses>
+  </annotation>
+  <source id="abota" language="non">
+    <title>Skämtan om abbotar, enligt Holm D 4a</title>
+    <citation-part>Abota</citation-part>
+    <div id="2812">
+      <title>Här sigx af abotum allum skemptan mykla.</title>
+      <sentence id="25389" status="annotated">
+        <token form="Hær" head-id="501744" id="501743" lemma="här" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="sigx" id="501744" lemma="sighia" morphology="3spim----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="aff" head-id="501744" id="501745" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="abotum" head-id="501745" id="501746" lemma="abbote" morphology="-p---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="allum" head-id="501746" id="501747" lemma="alder" morphology="-p---md--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="skemptan" head-id="501744" id="501748" lemma="skämtan" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="mykla" head-id="501748" id="501749" lemma="mykil" morphology="-s---fapsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+      </sentence>
+      <sentence id="25390" status="annotated">
+        <token form="Tha" head-id="501757" id="501750" lemma="þa" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="herra" head-id="501752" id="501751" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abota" head-id="501753" id="501752" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="ganger" head-id="501750" id="501753" lemma="ganga+in" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="i" head-id="501753" id="501754" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="kloster" head-id="501754" id="501755" lemma="kloster" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="in" head-id="501753" id="501756" lemma="in" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="tha" head-id="501758" id="501757" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="ser" id="501758" lemma="sea" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="501758" id="501759" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="munka" head-id="501758" id="501760" lemma="munker" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="sina" head-id="501760" id="501761" lemma="sin" morphology="-p---ma--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="wæl klædda" head-id="501758" id="501762" lemma="välklädder" morphology="-p---mapsi" part-of-speech="A-" presentation-after=" / " relation="xadv">
+          <slash relation="xsub" target-id="501760"/>
+        </token>
+      </sentence>
+      <sentence id="25391" status="annotated">
+        <token form="tha" head-id="501764" id="501763" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="stryker" id="501764" lemma="stryka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="501764" id="501765" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="hættæ" head-id="501764" id="501766" lemma="hätta" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="aff" head-id="501764" id="501767" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="høffdhe" head-id="501767" id="501768" lemma="hovuþ" morphology="-s---nd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="sina" head-id="501768" id="501769" lemma="sin" morphology="-s---nd--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="at" head-id="501764" id="501770" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="ænne" head-id="501773" id="501771" lemma="änne" morphology="-s---nn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="hans" head-id="501771" id="501772" lemma="han" morphology="------g--i" part-of-speech="Pp" presentation-after=" " relation="atr"/>
+        <token form="ma" head-id="501770" id="501773" lemma="magha" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="skina" head-id="501773" id="501774" lemma="skina" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501771"/>
+        </token>
+        <token form="om" head-id="501774" id="501775" lemma="um" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="kloster" head-id="501775" id="501776" lemma="kloster" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="alt" head-id="501776" id="501777" lemma="alder" morphology="-s---na--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+      </sentence>
+      <sentence id="25392" status="annotated">
+        <token form="Sidhen" head-id="501779" id="501778" lemma="siþan" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="ganger" id="501779" lemma="ganga" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="501781" id="501780" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abotæ" head-id="501779" id="501781" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="ater" head-id="501783" id="501782" lemma="ater" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="och" head-id="501779" id="501783" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl"/>
+        <token form="fram" head-id="501783" id="501784" lemma="fram" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="ther til" head-id="501779" id="501785" lemma="þär til" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="han" head-id="501787" id="501786" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="komber" head-id="501785" id="501787" lemma="koma" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="til" head-id="501787" id="501788" lemma="til" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="koua" head-id="501788" id="501789" lemma="kovi" morphology="-s---mg-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="sins" head-id="501789" id="501790" lemma="sin" morphology="-s---mg--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="wæl" head-id="501792" id="501791" lemma="väl" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="skoager" head-id="501787" id="501792" lemma="skoa" morphology="-supamn-si" part-of-speech="V-" presentation-after=" " relation="xadv">
+          <slash relation="xsub" target-id="501786"/>
+        </token>
+        <token form="badhæ" head-id="501796" id="501793" lemma="baþe" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="medh" head-id="501792" id="501794" lemma="mäþ" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="bozskom" head-id="501796" id="501795" lemma="botskor" morphology="-p---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="och" head-id="501794" id="501796" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl"/>
+        <token form="adhrom" head-id="501798" id="501797" lemma="annar" morphology="-p---md--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="skom" head-id="501796" id="501798" lemma="skor" morphology="-p---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25393" status="annotated">
+        <token form="Herra" head-id="501800" id="501799" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="Abote" head-id="501801" id="501800" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="ær" id="501801" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="klædder" head-id="501801" id="501802" lemma="kläþa" morphology="-supamn-si" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501800"/>
+        </token>
+        <token form="wæl" head-id="501802" id="501803" lemma="väl" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+      </sentence>
+      <sentence id="25428" status="annotated">
+        <token form="han" head-id="501805" id="501804" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="haffuer" id="501805" lemma="hava" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="twa" head-id="501807" id="501806" lemma="tver" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="skinkiortla" head-id="501805" id="501807" lemma="skinkiurtil" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="annan" head-id="501811" id="501808" lemma="annar" morphology="-s---ma--i" part-of-speech="Py" presentation-after=" " relation="apos"/>
+        <token form="aff" head-id="501808" id="501809" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr"/>
+        <token form="lambskinnum" head-id="501809" id="501810" lemma="lambskin" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="och" head-id="501807" id="501811" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="apos"/>
+        <token form="annan" head-id="501811" id="501812" lemma="annar" morphology="-s---ma--i" part-of-speech="Py" presentation-after=" " relation="apos"/>
+        <token form="aff" head-id="501812" id="501813" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="atr"/>
+        <token form="graskinnum" head-id="501813" id="501814" lemma="graskin" morphology="-s---nd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25394" status="annotated">
+        <token form="han" head-id="501816" id="501815" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="haffuer" id="501816" lemma="hava" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="fyræ" head-id="501818" id="501817" lemma="fiurir" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="scapplara" head-id="501819" id="501818" lemma="skaplare" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="501816" id="501819" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj"/>
+        <token form="fyra" head-id="501821" id="501820" lemma="fiurir" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="kuffla" head-id="501819" id="501821" lemma="kuvul" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+      </sentence>
+      <sentence id="25395" status="annotated">
+        <token form="Æn" head-id="501824" id="501822" lemma="än" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="ther" head-id="501824" id="501823" lemma="þär" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="til komber" id="501824" lemma="tilkoma" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="om sidher" head-id="501824" id="501825" lemma="um sidh" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="at" head-id="501824" id="501826" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp"/>
+        <token form="bordh" head-id="501828" id="501827" lemma="borþ" morphology="-s---nn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="lætz" head-id="501826" id="501828" lemma="lata+fram" morphology="3spim----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="fram" head-id="501828" id="501829" lemma="fram" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25396" status="annotated">
+        <token form="æn" head-id="501833" id="501830" lemma="än" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="enghin" head-id="501832" id="501831" lemma="ängin" morphology="-s---fn--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="tunga" head-id="501833" id="501832" lemma="tunga" morphology="-s---fn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="giter" id="501833" lemma="gita" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="talt" head-id="501833" id="501834" lemma="tälia" morphology="-supana-si" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501832"/>
+        </token>
+        <token form="rætte" head-id="501834" id="501835" lemma="rätter" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="tha" head-id="501835" id="501836" lemma="þän" morphology="-p---ma--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="som" head-id="501835" id="501837" lemma="sum" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="in komma" head-id="501837" id="501838" lemma="inkoma" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="firi" head-id="501838" id="501839" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="herra" head-id="501841" id="501840" lemma="härra" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abota" head-id="501839" id="501841" lemma="abbote" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25397" status="annotated">
+        <token form="Æn" head-id="501845" id="501842" lemma="än" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="herra" head-id="501844" id="501843" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="501845" id="501844" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="æter" id="501845" lemma="äta" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="ekke" head-id="501845" id="501846" lemma="äkke" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="aux"/>
+        <token form="thet" head-id="501845" id="501847" lemma="þän" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obj"/>
+        <token form="som" head-id="501847" id="501848" lemma="som" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="atr"/>
+        <token form="fyreføt" head-id="501850" id="501849" lemma="fyrafötter" morphology="-s---nnpsi" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501850"/>
+        </token>
+        <token form="ær" head-id="501848" id="501850" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+      </sentence>
+      <sentence id="25398" status="annotated">
+        <token form="han" head-id="501852" id="501851" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="æter" id="501852" lemma="äta" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="gaas" head-id="501858" id="501853" lemma="gas" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="501858" id="501854" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="høns" head-id="501858" id="501855" lemma="höns" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="501858" id="501856" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="ænder" head-id="501858" id="501857" lemma="and" morphology="-p---fa-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="501852" id="501858" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj"/>
+        <token form="alskona" head-id="501860" id="501859" lemma="alzkona" morphology="-p---mapsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="fugla" head-id="501858" id="501860" lemma="fughl" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+      </sentence>
+      <sentence id="25399" status="annotated">
+        <token form="han" head-id="501862" id="501861" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="æter" id="501862" lemma="äta" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="och" head-id="501862" id="501863" lemma="ok" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="fiska" head-id="501862" id="501864" lemma="fiska" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="geddo" head-id="501877" id="501865" lemma="gädda" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="och" head-id="501877" id="501866" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="lax" head-id="501877" id="501867" lemma="lax" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="och" head-id="501877" id="501868" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="braxn" head-id="501877" id="501869" lemma="braxn" morphology="-x---xa-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="och" head-id="501877" id="501870" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="attæ" head-id="501872" id="501871" lemma="atta" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="fiska" head-id="501877" id="501872" lemma="fisker" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="sudna" head-id="501872" id="501873" lemma="siuþa" morphology="-pupama-si" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="och" head-id="501877" id="501874" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="sextæn" head-id="501877" id="501875" lemma="siäxtan" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="apos"/>
+        <token form="stektæ" head-id="501875" id="501876" lemma="stekia" morphology="-pupama-si" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="och" head-id="501864" id="501877" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="apos"/>
+        <token form="nio" head-id="501877" id="501878" lemma="nio" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="apos"/>
+        <token form="giordæ" head-id="501878" id="501879" lemma="göra" morphology="-pupama-si" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="j" head-id="501879" id="501880" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="piper" head-id="501880" id="501881" lemma="pipar" morphology="-s---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25400" status="annotated">
+        <token form="Siden" head-id="501883" id="501882" lemma="siþan" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="æter" id="501883" lemma="äta" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="501883" id="501884" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="tio" head-id="501886" id="501885" lemma="tio" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="fiska" head-id="501887" id="501886" lemma="fisker" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="501883" id="501887" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj"/>
+        <token form="æn" head-id="501891" id="501888" lemma="än" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="tio" head-id="501890" id="501889" lemma="tio" morphology="-p---od--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="sinnum" head-id="501891" id="501890" lemma="sin" morphology="-p---od-si" part-of-speech="Nb" presentation-after=" " relation="adv"/>
+        <token form="tio" head-id="501892" id="501891" lemma="tio" morphology="-p---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="fiska" head-id="501887" id="501892" lemma="fisker" morphology="-p---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+      </sentence>
+      <sentence id="25401" status="annotated">
+        <token form="Flæsk" head-id="501897" id="501893" lemma="fläsk" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="ma" id="501894" lemma="magha" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="501894" id="501895" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="ey" head-id="501894" id="501896" lemma="eigh" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="aux"/>
+        <token form="ætæ" head-id="501894" id="501897" lemma="äta" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501895"/>
+        </token>
+        <token form="thy at" head-id="501894" id="501898" lemma="þy at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="thet" head-id="501900" id="501899" lemma="þän" morphology="-s---nn--i" part-of-speech="Pd" presentation-after=" " relation="sub"/>
+        <token form="ær" head-id="501898" id="501900" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="fyræføt" head-id="501900" id="501901" lemma="fyrafötter" morphology="-s---nnpsi" part-of-speech="A-" presentation-after=" / " relation="xobj">
+          <slash relation="xsub" target-id="501899"/>
+        </token>
+      </sentence>
+      <sentence id="25402" status="annotated">
+        <token form="tha" head-id="501903" id="501902" lemma="þo" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="læter" id="501903" lemma="lata" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="501903" id="501904" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="wellæ" head-id="501903" id="501905" lemma="välla" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="comp"/>
+        <token form="thet" head-id="501905" id="501906" lemma="þän" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obj"/>
+        <token form="j" head-id="501905" id="501907" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="pannu" head-id="501907" id="501908" lemma="panna" morphology="-s---fd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="ther til" head-id="501903" id="501909" lemma="þär til" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="alder" head-id="501911" id="501910" lemma="alder" morphology="-s---mn--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="moster" head-id="501912" id="501911" lemma="moster" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="ær" head-id="501909" id="501912" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="obl"/>
+        <token form="wr" head-id="501912" id="501913" lemma="ur" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="thy" head-id="501913" id="501914" lemma="þän" morphology="-s---nd--i" part-of-speech="Pd" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25403" status="annotated">
+        <token form="Siden" head-id="501916" id="501915" lemma="siþan" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="læter" head-id="501923" id="501916" lemma="lata" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="501916" id="501917" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="sla" head-id="501916" id="501918" lemma="sla" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="comp"/>
+        <token form="thet" head-id="501918" id="501919" lemma="þän" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obj"/>
+        <token form="j" head-id="501918" id="501920" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="en" head-id="501922" id="501921" lemma="en" morphology="-s---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="disk" head-id="501920" id="501922" lemma="disker" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="och" id="501923" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred"/>
+        <token form="tæfkar" head-id="501923" id="501924" lemma="þäfka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred">
+          <slash relation="sub" target-id="501917"/>
+        </token>
+        <token form="ther" head-id="501926" id="501925" lemma="þär" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="aff" head-id="501924" id="501926" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25404" status="annotated">
+        <token form="och" head-id="501929" id="501927" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="siden" head-id="501929" id="501928" lemma="siþan" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="sæter" head-id="501935" id="501929" lemma="sätia" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="501929" id="501930" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="thet" head-id="501929" id="501931" lemma="þän" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obj"/>
+        <token form="a" head-id="501929" id="501932" lemma="a" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="mun" head-id="501932" id="501933" lemma="munder" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="sin" head-id="501933" id="501934" lemma="sin" morphology="-s---ma--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="och" id="501935" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred"/>
+        <token form="super" head-id="501935" id="501936" lemma="supa+af" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred">
+          <slash relation="sub" target-id="501930"/>
+        </token>
+        <token form="aff" head-id="501936" id="501937" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="hwan" head-id="501939" id="501938" lemma="hvar" morphology="-s---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="supa" head-id="501936" id="501939" lemma="supi" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="fyræ thy" head-id="501936" id="501940" lemma="for þy*" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="thet" head-id="501942" id="501941" lemma="þän" morphology="-s---nn--i" part-of-speech="Pd" presentation-after=" " relation="sub"/>
+        <token form="war" head-id="501940" id="501942" lemma="vara" morphology="3suia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="goth" head-id="501945" id="501943" lemma="goþer" morphology="-s---nnpsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="feth" head-id="501945" id="501944" lemma="feter" morphology="-s---nnpsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="spadh" head-id="501942" id="501945" lemma="spadh" morphology="-s---nn-si" part-of-speech="Nb" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501941"/>
+        </token>
+      </sentence>
+      <sentence id="25405" status="annotated">
+        <token form="Aldrik" head-id="501947" id="501946" lemma="aldrigh" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="ma" id="501947" lemma="magha" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="501949" id="501948" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="501947" id="501949" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="kaku" head-id="501951" id="501950" lemma="kaka" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="ætæ" head-id="501947" id="501951" lemma="äta" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501949"/>
+        </token>
+        <token form="fore thy at" head-id="501947" id="501952" lemma="for þy at*" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="hon" head-id="501954" id="501953" lemma="hon" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="är" head-id="501952" id="501954" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="tæffløs" head-id="501954" id="501955" lemma="thäflös" morphology="-s---fnpsi" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="501953"/>
+        </token>
+      </sentence>
+      <sentence id="25406" status="annotated">
+        <token form="Tha" head-id="501957" id="501956" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="rætes" id="501957" lemma="rätta+in" morphology="3spim----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="in" head-id="501957" id="501958" lemma="in" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="egh" head-id="501957" id="501959" lemma="äg" morphology="-p---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="fore" head-id="501957" id="501960" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="abotan" head-id="501960" id="501961" lemma="abbote" morphology="-s---ma-wi" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25407" status="annotated">
+        <token form="tha" head-id="501963" id="501962" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="æter" id="501963" lemma="äta" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="501965" id="501964" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="501963" id="501965" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fæm" head-id="501967" id="501966" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="egh" head-id="501986" id="501967" lemma="äg" morphology="-p---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="stekt" head-id="501967" id="501968" lemma="stekia" morphology="-pupana-si" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="och" head-id="501986" id="501969" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="fæm" head-id="501986" id="501970" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="obj"/>
+        <token form="sudhin" head-id="501970" id="501971" lemma="siuþa" morphology="-pupana-si" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="och" head-id="501986" id="501972" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="fæm" head-id="501986" id="501973" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="obj"/>
+        <token form="giord" head-id="501973" id="501974" lemma="göra" morphology="-pupana-si" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="j" head-id="501974" id="501975" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="gryto" head-id="501975" id="501976" lemma="gryta" morphology="-s---fd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="och" head-id="501986" id="501977" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="fæm" head-id="501986" id="501978" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="obj"/>
+        <token form="j" head-id="502285" id="501979" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="panno" head-id="501979" id="501980" lemma="panna" morphology="-s---nd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="och" head-id="501986" id="501981" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="fæm" head-id="501986" id="501982" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="obj"/>
+        <token form="sudin" head-id="501982" id="501983" lemma="siuþa" morphology="-pupana-si" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="j" head-id="501983" id="501984" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="kale" head-id="501984" id="501985" lemma="kal" morphology="-s---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="och" head-id="501963" id="501986" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj"/>
+        <token form="fæm" head-id="501986" id="501987" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="obj"/>
+        <token form="kolhuppad" head-id="501987" id="501988" lemma="kolhuppadher" morphology="-p---napsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token empty-token-sort="V" head-id="501978" id="502285" relation="atr">
+          <slash relation="pid" target-id="501974"/>
+        </token>
+      </sentence>
+      <sentence id="25408" status="annotated">
+        <token form="Siden" head-id="501990" id="501989" lemma="siþan" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="æter" id="501990" lemma="äta" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="501992" id="501991" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="501990" id="501992" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="wtan widh" head-id="501990" id="501993" lemma="utan viþer" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="fæm" head-id="501995" id="501994" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="egh" head-id="501996" id="501995" lemma="äg" morphology="-p---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="501990" id="501996" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj"/>
+        <token form="fæm" head-id="501998" id="501997" lemma="fäm" morphology="-p---od--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="sinnom" head-id="501999" id="501998" lemma="sin" morphology="-p---od-si" part-of-speech="Nb" presentation-after=" " relation="adv"/>
+        <token form="fæm" head-id="502000" id="501999" lemma="fäm" morphology="-p---na--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="egh" head-id="501996" id="502000" lemma="äg" morphology="-p---nn-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+      </sentence>
+      <sentence id="25429" status="annotated">
+        <token form="for budhit" head-id="502002" id="502001" lemma="forbiuþa" morphology="-supann-si" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502002"/>
+        </token>
+        <token form="ær" id="502002" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="honum" head-id="502001" id="502003" lemma="han" morphology="------d--i" part-of-speech="Pp" presentation-after=" " relation="obl"/>
+        <token form="mere" head-id="502006" id="502004" lemma="mere" morphology="-s---xacsi" part-of-speech="A-" presentation-after=" " relation="obj"/>
+        <token form="at" head-id="502006" id="502005" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="aux"/>
+        <token form="ætæ" head-id="502001" id="502006" lemma="äta" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502003"/>
+        </token>
+      </sentence>
+      <sentence id="25409" status="annotated">
+        <token form="Loffuat" head-id="502008" id="502007" lemma="lova" morphology="-supann-si" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502008"/>
+        </token>
+        <token form="ær" id="502008" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="honum" head-id="502007" id="502009" lemma="han" morphology="------d--i" part-of-speech="Pp" presentation-after=" " relation="obl"/>
+        <token form="at" head-id="502011" id="502010" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="aux"/>
+        <token form="drikka" head-id="502007" id="502011" lemma="drikka" morphology="--pna----i" part-of-speech="V-" presentation-after=" / " relation="xobj">
+          <slash relation="xsub" target-id="502009"/>
+        </token>
+      </sentence>
+      <sentence id="25410" status="annotated">
+        <token form="tha" head-id="502013" id="502012" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="bærs" id="502013" lemma="bära+in" morphology="3spim----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="in" head-id="502013" id="502014" lemma="in" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="twa" head-id="502017" id="502015" lemma="tver" morphology="-p---fn--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="stora" head-id="502017" id="502016" lemma="stor" morphology="-p---fnpsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="nistor" head-id="502013" id="502017" lemma="nista" morphology="-p---fn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fore" head-id="502013" id="502018" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="herra" head-id="502020" id="502019" lemma="härra" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abota" head-id="502018" id="502020" lemma="abbote" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" / " relation="obl"/>
+      </sentence>
+      <sentence id="25411" status="annotated">
+        <token form="tha" head-id="502022" id="502021" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="taker" head-id="502025" id="502022" lemma="taka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502024" id="502023" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abota" head-id="502022" id="502024" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="och" id="502025" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred"/>
+        <token form="sæter" head-id="502032" id="502026" lemma="sätia" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="adhra" head-id="502026" id="502027" lemma="annar" morphology="-s---fa--i" part-of-speech="Py" presentation-after=" " relation="obj"/>
+        <token form="a" head-id="502026" id="502028" lemma="a" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="vinstre" head-id="502030" id="502029" lemma="vinstre" morphology="-s---facsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="hand" head-id="502028" id="502030" lemma="hand" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="sin" head-id="502030" id="502031" lemma="sin" morphology="-s---fa--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="och" head-id="502025" id="502032" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred"/>
+        <token form="andra" head-id="502288" id="502033" lemma="annar" morphology="-s---fa--i" part-of-speech="Py" presentation-after=" " relation="obj"/>
+        <token form="a" head-id="502288" id="502034" lemma="a" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="høgre" head-id="502034" id="502035" lemma="höghre" morphology="-s---facti" part-of-speech="A-" presentation-after=" " relation="obl"/>
+        <token empty-token-sort="V" head-id="502032" id="502288" relation="pred">
+          <slash relation="pid" target-id="502026"/>
+        </token>
+      </sentence>
+      <sentence id="25412" status="annotated">
+        <token form="tha" head-id="502037" id="502036" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="taker" head-id="502044" id="502037" lemma="taka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="502037" id="502038" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="badha" head-id="502040" id="502039" lemma="baþir" morphology="-p---fa--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="nistunar" head-id="502037" id="502040" lemma="nista" morphology="-p---fa-wi" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="wt super" head-id="502044" id="502041" lemma="utsupa" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="lithit" head-id="502041" id="502042" lemma="litil" morphology="-s---napsi" part-of-speech="A-" presentation-after=" " relation="obj"/>
+        <token form="aff" head-id="502041" id="502043" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="och" id="502044" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred"/>
+        <token form="ser" head-id="502044" id="502045" lemma="sea" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="huru" head-id="502048" id="502046" lemma="huru" morphology="---------n" part-of-speech="Du" presentation-after=" " relation="adv"/>
+        <token form="honum" head-id="502048" id="502047" lemma="han" morphology="------d--i" part-of-speech="Pp" presentation-after=" " relation="obl"/>
+        <token form="gætz" head-id="502045" id="502048" lemma="gätas+at" morphology="3spim----i" part-of-speech="V-" presentation-after=" " relation="comp"/>
+        <token form="aat" head-id="502048" id="502049" lemma="at" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25413" status="annotated">
+        <token form="Tha" head-id="502051" id="502050" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="siger" id="502051" lemma="sighia" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502053" id="502052" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502051" id="502053" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="til" head-id="502051" id="502054" lemma="til" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="thera" head-id="502056" id="502055" lemma="þän" morphology="-s---fg--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="nistu" head-id="502054" id="502056" lemma="nista" morphology="-s---fg-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="a" head-id="502060" id="502057" lemma="a" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="vinstræ" head-id="502059" id="502058" lemma="vinstre" morphology="-s---fdcsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="hand" head-id="502057" id="502059" lemma="hand" morphology="-s---fd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="ær" head-id="502056" id="502060" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="thy at" head-id="502051" id="502061" lemma="þy at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="ther" head-id="502066" id="502062" lemma="þär" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="ær" head-id="502061" id="502063" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="onth" head-id="502065" id="502064" lemma="onder" morphology="-s---nnpsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="øll" head-id="502063" id="502065" lemma="öl" morphology="-s---nn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="j" head-id="502063" id="502066" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="Hæffuin" id="502067" lemma="häfia+ut" morphology="2ppma----i" part-of-speech="V-" presentation-after=" " relation="parpred"/>
+        <token form="wt" head-id="502067" id="502068" lemma="ut" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="tha" head-id="502071" id="502069" lemma="þän" morphology="-s---fa--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="bansatta" head-id="502071" id="502070" lemma="bansätia" morphology="-supafa-wi" part-of-speech="V-" presentation-after=" " relation="atr"/>
+        <token form="nistuna" head-id="502067" id="502071" lemma="nista" morphology="-s---fa-wi" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+      </sentence>
+      <sentence id="25414" status="annotated">
+        <token form="Æn" head-id="502082" id="502072" lemma="än" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="til" head-id="502082" id="502073" lemma="til" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="hina" head-id="502075" id="502074" lemma="hin" morphology="-s---fa--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="adhra" head-id="502073" id="502075" lemma="annar" morphology="-s---fa--i" part-of-speech="Px" presentation-after=" " relation="obl"/>
+        <token form="som" head-id="502075" id="502076" lemma="sum" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="atr"/>
+        <token form="stander" head-id="502076" id="502077" lemma="standa" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="a" head-id="502077" id="502078" lemma="a" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="høgro" head-id="502080" id="502079" lemma="höghre" morphology="-s---fdcwi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="hand" head-id="502078" id="502080" lemma="hand" morphology="-s---fd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="hans" head-id="502080" id="502081" lemma="han" morphology="------g--i" part-of-speech="Pp" presentation-after=" " relation="atr"/>
+        <token form="sigher" head-id="502103" id="502082" lemma="sighia" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502084" id="502083" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502082" id="502084" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="thy at" head-id="502082" id="502085" lemma="þy at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="ther" head-id="502088" id="502086" lemma="þär" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="ær" head-id="502085" id="502087" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="j" head-id="502087" id="502088" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="mylskæ" head-id="502090" id="502089" lemma="mylska" morphology="-s---fn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="eller" head-id="502087" id="502090" lemma="älla" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="sub"/>
+        <token form="goth" head-id="502092" id="502091" lemma="goþer" morphology="-s---nnpsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="humbla øll" head-id="502090" id="502092" lemma="humbla öl" morphology="-s---nn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="Hit" head-id="502290" id="502093" lemma="hit" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="min" head-id="502096" id="502094" lemma="min" morphology="-s---fn--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="kære" head-id="502096" id="502095" lemma="kär" morphology="-s---mnpwi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="gudzsøff" id="502096" lemma="gudhsiver" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="voc"/>
+        <token form="och" head-id="502103" id="502097" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="griper" head-id="502103" id="502098" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred">
+          <slash relation="sub" target-id="502084"/>
+        </token>
+        <token form="hona" head-id="502098" id="502099" lemma="hon" morphology="------a--i" part-of-speech="Pp" presentation-after=" " relation="obj"/>
+        <token form="j" head-id="502098" id="502100" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="fampn" head-id="502100" id="502101" lemma="famn" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="sin" head-id="502101" id="502102" lemma="sin" morphology="-s---ma--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="och" id="502103" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred"/>
+        <token form="drikker" head-id="502103" id="502104" lemma="drikka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred">
+          <slash relation="sub" target-id="502084"/>
+        </token>
+        <token form="en" head-id="502107" id="502105" lemma="en" morphology="-s---ma--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="starkan" head-id="502107" id="502106" lemma="starker" morphology="-s---mapsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="mula dryk" head-id="502104" id="502107" lemma="mula dryker" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token empty-token-sort="V" id="502290" relation="parpred"/>
+      </sentence>
+      <sentence id="25415" status="annotated">
+        <token form="Siden" head-id="502109" id="502108" lemma="siþan" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="drykker" id="502109" lemma="drikka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502111" id="502110" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502109" id="502111" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fore" head-id="502109" id="502112" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="helghe" head-id="502114" id="502113" lemma="helagher" morphology="-s---fdpsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="kirkio" head-id="502112" id="502114" lemma="kirkia" morphology="-s---fd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="at" head-id="502109" id="502115" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="gud" head-id="502117" id="502116" lemma="guþ" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="frælssi" head-id="502115" id="502117" lemma="frälsa" morphology="3spsa----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="hona" head-id="502117" id="502118" lemma="hon" morphology="------a--i" part-of-speech="Pp" presentation-after=" " relation="obj"/>
+      </sentence>
+      <sentence id="25416" status="annotated">
+        <token form="Annat" head-id="502120" id="502119" lemma="annar" morphology="-s---na--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="sinne" head-id="502121" id="502120" lemma="sinne" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="adv"/>
+        <token form="drikker" id="502121" lemma="drikka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502123" id="502122" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502121" id="502123" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fore" head-id="502121" id="502124" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="got" head-id="502126" id="502125" lemma="goþer" morphology="-s---napsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="ar" head-id="502124" id="502126" lemma="ar" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="at" head-id="502121" id="502127" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="gudh" head-id="502129" id="502128" lemma="guþ" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="giffui" head-id="502127" id="502129" lemma="giva" morphology="3spsa----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="goth" head-id="502131" id="502130" lemma="goþer" morphology="-s---napsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="ar" head-id="502129" id="502131" lemma="ar" morphology="-s---ma-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="bondom" head-id="502129" id="502132" lemma="bonde" morphology="-p---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25417" status="annotated">
+        <token form="Tridhiæ" head-id="502134" id="502133" lemma="þriþi" morphology="-s---oapwi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="sin" head-id="502135" id="502134" lemma="sin" morphology="-s---oa-si" part-of-speech="Nb" presentation-after=" " relation="adv"/>
+        <token form="drikker" id="502135" lemma="drikka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502137" id="502136" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502135" id="502137" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fore" head-id="502135" id="502138" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="synder" head-id="502140" id="502139" lemma="synd" morphology="-p---fa-si" part-of-speech="Nb" presentation-after=" " relation="obl">
+          <slash relation="atr" target-id="502143"/>
+        </token>
+        <token form="och" head-id="502138" id="502140" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl"/>
+        <token form="glømsko" head-id="502140" id="502141" lemma="glömska" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="alla" head-id="502143" id="502142" lemma="alder" morphology="-p---mg--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="brødra" head-id="502141" id="502143" lemma="broþir" morphology="-p---mg-si" part-of-speech="Nb" presentation-after=" " relation="atr"/>
+      </sentence>
+      <sentence id="25418" status="annotated">
+        <token form="Fiærde" head-id="502145" id="502144" lemma="fiärþe" morphology="-s---oapwi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="sinne" head-id="502146" id="502145" lemma="sinne" morphology="-s---oa-si" part-of-speech="Nb" presentation-after=" " relation="adv"/>
+        <token form="drikker" id="502146" lemma="drikka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502148" id="502147" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502146" id="502148" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fore" head-id="502146" id="502149" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="staplin" head-id="502149" id="502150" lemma="stapul" morphology="-s---ma-wi" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="som" head-id="502150" id="502151" lemma="sum" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="stander" head-id="502151" id="502152" lemma="standa" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="j" head-id="502152" id="502153" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="babilone" head-id="502153" id="502154" lemma="Babylon" morphology="-s---md-si" part-of-speech="Ne" presentation-after=" " relation="obl"/>
+        <token form="at" head-id="502146" id="502155" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="han" head-id="502157" id="502156" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="falle" head-id="502155" id="502157" lemma="falla" morphology="3spsa----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="eygh" head-id="502157" id="502158" lemma="eigh" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+      </sentence>
+      <sentence id="25419" status="annotated">
+        <token form="Fæmpte" head-id="502160" id="502159" lemma="fämte" morphology="-p---mapwi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="sinne" head-id="502161" id="502160" lemma="sinne" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="adv"/>
+        <token form="drikker" id="502161" lemma="drikka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502163" id="502162" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502161" id="502163" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fore" head-id="502161" id="502164" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="stora" head-id="502166" id="502165" lemma="stor" morphology="-s---fapwi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="klokkona" head-id="502164" id="502166" lemma="klokka" morphology="-s---fa-wi" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="som" head-id="502166" id="502167" lemma="sum" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="atr"/>
+        <token form="stander" head-id="502167" id="502168" lemma="standa" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="j" head-id="502168" id="502169" lemma="i" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="lund" head-id="502169" id="502170" lemma="Lund" morphology="-s---xd-si" part-of-speech="Ne" presentation-after=" " relation="obl"/>
+        <token form="at" head-id="502161" id="502171" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="hon" head-id="502173" id="502172" lemma="hon" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="brytes" head-id="502171" id="502173" lemma="bryta" morphology="3spsm----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="ey" head-id="502173" id="502174" lemma="eigh" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+      </sentence>
+      <sentence id="25420" status="annotated">
+        <token form="Swa" head-id="502176" id="502175" lemma="sva" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="drikker" id="502176" lemma="drikka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502178" id="502177" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502176" id="502178" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="siw" head-id="502181" id="502179" lemma="siu" morphology="-p---od--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="sinnom" head-id="502176" id="502180" lemma="sin" morphology="-p---md-si" part-of-speech="Nb" presentation-after=" " relation="adv"/>
+        <token form="och" head-id="502180" id="502181" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="atr"/>
+        <token form="siwtigi" head-id="502181" id="502182" lemma="siutighi" morphology="-p---od--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+      </sentence>
+      <sentence id="25421" status="annotated">
+        <token form="Siden" head-id="502184" id="502183" lemma="siþan" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="ganger" head-id="502192" id="502184" lemma="ganga" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="herra" head-id="502186" id="502185" lemma="härra" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abote" head-id="502184" id="502186" lemma="abbote" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="fran" head-id="502184" id="502187" lemma="fran" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="borde" head-id="502187" id="502188" lemma="borþ" morphology="-s---nd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="och" head-id="502192" id="502189" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="siger" head-id="502192" id="502190" lemma="sighia" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred">
+          <slash relation="sub" target-id="502186"/>
+        </token>
+        <token form="Miserere mei deus" id="502191" lemma="Miserere mei deus" morphology="---------n" part-of-speech="F-" presentation-after=" " relation="parpred"/>
+        <token form="och" id="502192" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="pred"/>
+        <token form="thakker" head-id="502192" id="502193" lemma="þakka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred">
+          <slash relation="sub" target-id="502186"/>
+        </token>
+        <token form="gudhi" head-id="502193" id="502194" lemma="guþ" morphology="-s---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="at" head-id="502193" id="502195" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp"/>
+        <token form="han" head-id="502197" id="502196" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="ær" head-id="502195" id="502197" lemma="vara" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="wæl" head-id="502199" id="502198" lemma="väl" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="mætter" head-id="502200" id="502199" lemma="mätter" morphology="-s---mnpsi" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502200"/>
+        </token>
+        <token form="och" head-id="502197" id="502200" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502196"/>
+        </token>
+        <token form="wæl" head-id="502202" id="502201" lemma="väl" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="drukken" head-id="502200" id="502202" lemma="drikka" morphology="-supamn-si" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502200"/>
+        </token>
+      </sentence>
+      <sentence id="25422" status="annotated">
+        <token form="Siden" head-id="502209" id="502203" lemma="siþan" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="apos"/>
+        <token form="han" head-id="502205" id="502204" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="haffuer" head-id="502203" id="502205" lemma="hava" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="lesit" head-id="502205" id="502206" lemma="läsa" morphology="-supana-si" part-of-speech="V-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502204"/>
+        </token>
+        <token form="tiider" head-id="502206" id="502207" lemma="tiþ" morphology="-p---fa-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="siner" head-id="502207" id="502208" lemma="sin" morphology="-p---fa--i" part-of-speech="Ps" presentation-after=" " relation="atr"/>
+        <token form="Tha" head-id="502210" id="502209" lemma="þa" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="later" id="502210" lemma="lata" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="502210" id="502211" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="gøræ" head-id="502210" id="502212" lemma="göra" morphology="--pna----i" part-of-speech="V-" presentation-after=" " relation="comp"/>
+        <token form="sik" head-id="502212" id="502213" lemma="sik" morphology="------d--i" part-of-speech="Pk" presentation-after=" " relation="obl"/>
+        <token form="alskona" head-id="502215" id="502214" lemma="alzkona" morphology="-s---fapsi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="supan" head-id="502212" id="502215" lemma="supan" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="at" head-id="502210" id="502216" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="adv"/>
+        <token form="han" head-id="502218" id="502217" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="warder" head-id="502216" id="502218" lemma="varþa" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="ey" head-id="502218" id="502219" lemma="eigh" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="trangbrystader" head-id="502218" id="502220" lemma="thrangbrystadher" morphology="-s---mnpsi" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502217"/>
+        </token>
+      </sentence>
+      <sentence id="25423" status="annotated">
+        <token form="han" head-id="502222" id="502221" lemma="han" morphology="------n--i" part-of-speech="Pp" presentation-after=" " relation="sub"/>
+        <token form="later" id="502222" lemma="lata" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="ther j" head-id="502222" id="502223" lemma="þär i" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="obl"/>
+        <token form="win" head-id="502228" id="502225" lemma="vin" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="502228" id="502226" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="piper" head-id="502228" id="502227" lemma="pipar" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="och" head-id="502222" id="502228" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obj"/>
+        <token form="ingefæræ" head-id="502228" id="502229" lemma="ingefära" morphology="-s---fa-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+      </sentence>
+      <sentence id="25430" status="annotated">
+        <token form="thesso" head-id="502231" id="502230" lemma="þänne" morphology="-p---nn--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="thry" head-id="502232" id="502231" lemma="þrir" morphology="-p---nn--i" part-of-speech="Py" presentation-after=" " relation="sub"/>
+        <token form="gøræ" id="502232" lemma="göra" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="han" head-id="502232" id="502233" lemma="han" morphology="------a--i" part-of-speech="Pp" presentation-after=" " relation="obj"/>
+        <token form="swa" head-id="502235" id="502234" lemma="sva" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="hæten" head-id="502232" id="502235" lemma="heter" morphology="-s---mapsi" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502233"/>
+        </token>
+        <token form="at" head-id="502234" id="502236" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="apos"/>
+        <token form="swetten" head-id="502238" id="502237" lemma="svete" morphology="-s---mn-wi" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="rindher" head-id="502236" id="502238" lemma="rinna" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="aff" head-id="502238" id="502239" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="hwario" head-id="502241" id="502240" lemma="hvar" morphology="-s---nd--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="hare" head-id="502239" id="502241" lemma="har" morphology="-s---nd-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25424" status="annotated">
+        <token form="Æn" head-id="502252" id="502242" lemma="än" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="then" head-id="502245" id="502243" lemma="þän" morphology="-s---mn--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="samma" head-id="502245" id="502244" lemma="samber" morphology="-s---mnpwi" part-of-speech="A-" presentation-after=" " relation="atr"/>
+        <token form="ember" head-id="502252" id="502245" lemma="ember" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="som" head-id="502244" id="502246" lemma="sum" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="comp"/>
+        <token form="gar" head-id="502246" id="502247" lemma="ganga" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="wr" head-id="502247" id="502248" lemma="ur" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="herra" head-id="502250" id="502249" lemma="härra" morphology="-s---mg-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abota" head-id="502251" id="502250" lemma="abbote" morphology="-s---mg-si" part-of-speech="Nb" presentation-after=" " relation="atr"/>
+        <token form="halsse" head-id="502248" id="502251" lemma="hals" morphology="-s---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="swemar" id="502252" lemma="svema" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="om" head-id="502252" id="502253" lemma="um" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="ænne" head-id="502257" id="502254" lemma="änne" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="hans" head-id="502254" id="502255" lemma="han" morphology="------g--i" part-of-speech="Pp" presentation-after=" " relation="atr"/>
+        <token form="alt" head-id="502254" id="502256" lemma="alder" morphology="-s---na--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="och" head-id="502253" id="502257" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="obl"/>
+        <token form="hoffwdh" head-id="502257" id="502258" lemma="hovuþ" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25425" status="annotated">
+        <token form="och" head-id="502260" id="502259" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="within" id="502260" lemma="vita" morphology="2ppma----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="thet" head-id="502260" id="502261" lemma="þän" morphology="-s---na--i" part-of-speech="Pd" presentation-after=" " relation="obj"/>
+        <token form="sannelika" head-id="502260" id="502262" lemma="sanlika" morphology="-------p-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="at" head-id="502261" id="502263" lemma="at" morphology="---------n" part-of-speech="G-" presentation-after=" " relation="apos"/>
+        <token form="thenne" head-id="502265" id="502264" lemma="þänne" morphology="-s---mn--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="ember" head-id="502266" id="502265" lemma="ember" morphology="-s---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="wræker" head-id="502263" id="502266" lemma="vräka" morphology="3spia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="alt" head-id="502268" id="502267" lemma="alder" morphology="-s---na--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="har" head-id="502266" id="502268" lemma="har" morphology="-s---na-si" part-of-speech="Nb" presentation-after=" " relation="obj"/>
+        <token form="aff" head-id="502266" id="502269" lemma="af" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="obl"/>
+        <token form="herra" head-id="502271" id="502270" lemma="härra" morphology="-s---md-si" part-of-speech="Nb" presentation-after=" " relation="apos"/>
+        <token form="abota" head-id="502269" id="502271" lemma="abbote" morphology="-s---md-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+      </sentence>
+      <sentence id="25426" status="annotated">
+        <token form="och" head-id="502276" id="502272" lemma="ok" morphology="---------n" part-of-speech="C-" presentation-after=" " relation="aux"/>
+        <token form="fore" head-id="502276" id="502273" lemma="for" morphology="---------n" part-of-speech="R-" presentation-after=" " relation="adv"/>
+        <token form="thæs" head-id="502275" id="502274" lemma="þän" morphology="-s---mg--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="saker" head-id="502273" id="502275" lemma="sak" morphology="-p---fa-si" part-of-speech="Nb" presentation-after=" " relation="obl"/>
+        <token form="æræ" id="502276" lemma="vara" morphology="3ppia----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="allæ" head-id="502278" id="502277" lemma="alder" morphology="-p---mn--i" part-of-speech="Py" presentation-after=" " relation="atr"/>
+        <token form="abota" head-id="502276" id="502278" lemma="abbote" morphology="-p---mn-si" part-of-speech="Nb" presentation-after=" " relation="sub"/>
+        <token form="flinskallutte" head-id="502276" id="502279" lemma="flintskalloter" morphology="-p---mnpsi" part-of-speech="A-" presentation-after=" " relation="xobj">
+          <slash relation="xsub" target-id="502278"/>
+        </token>
+      </sentence>
+      <sentence id="25427" status="annotated">
+        <token form="Swa" head-id="502281" id="502280" lemma="sva" morphology="-------x-i" part-of-speech="Df" presentation-after=" " relation="adv"/>
+        <token form="lyktæs" id="502281" lemma="lykta" morphology="3spim----i" part-of-speech="V-" presentation-after=" " relation="pred"/>
+        <token form="thenne" head-id="502283" id="502282" lemma="þänne" morphology="-s---mn--i" part-of-speech="Pd" presentation-after=" " relation="atr"/>
+        <token form="fabula" head-id="502281" id="502283" lemma="fabula" morphology="---------n" part-of-speech="F-" presentation-after=" " relation="sub"/>
+      </sentence>
+    </div>
+  </source>
+</proiel>

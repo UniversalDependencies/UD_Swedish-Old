@@ -1,0 +1,367 @@
+Dislocated relation found in swedish-old-moses-b-1 between man (4) and qwinna (10)
+Could not process 'sum', 6 in sentence swedish-old-moses-b-2. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-2 with POS NOUN: människio (8), natur (9)
+Dislocated relation found in swedish-old-moses-b-4 between sighir (4) and Sanctus (1)
+Foreign word found in swedish-old-moses-b-4: Sanctus, 1
+Fixed construction found in swedish-old-moses-b-4 with POS SCONJ: äptir (8), þy (9)
+Could not process 'sum', 10 in sentence swedish-old-moses-b-4. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-4 with POS SCONJ: äptir (8), sum (10)
+Fixed construction found in swedish-old-moses-b-4 with POS SCONJ: þän (16), tima (17)
+'vara' with deprel advcl, 19 in sentence swedish-old-moses-b-4, change to copula.
+Fixed construction found in swedish-old-moses-b-4 with POS SCONJ: þän (23), tima (24)
+Dislocated relation found in swedish-old-moses-b-5 between sighir (2) and sanctus (3)
+Foreign word found in swedish-old-moses-b-5: sanctus, 3
+Fixed construction found in swedish-old-moses-b-7 with POS SCONJ: þän (1), tima (2)
+Dislocated relation found in swedish-old-moses-b-7 between fødhe (14) and lidhin (6)
+Fixed construction found in swedish-old-moses-b-8 with POS ADV: þär (2), näst (3)
+Fixed construction found in swedish-old-moses-b-9 with POS SCONJ: þän (1), tima (2)
+Dislocated relation found in swedish-old-moses-b-9 between drap (17) and gamal (7)
+Fixed construction found in swedish-old-moses-b-11 with POS NOUN: naturo (6), bland (7)
+Skipped genitive nmod swna, 24 because head ens is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-11)
+Fixed construction found in swedish-old-moses-b-14 with POS SCONJ: än (18), þo (19)
+Fixed construction found in swedish-old-moses-b-14 with POS SCONJ: än (18), at (20)
+Fixed construction found in swedish-old-moses-b-14 with POS SCONJ: än (18), hvaro (21)
+Fixed construction found in swedish-old-moses-b-14 with POS SCONJ: þy (29), at (30)
+Fixed construction found in swedish-old-moses-b-16 with POS ADP: af (21), afkoma (23)
+Fixed construction found in swedish-old-moses-b-22 with POS NOUN: doma (16), dagher (17)
+Dislocated relation found in swedish-old-moses-b-23 between doo (12) and Thæn (1)
+Fixed construction found in swedish-old-moses-b-23 with POS ADV: þän (1), tima (2)
+Deprel not changed for numeral. Please look over deprel for numeral: xviij, 10 in sentence swedish-old-moses-b-23
+Fixed construction found in swedish-old-moses-b-23 with POS NOUN: alderfadher (15), fadhir (16)
+Deprel not changed for numeral. Please look over deprel for numeral: xxx, 21 in sentence swedish-old-moses-b-23
+Could not process 'sum', 10 in sentence swedish-old-moses-b-24. Please check whether it should be relative pronoun or SCONJ.
+Dislocated relation found in swedish-old-moses-b-25 between wrækas (10) and the (2)
+Deprel not changed for numeral. Please look over deprel for numeral: thry, 10 in sentence swedish-old-moses-b-36
+Fixed construction found in swedish-old-moses-b-38 with POS ADP: umkring (16), kringh (17)
+Fixed construction found in swedish-old-moses-b-39 with POS ADV: þär (4), mäþ (5)
+Fixed construction found in swedish-old-moses-b-40 with POS SCONJ: þy (5), at (6)
+'vara' with deprel conj, 16 in sentence swedish-old-moses-b-40, change to copula.
+Fixed construction found in swedish-old-moses-b-42 with POS ADP: nordhan (13), haf (15)
+Fixed construction found in swedish-old-moses-b-44 with POS VERB: utkoma (14), komne (15)
+Fixed construction found in swedish-old-moses-b-45 with POS SCONJ: þy (21), at (22)
+Fixed construction found in swedish-old-moses-b-47 with POS SCONJ: þy (21), at (22)
+'vara' with deprel advcl, 27 in sentence swedish-old-moses-b-47, change to copula.
+Fixed construction found in swedish-old-moses-b-47 with POS SCONJ: þär (34), til (35)
+Foreign word found in swedish-old-moses-b-54: turrem, 6
+'vara' with deprel xcomp, 7 in sentence swedish-old-moses-b-55, change to copula.
+Fixed construction found in swedish-old-moses-b-56 with POS SCONJ: þär (6), til (7)
+Foreign word found in swedish-old-moses-b-56: turrem, 16
+Fixed construction found in swedish-old-moses-b-57 with POS SCONJ: þy (18), at (19)
+'vara' with deprel advcl, 21 in sentence swedish-old-moses-b-57, change to copula.
+Foreign word found in swedish-old-moses-b-57: turrem, 24
+Foreign word found in swedish-old-moses-b-58: hebrei, 6
+Deprel not changed for numeral. Please look over deprel for numeral: tusandh, 8 in sentence swedish-old-moses-b-65
+'vara' with deprel root, 4 in sentence swedish-old-moses-b-67, change to copula.
+Dislocated relation found in swedish-old-moses-b-68 between ABraham (1) and brodhir (6)
+Foreign word found in swedish-old-moses-b-69: Caldei, 1
+Fixed construction found in swedish-old-moses-b-69 with POS NOUN: afgudha (3), dyrkare (4)
+Foreign word found in swedish-old-moses-b-70: caldei, 19
+No particles undan found for +-token kom, 31 in sentence swedish-old-moses-b-70
+Fixed construction found in swedish-old-moses-b-70 with POS VERB: koma (31), vndan (32)
+Foreign word found in swedish-old-moses-b-71: damascenus, 2
+Foreign word found in swedish-old-moses-b-71: palacium, 18
+Foreign word found in swedish-old-moses-b-72: circumcisionem, 8
+Deprel not changed for numeral. Please look over deprel for numeral: tolff, 4 in sentence swedish-old-moses-b-77
+Fixed construction found in swedish-old-moses-b-77 with POS ADP: af (2), tolf (4)
+'vara' with deprel root, 4 in sentence swedish-old-moses-b-85, change to copula.
+'vara' with deprel conj, 9 in sentence swedish-old-moses-b-85, change to copula.
+Deprel not changed for numeral. Please look over deprel for numeral: xl, 3 in sentence swedish-old-moses-b-86
+Deprel not changed for numeral. Please look over deprel for numeral: iiij, 5 in sentence swedish-old-moses-b-86
+'vara' with deprel root, 7 in sentence swedish-old-moses-b-86, change to copula.
+Dislocated relation found in swedish-old-moses-b-87 between var (5) and Innan (1)
+'vara' with deprel root, 5 in sentence swedish-old-moses-b-87, change to copula.
+Fixed construction found in swedish-old-moses-b-87 with POS SCONJ: sva (14), at (15)
+Skipped genitive nmod israel, 3 because head sona is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-88)
+Fixed construction found in swedish-old-moses-b-88 with POS ADP: af (7), Egypten (8)
+Skipped genitive nmod gudz, 22 because head wæghna is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-88)
+Fixed construction found in swedish-old-moses-b-89 with POS NOUN: sonar (12), son (13)
+Fixed construction found in swedish-old-moses-b-89 with POS VERB: utfara (15), foro (16)
+'vara' with deprel root, 3 in sentence swedish-old-moses-b-90, change to copula.
+Changed PRON/DET into NUM: huat, 26 in sentence swedish-old-moses-b-104. If this is not a numeral, add lemma hvatvitna to code.
+Changed PRON/DET into NUM: vithna, 27 in sentence swedish-old-moses-b-104. If this is not a numeral, add lemma vithna to code.
+Deprel not changed for numeral. Please look over deprel for numeral: vithna, 27 in sentence swedish-old-moses-b-104
+Fixed construction found in swedish-old-moses-b-104 with POS NUM: hvatvitna (26), vithna (27)
+Fixed construction found in swedish-old-moses-b-106 with POS SCONJ: ä (5), mäþan (6)
+No particles viþer found for +-token kændis, 2 in sentence swedish-old-moses-b-120
+Fixed construction found in swedish-old-moses-b-120 with POS NOUN: synda (5), giäld (6)
+Fixed construction found in swedish-old-moses-b-122 with POS ADJ: iämilder (3), illir (4)
+Could not process 'sum', 10 in sentence swedish-old-moses-b-122. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel advcl, 13 in sentence swedish-old-moses-b-122, change to copula.
+Dislocated relation found in swedish-old-moses-b-128 between skipade (28) and brodhir (30)
+Foreign word found in swedish-old-moses-b-130: propheta, 2
+Skipped genitive nmod ieuraslem, 10 because head bura is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-130)
+Deprel not changed for numeral. Please look over deprel for numeral: xx, 4 in sentence swedish-old-moses-b-131
+Dislocated relation found in swedish-old-moses-b-134 between skal (9) and nabugodosor (1)
+Fixed construction found in swedish-old-moses-b-134 with POS NOUN: þiänisto (3), sven (4)
+Fixed construction found in swedish-old-moses-b-135 with POS NOUN: almännings (3), folk (4)
+Fixed construction found in swedish-old-moses-b-136 with POS NOUN: lands (1), härra (2)
+Fixed construction found in swedish-old-moses-b-136 with POS SCONJ: til (13), at (14)
+Dislocated relation found in swedish-old-moses-b-137 between haffde (2) and scriffwara (4)
+Dislocated relation found in swedish-old-moses-b-140 between tak (6) and innelucthir (4)
+Dislocated relation found in swedish-old-moses-b-141 between skar (9) and haffde (3)
+Dislocated relation found in swedish-old-moses-b-141 between skar (9) and læsit (4)
+Fixed construction found in swedish-old-moses-b-141 with POS NOUN: guds (24), man (25)
+Fixed construction found in swedish-old-moses-b-143 with POS ADV: här (1), äptir (2)
+Fixed construction found in swedish-old-moses-b-144 with POS ADP: bland (2), þän (3)
+'vara' with deprel root, 4 in sentence swedish-old-moses-b-144, change to copula.
+Fixed construction found in swedish-old-moses-b-146 with POS ADP: mote (5), Nebukadnessar (6)
+Could not process 'sum', 11 in sentence swedish-old-moses-b-146. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-147 with POS ADV: ut (17), ivir (18)
+Fixed construction found in swedish-old-moses-b-147 with POS ADV: þär (22), af (23)
+Dislocated relation found in swedish-old-moses-b-153 between sagdo (6) and Jeremias (1)
+Dislocated relation found in swedish-old-moses-b-158 between skal (17) and hwa (11)
+Foreign word found in swedish-old-moses-b-159: prophetis, 4
+Fixed construction found in swedish-old-moses-b-159 with POS ADP: mote (9), Nebukadnessar (10)
+Could not process 'sum', 9 in sentence swedish-old-moses-b-163. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 3 in sentence swedish-old-moses-b-167. Please check whether it should be relative pronoun or SCONJ.
+Skipped genitive nmod gudz, 21 because head wæghna is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-169)
+Fixed construction found in swedish-old-moses-b-169 with POS SCONJ: þär (38), til (39)
+Fixed construction found in swedish-old-moses-b-169 with POS SCONJ: þär (38), at (40)
+Skipped genitive nmod gudz, 54 because head wæghna is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-169)
+'vara' with deprel root, 3 in sentence swedish-old-moses-b-170, change to copula.
+Fixed construction found in swedish-old-moses-b-170 with POS ADP: bland (6), iuþe (7)
+Fixed construction found in swedish-old-moses-b-170 with POS ADP: mote (13), Jeremia (14)
+Fixed construction found in swedish-old-moses-b-170 with POS ADP: mote (20), han (21)
+Fixed construction found in swedish-old-moses-b-170 with POS SCONJ: þär (28), til (29)
+Fixed construction found in swedish-old-moses-b-173 with POS SCONJ: þär (7), til (8)
+'vara' with deprel root, 2 in sentence swedish-old-moses-b-174, change to copula.
+Fixed construction found in swedish-old-moses-b-174 with POS SCONJ: sva (9), at (10)
+Dislocated relation found in swedish-old-moses-b-175 between gaffwo (6) and iæmlangan (4)
+Deprel not changed for numeral. Please look over deprel for numeral: xx, 23 in sentence swedish-old-moses-b-180
+Fixed construction found in swedish-old-moses-b-182 with POS VERB: niþer (3), bryta (4)
+Fixed construction found in swedish-old-moses-b-182 with POS ADP: umkring (8), kringh (9)
+Fixed construction found in swedish-old-moses-b-183 with POS NOUN: iudha (27), land (28)
+Fixed construction found in swedish-old-moses-b-184 with POS NOUN: iudha (3), konunger (4)
+Dislocated relation found in swedish-old-moses-b-186 between kom (14) and hem (9)
+Fixed construction found in swedish-old-moses-b-186 with POS ADJ: hemfara (9), farin (10)
+Fixed construction found in swedish-old-moses-b-186 with POS NOUN: lands (23), foghate (24)
+Could not process 'sum', 7 in sentence swedish-old-moses-b-187. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-187 with POS SCONJ: sva (24), at (25)
+Foreign word found in swedish-old-moses-b-188: Judei, 1
+Foreign word found in swedish-old-moses-b-188: prophete, 8
+Fixed construction found in swedish-old-moses-b-188 with POS ADP: mote (6), raþ (9)
+Fixed construction found in swedish-old-moses-b-189 with POS ADP: af (10), Judeen (11)
+Could not process 'sum', 16 in sentence swedish-old-moses-b-189. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-189 with POS ADP: af (22), Judeen (23)
+Fixed construction found in swedish-old-moses-b-190 with POS ADV: þär (3), äptir (4)
+Could not process 'sum', 11 in sentence swedish-old-moses-b-191. Please check whether it should be relative pronoun or SCONJ.
+Foreign word found in swedish-old-moses-b-191: propheta, 13
+Could not process 'sum', 32 in sentence swedish-old-moses-b-192. Please check whether it should be relative pronoun or SCONJ.
+Foreign word found in swedish-old-moses-b-193: Egyptu, 1
+Foreign word found in swedish-old-moses-b-193: iudei, 13
+Foreign word found in swedish-old-moses-b-194: templo, 14
+Foreign word found in swedish-old-moses-b-196: Egyptum, 1
+'vara' with deprel xcomp, 9 in sentence swedish-old-moses-b-198, change to copula.
+Could not process 'sum', 5 in sentence swedish-old-moses-b-199. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 6 in sentence swedish-old-moses-b-204. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel advcl, 30 in sentence swedish-old-moses-b-204, change to copula.
+Foreign word found in swedish-old-moses-b-205: propheta, 4
+Fixed construction found in swedish-old-moses-b-205 with POS NOUN: iudha (13), konunger (14)
+Dislocated relation found in swedish-old-moses-b-214 between tedhes (5) and sompnadhe (3)
+Foreign word found in swedish-old-moses-b-215: statutam, 7
+'vara' with deprel parataxis, 9 in sentence swedish-old-moses-b-215, change to copula.
+Could not process 'sum', 15 in sentence swedish-old-moses-b-216. Please check whether it should be relative pronoun or SCONJ.
+No particles ater found for +-token kombir, 4 in sentence swedish-old-moses-b-217
+Could not process 'sum', 17 in sentence swedish-old-moses-b-217. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel advcl, 19 in sentence swedish-old-moses-b-217, change to copula.
+Foreign word found in swedish-old-moses-b-218: cyri, 4
+'vara' with deprel parataxis, 6 in sentence swedish-old-moses-b-219, change to copula.
+Fixed construction found in swedish-old-moses-b-219 with POS NOUN: ivirbudh (15), budh (16)
+Could not process 'sum', 20 in sentence swedish-old-moses-b-221. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-222 with POS ADV: annan (18), vägh (19)
+Could not process 'sum', 34 in sentence swedish-old-moses-b-222. Please check whether it should be relative pronoun or SCONJ.
+Foreign word found in swedish-old-moses-b-222: magnum, 46
+Fixed construction found in swedish-old-moses-b-223 with POS NOUN: manz (13), hand (14)
+'vara' with deprel parataxis, 16 in sentence swedish-old-moses-b-223, change to copula.
+Fixed construction found in swedish-old-moses-b-224 with POS NOUN: himna (10), rike (11)
+Fixed construction found in swedish-old-moses-b-226 with POS NOUN: härra (11), domber (12)
+Fixed construction found in swedish-old-moses-b-226 with POS NOUN: ivirbudh (14), budh (15)
+Fixed construction found in swedish-old-moses-b-228 with POS ADV: þo (3), hvaro (4)
+Fixed construction found in swedish-old-moses-b-229 with POS NOUN: þiänisto (14), man (15)
+Dislocated relation found in swedish-old-moses-b-230 between skulde (8) and hwa (2)
+Fixed construction found in swedish-old-moses-b-230 with POS ADP: innan (11), ughn (13)
+No particles ater found for +-token gik, 2 in sentence swedish-old-moses-b-231
+Deprel not changed for numeral. Please look over deprel for numeral: ix, 5 in sentence swedish-old-moses-b-231
+'vara' with deprel root, 2 in sentence swedish-old-moses-b-232, change to copula.
+Foreign word found in swedish-old-moses-b-233: statuam, 19
+'vara' with deprel advcl, 8 in sentence swedish-old-moses-b-242, change to copula.
+Could not process 'sum', 12 in sentence swedish-old-moses-b-242. Please check whether it should be relative pronoun or SCONJ.
+Dislocated relation found in swedish-old-moses-b-242 between liff (27) and hwar (20)
+'vara' with deprel root, 4 in sentence swedish-old-moses-b-245, change to copula.
+Fixed construction found in swedish-old-moses-b-247 with POS ADV: þär (1), näst (2)
+Could not process 'sum', 15 in sentence swedish-old-moses-b-256. Please check whether it should be relative pronoun or SCONJ.
+Foreign word found in swedish-old-moses-b-256: propheta, 17
+Deprel not changed for numeral. Please look over deprel for numeral: vij, 18 in sentence swedish-old-moses-b-259
+No particles viþer found for +-token thok, 5 in sentence swedish-old-moses-b-260
+Could not process 'sum', 6 in sentence swedish-old-moses-b-261. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-263 with POS SCONJ: ä (4), mäþan (5)
+Fixed construction found in swedish-old-moses-b-264 with POS NOUN: iudha (23), konunger (24)
+Fixed construction found in swedish-old-moses-b-266 with POS SCONJ: ä (4), mäþan (5)
+Fixed construction found in swedish-old-moses-b-268 with POS NOUN: iudha (5), konunger (6)
+Could not process 'sum', 16 in sentence swedish-old-moses-b-269. Please check whether it should be relative pronoun or SCONJ.
+Changed PRON/DET into NUM: halfiærda, 35 in sentence swedish-old-moses-b-273. If this is not a numeral, add lemma halffiärþe to code.
+Foreign word found in swedish-old-moses-b-274: morere, 7
+'vara' with deprel parataxis, 9 in sentence swedish-old-moses-b-274, change to copula.
+Dislocated relation found in swedish-old-moses-b-275 between skal (4) and Ihesus (1)
+Could not process 'sum', 10 in sentence swedish-old-moses-b-275. Please check whether it should be relative pronoun or SCONJ.
+Dislocated relation found in swedish-old-moses-b-275 between sighir (11) and sanctus (12)
+Foreign word found in swedish-old-moses-b-275: sanctus, 12
+Fixed construction found in swedish-old-moses-b-275 with POS NOUN: doma (17), dagher (18)
+No particles nidher found for +-token kom, 10 in sentence swedish-old-moses-b-276
+Fixed construction found in swedish-old-moses-b-277 with POS ADJ: iämgamal (9), gamal (10)
+Fixed construction found in swedish-old-moses-b-277 with POS ADV: þo (12), hvaro (13)
+Fixed construction found in swedish-old-moses-b-279 with POS ADJ: upgöra (6), giort (7)
+Fixed construction found in swedish-old-moses-b-283 with POS NOUN: silfkar (22), kar (23)
+Foreign word found in swedish-old-moses-b-283: templo, 29
+Foreign word found in swedish-old-moses-b-283: domini, 30
+Foreign word found in swedish-old-moses-b-286: Mane, 4
+Foreign word found in swedish-old-moses-b-286: techel, 5
+Foreign word found in swedish-old-moses-b-286: phares, 6
+No particles viþer found for +-token kændis, 6 in sentence swedish-old-moses-b-288
+Could not process 'sum', 17 in sentence swedish-old-moses-b-288. Please check whether it should be relative pronoun or SCONJ.
+No particles viþer found for +-token kændis, 21 in sentence swedish-old-moses-b-288
+Dislocated relation found in swedish-old-moses-b-289 between budhar (4) and scriptin (2)
+Foreign word found in swedish-old-moses-b-290: Mane, 1
+Foreign word found in swedish-old-moses-b-291: Thechel, 1
+Fixed construction found in swedish-old-moses-b-291 with POS ADV: hädhan (22), fran (23)
+Foreign word found in swedish-old-moses-b-292: Phares, 1
+Fixed construction found in swedish-old-moses-b-295 with POS NOUN: systor (3), son (4)
+Fixed construction found in swedish-old-moses-b-295 with POS NOUN: konungs (9), namn (10)
+Changed PRON/DET into NUM: siwtighi, 1 in sentence swedish-old-moses-b-296. If this is not a numeral, add lemma siutighi to code.
+'vara' with deprel xcomp, 9 in sentence swedish-old-moses-b-297, change to copula.
+Foreign word found in swedish-old-moses-b-299: ængelus, 5
+Dislocated relation found in swedish-old-moses-b-300 between komma (12) and folk (10)
+'vara' with deprel xcomp, 4 in sentence swedish-old-moses-b-301, change to copula.
+Dislocated relation found in swedish-old-moses-b-302 between skal (10) and tima (3)
+Foreign word found in swedish-old-moses-b-303: templum, 13
+Foreign word found in swedish-old-moses-b-303: domini, 14
+'vara' with deprel root, 3 in sentence swedish-old-moses-b-309, change to copula.
+No particles ater found for +-token gik, 2 in sentence swedish-old-moses-b-311
+Fixed construction found in swedish-old-moses-b-311 with POS ADP: mote (8), þän (9)
+'vara' with deprel advcl, 21 in sentence swedish-old-moses-b-312, change to copula.
+'vara' with deprel acl:relcl, 27 in sentence swedish-old-moses-b-312, change to copula.
+Could not process 'sum', 7 in sentence swedish-old-moses-b-314. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-314 with POS NOUN: ivirbudh (8), budh (9)
+Deprel not changed for numeral. Please look over deprel for numeral: cc, 3 in sentence swedish-old-moses-b-315
+Deprel not changed for numeral. Please look over deprel for numeral: xx, 5 in sentence swedish-old-moses-b-315
+Could not process 'sum', 8 in sentence swedish-old-moses-b-316. Please check whether it should be relative pronoun or SCONJ.
+Deprel not changed for numeral. Please look over deprel for numeral: fyretighi, 12 in sentence swedish-old-moses-b-317
+Changed PRON/DET into NUM: halff, 5 in sentence swedish-old-moses-b-318. If this is not a numeral, add lemma halffiärþe to code.
+Changed PRON/DET into NUM: fiærda, 6 in sentence swedish-old-moses-b-318. If this is not a numeral, add lemma fiærda to code.
+Deprel not changed for numeral. Please look over deprel for numeral: fiærda, 6 in sentence swedish-old-moses-b-318
+Fixed construction found in swedish-old-moses-b-318 with POS NUM: halffiärþe (5), fiærda (6)
+Fixed construction found in swedish-old-moses-b-323 with POS VERB: viþertaka (2), thok (3)
+Fixed construction found in swedish-old-moses-b-324 with POS VERB: aterfara (28), fara (29)
+Foreign word found in swedish-old-moses-b-324: templum, 41
+Foreign word found in swedish-old-moses-b-324: domini, 42
+Dislocated relation found in swedish-old-moses-b-325 between prophetade (10) and Zacharias (1)
+Foreign word found in swedish-old-moses-b-325: propheta, 2
+Skipped genitive nmod gudz, 18 because head wæghna is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-325)
+Fixed construction found in swedish-old-moses-b-325 with POS VERB: aterfara (20), fara (21)
+Could not process 'sum', 25 in sentence swedish-old-moses-b-325. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-328 with POS SCONJ: þy (9), at (10)
+Fixed construction found in swedish-old-moses-b-328 with POS ADP: af (19), Babylonien (20)
+Dislocated relation found in swedish-old-moses-b-330 between toko (8) and han (1)
+Changed PRON/DET into NUM: fæmtighi, 1 in sentence swedish-old-moses-b-331. If this is not a numeral, add lemma fämtighi to code.
+Deprel not changed for numeral. Please look over deprel for numeral: thusand, 2 in sentence swedish-old-moses-b-331
+Deprel not changed for numeral. Please look over deprel for numeral: tusandh, 7 in sentence swedish-old-moses-b-331
+Deprel not changed for numeral. Please look over deprel for numeral: thusandh, 10 in sentence swedish-old-moses-b-331
+Deprel not changed for numeral. Please look over deprel for numeral: tusand, 10 in sentence swedish-old-moses-b-332
+Could not process 'sum', 16 in sentence swedish-old-moses-b-332. Please check whether it should be relative pronoun or SCONJ.
+Foreign word found in swedish-old-moses-b-334: samaritani, 3
+Foreign word found in swedish-old-moses-b-334: templo, 39
+Foreign word found in swedish-old-moses-b-334: domini, 40
+Fixed construction found in swedish-old-moses-b-334 with POS ADP: up (47), a (48)
+Fixed construction found in swedish-old-moses-b-335 with POS SCONJ: ä (5), mäþan (6)
+'vara' with deprel root, 4 in sentence swedish-old-moses-b-341, change to copula.
+Dislocated relation found in swedish-old-moses-b-342 between finge (7) and bygdis (4)
+Fixed construction found in swedish-old-moses-b-343 with POS VERB: forbiuþa (2), bødh (3)
+Foreign word found in swedish-old-moses-b-343: templo, 11
+Foreign word found in swedish-old-moses-b-343: domini, 12
+Fixed construction found in swedish-old-moses-b-344 with POS SCONJ: sva (7), at (8)
+'vara' with deprel acl:relcl, 25 in sentence swedish-old-moses-b-344, change to copula.
+Fixed construction found in swedish-old-moses-b-351 with POS SCONJ: þy (12), at (13)
+Fixed construction found in swedish-old-moses-b-351 with POS SCONJ: þy (28), at (29)
+Foreign word found in swedish-old-moses-b-354: prophete, 4
+Skipped genitive nmod gudz, 8 because head wæghna is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-354)
+'vara' with deprel acl, 7 in sentence swedish-old-moses-b-355, change to copula.
+Fixed construction found in swedish-old-moses-b-355 with POS ADP: kring (6), land (9)
+Skipped genitive nmod konungx, 13 because head wæghna is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-moses-b-355)
+Dislocated relation found in swedish-old-moses-b-356 between foro (10) and konungh (12)
+Deprel not changed for numeral. Please look over deprel for numeral: tree, 3 in sentence swedish-old-moses-b-359
+Could not process 'sum', 11 in sentence swedish-old-moses-b-361. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-363 with POS ADV: þo (2), hvaro (3)
+Dislocated relation found in swedish-old-moses-b-367 between radhir (3) and Mannin (1)
+Fixed construction found in swedish-old-moses-b-368 with POS ADV: þo (2), hvaro (3)
+Could not process 'sum', 5 in sentence swedish-old-moses-b-369. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-369 with POS ADJ: iämfaster (12), fast (13)
+Could not process 'sum', 14 in sentence swedish-old-moses-b-369. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-moses-b-371 with POS SCONJ: þy (13), at (14)
+Fixed construction found in swedish-old-moses-b-371 with POS NOUN: vinqvister (27), qwistana (28)
+Fixed construction found in swedish-old-moses-b-373 with POS SCONJ: ä (2), mäþan (3)
+Dislocated relation found in swedish-old-moses-b-373 between lo (7) and lo (5)
+Dislocated relation found in swedish-old-moses-b-374 between syrgde (9) and blidh (5)
+Fixed construction found in swedish-old-moses-b-375 with POS ADV: þo (1), hvaro (2)
+Fixed construction found in swedish-old-moses-b-375 with POS SCONJ: þy (17), at (18)
+Foreign word found in swedish-old-moses-b-379: templum, 9
+Foreign word found in swedish-old-moses-b-379: domini, 10
+Fixed construction found in swedish-old-moses-b-379 with POS VERB: *atersända (14), sændas (15)
+Foreign word found in swedish-old-moses-b-379: templo, 23
+Fixed construction found in swedish-old-moses-b-379 with POS ADJ: *atersända (28), sændh (29)
+Fixed construction found in swedish-old-moses-b-380 with POS SCONJ: þy (7), at (8)
+Foreign word found in swedish-old-moses-b-381: templum, 7
+Foreign word found in swedish-old-moses-b-381: domini, 8
+Foreign word found in swedish-old-moses-b-384: ewangelio, 7
+Fixed construction found in swedish-old-moses-b-384 with POS VERB: upbyggia (17), bygt (18)
+Foreign word found in swedish-old-moses-b-385: templum, 4
+Foreign word found in swedish-old-moses-b-385: domini, 5
+Fixed construction found in swedish-old-moses-b-385 with POS SCONJ: þy (16), at (17)
+Foreign word found in swedish-old-moses-b-385: caldei, 18
+Foreign word found in swedish-old-moses-b-385: babylonij, 20
+Foreign word found in swedish-old-moses-b-385: biblian, 22
+Fixed construction found in swedish-old-moses-b-386 with POS ADV: þo (16), hvaro (17)
+Foreign word found in swedish-old-moses-b-387: longinianus, 7
+'vara' with deprel parataxis, 9 in sentence swedish-old-moses-b-387, change to copula.
+Fixed construction found in swedish-old-moses-b-387 with POS SCONJ: þy (13), at (14)
+'vara' with deprel root, 4 in sentence swedish-old-moses-b-388, change to copula.
+Foreign word found in swedish-old-moses-b-389: prophetam, 6
+Foreign word found in swedish-old-moses-b-390: bibliam, 13
+Foreign word found in swedish-old-moses-b-390: in, 35
+Foreign word found in swedish-old-moses-b-390: libro, 36
+Foreign word found in swedish-old-moses-b-390: regum, 37
+Fixed construction found in swedish-old-moses-b-390 with POS VERB: aterfara (42), for (43)
+Fixed construction found in swedish-old-moses-b-391 with POS NOUN: lands (16), härra (17)
+Fixed construction found in swedish-old-moses-b-391 with POS ADP: kringh (19), land (21)
+Fixed construction found in swedish-old-moses-b-391 with POS NOUN: þiänisto (25), man (26)
+Fixed construction found in swedish-old-moses-b-392 with POS ADV: här (3), äptir (4)
+Deprel not changed for numeral. Please look over deprel for numeral: hundrada, 12 in sentence swedish-old-moses-b-393
+Foreign word found in swedish-old-moses-b-395: templum, 6
+Fixed construction found in swedish-old-moses-b-396 with POS ADJ: niþer (6), bryta (7)
+Foreign word found in swedish-old-moses-b-399: nothus, 16
+'vara' with deprel root, 4 in sentence swedish-old-moses-b-400, change to copula.
+Foreign word found in swedish-old-moses-b-400: regina, 6
+Dislocated relation found in swedish-old-moses-b-402 between stridde (5) and darius (3)
+Foreign word found in swedish-old-moses-b-403: greci, 4
+Foreign word found in swedish-old-moses-b-404: machabeorum, 5
+Foreign word found in swedish-old-moses-b-404: machabeis, 25
+Fixed construction found in swedish-old-moses-b-406 with POS ADV: þär (6), mäþ (7)
+Fixed construction found in swedish-old-moses-b-408 with POS NOUN: närsystlunge (16), syslunga (17)
+Fixed construction found in swedish-old-moses-b-409 with POS VERB: afsighia (12), sakt (13)
+Dislocated relation found in swedish-old-moses-b-410 between byriadis (12) and tima (2)
+Deprel not changed for numeral. Please look over deprel for numeral: hundrada, 13 in sentence swedish-old-moses-b-411
+Deprel not changed for numeral. Please look over deprel for numeral: xc, 14 in sentence swedish-old-moses-b-411
+Deprel not changed for numeral. Please look over deprel for numeral: ix, 16 in sentence swedish-old-moses-b-411
+Fixed construction found in swedish-old-moses-b-412 with POS ADV: þär (1), af (2)
+Fixed construction found in swedish-old-moses-b-412 with POS NOUN: latins (5), värs (6)
+Foreign word found in swedish-old-moses-b-412: Milia, 8
+Foreign word found in swedish-old-moses-b-412: sunt, 9
+Foreign word found in swedish-old-moses-b-412: quinque, 10
+Foreign word found in swedish-old-moses-b-412: centum, 11
+Foreign word found in swedish-old-moses-b-412: nonaginta, 12
+Foreign word found in swedish-old-moses-b-412: nouemque, 13
+Foreign word found in swedish-old-moses-b-412: Annos, 14
+Foreign word found in swedish-old-moses-b-412: ad, 15
+Foreign word found in swedish-old-moses-b-412: cristum, 16
+Foreign word found in swedish-old-moses-b-412: si, 17
+Foreign word found in swedish-old-moses-b-412: numerare, 18
+Foreign word found in swedish-old-moses-b-412: velis, 19
