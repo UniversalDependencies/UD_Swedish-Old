@@ -14,6 +14,8 @@ The conversion from MAÞiR Trees to UD has been performed by Astrid Berntsson In
 
 This work is funded by the Swedish national research infrastructure Språkbanken, jointly financially supported by the Swedish Research Council (2025–2028; grant 2023-00161) and the 10 participating partner institutions.
 
+The work has benefited from discussions within UniDive (COST Action CA21167).
+
 # References
 
 * H. Eckhoff, K. Bech, Gerlof Bouma, K. Eide, D. Haug, O. E. Haugen, M. Johndal (2018): The PROIEL treebank family: a standard for early attestations of Indo-European languages, in Language Resources and Evaluation, volume 52, issue 1, pages 29-65.
