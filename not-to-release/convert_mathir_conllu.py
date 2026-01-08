@@ -46,7 +46,8 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
         # set new sent-id
         sentence.set_meta('sent_id', f"swedish-old-{corpus_name}-{new_sent_id}")
         new_sent_id += 1
-        log_message += str(sentence.id) + "\n"
+        sent_log_message = ""
+        sent_issue_message = ""
 
         for token in sentence:
             # Clear MISC field from 'ref'
@@ -63,16 +64,16 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
             try:
                 del token.feats['Reflex']
                 token.misc = {'Reflex': {'Yes'}}
-                log_message += f"Moved Reflex feature to MISC column for {token.form}, {token.id}\n"
+                sent_log_message += f"Moved Reflex feature to MISC column for {token.form}, {token.id}\n"
             except KeyError:
                 pass
              
             # Change obl:arg to obl
             if token.deprel == "obl:arg":
                 token.deprel = "obl"
-                log_message += f"Changed obl:arg to obl for {token.form}, {token.id}\n"
+                sent_log_message += f"Changed obl:arg to obl for {token.form}, {token.id}\n"
 
-################################## Handle verbs########################################
+################################## Handle verbs ########################################
             if token.upos == 'VERB':
                 # Handle passive verbs
                 try:
@@ -84,26 +85,26 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                         clausal_subects = [t for t in sentence if t.head == token.id and t.deprel == 'csubj']
                         pass_subjects = [t for t in sentence if t.head == token.id and t.deprel == 'nsubj']
                         if len(pass_subjects)+len(clausal_subects) > 1:
-                            issue_message += f"Multiple subjects found for passive verb {token.form}, {token.id} in sentence {sentence.id}\n"
+                            sent_issue_message += f"Multiple subjects found for passive verb {token.form}, {token.id} in sentence {sentence.id}\n"
                         elif len(clausal_subects) == 1:
                             # There is a clausal subject
                             clausal_subj = clausal_subects[0]
                             clausal_subj.deprel = 'csubj:pass'
-                            log_message += f"Changed passive clausal subject with head {clausal_subj.form}, {clausal_subj.id} to csubj:pass\n"
+                            sent_log_message += f"Changed passive clausal subject with head {clausal_subj.form}, {clausal_subj.id} to csubj:pass\n"
                         elif len(pass_subjects) == 1:
                             # There is a nominal subject - change its deprel based on its case
                             subject = pass_subjects[0]
                             case = str(subject.feats["Case"])
                             if case == "{'Nom'}":
                                 subject.deprel = 'nsubj:pass'
-                                log_message += f"Changed passive nominal subject to nsubj:pass: {subject.form}, {subject.id}\n"
+                                sent_log_message += f"Changed passive nominal subject to nsubj:pass: {subject.form}, {subject.id}\n"
                             # Change the dependency label of non-nominative subject
                             elif case == "{'Acc'}":
                                 subject.deprel = 'obj'
-                                log_message += f"Changed passive accusative subject to obj: {subject.form}, {subject.id}\n"
+                                sent_log_message += f"Changed passive accusative subject to obj: {subject.form}, {subject.id}\n"
                             else:
                                 subject.deprel = "obl:agent"
-                                log_message += f"Changed passive {case} subject with to obl:agent: {subject.form}, {subject.id}\n"
+                                sent_log_message += f"Changed passive {case} subject with to obl:agent: {subject.form}, {subject.id}\n"
                 except KeyError:
                     pass
 
@@ -117,19 +118,19 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                     # Find the particle token among the dependents
                     particles = [t for t in sentence if t.head == token.id and t.lemma == parts[1]]
                     if len(particles) == 0:
-                        issue_message += f"No particles {parts[1]} found for +-token {token.form}, {token.id} in sentence {sentence.id}\n"
+                        sent_issue_message += f"No particles {parts[1]} found for +-token {token.form}, {token.id} in sentence {sentence.id}\n"
                         pass
                     elif len(particles) > 1:
-                        issue_message += f"Multiple particles {parts[1]} found for +-token {token.form}, {token.id} in sentence {sentence.id}: {[token.id for token in particles]}\n"
+                        sent_issue_message += f"Multiple particles {parts[1]} found for +-token {token.form}, {token.id} in sentence {sentence.id}: {[token.id for token in particles]}\n"
                         pass
                     else:
                         particle_token = particles[0]
-                        log_message += f"Found +-compound: {token.lemma}+{particle_token.lemma}, {token.id}, particle is {particle_token.upos}, deprel {particle_token.deprel}\n"
+                        sent_log_message += f"Found +-compound: {token.lemma}+{particle_token.lemma}, {token.id}, particle is {particle_token.upos}, deprel {particle_token.deprel}\n"
                         
                         # If particle is ADP with deprel obl, change to compound:prt. Otherwise, leave relation as is.
                         if particle_token.upos == 'ADP' and particle_token.deprel == 'obl':
                             particle_token.deprel = 'compound:prt'
-                            log_message += f"Changed particle deprel to compound:prt: {particle_token.form}, {particle_token.id}, head: {token.form}\n"
+                            sent_log_message += f"Changed particle deprel to compound:prt: {particle_token.form}, {particle_token.id}, head: {token.form}\n"
 
                 # Handle participles and infinitives
                 try:
@@ -137,12 +138,12 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                     if token.feats['VerbForm'] == {'Part'}:
                         if head_is_aux_candidate(token, sentence): # Check if participle is dependent of an auxiliary verb
                             # If so, treat as auxiliary construction
-                            sentence, log_message = handle_auxiliary(token.id, sentence, log_message)
+                            sentence, sent_log_message = handle_auxiliary(token.id, sentence, sent_log_message)
                         else: # Otherwise, treat as adjective
                             token.upos = 'ADJ'
                             if token.deprel == 'acl':
                                 token.deprel = 'amod'
-                            log_message += f"Changed participle to adjective: {token.form}, {token.id}, deprel: {token.deprel}, head: {sentence[token.head].form}\n"
+                            sent_log_message += f"Changed participle to adjective: {token.form}, {token.id}, deprel: {token.deprel}, head: {sentence[token.head].form}\n"
                     
                     # Handle infinitives
                     elif token.feats['VerbForm'] == {'Inf'}:
@@ -151,7 +152,7 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                         # Check if head is auxiliary verb
                         if not has_at and head_is_aux_candidate(token, sentence):
                             # If so, treat as auxiliary construction
-                            sentence, log_message = handle_auxiliary(token.id, sentence, log_message)
+                            sentence, sent_log_message = handle_auxiliary(token.id, sentence, sent_log_message)
                 except KeyError:
                     pass
 
@@ -187,14 +188,14 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                     # Check if the token now has PronType
                     try: 
                         prontype = token.feats["PronType"]
-                        log_message += f"Added PronType {prontype} for token: {token.form}, {token.id}\n"
+                        sent_log_message += f"Added PronType {prontype} for token: {token.form}, {token.id}\n"
                     except KeyError:
                         # No PronType added
                         # Treat as numeral
-                        log_message += f"Changed {token.form}, {token.id} to numeral\n"
+                        sent_log_message += f"Changed {token.form} ({token.id}) to numeral\n"
                         # Flag if there is a risk that this is not a numeral
                         if token.lemma not in numeral_lemmas and not token.lemma.isdigit():
-                            issue_message += f"Changed PRON/DET into NUM: {token.form}, {token.id} in sentence {sentence.id}. If this is not a numeral, add lemma {token.lemma} to code.\n"
+                            sent_issue_message += f"Changed PRON/DET into NUM: {token.form} ({token.id}) in sentence {sentence.id}. If this is not a numeral, add lemma {token.lemma} to code.\n"
                         token.upos = "NUM"
                         try: # Remove number feature
                             del token.feats["Number"]
@@ -202,15 +203,15 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                             pass
                         if token.deprel == "det":
                             token.deprel = "nummod"
-                            log_message += f"Changed relation from 'det' to 'nummod' for token {token.form} ({token.id})."
+                            sent_log_message += f"Changed relation from 'det' to 'nummod' for token {token.form} ({token.id}).\n"
                         else:
-                            issue_message += f"Deprel not changed for numeral. Please look over deprel for numeral: {token.form}, {token.id} in sentence {sentence.id}\n"
+                            sent_issue_message += f"Deprel not changed for numeral. Please look over deprel for numeral: {token.form}, {token.id} in sentence {sentence.id}\n"
 
                 # Possessive pronouns
                 if token.form in possessive_prs or token.lemma in possessive_prs:
                     token.deprel = "nmod:poss"
                     token.feats["Poss"] = {"Yes"}
-                    log_message += f"Marked possessive pronoun: {token.form}, {token.id}, head: {sentence[token.head].form}\n"
+                    sent_log_message += f"Marked possessive pronoun: {token.form}, {token.id}, head: {sentence[token.head].form}\n"
 
 ########################### Handle nouns, proper nound and pronouns ##############################
             if token.upos in {"NOUN", "PROPN", "PRON"}:
@@ -220,9 +221,9 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                         # Only change if head is not also genitive
                         if sentence[token.head].feats["Case"] != {"Gen"}:
                             token.deprel = "nmod:poss"
-                            log_message += f"Changed genitive nmod into nmod:poss: {token.form}, {token.id}, head: {sentence[token.head].form}\n"
+                            sent_log_message += f"Changed genitive nmod into nmod:poss: {token.form}, {token.id}, head: {sentence[token.head].form}\n"
                         else:
-                            issue_message += f"Skipped genitive nmod {token.form}, {token.id} because head {sentence[token.head].form} is also genitive. Check whether the word is possessive and should have ':poss' (sentence {sentence.id})\n"
+                            sent_issue_message += f"Skipped genitive nmod {token.form}, {token.id} because head {sentence[token.head].form} is also genitive. Check whether the word is possessive and should have ':poss' (sentence {sentence.id})\n"
                 except KeyError: # Foreign nouns has no Case feature
                     pass
 
@@ -232,7 +233,7 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                     if token.lemma == 'härra' and sentence[int(token.id)].lemma == 'abbote':
                         token.deprel = 'nmod' # Change deprel to nmod
                         token.head = str(int(token.id)+1) # Make "abbote" the head
-                        log_message += f"Fixed 'härra abbote' ({token.id}, {int(token.id)+1}) construction\n"
+                        sent_log_message += f"Fixed 'härra abbote' ({token.id}, {int(token.id)+1}) construction\n"
                 except IndexError:
                     pass
 
@@ -242,7 +243,7 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                 if token.lemma in {"eighi", "eigh"}:
                     token.upos = "PART"
                     token.feats["Polarity"] = {"Neg"}
-                    log_message += f"Marked negation particle: {token.form}, {token.id}\n"
+                    sent_log_message += f"Marked negation particle: {token.form}, {token.id}\n"
             
             elif token.upos == "SCONJ":
                 # Attempt to handle relative clauses with 'sum' (tagged as SCONJ in Mathir)
@@ -258,11 +259,11 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                                 token.deprel = "obj"
                             else: # Otherwise, make "sum" the subject
                                 token.deprel = "nsubj"
-                            log_message += f"Changed 'sum' ({token.id}) to relative {token.deprel} pronoun.\n"
+                            sent_log_message += f"Changed 'sum' ({token.id}) to relative {token.deprel} pronoun.\n"
                         else:
-                            issue_message += f"Could not process 'sum', {token.id} in sentence {sentence.id}. Please check whether it should be relative pronoun or SCONJ.\n"
+                            sent_issue_message += f"Could not process 'sum', {token.id} in sentence {sentence.id}. Please check whether it should be relative pronoun or SCONJ.\n"
                     except KeyError:
-                        issue_message += f"Could not process 'sum', {token.id} in sentence {sentence.id}. Please check whether it should be relative pronoun or SCONJ.\n"
+                        sent_issue_message += f"Could not process 'sum', {token.id} in sentence {sentence.id}. Please check whether it should be relative pronoun or SCONJ.\n"
 
 ############################ Handle other issues not dependent on POS ##############################
             # Handle 'fixed' relations
@@ -276,9 +277,9 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                     token.upos = "SCONJ"
                     head.deprel = "mark"
                     head.upos = "ADV"
-                    log_message += f"Solved fixed SCONJ construction 'fyr än' (tokens {token.head} and {token.id})\n"
+                    sent_log_message += f"Solved fixed SCONJ construction 'fyr än' (tokens {token.head} and {token.id})\n"
                 
-                # Specific fix for "härads nämd"
+                # Specific fix for "härads nämd" TODO remove
                 elif head.lemma == "härads" and token.lemma == "nämd" and head.deprel != "fixed":
                     token.head = head.head
                     head.head = token.id
@@ -286,29 +287,42 @@ with open(sys.argv[2], 'w', encoding="utf-8") as outfile:
                     head.deprel = "compound"
                     token.upos = "NOUN"
                     head.upos = "NOUN"
-                    log_message += f"Solved fixed compound construction 'härads nämd' (tokens {token.head} and {token.id}\n)"
+                    sent_log_message += f"Solved fixed NOUN construction 'härads nämnd' (tokens {token.head} and {token.id})\n"
                 
                 else:
                     # Add ExtPos to head that can be changed later
                     head.feats["ExtPos"] = {str(head.upos)}
-                    issue_message += f"Fixed construction found in {sentence.id} with POS {head.upos}: {head.lemma} ({head.id}), {token.lemma} ({token.id})\n"
+                    sent_issue_message += f"Fixed construction found in {sentence.id} with POS {head.upos}: {head.lemma} ({head.id}), {token.lemma} ({token.id})\n"
             
             # Flag 'dislocated' relations
             elif token.deprel == "dislocated":
                 head = sentence[token.head]
-                issue_message += f"Dislocated relation found in {sentence.id} between {head.form} ({head.id}) and {token.form} ({token.id})\n"
+                sent_issue_message += f"Dislocated relation found in {sentence.id} between {head.form} ({head.id}) and {token.form} ({token.id})\n"
             
             # Flag foreign words
             if token.xpos == "F-":
-                issue_message += f"Foreign word found in {sentence.id}: {token.form}, {token.id}\n"
+                token.feats["Foreign"] = {"Yes"}
+                sent_issue_message += f"Foreign word found in {sentence.id}: {token.form}, {token.id}\n"
 
             # Flag 'vara' that is not copula
             if token.lemma == "vara" and token.deprel != "cop":
-                issue_message += f"'vara' with deprel {token.deprel}, {token.id} in sentence {sentence.id}, change to copula.\n"
+                sent_issue_message += f"'vara' with deprel {token.deprel}, {token.id} in sentence {sentence.id}, change to copula.\n"
 
         outfile.write(sentence.conll()) # Write the modified sentence to the output file
         outfile.write('\n\n')
-        log_message += "\n"
+        
+        log_message += sentence.id + '\n'
+        issue_message += sentence.id + '\n'
+
+        if sent_log_message:
+            log_message += sent_log_message + "\n"
+        else:
+            log_message += "No changes made.\n\n"
+
+        if sent_issue_message:
+            issue_message += sent_issue_message + "\n"
+        else:
+            issue_message += "No issues found.\n\n"
 
 with open(f"conversion_logfiles/conversion_log-{corpus_name}.txt", 'w', encoding="utf-8") as log_file:
     log_file.write(log_message)

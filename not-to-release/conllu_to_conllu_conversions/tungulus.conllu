@@ -3598,5 +3598,5 @@
 # text = mcdlviio
 # sent_id = swedish-old-tungulus-221
 # old_sent_id = 26199
-1	mcdlviio	1457	VERB	F-	_	0	root	_	_
+1	mcdlviio	1457	VERB	F-	Foreign=Yes	0	root	_	_
 

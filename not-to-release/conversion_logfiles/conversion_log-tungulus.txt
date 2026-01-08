@@ -6,6 +6,7 @@ swedish-old-tungulus-2
 Added PronType {'Art'} for token: en, 5
 
 swedish-old-tungulus-3
+No changes made.
 
 swedish-old-tungulus-4
 Added PronType {'Prs'} for token: sinom, 8
@@ -126,8 +127,10 @@ Added PronType {'Prs'} for token: sin, 22
 Marked possessive pronoun: sin, 22, head: engil
 
 swedish-old-tungulus-27
+No changes made.
 
 swedish-old-tungulus-28
+No changes made.
 
 swedish-old-tungulus-29
 Added PronType {'Prs'} for token: min, 4
@@ -186,8 +189,10 @@ Added PronType {'Prs'} for token: thiin, 6
 Marked possessive pronoun: thiin, 6, head: likamma
 
 swedish-old-tungulus-41
+No changes made.
 
 swedish-old-tungulus-42
+No changes made.
 
 swedish-old-tungulus-43
 Added PronType {'Prs'} for token: min, 2
@@ -208,6 +213,7 @@ New auxiliary construction: skal (4) rädhäs (7)
 Added PronType {'Prs'} for token: them, 17
 
 swedish-old-tungulus-45
+No changes made.
 
 swedish-old-tungulus-46
 Added PronType {'Neg'} for token: enghen, 1
@@ -230,11 +236,13 @@ Added PronType {'Art'} for token: thet, 5
 Changed passive nominal subject to nsubj:pass: hon, 8
 
 swedish-old-tungulus-50
+No changes made.
 
 swedish-old-tungulus-51
 Changed passive nominal subject to nsubj:pass: hwat, 3
 
 swedish-old-tungulus-52
+No changes made.
 
 swedish-old-tungulus-53
 Added PronType {'Prs'} for token: the, 3
@@ -283,6 +291,7 @@ swedish-old-tungulus-61
 Added PronType {'Prs'} for token: the, 4
 
 swedish-old-tungulus-62
+No changes made.
 
 swedish-old-tungulus-63
 Added PronType {'Art'} for token: then, 2
@@ -291,8 +300,9 @@ Added PronType {'Tot'} for token: alt, 10
 swedish-old-tungulus-64
 Added PronType {'Art'} for token: then, 2
 Added PronType {'Art'} for token: en, 5
-Changed thusändh, 7 to numeral
-Changed relation from 'det' to 'nummod' for token thusändh (7).Added PronType {'Art'} for token: eth, 11
+Changed thusändh (7) to numeral
+Changed relation from 'det' to 'nummod' for token thusändh (7).
+Added PronType {'Art'} for token: eth, 11
 
 swedish-old-tungulus-65
 Added PronType {'Neg'} for token: enghen, 3
@@ -335,13 +345,16 @@ swedish-old-tungulus-73
 Added PronType {'Art'} for token: thäss, 1
 
 swedish-old-tungulus-74
+No changes made.
 
 swedish-old-tungulus-75
 Found +-compound: fara+niþer, 3, particle is ADV, deprel advmod
 Added PronType {'Art'} for token: thet, 4
-Changed siäx, 10 to numeral
-Changed relation from 'det' to 'nummod' for token siäx (10).Changed thusandhe, 11 to numeral
+Changed siäx (10) to numeral
+Changed relation from 'det' to 'nummod' for token siäx (10).
+Changed thusandhe (11) to numeral
 Changed relation from 'det' to 'nummod' for token thusandhe (11).
+
 swedish-old-tungulus-76
 Changed obl:arg to obl for hwem, 3
 Added PronType {'Art'} for token: then, 4
@@ -388,11 +401,13 @@ Added PronType {'Prs'} for token: the, 3
 Added PronType {'Art'} for token: en, 6
 
 swedish-old-tungulus-85
+No changes made.
 
 swedish-old-tungulus-86
 Added PronType {'Art'} for token: en, 5
-Changed twa, 7 to numeral
-Changed relation from 'det' to 'nummod' for token twa (7).Added PronType {'Art'} for token: eth, 11
+Changed twa (7) to numeral
+Changed relation from 'det' to 'nummod' for token twa (7).
+Added PronType {'Art'} for token: eth, 11
 
 swedish-old-tungulus-87
 Added PronType {'Tot'} for token: all, 3
@@ -408,6 +423,7 @@ Added PronType {'Prs'} for token: them, 6
 Added PronType {'Dem'} for token: thessä, 11
 
 swedish-old-tungulus-90
+No changes made.
 
 swedish-old-tungulus-91
 Added PronType {'Art'} for token: en, 4
@@ -481,8 +497,10 @@ swedish-old-tungulus-102
 Moved Reflex feature to MISC column for sik, 6
 
 swedish-old-tungulus-103
+No changes made.
 
 swedish-old-tungulus-104
+No changes made.
 
 swedish-old-tungulus-105
 Changed obl:arg to obl for henne, 8
@@ -490,8 +508,10 @@ Added PronType {'Art'} for token: en, 9
 Added PronType {'Art'} for token: enä, 12
 
 swedish-old-tungulus-106
+No changes made.
 
 swedish-old-tungulus-107
+No changes made.
 
 swedish-old-tungulus-108
 Added PronType {'Prs'} for token: the, 3
@@ -528,8 +548,9 @@ swedish-old-tungulus-114
 Added PronType {'Art'} for token: thet, 5
 
 swedish-old-tungulus-115
-Changed iij, 10 to numeral
+Changed iij (10) to numeral
 Changed relation from 'det' to 'nummod' for token iij (10).
+
 swedish-old-tungulus-116
 Added PronType {'Ind'} for token: sommä, 1
 Added PronType {'Ind'} for token: somma, 5
@@ -557,8 +578,10 @@ Added PronType {'Prs'} for token: sinä, 10
 Marked possessive pronoun: sinä, 10, head: halssa
 
 swedish-old-tungulus-121
+No changes made.
 
 swedish-old-tungulus-122
+No changes made.
 
 swedish-old-tungulus-123
 Added PronType {'Prs'} for token: sin, 4
@@ -581,15 +604,17 @@ Added PronType {'Art'} for token: en, 4
 swedish-old-tungulus-127
 Added PronType {'Tot'} for token: allä, 3
 Added PronType {'Art'} for token: the, 4
-Changed thusändä, 10 to numeral
-Changed relation from 'det' to 'nummod' for token thusändä (10).Added PronType {'Prs'} for token: them, 15
+Changed thusändä (10) to numeral
+Changed relation from 'det' to 'nummod' for token thusändä (10).
+Added PronType {'Prs'} for token: them, 15
 
 swedish-old-tungulus-128
 Added PronType {'Tot'} for token: Allä, 9
 Added PronType {'Art'} for token: the, 10
 Added PronType {'Prs'} for token: the, 12
-Changed thusandhe, 15 to numeral
-Changed relation from 'det' to 'nummod' for token thusandhe (15).Added PronType {'Art'} for token: thet, 19
+Changed thusandhe (15) to numeral
+Changed relation from 'det' to 'nummod' for token thusandhe (15).
+Added PronType {'Art'} for token: thet, 19
 
 swedish-old-tungulus-129
 Added PronType {'Prs'} for token: thet, 4
@@ -607,6 +632,7 @@ Added PronType {'Neg'} for token: enkte, 14
 New auxiliary construction: skal (12) skadha (15)
 
 swedish-old-tungulus-132
+No changes made.
 
 swedish-old-tungulus-133
 Added PronType {'Prs'} for token: the, 19
@@ -653,6 +679,7 @@ Marked negation particle: ey, 6
 Marked negation particle: ey, 12
 
 swedish-old-tungulus-141
+No changes made.
 
 swedish-old-tungulus-142
 Added PronType {'Prs'} for token: thy, 2
@@ -835,6 +862,7 @@ Changed 'sum' (8) to relative nsubj pronoun.
 Changed obl:arg to obl for mannom, 13
 
 swedish-old-tungulus-172
+No changes made.
 
 swedish-old-tungulus-173
 Added PronType {'Prs'} for token: them, 2
@@ -865,9 +893,11 @@ Changed passive nominal subject to nsubj:pass: mässän, 30
 
 swedish-old-tungulus-177
 Added PronType {'Prs'} for token: thet, 1
-Changed ij, 3 to numeral
-Changed relation from 'det' to 'nummod' for token ij (3).Changed ij, 6 to numeral
+Changed ij (3) to numeral
+Changed relation from 'det' to 'nummod' for token ij (3).
+Changed ij (6) to numeral
 Changed relation from 'det' to 'nummod' for token ij (6).
+
 swedish-old-tungulus-178
 Added PronType {'Art'} for token: thäss, 1
 Added PronType {'Art'} for token: thäss, 4
@@ -899,8 +929,9 @@ Added PronType {'Prs'} for token: the, 7
 Added PronType {'Art'} for token: enä, 14
 
 swedish-old-tungulus-185
-Changed twa, 4 to numeral
+Changed twa (4) to numeral
 Changed relation from 'det' to 'nummod' for token twa (4).
+
 swedish-old-tungulus-186
 Added PronType {'Art'} for token: the, 13
 
@@ -950,10 +981,12 @@ Added PronType {'Prs'} for token: the, 3
 swedish-old-tungulus-197
 Added PronType {'Prs'} for token: the, 3
 Added PronType {'Ind'} for token: margha, 4
-Changed thusändä, 12 to numeral
-Changed relation from 'det' to 'nummod' for token thusändä (12).Added PronType {'Tot'} for token: hwart, 15
-Changed thusändä, 18 to numeral
-Changed relation from 'det' to 'nummod' for token thusändä (18).Added PronType {'Prs'} for token: the, 20
+Changed thusändä (12) to numeral
+Changed relation from 'det' to 'nummod' for token thusändä (12).
+Added PronType {'Tot'} for token: hwart, 15
+Changed thusändä (18) to numeral
+Changed relation from 'det' to 'nummod' for token thusändä (18).
+Added PronType {'Prs'} for token: the, 20
 Marked negation particle: ey, 22
 Added PronType {'Tot'} for token: allä, 23
 Changed participle to adjective: talt, 24, deprel: xcomp, head: gatho
@@ -966,9 +999,11 @@ Added PronType {'Art'} for token: en, 8
 swedish-old-tungulus-199
 Added PronType {'Ind'} for token: manga, 3
 Added PronType {'Tot'} for token: hwar, 6
-Changed x, 8 to numeral
-Changed relation from 'det' to 'nummod' for token x (8).Changed x, 12 to numeral
+Changed x (8) to numeral
+Changed relation from 'det' to 'nummod' for token x (8).
+Changed x (12) to numeral
 Changed relation from 'det' to 'nummod' for token x (12).
+
 swedish-old-tungulus-200
 Marked possessive pronoun: hans, 1, head: klör
 
@@ -995,9 +1030,11 @@ Marked possessive pronoun: hans, 7, head: andha
 swedish-old-tungulus-206
 Added PronType {'Prs'} for token: sin, 4
 Marked possessive pronoun: sin, 4, head: anda
-Changed siäx, 8 to numeral
-Changed relation from 'det' to 'nummod' for token siäx (8).Changed thusändä, 9 to numeral
+Changed siäx (8) to numeral
+Changed relation from 'det' to 'nummod' for token siäx (8).
+Changed thusändä (9) to numeral
 Changed relation from 'det' to 'nummod' for token thusändä (9).
+
 swedish-old-tungulus-207
 Added PronType {'Prs'} for token: thet, 8
 Marked negation particle: ey, 11
@@ -1043,6 +1080,7 @@ Added PronType {'Prs'} for token: thy, 2
 New auxiliary construction: skal (3) thola (5)
 
 swedish-old-tungulus-216
+No changes made.
 
 swedish-old-tungulus-217
 New auxiliary construction: haffuin (2) hört (4)
@@ -1052,15 +1090,18 @@ Added PronType {'Prs'} for token: sinä, 12
 Marked possessive pronoun: sinä, 12, head: synder
 
 swedish-old-tungulus-218
-Changed thusände, 2 to numeral
+Changed thusände (2) to numeral
 Changed 'sum' (7) to relative obj pronoun.
 Marked negation particle: ey, 8
 Changed genitive nmod into nmod:poss: gudh, 21, head: son
 Changed 'sum' (23) to relative nsubj pronoun.
 
 swedish-old-tungulus-219
+No changes made.
 
 swedish-old-tungulus-220
+No changes made.
 
 swedish-old-tungulus-221
+No changes made.
 

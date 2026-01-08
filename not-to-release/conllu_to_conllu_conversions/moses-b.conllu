@@ -53,7 +53,7 @@
 # text = Sanctus methodius martyr sighir frammeer aff them æpthir thy som thæn hælge andhe wisadhe honom thæn tima han war a sinom bønom thæn thima han laa fanghen innan hæfftom oc iærnom
 # sent_id = swedish-old-moses-b-4
 # old_sent_id = 25356
-1	Sanctus	sanctus	X	F-	_	4	dislocated	_	_
+1	Sanctus	sanctus	X	F-	Foreign=Yes	4	dislocated	_	_
 2	methodius	Methodios	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 3	martyr	martir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	2	appos	_	_
 4	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -90,7 +90,7 @@
 # old_sent_id = 25355
 1	Oc	ok	ADV	Df	Degree=Pos	2	advmod	_	_
 2	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	sanctus	sanctus	X	F-	_	2	dislocated	_	_
+3	sanctus	sanctus	X	F-	Foreign=Yes	2	dislocated	_	_
 4	methodius	Methodios	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
 5	swa	sva	ADV	Df	_	2	advmod	_	_
 
@@ -1059,7 +1059,7 @@
 3	daghom	dagher	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	1	obl	_	_
 4	næmrot	Nimrod	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 5	bygdhe	byggia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
-6	turrem	turris	ADJ	F-	_	7	amod	_	_
+6	turrem	turris	ADJ	F-	Foreign=Yes	7	amod	_	_
 7	babel	Babel	PROPN	Ne	Case=Gen|Number=Sing	5	obj	_	_
 8	oc	ok	CCONJ	C-	_	10	cc	_	_
 9	alle	alder	PRON	Py	Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
@@ -1112,7 +1112,7 @@
 13	them	þän	PRON	Pd	Case=Dat|Gender=Neut|Number=Plur|PronType=Prs	10	obl	_	_
 14	som	sum	PRON	G-	PronType=Rel	15	nsubj	_	_
 15	wpgiordho	upgöra	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
-16	turrem	turris	NOUN	F-	_	15	obj	_	_
+16	turrem	turris	NOUN	F-	Foreign=Yes	15	obj	_	_
 17	babel	Babel	PROPN	Ne	Case=Gen|Number=Sing	16	nmod	_	_
 
 # text = Oc før thy kallas thz gambla maalet nw hebretz mal aff honom heber som ensamen hiølt thz thy at han war ey widh turrem babel
@@ -1141,7 +1141,7 @@
 21	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
 22	ey	eigh	PART	Df	Polarity=Neg	21	advmod	_	_
 23	widh	viþ	ADP	R-	_	24	case	_	_
-24	turrem	turris	NOUN	F-	_	21	obl	_	_
+24	turrem	turris	NOUN	F-	Foreign=Yes	21	obl	_	_
 25	babel	Babel	PROPN	Ne	Case=Gen|Number=Sing	24	nmod	_	_
 
 # text = Aff honom kallas oc iudha hebrei som æn tala thz samma malet
@@ -1152,7 +1152,7 @@
 3	kallas	kalla	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 4	oc	ok	ADV	Df	_	3	advmod	_	_
 5	iudha	iuþe	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	nsubj:pass	_	_
-6	hebrei	hebrei	VERB	F-	_	3	xcomp	_	_
+6	hebrei	hebrei	VERB	F-	Foreign=Yes	3	xcomp	_	_
 7	som	sum	PRON	G-	PronType=Rel	9	nsubj	_	_
 8	æn	än	ADV	Df	_	9	advmod	_	_
 9	tala	tala	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
@@ -1272,7 +1272,7 @@
 # text = Caldei varo affgudha dyrkara oc hiølde eldin før gudh
 # sent_id = swedish-old-moses-b-69
 # old_sent_id = 25458
-1	Caldei	caldei	NOUN	F-	_	3	nsubj	_	_
+1	Caldei	caldei	NOUN	F-	Foreign=Yes	3	nsubj	_	_
 2	varo	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	affgudha	afgudha	NOUN	Nb	Case=Nom|ExtPos=NOUN|Gender=Masc|Number=Plur	0	root	_	_
 4	dyrkara	dyrkare	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	fixed	_	_
@@ -1303,7 +1303,7 @@
 16	før	for	ADP	R-	_	17	case	_	_
 17	thy	þän	PRON	Pd	Case=Dat|Gender=Neut|Number=Sing|PronType=Prs	18	obl	_	_
 18	kastado	kasta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-19	caldei	caldei	NOUN	F-	_	18	nsubj	_	_
+19	caldei	caldei	NOUN	F-	Foreign=Yes	18	nsubj	_	_
 20	them	þän	PRON	Pd	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	18	obl	_	_
 21	badha	baþir	PRON	Py	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	20	det	_	_
 22	a	a	ADP	R-	_	23	case	_	_
@@ -1335,7 +1335,7 @@
 # sent_id = swedish-old-moses-b-71
 # old_sent_id = 23666
 1	Nicholaus	Nicolaus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	damascenus	damascenus	ADJ	F-	_	1	amod	_	_
+2	damascenus	damascenus	ADJ	F-	Foreign=Yes	1	amod	_	_
 3	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	at	at	SCONJ	G-	_	7	mark	_	_
 5	abraham	Abraham	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -1351,7 +1351,7 @@
 15	ther	þär	ADV	Df	_	14	advmod	_	_
 16	hwar	hvar	SCONJ	G-	_	19	mark	_	_
 17	hans	han	PRON	Pp	Case=Gen|Poss=Yes|PronType=Prs	18	nmod:poss	_	_
-18	palacium	palacium	NOUN	F-	_	19	nsubj	_	_
+18	palacium	palacium	NOUN	F-	Foreign=Yes	19	nsubj	_	_
 19	stodh	standa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	ccomp	_	_
 
 # text = War hærra bødh honom oc hans affkømdh circumcisionem først til eet tekn oc mark aff hans slæct war vtualt aff allo mankyni til thæs at gudz son skulde fødhas om sidhe aff hænne
@@ -1364,7 +1364,7 @@
 5	oc	ok	CCONJ	C-	_	7	cc	_	_
 6	hans	han	PRON	Pp	Case=Gen|Poss=Yes|PronType=Prs	7	nmod:poss	_	_
 7	affkømdh	afkömd	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing	4	conj	_	_
-8	circumcisionem	circumcisionem	NOUN	F-	_	3	obj	_	_
+8	circumcisionem	circumcisionem	NOUN	F-	Foreign=Yes	3	obj	_	_
 9	først	fyr	ADV	Df	Degree=Sup	3	advmod	_	_
 10	til	til	ADP	R-	_	12	case	_	_
 11	eet	en	PRON	Py	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	12	det	_	_
@@ -2257,7 +2257,7 @@
 # sent_id = swedish-old-moses-b-130
 # old_sent_id = 25520
 1	Jeremias	Jeremia	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	propheta	propheta	NOUN	F-	_	1	appos	_	_
+2	propheta	propheta	NOUN	F-	Foreign=Yes	1	appos	_	_
 3	talade	tala	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	til	til	ADP	R-	_	6	case	_	_
 5	alla	alder	PRON	Py	Case=Acc|Gender=Masc|Number=Plur|PronType=Tot	6	nmod	_	_
@@ -2741,7 +2741,7 @@
 1	lydhin	lyþa	VERB	V-	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	ekke	äkke	ADV	Df	_	1	advmod	_	_
 3	falsom	falsker	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	4	amod	_	_
-4	prophetis	propheta	NOUN	F-	_	1	obl	_	_
+4	prophetis	propheta	NOUN	F-	Foreign=Yes	1	obl	_	_
 5	som	sum	PRON	G-	PronType=Rel	7	nsubj	_	_
 6	idhir	ir	PRON	Pp	Case=Acc|PronType=Prs	7	obj	_	_
 7	trøsta	trösta	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
@@ -3363,14 +3363,14 @@
 # text = Judei giordo sith radh a mot ieremie prophete radhe
 # sent_id = swedish-old-moses-b-188
 # old_sent_id = 25766
-1	Judei	judei	NOUN	F-	_	2	nsubj	_	_
+1	Judei	judei	NOUN	F-	Foreign=Yes	2	nsubj	_	_
 2	giordo	göra	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	sith	sin	PRON	Ps	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	4	nmod:poss	_	_
 4	radh	raþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
 5	a	a	ADP	R-	_	6	case	_	_
 6	mot	mote	ADP	R-	ExtPos=ADP	2	obl	_	_
 7	ieremie	Jeremia	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
-8	prophete	propheta	NOUN	F-	_	7	appos	_	_
+8	prophete	propheta	NOUN	F-	Foreign=Yes	7	appos	_	_
 9	radhe	raþ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing	6	fixed	_	_
 
 # text = Oc rymdo alle saman mz qwinnom oc barnom wt aff iudea oc atir til egyptom som thera førfædhir foro fordhom wt aff iudea iursala land
@@ -3434,7 +3434,7 @@
 10	swa	sva	ADV	Df	_	2	advmod	_	_
 11	som	sum	SCONJ	G-	_	14	mark	_	_
 12	jeremias	Jeremia	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
-13	propheta	propheta	NOUN	F-	_	12	appos	_	_
+13	propheta	propheta	NOUN	F-	Foreign=Yes	12	appos	_	_
 14	spade	spa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	advcl	_	_
 
 # text = Iudar drapo jeremiam innan egypto før æn stridhen wardh før thy ath han spadhe at the skuldo dræpas oc fangas innan egypto aff babylonie konungh oc at han skulle winna egyptum som han wan juda land
@@ -3480,7 +3480,7 @@
 # text = Egyptu hiøllo jeremiam wærdughan mædhan han liffdhe oc trodho bæthir honom æn iudei siælfwe
 # sent_id = swedish-old-moses-b-193
 # old_sent_id = 25775
-1	Egyptu	egyptu	NOUN	F-	_	2	nsubj	_	_
+1	Egyptu	egyptu	NOUN	F-	Foreign=Yes	2	nsubj	_	_
 2	hiøllo	halda	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	jeremiam	Jeremia	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 4	wærdughan	värdogher	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	2	advmod	_	_
@@ -3492,7 +3492,7 @@
 10	bæthir	bäter	ADV	Df	Degree=Cmp	9	advcl	_	_
 11	honom	han	PRON	Pp	Case=Dat|PronType=Prs	9	obl	_	_
 12	æn	än	SCONJ	G-	_	10	advcl	_	_
-13	iudei	judei	NOUN	F-	_	12	nsubj	_	_
+13	iudei	judei	NOUN	F-	Foreign=Yes	12	nsubj	_	_
 14	siælfwe	siälver	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	13	amod	_	_
 
 # text = oc før thy giordho thera præsthir bilæte badhe mønne oc barneno innan sino templo oc wetto them gudelican hedhir
@@ -3511,7 +3511,7 @@
 11	barneno	barn	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	9	conj	_	_
 12	innan	innan	ADP	R-	_	14	case	_	_
 13	sino	sin	PRON	Ps	Case=Dat|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs	14	nmod:poss	_	_
-14	templo	templum	NOUN	F-	_	4	obl	_	_
+14	templo	templum	NOUN	F-	Foreign=Yes	4	obl	_	_
 15	oc	ok	CCONJ	C-	_	16	cc	_	_
 16	wetto	veta	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	conj	_	_
 17	them	þän	PRON	Pd	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	16	obl	_	_
@@ -3539,7 +3539,7 @@
 # text = Egyptum jordadho ieremiam mz hedhir oc æro næst sinom konunghom ther the iordhados
 # sent_id = swedish-old-moses-b-196
 # old_sent_id = 25777
-1	Egyptum	egyptu	NOUN	F-	_	2	nsubj	_	_
+1	Egyptum	egyptu	NOUN	F-	Foreign=Yes	2	nsubj	_	_
 2	jordadho	iorþa	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	ieremiam	Jeremia	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 4	mz	mäþ	ADP	R-	_	5	case	_	_
@@ -3684,7 +3684,7 @@
 1	tha	þa	ADV	Df	_	5	advmod	_	_
 2	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 3	daniel	Daniel	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-4	propheta	propheta	NOUN	F-	_	3	appos	_	_
+4	propheta	propheta	NOUN	F-	Foreign=Yes	3	appos	_	_
 5	mæær	mär	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 6	mz	mäþ	ADP	R-	_	7	case	_	_
 7	nabogodonozor	Nebukadnessar	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	5	nmod	_	_
@@ -3859,7 +3859,7 @@
 4	tik	þu	PRON	Pp	Case=Dat|PronType=Prs	2	obl	_	_
 5	ena	en	PRON	Py	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	stora	stor	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
-7	statutam	statua	NOUN	F-	_	2	obj	_	_
+7	statutam	statua	NOUN	F-	Foreign=Yes	2	obj	_	_
 8	thz	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	9	nsubj	_	_
 9	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 10	at	at	SCONJ	G-	_	11	mark	_	_
@@ -3922,7 +3922,7 @@
 1	Thz	þän	DET	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	2	det	_	_
 2	riket	rike	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
 3	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
-4	cyri	cyri	ADJ	F-	_	5	amod	_	_
+4	cyri	cyri	ADJ	F-	Foreign=Yes	5	amod	_	_
 5	konungx	konunger	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	0	root	_	_
 6	badhe	baþe	CCONJ	C-	_	8	cc	_	_
 7	iffwir	ivir	ADP	R-	_	8	case	_	_
@@ -4053,7 +4053,7 @@
 43	swa	sva	ADV	Df	_	39	conj	_	_
 44	mællan	mällom	ADP	R-	_	43	case	_	_
 45	constantium	Constantius	PROPN	Ne	Case=Obl|Gender=Masc|Number=Sing	43	conj	_	_
-46	magnum	magnus	ADJ	F-	_	45	amod	_	_
+46	magnum	magnus	ADJ	F-	Foreign=Yes	45	amod	_	_
 47	oc	ok	CCONJ	C-	_	48	cc	_	_
 48	maxencium	Maxentius	PROPN	Ne	Gender=Masc|Number=Sing	43	conj	_	_
 
@@ -4273,7 +4273,7 @@
 16	knæfalla	knäfalla	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	conj	_	_
 17	før	for	ADP	R-	_	19	case	_	_
 18	hans	han	PRON	Pp	Case=Gen|Poss=Yes|PronType=Prs	19	nmod:poss	_	_
-19	statuam	statua	NOUN	F-	_	16	obl	_	_
+19	statuam	statua	NOUN	F-	Foreign=Yes	16	obl	_	_
 
 # text = the kastados innan brænnande ongn
 # sent_id = swedish-old-moses-b-234
@@ -4604,7 +4604,7 @@
 14	swa	sva	ADV	Df	_	10	advmod	_	_
 15	som	sum	SCONJ	G-	_	18	mark	_	_
 16	daniel	Daniel	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
-17	propheta	propheta	NOUN	F-	_	16	appos	_	_
+17	propheta	propheta	NOUN	F-	Foreign=Yes	16	appos	_	_
 18	rædh	raþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	advcl	_	_
 19	honom	han	PRON	Pp	Case=Dat|PronType=Prs	18	obl	_	_
 
@@ -4948,7 +4948,7 @@
 4	mera	mere	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	5	obj	_	_
 5	sighia	sighia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	0	root	_	_
 6	æn	än	ADV	Df	_	4	advmod	_	_
-7	morere	mori	VERB	F-	_	6	ccomp	_	_
+7	morere	mori	VERB	F-	Foreign=Yes	6	ccomp	_	_
 8	thz	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	9	nsubj	_	_
 9	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
 10	at	at	SCONJ	G-	_	11	mark	_	_
@@ -4969,7 +4969,7 @@
 9	swa	sva	ADV	Df	_	6	advmod	_	_
 10	som	sum	SCONJ	G-	_	11	mark	_	_
 11	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	_
-12	sanctus	sanctus	X	F-	_	11	dislocated	_	_
+12	sanctus	sanctus	X	F-	Foreign=Yes	11	dislocated	_	_
 13	paulus	Paulus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	_
 14	oc	ok	CCONJ	C-	_	16	cc	_	_
 15	sidhan	siþan	ADV	Df	Degree=Pos	16	advmod	_	_
@@ -5129,8 +5129,8 @@
 26	fadhir	faþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	27	nsubj	_	_
 27	førdhe	föra	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	acl:relcl	_	_
 28	aff	af	ADP	R-	_	29	case	_	_
-29	templo	templum	NOUN	F-	_	27	obl	_	_
-30	domini	dominus	ADJ	F-	_	29	amod	_	_
+29	templo	templum	NOUN	F-	Foreign=Yes	27	obl	_	_
+30	domini	dominus	ADJ	F-	Foreign=Yes	29	amod	_	_
 31	innan	innan	ADP	R-	_	32	case	_	_
 32	iherusalem	Jerusalem	PROPN	Ne	Case=Obl|Gender=Fem|Number=Sing	29	nmod	_	_
 33	til	til	ADP	R-	_	34	case	_	_
@@ -5179,9 +5179,9 @@
 1	Swa	sva	ADV	Df	_	3	advmod	_	_
 2	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
 3	scriffwat	skriva	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	Mane	mene	NOUN	F-	_	1	appos	_	_
-5	techel	tekel	NOUN	F-	_	1	appos	_	_
-6	phares	u-farsin	NOUN	F-	_	1	appos	_	_
+4	Mane	mene	NOUN	F-	Foreign=Yes	1	appos	_	_
+5	techel	tekel	NOUN	F-	Foreign=Yes	1	appos	_	_
+6	phares	u-farsin	NOUN	F-	Foreign=Yes	1	appos	_	_
 
 # text = Daniel sagde til baltazar gudh aff hymblom gaff thinom fadhur fadhir rike
 # sent_id = swedish-old-moses-b-287
@@ -5241,7 +5241,7 @@
 # text = Mane sighir oc tydhir swa thit rike ær nw talt oc thæs dagha wardha ekke flere
 # sent_id = swedish-old-moses-b-290
 # old_sent_id = 25899
-1	Mane	mene	NOUN	F-	_	2	nsubj	_	_
+1	Mane	mene	NOUN	F-	Foreign=Yes	2	nsubj	_	_
 2	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	parataxis	_	_
 3	oc	ok	CCONJ	C-	_	4	cc	_	_
 4	tydhir	þyþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
@@ -5261,7 +5261,7 @@
 # text = Thechel sighir swa oc tydhir at thu æst lagdir innan gudz mædskal oc wæghir litit thy at thu wardhir minna wyrdhir hædhan fraa
 # sent_id = swedish-old-moses-b-291
 # old_sent_id = 25898
-1	Thechel	tekel	NOUN	F-	_	2	nsubj	_	_
+1	Thechel	tekel	NOUN	F-	Foreign=Yes	2	nsubj	_	_
 2	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	swa	sva	ADV	Df	_	2	advmod	_	_
 4	oc	ok	CCONJ	C-	_	5	cc	_	_
@@ -5288,7 +5288,7 @@
 # text = Phares sighir swa oc tydhir at thit rike skulu skipta medi oc perse
 # sent_id = swedish-old-moses-b-292
 # old_sent_id = 25897
-1	Phares	u-farsin	NOUN	F-	_	2	nsubj	_	_
+1	Phares	u-farsin	NOUN	F-	Foreign=Yes	2	nsubj	_	_
 2	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	swa	sva	ADV	Df	_	2	advmod	_	_
 4	oc	ok	CCONJ	C-	_	5	cc	_	_
@@ -5418,7 +5418,7 @@
 2	tedhis	tea	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	_
 3	danieli	Daniel	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	2	obl	_	_
 4	gabriel	Gabriel	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
-5	ængelus	angelus	NOUN	F-	_	4	appos	_	_
+5	ængelus	angelus	NOUN	F-	Foreign=Yes	4	appos	_	_
 6	at	at	SCONJ	G-	_	15	mark	_	_
 7	innan	innan	ADP	R-	_	10	case	_	_
 8	thæn	þän	DET	Pd	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -5501,8 +5501,8 @@
 10	nidhir	niþer	ADV	Df	Degree=Pos	9	advmod	_	_
 11	iherusalem	Jerusalem	PROPN	Ne	Case=Obl|Gender=Fem|Number=Sing	9	obj	_	_
 12	oc	ok	CCONJ	C-	_	13	cc	_	_
-13	templum	templum	X	F-	_	11	conj	_	_
-14	domini	dominus	ADJ	F-	_	13	amod	_	_
+13	templum	templum	X	F-	Foreign=Yes	11	conj	_	_
+14	domini	dominus	ADJ	F-	Foreign=Yes	13	amod	_	_
 
 # text = oc skulu sidhan æwærdelica øde standa
 # sent_id = swedish-old-moses-b-304
@@ -5908,8 +5908,8 @@
 38	land	land	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	36	obj	_	_
 39	oc	ok	CCONJ	C-	_	40	cc	_	_
 40	byggia	byggia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	28	conj	_	_
-41	templum	templum	NOUN	F-	_	40	obj	_	_
-42	domini	dominus	ADJ	F-	_	41	amod	_	_
+41	templum	templum	NOUN	F-	Foreign=Yes	40	obj	_	_
+42	domini	dominus	ADJ	F-	Foreign=Yes	41	amod	_	_
 43	oc	ok	CCONJ	C-	_	44	cc	_	_
 44	stadhen	staþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	41	conj	_	_
 
@@ -5917,7 +5917,7 @@
 # sent_id = swedish-old-moses-b-325
 # old_sent_id = 25928
 1	Zacharias	Sakarias	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	10	dislocated	_	_
-2	propheta	propheta	NOUN	F-	_	1	appos	_	_
+2	propheta	propheta	NOUN	F-	Foreign=Yes	1	appos	_	_
 3	føddhir	föþa	ADJ	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	amod	_	_
 4	aff	af	ADP	R-	_	6	case	_	_
 5	iudha	iuþe	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	6	nmod:poss	_	_
@@ -6108,7 +6108,7 @@
 # old_sent_id = 25944
 1	The	þän	DET	Pd	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	sama	samber	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	3	nmod	_	_
-3	samaritani	samaritanus	NOUN	F-	_	4	nsubj	_	_
+3	samaritani	samaritanus	NOUN	F-	Foreign=Yes	4	nsubj	_	_
 4	baaro	bära	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	affwndh	afund	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
 6	widh	viþ	ADP	R-	_	7	case	_	_
@@ -6144,8 +6144,8 @@
 36	høghan	högher	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	37	amod	_	_
 37	mwr	mur	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	27	obl	_	_
 38	aff	af	ADP	R-	_	39	case	_	_
-39	templo	templum	ADJ	F-	_	37	amod	_	_
-40	domini	dominus	ADJ	F-	_	39	amod	_	_
+39	templo	templum	ADJ	F-	Foreign=Yes	37	amod	_	_
+40	domini	dominus	ADJ	F-	Foreign=Yes	39	amod	_	_
 41	at	at	SCONJ	G-	_	44	mark	_	_
 42	man	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	44	nsubj	_	_
 43	matte	magha	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	44	aux	_	_
@@ -6254,8 +6254,8 @@
 8	breffwom	bref	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	2	obl	_	_
 9	meer	mer	ADV	Df	Degree=Cmp	2	ccomp	_	_
 10	aff	af	ADP	R-	_	11	case	_	_
-11	templo	templum	ADJ	F-	_	9	amod	_	_
-12	domini	dominus	ADJ	F-	_	11	amod	_	_
+11	templo	templum	ADJ	F-	Foreign=Yes	9	amod	_	_
+12	domini	dominus	ADJ	F-	Foreign=Yes	11	amod	_	_
 13	æn	än	SCONJ	G-	_	16	mark	_	_
 14	tha	þa	ADV	Df	_	16	advmod	_	_
 15	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	_
@@ -6441,7 +6441,7 @@
 1	Aggeus	Ageus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 2	oc	ok	CCONJ	C-	_	3	cc	_	_
 3	Zacharias	Sakarias	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_
-4	prophete	propheta	NOUN	F-	_	3	appos	_	_
+4	prophete	propheta	NOUN	F-	Foreign=Yes	3	appos	_	_
 5	trøste	trösta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	han	han	PRON	Pp	Case=Acc|PronType=Prs	5	obj	_	_
 7	aff	af	ADP	R-	_	9	case	_	_
@@ -6823,8 +6823,8 @@
 6	wp	up	ADV	Df	Degree=Pos	8	advmod	_	_
 7	matte	magha	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	byggias	byggia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Pass	2	advcl	_	_
-9	templum	templum	NOUN	F-	_	8	nsubj	_	_
-10	domini	dominus	ADJ	F-	_	9	amod	_	_
+9	templum	templum	NOUN	F-	Foreign=Yes	8	nsubj	_	_
+10	domini	dominus	ADJ	F-	Foreign=Yes	9	amod	_	_
 11	innan	innan	ADP	R-	_	12	case	_	_
 12	ierusalem	Jerusalem	PROPN	Ne	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
 13	oc	ok	CCONJ	C-	_	18	cc	_	_
@@ -6837,7 +6837,7 @@
 20	anbudh	anbuþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur	18	conj	_	_
 21	som	sum	PRON	G-	PronType=Rel	22	nsubj	_	_
 22	tilhørdho	tilhöra	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	acl:relcl	_	_
-23	templo	templum	NOUN	F-	_	22	obl	_	_
+23	templo	templum	NOUN	F-	Foreign=Yes	22	obl	_	_
 24	oc	ok	CCONJ	C-	_	28	cc	_	_
 25	ey	eigh	PART	Df	Polarity=Neg	28	advmod	_	_
 26	waaro	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	28	cop	_	_
@@ -6883,8 +6883,8 @@
 4	sidhan	siþan	ADV	Df	Degree=Pos	2	advmod	_	_
 5	oc	ok	CCONJ	C-	_	6	cc	_	_
 6	fulkompnade	fulkoma	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
-7	templum	templum	NOUN	F-	_	6	obj	_	_
-8	domini	dominus	ADJ	F-	_	7	amod	_	_
+7	templum	templum	NOUN	F-	Foreign=Yes	6	obj	_	_
+8	domini	dominus	ADJ	F-	Foreign=Yes	7	amod	_	_
 9	innan	innan	ADP	R-	_	11	case	_	_
 10	fæm	fäm	NUM	Py	Case=Dat|Gender=Neut	11	nummod	_	_
 11	aarom	ar	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur	2	obl	_	_
@@ -6928,7 +6928,7 @@
 4	sagdo	sighia	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	_	_
 5	iudhar	iuþe	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
 6	innan	innan	ADP	R-	_	7	case	_	_
-7	ewangelio	evangelium	NOUN	F-	_	4	obl	_	_
+7	ewangelio	evangelium	NOUN	F-	Foreign=Yes	4	obl	_	_
 8	til	til	ADP	R-	_	10	case	_	_
 9	war	var	PRON	Ps	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	10	nmod:poss	_	_
 10	hærra	härra	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
@@ -6955,8 +6955,8 @@
 1	Nw	nu	ADV	Df	_	2	advmod	_	_
 2	haffua	hava	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	iudhar	iuþe	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
-4	templum	templum	NOUN	F-	_	2	obj	_	_
-5	domini	dominus	ADJ	F-	_	4	amod	_	_
+4	templum	templum	NOUN	F-	Foreign=Yes	2	obj	_	_
+5	domini	dominus	ADJ	F-	Foreign=Yes	4	amod	_	_
 6	oc	ok	CCONJ	C-	_	8	cc	_	_
 7	haffwa	hava	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
 8	glømt	glöma	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	_
@@ -6969,11 +6969,11 @@
 15	ræth	rätter	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	_
 16	thy	þy	SCONJ	G-	ExtPos=SCONJ	21	mark	_	_
 17	at	at	SCONJ	G-	_	16	fixed	_	_
-18	caldei	caldei	NOUN	F-	_	21	nsubj	_	_
+18	caldei	caldei	NOUN	F-	Foreign=Yes	21	nsubj	_	_
 19	oc	ok	CCONJ	C-	_	20	cc	_	_
-20	babylonij	babyloni	X	F-	_	18	conj	_	_
+20	babylonij	babyloni	X	F-	Foreign=Yes	18	conj	_	_
 21	brændo	bränna	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	advcl	_	_
-22	biblian	biblia	NOUN	F-	_	21	obj	_	_
+22	biblian	biblia	NOUN	F-	Foreign=Yes	21	obj	_	_
 23	tha	þa	SCONJ	G-	_	25	mark	_	_
 24	the	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur|PronType=Prs	25	nsubj	_	_
 25	waldførdho	valdföra	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	advcl	_	_
@@ -7016,7 +7016,7 @@
 4	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
 5	konunghir	konunger	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 6	artaxerses	Artaxerxes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-7	longinianus	longinianus	ADJ	F-	_	6	amod	_	_
+7	longinianus	longinianus	ADJ	F-	Foreign=Yes	6	amod	_	_
 8	thz	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing|PronType=Prs	9	nsubj	_	_
 9	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	parataxis	_	_
 10	at	at	SCONJ	G-	_	11	mark	_	_
@@ -7050,7 +7050,7 @@
 3	somir	sumber	PRON	Py	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
 4	vara	vara	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	_
 5	malachiam	Malakia	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	2	ccomp	_	_
-6	prophetam	propheta	NOUN	F-	_	5	appos	_	_
+6	prophetam	propheta	NOUN	F-	Foreign=Yes	5	appos	_	_
 
 # text = hesdras war swa gamal man at han kunne wtan bok alla iuda bibliam før æn han førdhis aff iherusalem til babylonem mz sedechia konungh oc war son høgxsta biscopsins aff iherusalem oc kallas iosedech in libro regum fadhir ihesu biscops som atir for mz Zorobabel til iherusalem
 # sent_id = swedish-old-moses-b-390
@@ -7067,7 +7067,7 @@
 10	bok	bok	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
 11	alla	alder	PRON	Py	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	13	det	_	_
 12	iuda	iuþe	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur	13	nmod	_	_
-13	bibliam	biblia	NOUN	F-	_	8	obj	_	_
+13	bibliam	biblia	NOUN	F-	Foreign=Yes	8	obj	_	_
 14	før	fyr	ADV	G-	_	17	mark	_	_
 15	æn	än	SCONJ	G-	_	17	mark	_	_
 16	han	han	PRON	Pp	Case=Nom|PronType=Prs	17	nsubj	_	_
@@ -7089,9 +7089,9 @@
 32	oc	ok	CCONJ	C-	_	33	cc	_	_
 33	kallas	kalla	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	5	conj	_	_
 34	iosedech	Josadak	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	33	xcomp	_	_
-35	in	in	NOUN	F-	_	33	obl	_	_
-36	libro	liber	NOUN	F-	_	35	obl	_	_
-37	regum	rex	ADJ	F-	_	36	amod	_	_
+35	in	in	NOUN	F-	Foreign=Yes	33	obl	_	_
+36	libro	liber	NOUN	F-	Foreign=Yes	35	obl	_	_
+37	regum	rex	ADJ	F-	Foreign=Yes	36	amod	_	_
 38	fadhir	faþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	34	appos	_	_
 39	ihesu	Jeshua	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	38	nmod:poss	_	_
 40	biscops	biskoper	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	39	appos	_	_
@@ -7204,7 +7204,7 @@
 3	iudar	iuþe	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
 4	atirfangit	ater.fa	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	bade	baþe	CCONJ	C-	_	10	cc	_	_
-6	templum	templum	NOUN	F-	_	4	obj	_	_
+6	templum	templum	NOUN	F-	Foreign=Yes	4	obj	_	_
 7	mz	mäþ	ADP	R-	_	8	case	_	_
 8	Zorobabel	Serubbabel	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	4	obl	_	_
 9	oc	ok	CCONJ	C-	_	10	cc	_	_
@@ -7285,7 +7285,7 @@
 13	Æpthir	äptir	ADP	R-	_	14	case	_	_
 14	han	han	PRON	Pp	Case=Acc|PronType=Prs	15	orphan	_	_
 15	darius	Dareios	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
-16	nothus	nothus	ADJ	F-	_	15	amod	_	_
+16	nothus	nothus	ADJ	F-	Foreign=Yes	15	amod	_	_
 17	æptir	äptir	ADP	R-	_	18	case	_	_
 18	han	han	PRON	Pp	Case=Acc|PronType=Prs	19	orphan	_	_
 19	artæxerses	Artaxerxes	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	_
@@ -7303,7 +7303,7 @@
 3	tima	time	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
 4	war	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	hester	Ester	PROPN	Ne	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
-6	regina	regina	ADJ	F-	_	5	amod	_	_
+6	regina	regina	ADJ	F-	Foreign=Yes	5	amod	_	_
 7	oc	ok	CCONJ	C-	_	8	cc	_	_
 8	mardocheus	Mordokaj	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	_
 
@@ -7347,7 +7347,7 @@
 1	oc	ok	CCONJ	C-	_	2	cc	_	_
 2	wordo	varþa	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	sidhan	siþan	ADV	Df	Degree=Pos	2	advmod	_	_
-4	greci	greci	NOUN	F-	_	2	nsubj	_	_
+4	greci	greci	NOUN	F-	Foreign=Yes	2	nsubj	_	_
 5	walloghir	valdogher	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	2	xcomp	_	_
 6	iffwir	ivir	ADP	R-	_	7	case	_	_
 7	riken	rike	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	nmod	_	_
@@ -7359,7 +7359,7 @@
 2	møthir	möta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	hær	här	ADV	Df	_	2	advmod	_	_
 4	hystoria	*historia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-5	machabeorum	machabi	ADJ	F-	_	4	amod	_	_
+5	machabeorum	machabi	ADJ	F-	Foreign=Yes	4	amod	_	_
 6	som	sum	PRON	G-	PronType=Rel	8	nsubj	_	_
 7	fulcomplica	fulkomlika	ADV	Df	_	8	advmod	_	_
 8	visar	visa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
@@ -7379,7 +7379,7 @@
 22	aff	af	ADP	R-	_	23	case	_	_
 23	them	þän	PRON	Pd	Case=Dat|Gender=Masc|Number=Plur|PronType=Prs	21	obl	_	_
 24	fra	fran	ADP	R-	_	25	case	_	_
-25	machabeis	machabi	NOUN	F-	_	21	obl	_	_
+25	machabeis	machabi	NOUN	F-	Foreign=Yes	21	obl	_	_
 26	oc	ok	CCONJ	C-	_	30	cc	_	_
 27	til	til	SCONJ	G-	_	30	mark	_	_
 28	war	var	PRON	Ps	Case=Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	29	nmod:poss	_	_
@@ -7546,16 +7546,16 @@
 5	latins	latins	NOUN	Nb	Case=Nom|ExtPos=NOUN|Gender=Masc|Number=Plur	3	nsubj	_	_
 6	versir	värs	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	5	fixed	_	_
 7	tæsse	þänne	DET	Pd	Case=Nom|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
-8	Milia	milia	X	F-	_	14	dep	_	_
-9	sunt	sunt	X	F-	_	3	dep	_	_
-10	quinque	quinque	X	F-	_	8	dep	_	_
-11	centum	centum	X	F-	_	14	dep	_	_
-12	nonaginta	nonaginta	X	F-	_	14	dep	_	_
-13	nouemque	nouemque	X	F-	_	14	dep	_	_
-14	Annos	annos	X	F-	_	9	dep	_	_
-15	ad	ad	X	F-	_	9	dep	_	_
-16	cristum	cristum	X	F-	_	15	dep	_	_
-17	si	si	X	F-	_	9	dep	_	_
-18	numerare	numerare	X	F-	_	19	dep	_	_
-19	velis	velis	X	F-	_	17	dep	_	_
+8	Milia	milia	X	F-	Foreign=Yes	14	dep	_	_
+9	sunt	sunt	X	F-	Foreign=Yes	3	dep	_	_
+10	quinque	quinque	X	F-	Foreign=Yes	8	dep	_	_
+11	centum	centum	X	F-	Foreign=Yes	14	dep	_	_
+12	nonaginta	nonaginta	X	F-	Foreign=Yes	14	dep	_	_
+13	nouemque	nouemque	X	F-	Foreign=Yes	14	dep	_	_
+14	Annos	annos	X	F-	Foreign=Yes	9	dep	_	_
+15	ad	ad	X	F-	Foreign=Yes	9	dep	_	_
+16	cristum	cristum	X	F-	Foreign=Yes	15	dep	_	_
+17	si	si	X	F-	Foreign=Yes	9	dep	_	_
+18	numerare	numerare	X	F-	Foreign=Yes	19	dep	_	_
+19	velis	velis	X	F-	Foreign=Yes	17	dep	_	_
 

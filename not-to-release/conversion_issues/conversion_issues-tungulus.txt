@@ -1,127 +1,527 @@
+swedish-old-tungulus-1
 Fixed construction found in swedish-old-tungulus-1 with POS ADV: här (1), äptir (2)
+
+swedish-old-tungulus-2
 'vara' with deprel root, 4 in sentence swedish-old-tungulus-2, change to copula.
+
+swedish-old-tungulus-3
+No issues found.
+
+swedish-old-tungulus-4
+No issues found.
+
+swedish-old-tungulus-5
+No issues found.
+
+swedish-old-tungulus-6
+No issues found.
+
+swedish-old-tungulus-7
 Fixed construction found in swedish-old-tungulus-7 with POS ADV: þär (2), innan (3)
 Fixed construction found in swedish-old-tungulus-7 with POS SCONJ: for (14), þy (15)
 Fixed construction found in swedish-old-tungulus-7 with POS SCONJ: for (14), at* (16)
 Dislocated relation found in swedish-old-tungulus-7 between saa (24) and foor (19)
 Fixed construction found in swedish-old-tungulus-7 with POS ADP: af (21), kropper (22)
+
+swedish-old-tungulus-8
 Fixed construction found in swedish-old-tungulus-8 with POS VERB: inkoma (19), komma (20)
+
+swedish-old-tungulus-9
 Fixed construction found in swedish-old-tungulus-9 with POS SCONJ: sva (5), at (6)
 Fixed construction found in swedish-old-tungulus-9 with POS SCONJ: for (15), þän (16)
 Fixed construction found in swedish-old-tungulus-9 with POS SCONJ: for (15), skuld (17)
 Fixed construction found in swedish-old-tungulus-9 with POS SCONJ: for (15), at (18)
+
+swedish-old-tungulus-10
 Fixed construction found in swedish-old-tungulus-10 with POS ADV: at (2), enasto (3)
 'vara' with deprel root, 4 in sentence swedish-old-tungulus-10, change to copula.
 Fixed construction found in swedish-old-tungulus-10 with POS ADV: utan (11), umkring (12)
 Fixed construction found in swedish-old-tungulus-10 with POS ADV: utan (11), kringh (13)
+
+swedish-old-tungulus-11
+No issues found.
+
+swedish-old-tungulus-12
+No issues found.
+
+swedish-old-tungulus-13
+No issues found.
+
+swedish-old-tungulus-14
+No issues found.
+
+swedish-old-tungulus-15
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-15, change to copula.
+
+swedish-old-tungulus-16
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-16, change to copula.
+
+swedish-old-tungulus-17
+No issues found.
+
+swedish-old-tungulus-18
+No issues found.
+
+swedish-old-tungulus-19
+No issues found.
+
+swedish-old-tungulus-20
+No issues found.
+
+swedish-old-tungulus-21
+No issues found.
+
+swedish-old-tungulus-22
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-22, change to copula.
+
+swedish-old-tungulus-23
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-23, change to copula.
+
+swedish-old-tungulus-24
+No issues found.
+
+swedish-old-tungulus-25
 Fixed construction found in swedish-old-tungulus-25 with POS SCONJ: þy (10), at (11)
+
+swedish-old-tungulus-26
+No issues found.
+
+swedish-old-tungulus-27
 No particles nidher found for +-token kom, 3 in sentence swedish-old-tungulus-27
+
+swedish-old-tungulus-28
+No issues found.
+
+swedish-old-tungulus-29
 'vara' with deprel root, 7 in sentence swedish-old-tungulus-29, change to copula.
+
+swedish-old-tungulus-30
+No issues found.
+
+swedish-old-tungulus-31
 Fixed construction found in swedish-old-tungulus-31 with POS VERB: sunder (11), slita (12)
+
+swedish-old-tungulus-32
 Fixed construction found in swedish-old-tungulus-32 with POS VERB: umthrängia (11), trengher (12)
+
+swedish-old-tungulus-33
 Dislocated relation found in swedish-old-tungulus-33 between tiänthe (7) and tiidh (3)
+
+swedish-old-tungulus-34
+No issues found.
+
+swedish-old-tungulus-35
+No issues found.
+
+swedish-old-tungulus-36
 Dislocated relation found in swedish-old-tungulus-36 between war (11) and dagh (5)
 No particles viþer found for +-token togh, 7 in sentence swedish-old-tungulus-36
 'vara' with deprel root, 11 in sentence swedish-old-tungulus-36, change to copula.
+
+swedish-old-tungulus-37
+No issues found.
+
+swedish-old-tungulus-38
+No issues found.
+
+swedish-old-tungulus-39
+No issues found.
+
+swedish-old-tungulus-40
+No issues found.
+
+swedish-old-tungulus-41
 No particles ater found for +-token gik, 2 in sentence swedish-old-tungulus-41
+
+swedish-old-tungulus-42
+No issues found.
+
+swedish-old-tungulus-43
 Fixed construction found in swedish-old-tungulus-43 with POS SCONJ: þy (12), at (13)
+
+swedish-old-tungulus-44
 Fixed construction found in swedish-old-tungulus-44 with POS SCONJ: for (8), þy (9)
 Fixed construction found in swedish-old-tungulus-44 with POS SCONJ: for (8), at* (10)
 'vara' with deprel advcl, 12 in sentence swedish-old-tungulus-44, change to copula.
+
+swedish-old-tungulus-45
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-45, change to copula.
+
+swedish-old-tungulus-46
+No issues found.
+
+swedish-old-tungulus-47
 Dislocated relation found in swedish-old-tungulus-47 between ropadhe (12) and hördhe (3)
+
+swedish-old-tungulus-48
+No issues found.
+
+swedish-old-tungulus-49
 Could not process 'sum', 2 in sentence swedish-old-tungulus-49. Please check whether it should be relative pronoun or SCONJ.
 Fixed construction found in swedish-old-tungulus-49 with POS SCONJ: þa (1), sum (2)
+
+swedish-old-tungulus-50
+No issues found.
+
+swedish-old-tungulus-51
+No issues found.
+
+swedish-old-tungulus-52
 Could not process 'sum', 8 in sentence swedish-old-tungulus-52. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-tungulus-53
+No issues found.
+
+swedish-old-tungulus-54
+No issues found.
+
+swedish-old-tungulus-55
 'vara' with deprel root, 5 in sentence swedish-old-tungulus-55, change to copula.
+
+swedish-old-tungulus-56
 Fixed construction found in swedish-old-tungulus-56 with POS PRON: baþir (2), mällom (4)
+
+swedish-old-tungulus-57
 Fixed construction found in swedish-old-tungulus-57 with POS NOUN: iärnkroker (6), krokom (7)
+
+swedish-old-tungulus-58
+No issues found.
+
+swedish-old-tungulus-59
 'vara' with deprel conj, 10 in sentence swedish-old-tungulus-59, change to copula.
+
+swedish-old-tungulus-60
+No issues found.
+
+swedish-old-tungulus-61
+No issues found.
+
+swedish-old-tungulus-62
 Fixed construction found in swedish-old-tungulus-62 with POS ADV: þär (2), innan (3)
 'vara' with deprel root, 4 in sentence swedish-old-tungulus-62, change to copula.
+
+swedish-old-tungulus-63
 'vara' with deprel root, 4 in sentence swedish-old-tungulus-63, change to copula.
+
+swedish-old-tungulus-64
+No issues found.
+
+swedish-old-tungulus-65
 Fixed construction found in swedish-old-tungulus-65 with POS VERB: ivirganga (4), ganga (5)
 'vara' with deprel acl, 9 in sentence swedish-old-tungulus-65, change to copula.
+
+swedish-old-tungulus-66
+No issues found.
+
+swedish-old-tungulus-67
+No issues found.
+
+swedish-old-tungulus-68
 Fixed construction found in swedish-old-tungulus-68 with POS VERB: tilhöra (6), hörde (7)
+
+swedish-old-tungulus-69
+No issues found.
+
+swedish-old-tungulus-70
+No issues found.
+
+swedish-old-tungulus-71
+No issues found.
+
+swedish-old-tungulus-72
+No issues found.
+
+swedish-old-tungulus-73
+No issues found.
+
+swedish-old-tungulus-74
 Fixed construction found in swedish-old-tungulus-74 with POS ADV: thär (4), in (5)
 Fixed construction found in swedish-old-tungulus-74 with POS NOUN: iärnkroker (8), krokom (9)
+
+swedish-old-tungulus-75
+No issues found.
+
+swedish-old-tungulus-76
 Fixed construction found in swedish-old-tungulus-76 with POS VERB: tilhöra (6), hördhe (7)
+
+swedish-old-tungulus-77
 Fixed construction found in swedish-old-tungulus-77 with POS ADV: þär (6), inne (7)
+
+swedish-old-tungulus-78
 Fixed construction found in swedish-old-tungulus-78 with POS SCONJ: for (2), þy (3)
 Fixed construction found in swedish-old-tungulus-78 with POS SCONJ: for (2), at* (4)
 Dislocated relation found in swedish-old-tungulus-78 between skal (22) and gaff (6)
 Fixed construction found in swedish-old-tungulus-78 with POS ADV: for (20), þy* (21)
 Fixed construction found in swedish-old-tungulus-78 with POS ADP: i (25), pina (27)
+
+swedish-old-tungulus-79
+No issues found.
+
+swedish-old-tungulus-80
+No issues found.
+
+swedish-old-tungulus-81
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-81, change to copula.
+
+swedish-old-tungulus-82
+No issues found.
+
+swedish-old-tungulus-83
+No issues found.
+
+swedish-old-tungulus-84
+No issues found.
+
+swedish-old-tungulus-85
+No issues found.
+
+swedish-old-tungulus-86
 Fixed construction found in swedish-old-tungulus-86 with POS ADV: þär (2), ivir (3)
+
+swedish-old-tungulus-87
 Fixed construction found in swedish-old-tungulus-87 with POS NOUN: iärnspiker (7), spikä (8)
+
+swedish-old-tungulus-88
 'vara' with deprel root, 3 in sentence swedish-old-tungulus-88, change to copula.
+
+swedish-old-tungulus-89
 Fixed construction found in swedish-old-tungulus-89 with POS VERB: nidherfalla (8), fallä (9)
+
+swedish-old-tungulus-90
+No issues found.
+
+swedish-old-tungulus-91
 Fixed construction found in swedish-old-tungulus-91 with POS NOUN: kornsäkker (11), säk (12)
+
+swedish-old-tungulus-92
 Fixed construction found in swedish-old-tungulus-92 with POS ADV: här (6), i (7)
+
+swedish-old-tungulus-93
+No issues found.
+
+swedish-old-tungulus-94
+No issues found.
+
+swedish-old-tungulus-95
+No issues found.
+
+swedish-old-tungulus-96
+No issues found.
+
+swedish-old-tungulus-97
 Fixed construction found in swedish-old-tungulus-97 with POS SCONJ: for (2), þy (3)
 Fixed construction found in swedish-old-tungulus-97 with POS SCONJ: for (2), at* (4)
 Dislocated relation found in swedish-old-tungulus-97 between skal (14) and röffuade (6)
 Fixed construction found in swedish-old-tungulus-97 with POS NOUN: guþfaþir (11), fadher (12)
+
+swedish-old-tungulus-98
 Dislocated relation found in swedish-old-tungulus-98 between galt (9) and ko (4)
+
+swedish-old-tungulus-99
+No issues found.
+
+swedish-old-tungulus-100
+No issues found.
+
+swedish-old-tungulus-101
+No issues found.
+
+swedish-old-tungulus-102
 Could not process 'sum', 8 in sentence swedish-old-tungulus-102. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-tungulus-103
+No issues found.
+
+swedish-old-tungulus-104
+No issues found.
+
+swedish-old-tungulus-105
 Could not process 'sum', 1 in sentence swedish-old-tungulus-105. Please check whether it should be relative pronoun or SCONJ.
 Fixed construction found in swedish-old-tungulus-105 with POS NOUN: kornbyrdhe (13), byrdhä (14)
+
+swedish-old-tungulus-106
+No issues found.
+
+swedish-old-tungulus-107
+No issues found.
+
+swedish-old-tungulus-108
 Dislocated relation found in swedish-old-tungulus-108 between kom (29) and Swa (1)
 Could not process 'sum', 2 in sentence swedish-old-tungulus-108. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-tungulus-109
 'vara' with deprel acl, 11 in sentence swedish-old-tungulus-109, change to copula.
+
+swedish-old-tungulus-110
+No issues found.
+
+swedish-old-tungulus-111
+No issues found.
+
+swedish-old-tungulus-112
+No issues found.
+
+swedish-old-tungulus-113
+No issues found.
+
+swedish-old-tungulus-114
+No issues found.
+
+swedish-old-tungulus-115
 Fixed construction found in swedish-old-tungulus-115 with POS ADP: a (8), glöþ (9)
+
+swedish-old-tungulus-116
+No issues found.
+
+swedish-old-tungulus-117
+No issues found.
+
+swedish-old-tungulus-118
+No issues found.
+
+swedish-old-tungulus-119
 Fixed construction found in swedish-old-tungulus-119 with POS NOUN: glödhninga (5), hugormber (6)
+
+swedish-old-tungulus-120
 Fixed construction found in swedish-old-tungulus-120 with POS ADV: þär (16), mäþ (17)
+
+swedish-old-tungulus-121
 Fixed construction found in swedish-old-tungulus-121 with POS ADJ: aldra (4), handa (5)
 Fixed construction found in swedish-old-tungulus-121 with POS ADJ: aldra (20), handa (21)
+
+swedish-old-tungulus-122
 No particles ut found for +-token kom, 2 in sentence swedish-old-tungulus-122
 Fixed construction found in swedish-old-tungulus-122 with POS ADP: af (5), hus (6)
+
+swedish-old-tungulus-123
 Could not process 'sum', 14 in sentence swedish-old-tungulus-123. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-tungulus-124
+No issues found.
+
+swedish-old-tungulus-125
 Could not process 'sum', 5 in sentence swedish-old-tungulus-125. Please check whether it should be relative pronoun or SCONJ.
 Fixed construction found in swedish-old-tungulus-125 with POS NOUN: bakara (7), ughn (8)
+
+swedish-old-tungulus-126
+No issues found.
+
+swedish-old-tungulus-127
 Fixed construction found in swedish-old-tungulus-127 with POS VERB: närvara (7), waro (8)
 Fixed construction found in swedish-old-tungulus-127 with POS ADP: utan (14), þän (15)
 'vara' with deprel acl, 18 in sentence swedish-old-tungulus-127, change to copula.
+
+swedish-old-tungulus-128
 Fixed construction found in swedish-old-tungulus-128 with POS ADP: i (18), hus (20)
+
+swedish-old-tungulus-129
+No issues found.
+
+swedish-old-tungulus-130
+No issues found.
+
+swedish-old-tungulus-131
 Dislocated relation found in swedish-old-tungulus-131 between skal (12) and lugha (4)
 Fixed construction found in swedish-old-tungulus-131 with POS ADV: utan (7), viþer (8)
+
+swedish-old-tungulus-132
 Fixed construction found in swedish-old-tungulus-132 with POS ADV: thär (4), in (5)
 Fixed construction found in swedish-old-tungulus-132 with POS ADV: þär (10), inne (11)
+
+swedish-old-tungulus-133
 Fixed construction found in swedish-old-tungulus-133 with POS NOUN: klosterman (8), män (9)
 Fixed construction found in swedish-old-tungulus-133 with POS NOUN: klosterfru (11), frvr (12)
+
+swedish-old-tungulus-134
+No issues found.
+
+swedish-old-tungulus-135
 Dislocated relation found in swedish-old-tungulus-135 between kom (7) and haffde (3)
 Dislocated relation found in swedish-old-tungulus-135 between kom (7) and seeth (5)
+
+swedish-old-tungulus-136
 Fixed construction found in swedish-old-tungulus-136 with POS VERB: forskulda (12), skuldat (13)
+
+swedish-old-tungulus-137
+No issues found.
+
+swedish-old-tungulus-138
 Fixed construction found in swedish-old-tungulus-138 with POS ADP: bland (7), kreatur (9)
+
+swedish-old-tungulus-139
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-139, change to copula.
+
+swedish-old-tungulus-140
 'vara' with deprel root, 5 in sentence swedish-old-tungulus-140, change to copula.
+
+swedish-old-tungulus-141
 Fixed construction found in swedish-old-tungulus-141 with POS SCONJ: for (7), þy (8)
 Fixed construction found in swedish-old-tungulus-141 with POS SCONJ: for (7), at* (9)
+
+swedish-old-tungulus-142
+No issues found.
+
+swedish-old-tungulus-143
+No issues found.
+
+swedish-old-tungulus-144
 Dislocated relation found in swedish-old-tungulus-144 between the (13) and the (3)
+
+swedish-old-tungulus-145
 Dislocated relation found in swedish-old-tungulus-145 between the (9) and the (2)
 'vara' with deprel acl:relcl, 17 in sentence swedish-old-tungulus-145, change to copula.
 Fixed construction found in swedish-old-tungulus-145 with POS NOUN: vaku (20), nat (21)
+
+swedish-old-tungulus-146
 Dislocated relation found in swedish-old-tungulus-146 between the (10) and qwinnor (2)
 Fixed construction found in swedish-old-tungulus-146 with POS VERB: räþa (15), des (16)
+
+swedish-old-tungulus-147
 Dislocated relation found in swedish-old-tungulus-147 between gingo (8) and the (2)
 'vara' with deprel conj, 12 in sentence swedish-old-tungulus-147, change to copula.
+
+swedish-old-tungulus-148
 Dislocated relation found in swedish-old-tungulus-148 between plägadhä (8) and qwinnor (2)
+
+swedish-old-tungulus-149
 Fixed construction found in swedish-old-tungulus-149 with POS NOUN: värulds (10), lof (11)
+
+swedish-old-tungulus-150
+No issues found.
+
+swedish-old-tungulus-151
 Fixed construction found in swedish-old-tungulus-151 with POS NOUN: undirdane (22), dana (23)
+
+swedish-old-tungulus-152
+No issues found.
+
+swedish-old-tungulus-153
 'vara' with deprel acl, 4 in sentence swedish-old-tungulus-153, change to copula.
 Fixed construction found in swedish-old-tungulus-153 with POS NOUN: tidhgärdh (11), gärd (12)
 Fixed construction found in swedish-old-tungulus-153 with POS NOUN: siäla (17), rökt (18)
 Fixed construction found in swedish-old-tungulus-153 with POS NOUN: soknar (22), man (23)
+
+swedish-old-tungulus-154
 Dislocated relation found in swedish-old-tungulus-154 between haffdo (8) and kloster (1)
 Fixed construction found in swedish-old-tungulus-154 with POS NOUN: klosterman (1), män (2)
+
+swedish-old-tungulus-155
 Dislocated relation found in swedish-old-tungulus-155 between jumfrvr (7) and jumfrvr (2)
 'vara' with deprel acl, 4 in sentence swedish-old-tungulus-155, change to copula.
+
+swedish-old-tungulus-156
+No issues found.
+
+swedish-old-tungulus-157
 'vara' with deprel root, 6 in sentence swedish-old-tungulus-157, change to copula.
+
+swedish-old-tungulus-158
+No issues found.
+
+swedish-old-tungulus-159
+No issues found.
+
+swedish-old-tungulus-160
 Fixed construction found in swedish-old-tungulus-160 with POS SCONJ: for (3), þy (4)
 Fixed construction found in swedish-old-tungulus-160 with POS SCONJ: for (3), at* (5)
 Dislocated relation found in swedish-old-tungulus-160 between skal (14) and löste (7)
@@ -129,51 +529,205 @@ Fixed construction found in swedish-old-tungulus-160 with POS ADV: for (12), þy
 Fixed construction found in swedish-old-tungulus-160 with POS NOUN: kirkio (38), ganger (39)
 Fixed construction found in swedish-old-tungulus-160 with POS NOUN: pilagrims (41), färþ (42)
 Fixed construction found in swedish-old-tungulus-160 with POS NOUN: gärning (46), ninghom (47)
+
+swedish-old-tungulus-161
 Dislocated relation found in swedish-old-tungulus-161 between pinäs (18) and synder (5)
 Fixed construction found in swedish-old-tungulus-161 with POS NOUN: skriptarmal (13), mall (14)
+
+swedish-old-tungulus-162
+No issues found.
+
+swedish-old-tungulus-163
 Fixed construction found in swedish-old-tungulus-163 with POS SCONJ: for (3), þy (4)
 Fixed construction found in swedish-old-tungulus-163 with POS SCONJ: for (3), at* (5)
 Fixed construction found in swedish-old-tungulus-163 with POS ADJ: mykil (10), kyt (11)
+
+swedish-old-tungulus-164
 'vara' with deprel acl:relcl, 8 in sentence swedish-old-tungulus-164, change to copula.
+
+swedish-old-tungulus-165
 'vara' with deprel acl:relcl, 11 in sentence swedish-old-tungulus-165, change to copula.
+
+swedish-old-tungulus-166
 Fixed construction found in swedish-old-tungulus-166 with POS NOUN: tilkoma (8), kommo (9)
+
+swedish-old-tungulus-167
 Dislocated relation found in swedish-old-tungulus-167 between är (12) and Swa (1)
 Could not process 'sum', 2 in sentence swedish-old-tungulus-167. Please check whether it should be relative pronoun or SCONJ.
 'vara' with deprel advcl, 5 in sentence swedish-old-tungulus-167, change to copula.
 'vara' with deprel root, 12 in sentence swedish-old-tungulus-167, change to copula.
+
+swedish-old-tungulus-168
+No issues found.
+
+swedish-old-tungulus-169
 Could not process 'sum', 14 in sentence swedish-old-tungulus-169. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-tungulus-170
 'vara' with deprel ccomp, 5 in sentence swedish-old-tungulus-170, change to copula.
+
+swedish-old-tungulus-171
+No issues found.
+
+swedish-old-tungulus-172
+No issues found.
+
+swedish-old-tungulus-173
 'vara' with deprel root, 3 in sentence swedish-old-tungulus-173, change to copula.
+
+swedish-old-tungulus-174
+No issues found.
+
+swedish-old-tungulus-175
 Fixed construction found in swedish-old-tungulus-175 with POS VERB: tilhöra (6), hördhe (7)
+
+swedish-old-tungulus-176
+No issues found.
+
+swedish-old-tungulus-177
+No issues found.
+
+swedish-old-tungulus-178
+No issues found.
+
+swedish-old-tungulus-179
 Fixed construction found in swedish-old-tungulus-179 with POS VERB: tilhöra (7), hördhe (8)
+
+swedish-old-tungulus-180
 Fixed construction found in swedish-old-tungulus-180 with POS NOUN: ängil (1), lin (2)
+
+swedish-old-tungulus-181
 Could not process 'sum', 8 in sentence swedish-old-tungulus-181. Please check whether it should be relative pronoun or SCONJ.
 'vara' with deprel advcl, 11 in sentence swedish-old-tungulus-181, change to copula.
+
+swedish-old-tungulus-182
+No issues found.
+
+swedish-old-tungulus-183
+No issues found.
+
+swedish-old-tungulus-184
+No issues found.
+
+swedish-old-tungulus-185
 'vara' with deprel root, 2 in sentence swedish-old-tungulus-185, change to copula.
+
+swedish-old-tungulus-186
 Dislocated relation found in swedish-old-tungulus-186 between blötä (11) and swa (2)
 Could not process 'sum', 3 in sentence swedish-old-tungulus-186. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-tungulus-187
+No issues found.
+
+swedish-old-tungulus-188
+No issues found.
+
+swedish-old-tungulus-189
 Fixed construction found in swedish-old-tungulus-189 with POS NOUN: gärningis (9), man (10)
+
+swedish-old-tungulus-190
+No issues found.
+
+swedish-old-tungulus-191
 Fixed construction found in swedish-old-tungulus-191 with POS ADV: þär (1), af (2)
+
+swedish-old-tungulus-192
 Could not process 'sum', 10 in sentence swedish-old-tungulus-192. Please check whether it should be relative pronoun or SCONJ.
 Fixed construction found in swedish-old-tungulus-192 with POS SCONJ: sva (9), sum (10)
 Fixed construction found in swedish-old-tungulus-192 with POS NOUN: eldgnista (11), gnistor (12)
+
+swedish-old-tungulus-193
+No issues found.
+
+swedish-old-tungulus-194
+No issues found.
+
+swedish-old-tungulus-195
 Dislocated relation found in swedish-old-tungulus-195 between komber (6) and komber (3)
+
+swedish-old-tungulus-196
+No issues found.
+
+swedish-old-tungulus-197
 Fixed construction found in swedish-old-tungulus-197 with POS SCONJ: sva (9), at (10)
 'vara' with deprel advcl, 11 in sentence swedish-old-tungulus-197, change to copula.
+
+swedish-old-tungulus-198
 Fixed construction found in swedish-old-tungulus-198 with POS ADV: a (4), gruvo (5)
 Could not process 'sum', 7 in sentence swedish-old-tungulus-198. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-tungulus-199
+No issues found.
+
+swedish-old-tungulus-200
 Could not process 'sum', 6 in sentence swedish-old-tungulus-200. Please check whether it should be relative pronoun or SCONJ.
 Fixed construction found in swedish-old-tungulus-200 with POS NOUN: glävio (7), staki (8)
+
+swedish-old-tungulus-201
+No issues found.
+
+swedish-old-tungulus-202
 'vara' with deprel root, 3 in sentence swedish-old-tungulus-202, change to copula.
 Could not process 'sum', 5 in sentence swedish-old-tungulus-202. Please check whether it should be relative pronoun or SCONJ.
 Fixed construction found in swedish-old-tungulus-202 with POS SCONJ: sva (4), sum (5)
+
+swedish-old-tungulus-203
 Fixed construction found in swedish-old-tungulus-203 with POS ADV: a (5), gruvo (6)
+
+swedish-old-tungulus-204
 Dislocated relation found in swedish-old-tungulus-204 between bläsä (5) and tiänistä (2)
 Fixed construction found in swedish-old-tungulus-204 with POS NOUN: þiänista (2), man (3)
+
+swedish-old-tungulus-205
+No issues found.
+
+swedish-old-tungulus-206
 Fixed construction found in swedish-old-tungulus-206 with POS ADV: i (6), sänder (7)
+
+swedish-old-tungulus-207
 Dislocated relation found in swedish-old-tungulus-207 between huxat (12) and ware (7)
 'vara' with deprel dislocated, 7 in sentence swedish-old-tungulus-207, change to copula.
+
+swedish-old-tungulus-208
+No issues found.
+
+swedish-old-tungulus-209
+No issues found.
+
+swedish-old-tungulus-210
+No issues found.
+
+swedish-old-tungulus-211
 'vara' with deprel root, 3 in sentence swedish-old-tungulus-211, change to copula.
+
+swedish-old-tungulus-212
+No issues found.
+
+swedish-old-tungulus-213
+No issues found.
+
+swedish-old-tungulus-214
+No issues found.
+
+swedish-old-tungulus-215
+No issues found.
+
+swedish-old-tungulus-216
+No issues found.
+
+swedish-old-tungulus-217
+No issues found.
+
+swedish-old-tungulus-218
 Deprel not changed for numeral. Please look over deprel for numeral: thusände, 2 in sentence swedish-old-tungulus-218
 Fixed construction found in swedish-old-tungulus-218 with POS ADP: utan (31), ände (32)
+
+swedish-old-tungulus-219
+No issues found.
+
+swedish-old-tungulus-220
+No issues found.
+
+swedish-old-tungulus-221
 Foreign word found in swedish-old-tungulus-221: mcdlviio, 1
+
