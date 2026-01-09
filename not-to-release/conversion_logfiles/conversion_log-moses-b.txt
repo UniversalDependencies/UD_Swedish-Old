@@ -6,12 +6,14 @@ Marked possessive pronoun: hans, 16, head: sidho
 
 swedish-old-moses-b-2
 Added PronType {'Prs'} for token: the, 1
-Changed xxx, 13 to numeral
-Changed relation from 'det' to 'nummod' for token xxx (13).Changed obl:arg to obl for ara, 14
+Changed xxx (13) to numeral
+Changed relation from 'det' to 'nummod' for token xxx (13).
+Changed obl:arg to obl for ara, 14
 
 swedish-old-moses-b-3
-Changed fam, 4 to numeral
-Changed relation from 'det' to 'nummod' for token fam (4).Marked possessive pronoun: hans, 7, head: swnom
+Changed fam (4) to numeral
+Changed relation from 'det' to 'nummod' for token fam (4).
+Marked possessive pronoun: hans, 7, head: swnom
 
 swedish-old-moses-b-4
 Added PronType {'Prs'} for token: them, 7
@@ -22,12 +24,15 @@ Marked possessive pronoun: sinom, 21, head: bønom
 Changed participle to adjective: fanghen, 27, deprel: xcomp, head: laa
 
 swedish-old-moses-b-5
+No changes made.
 
 swedish-old-moses-b-6
+No changes made.
 
 swedish-old-moses-b-7
-Changed xxx, 3 to numeral
-Changed relation from 'det' to 'nummod' for token xxx (3).Changed participle to adjective: lidhin, 6, deprel: dislocated, head: fødhe
+Changed xxx (3) to numeral
+Changed relation from 'det' to 'nummod' for token xxx (3).
+Changed participle to adjective: lidhin, 6, deprel: dislocated, head: fødhe
 Changed participle to adjective: skapadh, 12, deprel: advcl, head: lidhin
 Changed obl:arg to obl for adam, 16
 Added PronType {'Ind'} for token: annan, 17
@@ -37,15 +42,19 @@ Changed genitive nmod into nmod:poss: abels, 6, head: syster
 Changed 'sum' (8) to relative nsubj pronoun.
 
 swedish-old-moses-b-9
-Changed c, 5 to numeral
-Changed relation from 'det' to 'nummod' for token c (5).Changed xv, 9 to numeral
-Changed relation from 'det' to 'nummod' for token xv (9).Changed c, 14 to numeral
+Changed c (5) to numeral
+Changed relation from 'det' to 'nummod' for token c (5).
+Changed xv (9) to numeral
+Changed relation from 'det' to 'nummod' for token xv (9).
+Changed c (14) to numeral
 Changed relation from 'det' to 'nummod' for token c (14).
+
 swedish-old-moses-b-10
 Added PronType {'Art'} for token: en, 3
 Changed genitive nmod into nmod:poss: abels, 11, head: dødh
-Changed c, 13 to numeral
+Changed c (13) to numeral
 Changed relation from 'det' to 'nummod' for token c (13).
+
 swedish-old-moses-b-11
 Added PronType {'Prs'} for token: the, 4
 Solved fixed SCONJ construction 'fyr än' (tokens 12 and 9)
@@ -62,16 +71,20 @@ Added PronType {'Prs'} for token: the, 3
 Added PronType {'Tot'} for token: badhen, 4
 
 swedish-old-moses-b-13
-Changed cc, 1 to numeral
-Changed relation from 'det' to 'nummod' for token cc (1).Changed xxx, 4 to numeral
-Changed relation from 'det' to 'nummod' for token xxx (4).Added PronType {'Prs'} for token: the, 8
+Changed cc (1) to numeral
+Changed relation from 'det' to 'nummod' for token cc (1).
+Changed xxx (4) to numeral
+Changed relation from 'det' to 'nummod' for token xxx (4).
+Added PronType {'Prs'} for token: the, 8
 Added PronType {'Art'} for token: thera, 14
 Changed participle to adjective: føddir, 17, deprel: advcl, head: gamul
 
 swedish-old-moses-b-14
-Changed xxx, 1 to numeral
-Changed relation from 'det' to 'nummod' for token xxx (1).Changed xxx, 4 to numeral
-Changed relation from 'det' to 'nummod' for token xxx (4).Added PronType {'Prs'} for token: the, 7
+Changed xxx (1) to numeral
+Changed relation from 'det' to 'nummod' for token xxx (1).
+Changed xxx (4) to numeral
+Changed relation from 'det' to 'nummod' for token xxx (4).
+Added PronType {'Prs'} for token: the, 7
 Added PronType {'Art'} for token: thera, 16
 Added PronType {'Neg'} for token: enkte, 26
 Added PronType {'Art'} for token: them, 28
@@ -94,12 +107,16 @@ Marked possessive pronoun: hans, 16, head: hushion
 Changed 'sum' (18) to relative nsubj pronoun.
 
 swedish-old-moses-b-17
+No changes made.
 
 swedish-old-moses-b-18
+No changes made.
 
 swedish-old-moses-b-19
+No changes made.
 
 swedish-old-moses-b-20
+No changes made.
 
 swedish-old-moses-b-21
 Added PronType {'Dem'} for token: thænne, 1
@@ -109,11 +126,13 @@ Changed participle to adjective: liffwandis, 4, deprel: advcl, head: førdhir
 Found +-compound: koma+ater, 13, particle is ADV, deprel advmod
 
 swedish-old-moses-b-23
-Changed ccc, 6 to numeral
-Changed relation from 'det' to 'nummod' for token ccc (6).Changed xviij, 10 to numeral
+Changed ccc (6) to numeral
+Changed relation from 'det' to 'nummod' for token ccc (6).
+Changed xviij (10) to numeral
 Marked possessive pronoun: hans, 14, head: ældhir
-Changed M, 17 to numeral
-Changed relation from 'det' to 'nummod' for token M (17).Changed xxx, 21 to numeral
+Changed M (17) to numeral
+Changed relation from 'det' to 'nummod' for token M (17).
+Changed xxx (21) to numeral
 
 swedish-old-moses-b-24
 Added PronType {'Neg'} for token: enghin, 3
@@ -129,42 +148,56 @@ Added PronType {'Tot'} for token: hwars, 16
 Added PronType {'Art'} for token: thera, 17
 
 swedish-old-moses-b-26
-Changed xl, 1 to numeral
-Changed relation from 'det' to 'nummod' for token xl (1).Changed vij, 4 to numeral
-Changed relation from 'det' to 'nummod' for token vij (4).Added PronType {'Dem'} for token: tæssa, 8
+Changed xl (1) to numeral
+Changed relation from 'det' to 'nummod' for token xl (1).
+Changed vij (4) to numeral
+Changed relation from 'det' to 'nummod' for token vij (4).
+Added PronType {'Dem'} for token: tæssa, 8
 Changed genitive nmod into nmod:poss: hems, 9, head: enoc
 Solved fixed SCONJ construction 'fyr än' (tokens 13 and 11)
 Changed passive nominal subject to nsubj:pass: han, 12
 Marked possessive pronoun: hans, 18, head: forfadhir
 
 swedish-old-moses-b-27
+No changes made.
 
 swedish-old-moses-b-28
+No changes made.
 
 swedish-old-moses-b-29
+No changes made.
 
 swedish-old-moses-b-30
+No changes made.
 
 swedish-old-moses-b-31
+No changes made.
 
 swedish-old-moses-b-32
 Changed participle to adjective: skapadhir, 6, deprel: amod, head: adam
 Changed passive accusative subject to obj: aar, 13
-Changed thu, 11 to numeral
-Changed relation from 'det' to 'nummod' for token thu (11).Changed thusanda, 12 to numeral
-Changed relation from 'det' to 'nummod' for token thusanda (12).Changed thu, 15 to numeral
-Changed relation from 'det' to 'nummod' for token thu (15).Changed hundrada, 16 to numeral
-Changed relation from 'det' to 'nummod' for token hundrada (16).Changed xl, 18 to numeral
-Changed relation from 'det' to 'nummod' for token xl (18).Changed iiij, 21 to numeral
+Changed thu (11) to numeral
+Changed relation from 'det' to 'nummod' for token thu (11).
+Changed thusanda (12) to numeral
+Changed relation from 'det' to 'nummod' for token thusanda (12).
+Changed thu (15) to numeral
+Changed relation from 'det' to 'nummod' for token thu (15).
+Changed hundrada (16) to numeral
+Changed relation from 'det' to 'nummod' for token hundrada (16).
+Changed xl (18) to numeral
+Changed relation from 'det' to 'nummod' for token xl (18).
+Changed iiij (21) to numeral
 Changed relation from 'det' to 'nummod' for token iiij (21).
+
 swedish-old-moses-b-33
 Changed passive nominal subject to nsubj:pass: aldhir, 6
 Changed genitive nmod into nmod:poss: wærldenna, 5, head: aldhir
 
 swedish-old-moses-b-34
 Changed genitive nmod into nmod:poss: noe, 5, head: flodh
-Changed Thre, 7 to numeral
-Changed relation from 'det' to 'nummod' for token Thre (7).Added PronType {'Prs'} for token: the, 10
+Changed Thre (7) to numeral
+Changed relation from 'det' to 'nummod' for token Thre (7).
+Added PronType {'Prs'} for token: the, 10
 Added PronType {'Prs'} for token: sinom, 21
 Marked possessive pronoun: sinom, 21, head: konom
 
@@ -177,10 +210,11 @@ Added PronType {'Tot'} for token: alt, 10
 
 swedish-old-moses-b-36
 Added PronType {'Art'} for token: thera, 3
-Changed thria, 4 to numeral
-Changed relation from 'det' to 'nummod' for token thria (4).Changed passive nominal subject to nsubj:pass: hemberen, 8
+Changed thria (4) to numeral
+Changed relation from 'det' to 'nummod' for token thria (4).
+Changed passive nominal subject to nsubj:pass: hemberen, 8
 Added PronType {'Tot'} for token: aller, 7
-Changed thry, 10 to numeral
+Changed thry (10) to numeral
 
 swedish-old-moses-b-37
 Changed genitive nmod into nmod:poss: noe, 3, head: syni
@@ -256,42 +290,58 @@ Marked possessive pronoun: wars, 28, head: hærra
 Changed genitive nmod into nmod:poss: hærra, 29, head: modhir
 
 swedish-old-moses-b-46
-Changed Fæm, 1 to numeral
-Changed relation from 'det' to 'nummod' for token Fæm (1).Changed hundradha, 2 to numeral
-Changed relation from 'det' to 'nummod' for token hundradha (2).Changed genitive nmod into nmod:poss: ara, 3, head: gamal
-Changed c, 12 to numeral
-Changed relation from 'det' to 'nummod' for token c (12).Changed participle to adjective: føddhir, 18, deprel: advcl, head: kom
+Changed Fæm (1) to numeral
+Changed relation from 'det' to 'nummod' for token Fæm (1).
+Changed hundradha (2) to numeral
+Changed relation from 'det' to 'nummod' for token hundradha (2).
+Changed genitive nmod into nmod:poss: ara, 3, head: gamal
+Changed c (12) to numeral
+Changed relation from 'det' to 'nummod' for token c (12).
+Changed participle to adjective: føddhir, 18, deprel: advcl, head: kom
 Changed genitive nmod into nmod:poss: noe, 20, head: flodh
 
 swedish-old-moses-b-47
-Changed thwem, 2 to numeral
-Changed relation from 'det' to 'nummod' for token thwem (2).Changed obl:arg to obl for aarom, 3
+Changed thwem (2) to numeral
+Changed relation from 'det' to 'nummod' for token thwem (2).
+Changed obl:arg to obl for aarom, 3
 Changed genitive nmod into nmod:poss: noe, 5, head: flodh
-Changed c, 17 to numeral
-Changed relation from 'det' to 'nummod' for token c (17).Changed thriggia, 18 to numeral
-Changed relation from 'det' to 'nummod' for token thriggia (18).Changed genitive nmod into nmod:poss: ara, 19, head: gamal
+Changed c (17) to numeral
+Changed relation from 'det' to 'nummod' for token c (17).
+Changed thriggia (18) to numeral
+Changed relation from 'det' to 'nummod' for token thriggia (18).
+Changed genitive nmod into nmod:poss: ara, 19, head: gamal
 Added PronType {'Tot'} for token: alt, 23
 Added PronType {'Art'} for token: eeth, 24
 Added PronType {'Prs'} for token: sinom, 30
 Marked possessive pronoun: sinom, 30, head: fadhir
 
 swedish-old-moses-b-48
-Changed ccc, 1 to numeral
-Changed relation from 'det' to 'nummod' for token ccc (1).Changed l, 4 to numeral
-Changed relation from 'det' to 'nummod' for token l (4).Changed ix, 12 to numeral
-Changed relation from 'det' to 'nummod' for token ix (12).Changed hundrada, 13 to numeral
-Changed relation from 'det' to 'nummod' for token hundrada (13).Changed genitive nmod into nmod:poss: aara, 14, head: gamal
-Changed l, 16 to numeral
+Changed ccc (1) to numeral
+Changed relation from 'det' to 'nummod' for token ccc (1).
+Changed l (4) to numeral
+Changed relation from 'det' to 'nummod' for token l (4).
+Changed ix (12) to numeral
+Changed relation from 'det' to 'nummod' for token ix (12).
+Changed hundrada (13) to numeral
+Changed relation from 'det' to 'nummod' for token hundrada (13).
+Changed genitive nmod into nmod:poss: aara, 14, head: gamal
+Changed l (16) to numeral
 Changed relation from 'det' to 'nummod' for token l (16).
+
 swedish-old-moses-b-49
+No changes made.
 
 swedish-old-moses-b-50
+No changes made.
 
 swedish-old-moses-b-51
+No changes made.
 
 swedish-old-moses-b-52
+No changes made.
 
 swedish-old-moses-b-53
+No changes made.
 
 swedish-old-moses-b-54
 Marked possessive pronoun: hans, 2, head: daghom
@@ -328,23 +378,30 @@ Changed 'sum' (7) to relative nsubj pronoun.
 Added PronType {'Art'} for token: thz, 10
 
 swedish-old-moses-b-59
+No changes made.
 
 swedish-old-moses-b-60
+No changes made.
 
 swedish-old-moses-b-61
+No changes made.
 
 swedish-old-moses-b-62
+No changes made.
 
 swedish-old-moses-b-63
+No changes made.
 
 swedish-old-moses-b-64
+No changes made.
 
 swedish-old-moses-b-65
 Added PronType {'Prs'} for token: thz, 1
-Changed xl, 3 to numeral
-Changed relation from 'det' to 'nummod' for token xl (3).Changed obl:arg to obl for arom, 4
+Changed xl (3) to numeral
+Changed relation from 'det' to 'nummod' for token xl (3).
+Changed obl:arg to obl for arom, 4
 Added PronType {'Art'} for token: eth, 7
-Changed tusandh, 8 to numeral
+Changed tusandh (8) to numeral
 
 swedish-old-moses-b-66
 Changed genitive nmod into nmod:poss: abrahams, 3, head: daghom
@@ -356,15 +413,20 @@ Added PronType {'Dem'} for token: tæsse, 2
 Added PronType {'Prs'} for token: thæs, 6
 Changed passive nominal subject to nsubj:pass: adam, 7
 Changed passive nominal subject to nsubj:pass: abraham, 10
-Changed thry, 12 to numeral
-Changed relation from 'det' to 'nummod' for token thry (12).Changed tusanda, 13 to numeral
-Changed relation from 'det' to 'nummod' for token tusanda (13).Changed cc, 16 to numeral
-Changed relation from 'det' to 'nummod' for token cc (16).Changed iiij, 19 to numeral
+Changed thry (12) to numeral
+Changed relation from 'det' to 'nummod' for token thry (12).
+Changed tusanda (13) to numeral
+Changed relation from 'det' to 'nummod' for token tusanda (13).
+Changed cc (16) to numeral
+Changed relation from 'det' to 'nummod' for token cc (16).
+Changed iiij (19) to numeral
 Changed relation from 'det' to 'nummod' for token iiij (19).
+
 swedish-old-moses-b-68
 Marked possessive pronoun: hans, 5, head: brodhir
 
 swedish-old-moses-b-69
+No changes made.
 
 swedish-old-moses-b-70
 Added PronType {'Prs'} for token: thy, 3
@@ -398,22 +460,26 @@ Changed genitive nmod into nmod:poss: gudz, 26, head: son
 New auxiliary construction: skulde (28) fødhas (29)
 
 swedish-old-moses-b-73
+No changes made.
 
 swedish-old-moses-b-74
+No changes made.
 
 swedish-old-moses-b-75
 Added PronType {'Dem'} for token: thæsse, 1
-Changed tre, 2 to numeral
-Changed relation from 'det' to 'nummod' for token tre (2).Moved Reflex feature to MISC column for sik, 5
+Changed tre (2) to numeral
+Changed relation from 'det' to 'nummod' for token tre (2).
+Moved Reflex feature to MISC column for sik, 5
 Changed obl:arg to obl for sik, 5
 Changed participle to adjective: iordadhir, 10, deprel: advcl, head: iordha
 
 swedish-old-moses-b-76
-Changed xij, 4 to numeral
+Changed xij (4) to numeral
 Changed relation from 'det' to 'nummod' for token xij (4).
+
 swedish-old-moses-b-77
 Added PronType {'Dem'} for token: tæssom, 3
-Changed tolff, 4 to numeral
+Changed tolff (4) to numeral
 Added PronType {'Prs'} for token: war, 6
 Marked possessive pronoun: war, 6, head: hærra
 Marked possessive pronoun: hans, 10, head: affkømdh
@@ -421,24 +487,31 @@ New auxiliary construction: skulde (14) fødhas (15)
 Changed genitive nmod into nmod:poss: gudz, 16, head: son
 
 swedish-old-moses-b-78
+No changes made.
 
 swedish-old-moses-b-79
+No changes made.
 
 swedish-old-moses-b-80
+No changes made.
 
 swedish-old-moses-b-81
+No changes made.
 
 swedish-old-moses-b-82
+No changes made.
 
 swedish-old-moses-b-83
+No changes made.
 
 swedish-old-moses-b-84
 Changed genitive nmod into nmod:poss: phares, 2, head: daghom
 Changed 'sum' (6) to relative nsubj pronoun.
 Added PronType {'Ind'} for token: andro, 7
 Changed obl:arg to obl for nampne, 8
-Changed xi, 12 to numeral
-Changed relation from 'det' to 'nummod' for token xi (12).Marked possessive pronoun: hans, 14, head: sonom
+Changed xi (12) to numeral
+Changed relation from 'det' to 'nummod' for token xi (12).
+Marked possessive pronoun: hans, 14, head: sonom
 Added PronType {'Art'} for token: thera, 17
 
 swedish-old-moses-b-85
@@ -450,9 +523,10 @@ Changed participle to adjective: føddhir, 17, deprel: advcl, head: waro
 Changed participle to adjective: waxin, 19, deprel: amod, head: man
 
 swedish-old-moses-b-86
-Changed c, 1 to numeral
-Changed relation from 'det' to 'nummod' for token c (1).Changed xl, 3 to numeral
-Changed iiij, 5 to numeral
+Changed c (1) to numeral
+Changed relation from 'det' to 'nummod' for token c (1).
+Changed xl (3) to numeral
+Changed iiij (5) to numeral
 Changed obl:arg to obl for aar, 6
 Changed genitive nmod into nmod:poss: israels, 8, head: syni
 
@@ -467,16 +541,20 @@ Changed obl:arg to obl for them, 17
 Added PronType {'Prs'} for token: them, 17
 
 swedish-old-moses-b-89
-Changed Sæx, 1 to numeral
-Changed relation from 'det' to 'nummod' for token Sæx (1).Changed hwndrat, 2 to numeral
-Changed relation from 'det' to 'nummod' for token hwndrat (2).Changed tusandh, 3 to numeral
-Changed relation from 'det' to 'nummod' for token tusandh (3).Added PronType {'Art'} for token: ther, 10
+Changed Sæx (1) to numeral
+Changed relation from 'det' to 'nummod' for token Sæx (1).
+Changed hwndrat (2) to numeral
+Changed relation from 'det' to 'nummod' for token hwndrat (2).
+Changed tusandh (3) to numeral
+Changed relation from 'det' to 'nummod' for token tusandh (3).
+Added PronType {'Art'} for token: ther, 10
 Changed genitive nmod into nmod:poss: israels, 11, head: sona
 Changed 'sum' (14) to relative nsubj pronoun.
 
 swedish-old-moses-b-90
-Changed xl, 1 to numeral
-Changed relation from 'det' to 'nummod' for token xl (1).Changed obl:arg to obl for aar, 2
+Changed xl (1) to numeral
+Changed relation from 'det' to 'nummod' for token xl (1).
+Changed obl:arg to obl for aar, 2
 Added PronType {'Prs'} for token: the, 4
 Added PronType {'Prs'} for token: the, 11
 Changed genitive nmod into nmod:poss: jorsula, 14, head: land
@@ -489,8 +567,10 @@ Changed 'sum' (8) to relative nsubj pronoun.
 Changed participle to adjective: kommen, 12, deprel: acl:relcl, head: slækt
 
 swedish-old-moses-b-92
+No changes made.
 
 swedish-old-moses-b-93
+No changes made.
 
 swedish-old-moses-b-94
 Changed 'sum' (5) to relative nsubj pronoun.
@@ -498,10 +578,12 @@ Added PronType {'Ind'} for token: andro, 6
 Changed obl:arg to obl for nampne, 7
 
 swedish-old-moses-b-95
+No changes made.
 
 swedish-old-moses-b-96
-Changed Twa, 1 to numeral
-Changed relation from 'det' to 'nummod' for token Twa (1).Changed genitive nmod into nmod:poss: israel, 4, head: synir
+Changed Twa (1) to numeral
+Changed relation from 'det' to 'nummod' for token Twa (1).
+Changed genitive nmod into nmod:poss: israel, 4, head: synir
 New auxiliary construction: haffde (3) hafft (6)
 
 swedish-old-moses-b-97
@@ -534,9 +616,11 @@ Changed genitive nmod into nmod:poss: wærldenna, 2, head: aldir
 Changed passive nominal subject to nsubj:pass: aldir, 3
 Marked possessive pronoun: hans, 6, head: daghom
 Changed participle to adjective: lidhen, 11, deprel: conj, head: byriadis
-Changed tusandh, 18 to numeral
-Changed relation from 'det' to 'nummod' for token tusandh (18).Changed xx, 20 to numeral
+Changed tusandh (18) to numeral
+Changed relation from 'det' to 'nummod' for token tusandh (18).
+Changed xx (20) to numeral
 Changed relation from 'det' to 'nummod' for token xx (20).
+
 swedish-old-moses-b-104
 Added PronType {'Art'} for token: thz, 3
 New auxiliary construction: haffwir (17) fwnnit (18)
@@ -544,8 +628,9 @@ Added PronType {'Art'} for token: en, 19
 Added PronType {'Prs'} for token: mit, 22
 Marked possessive pronoun: mit, 22, head: hiærta
 Changed 'sum' (24) to relative nsubj pronoun.
-Changed huat, 26 to numeral
-Changed relation from 'det' to 'nummod' for token huat (26).Changed vithna, 27 to numeral
+Changed huat (26) to numeral
+Changed relation from 'det' to 'nummod' for token huat (26).
+Changed vithna (27) to numeral
 Added PronType {'Prs'} for token: thz, 28
 
 swedish-old-moses-b-105
@@ -579,24 +664,34 @@ Added PronType {'Prs'} for token: sin, 12
 Marked possessive pronoun: sin, 12, head: fadhir
 
 swedish-old-moses-b-109
+No changes made.
 
 swedish-old-moses-b-110
+No changes made.
 
 swedish-old-moses-b-111
+No changes made.
 
 swedish-old-moses-b-112
+No changes made.
 
 swedish-old-moses-b-113
+No changes made.
 
 swedish-old-moses-b-114
+No changes made.
 
 swedish-old-moses-b-115
+No changes made.
 
 swedish-old-moses-b-116
+No changes made.
 
 swedish-old-moses-b-117
+No changes made.
 
 swedish-old-moses-b-118
+No changes made.
 
 swedish-old-moses-b-119
 Added PronType {'Dem'} for token: Thænne, 1
@@ -619,8 +714,9 @@ swedish-old-moses-b-123
 Added PronType {'Tot'} for token: allom, 8
 
 swedish-old-moses-b-124
-Changed tre, 4 to numeral
-Changed relation from 'det' to 'nummod' for token tre (4).Added PronType {'Tot'} for token: huar, 6
+Changed tre (4) to numeral
+Changed relation from 'det' to 'nummod' for token tre (4).
+Added PronType {'Tot'} for token: huar, 6
 Added PronType {'Ind'} for token: annan, 8
 
 swedish-old-moses-b-125
@@ -632,24 +728,28 @@ Added PronType {'Art'} for token: thæn, 3
 Added PronType {'Art'} for token: thera, 8
 
 swedish-old-moses-b-127
-Changed thre, 1 to numeral
+Changed thre (1) to numeral
 Changed relation from 'det' to 'nummod' for token thre (1).
+
 swedish-old-moses-b-128
 Marked possessive pronoun: hans, 13, head: land
 Added PronType {'Tot'} for token: huart, 17
-Changed c, 20 to numeral
-Changed relation from 'det' to 'nummod' for token c (20).Added PronType {'Art'} for token: eth, 24
+Changed c (20) to numeral
+Changed relation from 'det' to 'nummod' for token c (20).
+Added PronType {'Art'} for token: eth, 24
 Marked possessive pronoun: hans, 29, head: brodhir
 
 swedish-old-moses-b-129
+No changes made.
 
 swedish-old-moses-b-130
 Added PronType {'Tot'} for token: alla, 5
 Added PronType {'Tot'} for token: alla, 9
 
 swedish-old-moses-b-131
-Changed try, 1 to numeral
-Changed relation from 'det' to 'nummod' for token try (1).Changed xx, 4 to numeral
+Changed try (1) to numeral
+Changed relation from 'det' to 'nummod' for token try (1).
+Changed xx (4) to numeral
 New auxiliary construction: haffwir (5) prædicat (8)
 Changed obl:arg to obl for idhir, 9
 Added PronType {'Neg'} for token: enkte, 11
@@ -668,11 +768,13 @@ Marked possessive pronoun: min, 2, head: tiænisto
 New auxiliary construction: skal (9) fanga (11)
 Added PronType {'Prs'} for token: sith, 16
 Marked possessive pronoun: sith, 16, head: land
-Changed lxx, 22 to numeral
-Changed relation from 'det' to 'nummod' for token lxx (22).Changed obl:arg to obl for aar, 23
+Changed lxx (22) to numeral
+Changed relation from 'det' to 'nummod' for token lxx (22).
+Changed obl:arg to obl for aar, 23
 Marked possessive pronoun: hans, 24, head: træla
 
 swedish-old-moses-b-135
+No changes made.
 
 swedish-old-moses-b-136
 Added PronType {'Art'} for token: thera, 6
@@ -691,6 +793,7 @@ Marked possessive pronoun: hans, 7, head: ordh
 Added PronType {'Art'} for token: ena, 10
 
 swedish-old-moses-b-139
+No changes made.
 
 swedish-old-moses-b-140
 Changed participle to adjective: innelucthir, 4, deprel: dislocated, head: tak
@@ -738,9 +841,11 @@ swedish-old-moses-b-148
 Marked possessive pronoun: hans, 3, head: syni
 Changed obl:arg to obl for syni, 4
 Changed 'sum' (5) to relative nsubj pronoun.
-Changed x, 9 to numeral
+Changed x (9) to numeral
 Changed relation from 'det' to 'nummod' for token x (9).
+
 swedish-old-moses-b-149
+No changes made.
 
 swedish-old-moses-b-150
 Changed genitive nmod into nmod:poss: josie, 7, head: son
@@ -749,6 +854,7 @@ Changed obl:arg to obl for konungh, 12
 Changed genitive nmod into nmod:poss: iuda, 14, head: landh
 
 swedish-old-moses-b-151
+No changes made.
 
 swedish-old-moses-b-152
 Added PronType {'Prs'} for token: Tha, 1
@@ -765,6 +871,7 @@ Marked negation particle: ey, 7
 New auxiliary construction: wilde (6) skatta (8)
 
 swedish-old-moses-b-155
+No changes made.
 
 swedish-old-moses-b-156
 Added PronType {'Prs'} for token: war, 3
@@ -805,8 +912,9 @@ swedish-old-moses-b-162
 New auxiliary construction: skal (2) bryta (4)
 Changed genitive nmod into nmod:poss: nabugodonozorz, 5, head: wald
 Added PronType {'Dem'} for token: thæsse, 8
-Changed thry, 9 to numeral
-Changed relation from 'det' to 'nummod' for token thry (9).Added PronType {'Tot'} for token: alt, 13
+Changed thry (9) to numeral
+Changed relation from 'det' to 'nummod' for token thry (9).
+Added PronType {'Tot'} for token: alt, 13
 Added PronType {'Prs'} for token: thz, 14
 New auxiliary construction: skal (12) atirkomma (15)
 Changed 'sum' (18) to relative nsubj pronoun.
@@ -826,8 +934,9 @@ Added PronType {'Prs'} for token: them, 3
 
 swedish-old-moses-b-166
 New auxiliary construction: skalt (2) liffwa (3)
-Changed thwa, 4 to numeral
-Changed relation from 'det' to 'nummod' for token thwa (4).Marked negation particle: ey, 7
+Changed thwa (4) to numeral
+Changed relation from 'det' to 'nummod' for token thwa (4).
+Marked negation particle: ey, 7
 
 swedish-old-moses-b-167
 Changed obl:arg to obl for honom, 6
@@ -853,8 +962,9 @@ Marked possessive pronoun: hans, 44, head: fridh
 Changed obl:arg to obl for them, 52
 Added PronType {'Prs'} for token: them, 52
 Added PronType {'Prs'} for token: the, 57
-Changed lxx, 61 to numeral
-Changed relation from 'det' to 'nummod' for token lxx (61).Changed obl:arg to obl for aar, 62
+Changed lxx (61) to numeral
+Changed relation from 'det' to 'nummod' for token lxx (61).
+Changed obl:arg to obl for aar, 62
 Changed genitive nmod into nmod:poss: iudha, 73, head: land
 
 swedish-old-moses-b-170
@@ -863,6 +973,7 @@ Changed obl:arg to obl for sik, 32
 Changed obl:arg to obl for honom, 38
 
 swedish-old-moses-b-171
+No changes made.
 
 swedish-old-moses-b-172
 Moved Reflex feature to MISC column for sik, 5
@@ -908,14 +1019,20 @@ Changed genitive nmod into nmod:poss: wærldenna, 8, head: aldhir
 swedish-old-moses-b-180
 Added PronType {'Art'} for token: thera, 1
 Added PronType {'Dem'} for token: thænne, 4
-Changed fæm, 7 to numeral
-Changed relation from 'det' to 'nummod' for token fæm (7).Changed hundrada, 8 to numeral
-Changed relation from 'det' to 'nummod' for token hundrada (8).Changed obl:arg to obl for aar, 9
-Changed xiiij, 11 to numeral
-Changed relation from 'det' to 'nummod' for token xiiij (11).Changed vi, 14 to numeral
-Changed relation from 'det' to 'nummod' for token vi (14).Changed x, 17 to numeral
-Changed relation from 'det' to 'nummod' for token x (17).Changed thwem, 20 to numeral
-Changed relation from 'det' to 'nummod' for token thwem (20).Changed xx, 23 to numeral
+Changed fæm (7) to numeral
+Changed relation from 'det' to 'nummod' for token fæm (7).
+Changed hundrada (8) to numeral
+Changed relation from 'det' to 'nummod' for token hundrada (8).
+Changed obl:arg to obl for aar, 9
+Changed xiiij (11) to numeral
+Changed relation from 'det' to 'nummod' for token xiiij (11).
+Changed vi (14) to numeral
+Changed relation from 'det' to 'nummod' for token vi (14).
+Changed x (17) to numeral
+Changed relation from 'det' to 'nummod' for token x (17).
+Changed thwem (20) to numeral
+Changed relation from 'det' to 'nummod' for token thwem (20).
+Changed xx (23) to numeral
 
 swedish-old-moses-b-181
 Changed passive nominal subject to nsubj:pass: aldir, 5
@@ -960,6 +1077,7 @@ Added PronType {'Art'} for token: thera, 17
 Changed genitive nmod into nmod:poss: iursala, 24, head: land
 
 swedish-old-moses-b-190
+No changes made.
 
 swedish-old-moses-b-191
 Changed genitive nmod into nmod:poss: egypto, 8, head: konunge
@@ -1012,8 +1130,9 @@ Added PronType {'Tot'} for token: alla, 2
 Changed participle to adjective: komner, 6, deprel: amod, head: iudha
 
 swedish-old-moses-b-201
-Changed lxx, 5 to numeral
-Changed relation from 'det' to 'nummod' for token lxx (5).Changed genitive nmod into nmod:poss: iuda, 8, head: bygningh
+Changed lxx (5) to numeral
+Changed relation from 'det' to 'nummod' for token lxx (5).
+Changed genitive nmod into nmod:poss: iuda, 8, head: bygningh
 
 swedish-old-moses-b-202
 Changed genitive nmod into nmod:poss: iuda, 3, head: land
@@ -1031,8 +1150,9 @@ Changed 'sum' (18) to relative nsubj pronoun.
 Marked possessive pronoun: hans, 19, head: fadhir
 Changed 'sum' (21) to relative nsubj pronoun.
 Added PronType {'Art'} for token: the, 24
-Changed tw, 26 to numeral
+Changed tw (26) to numeral
 Changed relation from 'det' to 'nummod' for token tw (26).
+
 swedish-old-moses-b-205
 Changed genitive nmod into nmod:poss: iuda, 13, head: slækt
 
@@ -1056,6 +1176,7 @@ Added PronType {'Prs'} for token: thz, 6
 New auxiliary construction: kwnne (5) wisa (7)
 
 swedish-old-moses-b-209
+No changes made.
 
 swedish-old-moses-b-210
 Added PronType {'Prs'} for token: thz, 1
@@ -1179,10 +1300,12 @@ Changed genitive nmod into nmod:poss: babylonie, 18, head: rike
 swedish-old-moses-b-227
 Changed genitive nmod into nmod:poss: konungx, 5, head: godhuilia
 Marked possessive pronoun: hans, 8, head: kompana
-Changed tree, 9 to numeral
-Changed relation from 'det' to 'nummod' for token tree (9).Added PronType {'Tot'} for token: alt, 19
+Changed tree (9) to numeral
+Changed relation from 'det' to 'nummod' for token tree (9).
+Added PronType {'Tot'} for token: alt, 19
 
 swedish-old-moses-b-228
+No changes made.
 
 swedish-old-moses-b-229
 Added PronType {'Ind'} for token: nakor, 3
@@ -1200,14 +1323,17 @@ New auxiliary construction: skulde (8) kastas (9)
 Changed participle to adjective: brennande, 12, deprel: amod, head: innan
 
 swedish-old-moses-b-231
-Changed xl, 3 to numeral
-Changed relation from 'det' to 'nummod' for token xl (3).Changed ix, 5 to numeral
+Changed xl (3) to numeral
+Changed relation from 'det' to 'nummod' for token xl (3).
+Changed ix (5) to numeral
 
 swedish-old-moses-b-232
+No changes made.
 
 swedish-old-moses-b-233
-Changed Three, 1 to numeral
-Changed relation from 'det' to 'nummod' for token Three (1).Marked possessive pronoun: hans, 2, head: kompana
+Changed Three (1) to numeral
+Changed relation from 'det' to 'nummod' for token Three (1).
+Marked possessive pronoun: hans, 2, head: kompana
 Changed passive nominal subject to nsubj:pass: kompana, 3
 Added PronType {'Prs'} for token: the, 11
 Marked negation particle: ey, 13
@@ -1230,8 +1356,9 @@ Added PronType {'Neg'} for token: enghin, 8
 
 swedish-old-moses-b-237
 Added PronType {'Prs'} for token: the, 3
-Changed tree, 4 to numeral
-Changed relation from 'det' to 'nummod' for token tree (4).Added PronType {'Prs'} for token: wars, 9
+Changed tree (4) to numeral
+Changed relation from 'det' to 'nummod' for token tree (4).
+Added PronType {'Prs'} for token: wars, 9
 Marked possessive pronoun: wars, 9, head: hærra
 Changed genitive nmod into nmod:poss: hærra, 10, head: loff
 
@@ -1248,8 +1375,9 @@ swedish-old-moses-b-240
 Added PronType {'Tot'} for token: alle, 3
 Added PronType {'Art'} for token: thæn, 7
 Added PronType {'Art'} for token: them, 10
-Changed threm, 11 to numeral
+Changed threm (11) to numeral
 Changed relation from 'det' to 'nummod' for token threm (11).
+
 swedish-old-moses-b-241
 Changed genitive nmod into nmod:poss: gudz, 10, head: syni
 Changed obl:arg to obl for syni, 11
@@ -1266,12 +1394,15 @@ New auxiliary construction: skulde (30) førgiort (32)
 swedish-old-moses-b-243
 Changed obl:arg to obl for them, 5
 Added PronType {'Prs'} for token: them, 5
-Changed threm, 6 to numeral
-Changed relation from 'det' to 'nummod' for token threm (6).Added PronType {'Art'} for token: thera, 7
+Changed threm (6) to numeral
+Changed relation from 'det' to 'nummod' for token threm (6).
+Added PronType {'Art'} for token: thera, 7
 
 swedish-old-moses-b-244
+No changes made.
 
 swedish-old-moses-b-245
+No changes made.
 
 swedish-old-moses-b-246
 Changed passive nominal subject to nsubj:pass: fææ, 3
@@ -1284,13 +1415,15 @@ swedish-old-moses-b-248
 Found +-compound: hugga+niþer, 1, particle is ADV, deprel advmod
 
 swedish-old-moses-b-249
+No changes made.
 
 swedish-old-moses-b-250
 Added PronType {'Art'} for token: thæs, 3
 
 swedish-old-moses-b-251
-Changed Syw, 1 to numeral
-Changed relation from 'det' to 'nummod' for token Syw (1).Added PronType {'Prs'} for token: thz, 4
+Changed Syw (1) to numeral
+Changed relation from 'det' to 'nummod' for token Syw (1).
+Added PronType {'Prs'} for token: thz, 4
 New auxiliary construction: skal (3) tola (5)
 Added PronType {'Prs'} for token: sin, 6
 Marked possessive pronoun: sin, 6, head: dom
@@ -1299,39 +1432,49 @@ swedish-old-moses-b-252
 Changed obl:arg to obl for honom, 3
 
 swedish-old-moses-b-253
+No changes made.
 
 swedish-old-moses-b-254
 Marked possessive pronoun: hans, 3, head: bøn
 Added PronType {'Prs'} for token: war, 7
 Marked possessive pronoun: war, 7, head: hærra
-Changed vij, 11 to numeral
-Changed relation from 'det' to 'nummod' for token vij (11).Changed vij, 14 to numeral
+Changed vij (11) to numeral
+Changed relation from 'det' to 'nummod' for token vij (11).
+Changed vij (14) to numeral
 Changed relation from 'det' to 'nummod' for token vij (14).
+
 swedish-old-moses-b-255
 Marked negation particle: ey, 11
 New auxiliary construction: wildhe (10) see (13)
 Moved Reflex feature to MISC column for sik, 19
-Changed vij, 20 to numeral
+Changed vij (20) to numeral
 Changed relation from 'det' to 'nummod' for token vij (20).
+
 swedish-old-moses-b-256
-Changed Siw, 1 to numeral
-Changed relation from 'det' to 'nummod' for token Siw (1).Added PronType {'Prs'} for token: sina, 12
+Changed Siw (1) to numeral
+Changed relation from 'det' to 'nummod' for token Siw (1).
+Added PronType {'Prs'} for token: sina, 12
 Marked possessive pronoun: sina, 12, head: script
 Changed obl:arg to obl for honom, 19
 
 swedish-old-moses-b-257
 Marked negation particle: ey, 8
 Added PronType {'Art'} for token: them, 13
-Changed vij, 14 to numeral
+Changed vij (14) to numeral
 Changed relation from 'det' to 'nummod' for token vij (14).
+
 swedish-old-moses-b-258
-Changed xl, 7 to numeral
-Changed relation from 'det' to 'nummod' for token xl (7).Changed iiij, 10 to numeral
+Changed xl (7) to numeral
+Changed relation from 'det' to 'nummod' for token xl (7).
+Changed iiij (10) to numeral
 Changed relation from 'det' to 'nummod' for token iiij (10).
+
 swedish-old-moses-b-259
-Changed vij, 1 to numeral
-Changed relation from 'det' to 'nummod' for token vij (1).Changed xxx, 16 to numeral
-Changed relation from 'det' to 'nummod' for token xxx (16).Changed vij, 18 to numeral
+Changed vij (1) to numeral
+Changed relation from 'det' to 'nummod' for token vij (1).
+Changed xxx (16) to numeral
+Changed relation from 'det' to 'nummod' for token xxx (16).
+Changed vij (18) to numeral
 
 swedish-old-moses-b-260
 Changed obl:arg to obl for rikeno, 7
@@ -1367,6 +1510,7 @@ Changed participle to adjective: fangin, 3, deprel: advcl, head: laa
 Marked possessive pronoun: hans, 6, head: fadhir
 
 swedish-old-moses-b-267
+No changes made.
 
 swedish-old-moses-b-268
 Found +-compound: lypta+up, 2, particle is ADV, deprel advmod
@@ -1383,8 +1527,9 @@ Changed genitive nmod into nmod:poss: ioachims, 2, head: radh
 Added PronType {'Prs'} for token: sins, 7
 Marked possessive pronoun: sins, 7, head: fadhirs
 Changed genitive nmod into nmod:poss: fadhirs, 8, head: liik
-Changed ccc, 14 to numeral
-Changed relation from 'det' to 'nummod' for token ccc (14).Added PronType {'Tot'} for token: hwar, 19
+Changed ccc (14) to numeral
+Changed relation from 'det' to 'nummod' for token ccc (14).
+Added PronType {'Tot'} for token: hwar, 19
 Added PronType {'Art'} for token: thera, 20
 Added PronType {'Prs'} for token: sin, 22
 Marked possessive pronoun: sin, 22, head: wægh
@@ -1406,8 +1551,9 @@ Changed obl:arg to obl for them, 26
 Added PronType {'Prs'} for token: them, 26
 Marked possessive pronoun: hans, 31, head: wald
 New auxiliary construction: skal (33) stan (34)
-Changed halfiærda, 35 to numeral
+Changed halfiærda (35) to numeral
 Changed relation from 'det' to 'nummod' for token halfiærda (35).
+
 swedish-old-moses-b-274
 Marked negation particle: ey, 3
 New auxiliary construction: skal (2) sighia (5)
@@ -1441,10 +1587,13 @@ Changed participle to adjective: giort, 7, deprel: fixed, head: wp
 swedish-old-moses-b-280
 Added PronType {'Prs'} for token: thz, 2
 New auxiliary construction: skulle (3) standa (4)
-Changed vj, 6 to numeral
-Changed relation from 'det' to 'nummod' for token vj (6).Changed iij, 9 to numeral
-Changed relation from 'det' to 'nummod' for token iij (9).Changed xx, 12 to numeral
+Changed vj (6) to numeral
+Changed relation from 'det' to 'nummod' for token vj (6).
+Changed iij (9) to numeral
+Changed relation from 'det' to 'nummod' for token iij (9).
+Changed xx (12) to numeral
 Changed relation from 'det' to 'nummod' for token xx (12).
+
 swedish-old-moses-b-281
 Changed genitive nmod into nmod:poss: persie, 2, head: konunghir
 Changed genitive nmod into nmod:poss: medie, 6, head: konunghir
@@ -1453,6 +1602,7 @@ Marked possessive pronoun: sith, 9, head: hærskap
 Added PronType {'Tot'} for token: badhe, 11
 
 swedish-old-moses-b-282
+No changes made.
 
 swedish-old-moses-b-283
 Changed passive nominal subject to nsubj:pass: Baltazar, 1
@@ -1477,6 +1627,7 @@ New auxiliary construction: kunne (3) læsa (5)
 Solved fixed SCONJ construction 'fyr än' (tokens 11 and 9)
 
 swedish-old-moses-b-286
+No changes made.
 
 swedish-old-moses-b-287
 Added PronType {'Prs'} for token: thinom, 9
@@ -1524,15 +1675,18 @@ Changed genitive nmod into nmod:poss: darij, 5, head: systhir
 Changed obl:arg to obl for honom, 8
 
 swedish-old-moses-b-296
-Changed siwtighi, 1 to numeral
-Changed relation from 'det' to 'nummod' for token siwtighi (1).Changed vij, 4 to numeral
-Changed relation from 'det' to 'nummod' for token vij (4).Added PronType {'Art'} for token: them, 10
+Changed siwtighi (1) to numeral
+Changed relation from 'det' to 'nummod' for token siwtighi (1).
+Changed vij (4) to numeral
+Changed relation from 'det' to 'nummod' for token vij (4).
+Added PronType {'Art'} for token: them, 10
 Changed participle to adjective: fangen, 19, deprel: conj, head: fangade
 
 swedish-old-moses-b-297
 Added PronType {'Art'} for token: them, 5
-Changed lxx, 12 to numeral
+Changed lxx (12) to numeral
 Changed relation from 'det' to 'nummod' for token lxx (12).
+
 swedish-old-moses-b-298
 Changed genitive nmod into nmod:poss: hærra, 4, head: wan
 Added PronType {'Prs'} for token: thz, 6
@@ -1552,9 +1706,11 @@ Marked possessive pronoun: thit, 9, head: folk
 swedish-old-moses-b-301
 Added PronType {'Prs'} for token: the, 3
 Changed genitive nmod into nmod:poss: iudha, 8, head: lande
-Changed cc, 10 to numeral
-Changed relation from 'det' to 'nummod' for token cc (10).Changed x, 13 to numeral
+Changed cc (10) to numeral
+Changed relation from 'det' to 'nummod' for token cc (10).
+Changed x (13) to numeral
 Changed relation from 'det' to 'nummod' for token x (13).
+
 swedish-old-moses-b-302
 Added PronType {'Art'} for token: thæn, 2
 New auxiliary construction: skal (10) lidhin (8)
@@ -1572,9 +1728,11 @@ swedish-old-moses-b-305
 Added PronType {'Dem'} for token: Thzta, 1
 Changed genitive nmod into nmod:poss: gudz, 3, head: ængil
 Changed obl:arg to obl for danieli, 5
-Changed fæm, 7 to numeral
-Changed relation from 'det' to 'nummod' for token fæm (7).Changed hundrada, 8 to numeral
-Changed relation from 'det' to 'nummod' for token hundrada (8).Changed obl:arg to obl for aarom, 9
+Changed fæm (7) to numeral
+Changed relation from 'det' to 'nummod' for token fæm (7).
+Changed hundrada (8) to numeral
+Changed relation from 'det' to 'nummod' for token hundrada (8).
+Changed obl:arg to obl for aarom, 9
 Solved fixed SCONJ construction 'fyr än' (tokens 14 and 11)
 Added PronType {'Prs'} for token: war, 12
 Marked possessive pronoun: war, 12, head: hærra
@@ -1601,6 +1759,7 @@ Added PronType {'Prs'} for token: them, 2
 Changed genitive nmod into nmod:poss: titi, 5, head: brodhir
 
 swedish-old-moses-b-309
+No changes made.
 
 swedish-old-moses-b-310
 Changed obl:arg to obl for iudha, 3
@@ -1632,15 +1791,16 @@ swedish-old-moses-b-314
 Added PronType {'Prs'} for token: thz, 1
 Added PronType {'Art'} for token: en, 3
 Added PronType {'Art'} for token: them, 5
-Changed trem, 6 to numeral
-Changed relation from 'det' to 'nummod' for token trem (6).Added PronType {'Tot'} for token: alla, 12
+Changed trem (6) to numeral
+Changed relation from 'det' to 'nummod' for token trem (6).
+Added PronType {'Tot'} for token: alla, 12
 Marked possessive pronoun: hans, 13, head: rikis
 Changed genitive nmod into nmod:poss: rikis, 14, head: hærra
 
 swedish-old-moses-b-315
 Added PronType {'Prs'} for token: the, 1
-Changed cc, 3 to numeral
-Changed xx, 5 to numeral
+Changed cc (3) to numeral
+Changed xx (5) to numeral
 
 swedish-old-moses-b-316
 Added PronType {'Tot'} for token: alle, 14
@@ -1652,21 +1812,26 @@ Marked possessive pronoun: sin, 23, head: løn
 swedish-old-moses-b-317
 New auxiliary construction: skal (3) wardha (4)
 Added PronType {'Art'} for token: eet, 6
-Changed thusandh, 7 to numeral
-Changed relation from 'det' to 'nummod' for token thusandh (7).Changed cc, 10 to numeral
-Changed relation from 'det' to 'nummod' for token cc (10).Changed fyretighi, 12 to numeral
+Changed thusandh (7) to numeral
+Changed relation from 'det' to 'nummod' for token thusandh (7).
+Changed cc (10) to numeral
+Changed relation from 'det' to 'nummod' for token cc (10).
+Changed fyretighi (12) to numeral
 
 swedish-old-moses-b-318
 Added PronType {'Prs'} for token: thz, 1
 Added PronType {'Tot'} for token: alt, 3
-Changed halff, 5 to numeral
-Changed relation from 'det' to 'nummod' for token halff (5).Changed fiærda, 6 to numeral
-Changed tholff, 9 to numeral
+Changed halff (5) to numeral
+Changed relation from 'det' to 'nummod' for token halff (5).
+Changed fiærda (6) to numeral
+Changed tholff (9) to numeral
 Changed relation from 'det' to 'nummod' for token tholff (9).
+
 swedish-old-moses-b-319
 Changed obl:arg to obl for mannom, 7
-Changed firetighi, 10 to numeral
+Changed firetighi (10) to numeral
 Changed relation from 'det' to 'nummod' for token firetighi (10).
+
 swedish-old-moses-b-320
 Added PronType {'Prs'} for token: thæn, 7
 Added PronType {'Art'} for token: them, 10
@@ -1708,6 +1873,7 @@ Changed obl:arg to obl for nampne, 8
 Changed participle to adjective: føddir, 14, deprel: conj, head: son
 
 swedish-old-moses-b-327
+No changes made.
 
 swedish-old-moses-b-328
 Added PronType {'Prs'} for token: thz, 1
@@ -1726,22 +1892,28 @@ Changed genitive nmod into nmod:poss: konungxsins, 12, head: budh
 Moved Reflex feature to MISC column for sik, 19
 
 swedish-old-moses-b-331
-Changed fæmtighi, 1 to numeral
-Changed relation from 'det' to 'nummod' for token fæmtighi (1).Changed thusand, 2 to numeral
+Changed fæmtighi (1) to numeral
+Changed relation from 'det' to 'nummod' for token fæmtighi (1).
+Changed thusand (2) to numeral
 Added PronType {'Prs'} for token: them, 5
-Changed fyretighi, 6 to numeral
-Changed relation from 'det' to 'nummod' for token fyretighi (6).Changed tusandh, 7 to numeral
-Changed thu, 9 to numeral
-Changed relation from 'det' to 'nummod' for token thu (9).Changed thusandh, 10 to numeral
+Changed fyretighi (6) to numeral
+Changed relation from 'det' to 'nummod' for token fyretighi (6).
+Changed tusandh (7) to numeral
+Changed thu (9) to numeral
+Changed relation from 'det' to 'nummod' for token thu (9).
+Changed thusandh (10) to numeral
 Changed genitive nmod into nmod:poss: manna, 12, head: thusandh
 
 swedish-old-moses-b-332
 Changed obl:arg to obl for them, 4
 Added PronType {'Prs'} for token: them, 4
-Changed fæm, 6 to numeral
-Changed relation from 'det' to 'nummod' for token fæm (6).Changed thusandh, 7 to numeral
-Changed relation from 'det' to 'nummod' for token thusandh (7).Changed xl, 9 to numeral
-Changed relation from 'det' to 'nummod' for token xl (9).Changed tusand, 10 to numeral
+Changed fæm (6) to numeral
+Changed relation from 'det' to 'nummod' for token fæm (6).
+Changed thusandh (7) to numeral
+Changed relation from 'det' to 'nummod' for token thusandh (7).
+Changed xl (9) to numeral
+Changed relation from 'det' to 'nummod' for token xl (9).
+Changed tusand (10) to numeral
 Changed genitive nmod into nmod:poss: gudz, 18, head: thiænist
 Added PronType {'Art'} for token: them, 21
 Moved Reflex feature to MISC column for sik, 27
@@ -1774,13 +1946,17 @@ swedish-old-moses-b-336
 Marked possessive pronoun: hans, 5, head: son
 
 swedish-old-moses-b-337
-Changed fyughir, 3 to numeral
+Changed fyughir (3) to numeral
 Changed relation from 'det' to 'nummod' for token fyughir (3).
+
 swedish-old-moses-b-338
+No changes made.
 
 swedish-old-moses-b-339
+No changes made.
 
 swedish-old-moses-b-340
+No changes made.
 
 swedish-old-moses-b-341
 Marked possessive pronoun: hans, 2, head: daghom
@@ -1806,8 +1982,10 @@ Marked possessive pronoun: hans, 22, head: rikis
 Changed genitive nmod into nmod:poss: rikis, 23, head: hærra
 
 swedish-old-moses-b-345
+No changes made.
 
 swedish-old-moses-b-346
+No changes made.
 
 swedish-old-moses-b-347
 Marked possessive pronoun: hans, 3, head: dotter
@@ -1819,8 +1997,9 @@ Changed 'sum' (16) to relative obj pronoun.
 Added PronType {'Neg'} for token: enghin, 17
 
 swedish-old-moses-b-348
-Changed Siw, 1 to numeral
-Changed relation from 'det' to 'nummod' for token Siw (1).Changed obl:arg to obl for manadha, 2
+Changed Siw (1) to numeral
+Changed relation from 'det' to 'nummod' for token Siw (1).
+Changed obl:arg to obl for manadha, 2
 Changed obl:arg to obl for rikeno, 8
 
 swedish-old-moses-b-349
@@ -1852,6 +2031,7 @@ swedish-old-moses-b-353
 Changed genitive nmod into nmod:poss: zorobabel, 5, head: wen
 
 swedish-old-moses-b-354
+No changes made.
 
 swedish-old-moses-b-355
 Changed genitive nmod into nmod:poss: konungx, 1, head: fogatha
@@ -1882,9 +2062,10 @@ Moved Reflex feature to MISC column for sik, 5
 Changed obl:arg to obl for sik, 5
 
 swedish-old-moses-b-359
-Changed tree, 3 to numeral
+Changed tree (3) to numeral
 
 swedish-old-moses-b-360
+No changes made.
 
 swedish-old-moses-b-361
 Added PronType {'Art'} for token: Thæn, 1
@@ -1901,6 +2082,7 @@ swedish-old-moses-b-363
 Changed obl:arg to obl for mannenom, 6
 
 swedish-old-moses-b-364
+No changes made.
 
 swedish-old-moses-b-365
 Added PronType {'Ind'} for token: Annar, 1
@@ -1933,6 +2115,7 @@ swedish-old-moses-b-372
 Changed genitive nmod into nmod:poss: qwinnona, 3, head: skuld
 
 swedish-old-moses-b-373
+No changes made.
 
 swedish-old-moses-b-374
 Marked negation particle: ey, 4
@@ -1975,8 +2158,9 @@ New auxiliary construction: haffde (14) iættat (17)
 Changed participle to adjective: loffuat, 19, deprel: conj, head: iættat
 
 swedish-old-moses-b-381
-Changed fæm, 10 to numeral
-Changed relation from 'det' to 'nummod' for token fæm (10).Changed genitive nmod into nmod:poss: darij, 15, head: syunda
+Changed fæm (10) to numeral
+Changed relation from 'det' to 'nummod' for token fæm (10).
+Changed genitive nmod into nmod:poss: darij, 15, head: syunda
 
 swedish-old-moses-b-382
 Marked possessive pronoun: hans, 4, head: brodhir
@@ -1985,20 +2169,25 @@ Added PronType {'Art'} for token: eet, 7
 swedish-old-moses-b-383
 Added PronType {'Prs'} for token: thz, 1
 Added PronType {'Tot'} for token: alt, 3
-Changed xxx, 5 to numeral
-Changed relation from 'det' to 'nummod' for token xxx (5).Changed ix, 6 to numeral
+Changed xxx (5) to numeral
+Changed relation from 'det' to 'nummod' for token xxx (5).
+Changed ix (6) to numeral
 Changed relation from 'det' to 'nummod' for token ix (6).
+
 swedish-old-moses-b-384
 Added PronType {'Prs'} for token: ty, 3
 Added PronType {'Prs'} for token: war, 9
 Marked possessive pronoun: war, 9, head: hærra
-Changed xl, 11 to numeral
-Changed relation from 'det' to 'nummod' for token xl (11).Changed vi, 12 to numeral
-Changed relation from 'det' to 'nummod' for token vi (12).Added PronType {'Dem'} for token: thzta, 15
+Changed xl (11) to numeral
+Changed relation from 'det' to 'nummod' for token xl (11).
+Changed vi (12) to numeral
+Changed relation from 'det' to 'nummod' for token vi (12).
+Added PronType {'Dem'} for token: thzta, 15
 Changed participle to adjective: bygt, 18, deprel: fixed, head: vp
 Added PronType {'Prs'} for token: thz, 22
-Changed thre, 25 to numeral
+Changed thre (25) to numeral
 Changed relation from 'det' to 'nummod' for token thre (25).
+
 swedish-old-moses-b-385
 New auxiliary construction: haffwa (7) glømt (8)
 Changed genitive nmod into nmod:poss: moysi, 9, head: lagh
@@ -2042,9 +2231,11 @@ Changed 'sum' (12) to relative nsubj pronoun.
 
 swedish-old-moses-b-393
 Changed obl:arg to obl for honom, 6
-Changed thusanda, 9 to numeral
-Changed relation from 'det' to 'nummod' for token thusanda (9).Changed syu, 11 to numeral
-Changed relation from 'det' to 'nummod' for token syu (11).Changed hundrada, 12 to numeral
+Changed thusanda (9) to numeral
+Changed relation from 'det' to 'nummod' for token thusanda (9).
+Changed syu (11) to numeral
+Changed relation from 'det' to 'nummod' for token syu (11).
+Changed hundrada (12) to numeral
 
 swedish-old-moses-b-394
 Changed obl:arg to obl for iudom, 7
@@ -2065,12 +2256,15 @@ Added PronType {'Prs'} for token: thy, 4
 Moved Reflex feature to MISC column for sik, 13
 
 swedish-old-moses-b-398
-Changed vij, 16 to numeral
+Changed vij (16) to numeral
 Changed relation from 'det' to 'nummod' for token vij (16).
+
 swedish-old-moses-b-399
-Changed twa, 6 to numeral
-Changed relation from 'det' to 'nummod' for token twa (6).Changed vij, 11 to numeral
-Changed relation from 'det' to 'nummod' for token vij (11).Changed 'sum' (20) to relative nsubj pronoun.
+Changed twa (6) to numeral
+Changed relation from 'det' to 'nummod' for token twa (6).
+Changed vij (11) to numeral
+Changed relation from 'det' to 'nummod' for token vij (11).
+Changed 'sum' (20) to relative nsubj pronoun.
 Added PronType {'Ind'} for token: andro, 21
 Changed obl:arg to obl for nampne, 22
 
@@ -2078,12 +2272,14 @@ swedish-old-moses-b-400
 Marked possessive pronoun: hans, 2, head: tima
 
 swedish-old-moses-b-401
+No changes made.
 
 swedish-old-moses-b-402
 Added PronType {'Dem'} for token: thænne, 1
 Changed genitive nmod into nmod:poss: greklans, 8, head: konungh
 
 swedish-old-moses-b-403
+No changes made.
 
 swedish-old-moses-b-404
 Changed 'sum' (6) to relative nsubj pronoun.
@@ -2107,6 +2303,7 @@ Marked possessive pronoun: wars, 19, head: hærra
 Changed genitive nmod into nmod:poss: hærra, 20, head: pynor
 
 swedish-old-moses-b-407
+No changes made.
 
 swedish-old-moses-b-408
 Added PronType {'Prs'} for token: thy, 3
@@ -2131,13 +2328,16 @@ Changed genitive nmod into nmod:poss: wærldinna, 14, head: aldir
 swedish-old-moses-b-411
 Added PronType {'Art'} for token: thøm, 6
 Changed passive nominal subject to nsubj:pass: adam, 8
-Changed fæm, 10 to numeral
-Changed relation from 'det' to 'nummod' for token fæm (10).Changed tusanda, 11 to numeral
-Changed relation from 'det' to 'nummod' for token tusanda (11).Changed hundrada, 13 to numeral
-Changed xc, 14 to numeral
-Changed ix, 16 to numeral
+Changed fæm (10) to numeral
+Changed relation from 'det' to 'nummod' for token fæm (10).
+Changed tusanda (11) to numeral
+Changed relation from 'det' to 'nummod' for token tusanda (11).
+Changed hundrada (13) to numeral
+Changed xc (14) to numeral
+Changed ix (16) to numeral
 
 swedish-old-moses-b-412
-Changed twe, 4 to numeral
-Changed relation from 'det' to 'nummod' for token twe (4).Added PronType {'Dem'} for token: tæsse, 7
+Changed twe (4) to numeral
+Changed relation from 'det' to 'nummod' for token twe (4).
+Added PronType {'Dem'} for token: tæsse, 7
 
