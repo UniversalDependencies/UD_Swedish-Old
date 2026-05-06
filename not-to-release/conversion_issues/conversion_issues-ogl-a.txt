@@ -1,0 +1,4873 @@
+swedish-old-ogl-a-1
+No issues found.
+
+swedish-old-ogl-a-2
+No issues found.
+
+swedish-old-ogl-a-3
+No issues found.
+
+swedish-old-ogl-a-4
+Fixed construction found in swedish-old-ogl-a-4 with POS NOUN: halfnaþa (7), träþe (8)
+
+swedish-old-ogl-a-5
+Fixed construction found in swedish-old-ogl-a-5 with POS NOUN: mässo (6), kläþe (7)
+
+swedish-old-ogl-a-6
+No issues found.
+
+swedish-old-ogl-a-7
+No issues found.
+
+swedish-old-ogl-a-8
+No issues found.
+
+swedish-old-ogl-a-9
+No issues found.
+
+swedish-old-ogl-a-10
+No issues found.
+
+swedish-old-ogl-a-11
+Fixed construction found in swedish-old-ogl-a-11 with POS NOUN: hästa (11), korn (12)
+Fixed construction found in swedish-old-ogl-a-11 with POS NOUN: markar (31), nöt (32)
+
+swedish-old-ogl-a-12
+Dislocated relation found in swedish-old-ogl-a-12 between skal (8) and will (4)
+Dislocated relation found in swedish-old-ogl-a-12 between skal (8) and uighia (6)
+
+swedish-old-ogl-a-13
+Fixed construction found in swedish-old-ogl-a-13 with POS NOUN: kirkio (8), bol (9)
+
+swedish-old-ogl-a-14
+Dislocated relation found in swedish-old-ogl-a-14 between skulu (10) and Skötninga (1)
+Fixed construction found in swedish-old-ogl-a-14 with POS NOUN: vighsla (6), dagher (7)
+
+swedish-old-ogl-a-15
+Dislocated relation found in swedish-old-ogl-a-15 between giua (20) and þa (2)
+
+swedish-old-ogl-a-16
+No issues found.
+
+swedish-old-ogl-a-17
+No issues found.
+
+swedish-old-ogl-a-18
+Fixed construction found in swedish-old-ogl-a-18 with POS NOUN: sokna (14), nämd (15)
+
+swedish-old-ogl-a-19
+No issues found.
+
+swedish-old-ogl-a-20
+No issues found.
+
+swedish-old-ogl-a-21
+Fixed construction found in swedish-old-ogl-a-21 with POS NOUN: kirkio (5), gömare (6)
+Fixed construction found in swedish-old-ogl-a-21 with POS NOUN: kirkio (10), dyr (11)
+Fixed construction found in swedish-old-ogl-a-21 with POS NOUN: kirkio (27), garþer (28)
+
+swedish-old-ogl-a-22
+Fixed construction found in swedish-old-ogl-a-22 with POS NOUN: sokna (14), nämd (15)
+
+swedish-old-ogl-a-23
+No issues found.
+
+swedish-old-ogl-a-24
+Fixed construction found in swedish-old-ogl-a-24 with POS ADV: än (2), þa (3)
+
+swedish-old-ogl-a-25
+Fixed construction found in swedish-old-ogl-a-25 with POS ADV: än (3), þa (4)
+
+swedish-old-ogl-a-26
+Deprel not changed for numeral. Please look over deprel for numeral: þrea, 16 in sentence swedish-old-ogl-a-26
+Deprel not changed for numeral. Please look over deprel for numeral: þrea, 19 in sentence swedish-old-ogl-a-26
+
+swedish-old-ogl-a-27
+No issues found.
+
+swedish-old-ogl-a-28
+Deprel not changed for numeral. Please look over deprel for numeral: þrea, 5 in sentence swedish-old-ogl-a-28
+
+swedish-old-ogl-a-29
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-29. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-30
+No issues found.
+
+swedish-old-ogl-a-31
+Deprel not changed for numeral. Please look over deprel for numeral: þrea, 6 in sentence swedish-old-ogl-a-31
+Dislocated relation found in swedish-old-ogl-a-31 between a (11) and en (12)
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-31. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-32
+Fixed construction found in swedish-old-ogl-a-32 with POS NOUN: kirkio (4), nykil (5)
+
+swedish-old-ogl-a-33
+No issues found.
+
+swedish-old-ogl-a-34
+No issues found.
+
+swedish-old-ogl-a-35
+Dislocated relation found in swedish-old-ogl-a-35 between sak (15) and gör (1)
+Fixed construction found in swedish-old-ogl-a-35 with POS NOUN: mässu (3), fal (4)
+'vara' with deprel acl:relcl, 10 in sentence swedish-old-ogl-a-35, change to copula.
+
+swedish-old-ogl-a-36
+'vara' with deprel acl:relcl, 9 in sentence swedish-old-ogl-a-36, change to copula.
+Fixed construction found in swedish-old-ogl-a-36 with POS NOUN: lagha (13), forfal (14)
+
+swedish-old-ogl-a-37
+Fixed construction found in swedish-old-ogl-a-37 with POS NOUN: lagh (4), forfall (5)
+
+swedish-old-ogl-a-38
+No issues found.
+
+swedish-old-ogl-a-39
+No issues found.
+
+swedish-old-ogl-a-40
+No particles viþer found for +-token þorf, 5 in sentence swedish-old-ogl-a-40
+
+swedish-old-ogl-a-41
+No issues found.
+
+swedish-old-ogl-a-42
+No issues found.
+
+swedish-old-ogl-a-43
+Fixed construction found in swedish-old-ogl-a-43 with POS NOUN: lagha (3), forfal (4)
+
+swedish-old-ogl-a-44
+No issues found.
+
+swedish-old-ogl-a-45
+No issues found.
+
+swedish-old-ogl-a-46
+No issues found.
+
+swedish-old-ogl-a-47
+No issues found.
+
+swedish-old-ogl-a-48
+No issues found.
+
+swedish-old-ogl-a-49
+No issues found.
+
+swedish-old-ogl-a-50
+No issues found.
+
+swedish-old-ogl-a-51
+No issues found.
+
+swedish-old-ogl-a-52
+Fixed construction found in swedish-old-ogl-a-52 with POS NOUN: lagha (11), forfal (12)
+
+swedish-old-ogl-a-53
+No issues found.
+
+swedish-old-ogl-a-54
+No issues found.
+
+swedish-old-ogl-a-55
+No issues found.
+
+swedish-old-ogl-a-56
+No issues found.
+
+swedish-old-ogl-a-57
+No issues found.
+
+swedish-old-ogl-a-58
+Fixed construction found in swedish-old-ogl-a-58 with POS NOUN: kirkio (7), dyr (8)
+Fixed construction found in swedish-old-ogl-a-58 with POS VERB: tilsighia (20), sighia (21)
+
+swedish-old-ogl-a-59
+No issues found.
+
+swedish-old-ogl-a-60
+No issues found.
+
+swedish-old-ogl-a-61
+Fixed construction found in swedish-old-ogl-a-61 with POS NOUN: kirkio (8), fä (9)
+
+swedish-old-ogl-a-62
+No issues found.
+
+swedish-old-ogl-a-63
+No issues found.
+
+swedish-old-ogl-a-64
+No issues found.
+
+swedish-old-ogl-a-65
+No issues found.
+
+swedish-old-ogl-a-66
+Fixed construction found in swedish-old-ogl-a-66 with POS NOUN: kirkio (4), gömare (5)
+
+swedish-old-ogl-a-67
+No issues found.
+
+swedish-old-ogl-a-68
+No issues found.
+
+swedish-old-ogl-a-69
+No issues found.
+
+swedish-old-ogl-a-70
+No issues found.
+
+swedish-old-ogl-a-71
+No issues found.
+
+swedish-old-ogl-a-72
+No issues found.
+
+swedish-old-ogl-a-73
+No issues found.
+
+swedish-old-ogl-a-74
+No issues found.
+
+swedish-old-ogl-a-75
+No issues found.
+
+swedish-old-ogl-a-76
+Fixed construction found in swedish-old-ogl-a-76 with POS PRON: ä (2), hvar (3)
+Fixed construction found in swedish-old-ogl-a-76 with POS NOUN: vighsla (6), dagher (7)
+Dislocated relation found in swedish-old-ogl-a-76 between liti (14) and gifxs (8)
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-76. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-76 with POS SCONJ: þa (9), sum (10)
+
+swedish-old-ogl-a-77
+No issues found.
+
+swedish-old-ogl-a-78
+No issues found.
+
+swedish-old-ogl-a-79
+Fixed construction found in swedish-old-ogl-a-79 with POS NOUN: väþerdagher (9), daghum (10)
+Fixed construction found in swedish-old-ogl-a-79 with POS ADV: iämväl (15), uæl (16)
+Could not process 'sum', 20 in sentence swedish-old-ogl-a-79. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-80
+No issues found.
+
+swedish-old-ogl-a-81
+No issues found.
+
+swedish-old-ogl-a-82
+No issues found.
+
+swedish-old-ogl-a-83
+No issues found.
+
+swedish-old-ogl-a-84
+Fixed construction found in swedish-old-ogl-a-84 with POS NOUN: hussätu (3), man (4)
+
+swedish-old-ogl-a-85
+No issues found.
+
+swedish-old-ogl-a-86
+Deprel not changed for numeral. Please look over deprel for numeral: tu, 2 in sentence swedish-old-ogl-a-86
+
+swedish-old-ogl-a-87
+Fixed construction found in swedish-old-ogl-a-87 with POS NOUN: leghodränger (3), drængær (4)
+
+swedish-old-ogl-a-88
+No issues found.
+
+swedish-old-ogl-a-89
+Fixed construction found in swedish-old-ogl-a-89 with POS NOUN: altara (7), värning (8)
+Fixed construction found in swedish-old-ogl-a-89 with POS NOUN: pingizdagher (20), dagha (21)
+
+swedish-old-ogl-a-90
+Dislocated relation found in swedish-old-ogl-a-90 between aghu (11) and þe (3)
+Fixed construction found in swedish-old-ogl-a-90 with POS NOUN: lefs (16), sufl (17)
+
+swedish-old-ogl-a-91
+Fixed construction found in swedish-old-ogl-a-91 with POS NOUN: altara (18), värning (19)
+
+swedish-old-ogl-a-92
+No issues found.
+
+swedish-old-ogl-a-93
+No issues found.
+
+swedish-old-ogl-a-94
+Fixed construction found in swedish-old-ogl-a-94 with POS NOUN: siälamässa (17), mæssu (18)
+
+swedish-old-ogl-a-95
+No issues found.
+
+swedish-old-ogl-a-96
+No issues found.
+
+swedish-old-ogl-a-97
+No issues found.
+
+swedish-old-ogl-a-98
+Fixed construction found in swedish-old-ogl-a-98 with POS SCONJ: þo (11), at (12)
+
+swedish-old-ogl-a-99
+No issues found.
+
+swedish-old-ogl-a-100
+No issues found.
+
+swedish-old-ogl-a-101
+No issues found.
+
+swedish-old-ogl-a-102
+No issues found.
+
+swedish-old-ogl-a-103
+No issues found.
+
+swedish-old-ogl-a-104
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-104. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-105
+Fixed construction found in swedish-old-ogl-a-105 with POS NOUN: mässo (13), kläþe (14)
+
+swedish-old-ogl-a-106
+No issues found.
+
+swedish-old-ogl-a-107
+Fixed construction found in swedish-old-ogl-a-107 with POS NOUN: viþerdelo (12), man (13)
+
+swedish-old-ogl-a-108
+Fixed construction found in swedish-old-ogl-a-108 with POS NOUN: viþerdelo (13), man (14)
+'vara' with deprel acl:relcl, 15 in sentence swedish-old-ogl-a-108, change to copula.
+
+swedish-old-ogl-a-109
+No issues found.
+
+swedish-old-ogl-a-110
+No issues found.
+
+swedish-old-ogl-a-111
+Dislocated relation found in swedish-old-ogl-a-111 between uarþi (9) and eþa (3)
+
+swedish-old-ogl-a-112
+Dislocated relation found in swedish-old-ogl-a-112 between fælde (8) and eþa (3)
+
+swedish-old-ogl-a-113
+Fixed construction found in swedish-old-ogl-a-113 with POS NOUN: biskops (6), nämd (7)
+Fixed construction found in swedish-old-ogl-a-113 with POS NOUN: huma (10), mal (11)
+
+swedish-old-ogl-a-114
+Fixed construction found in swedish-old-ogl-a-114 with POS NOUN: biskops (5), nämd (6)
+
+swedish-old-ogl-a-115
+Fixed construction found in swedish-old-ogl-a-115 with POS NOUN: biskops (5), nämd (6)
+Fixed construction found in swedish-old-ogl-a-115 with POS NOUN: kirkio (13), ran (14)
+Fixed construction found in swedish-old-ogl-a-115 with POS NOUN: hälghudagha (15), bardaghi (16)
+Fixed construction found in swedish-old-ogl-a-115 with POS NOUN: hälghudagha (15), bardaghi (17)
+Fixed construction found in swedish-old-ogl-a-115 with POS NOUN: hälghudagha (19), brut (20)
+
+swedish-old-ogl-a-116
+Dislocated relation found in swedish-old-ogl-a-116 between fælle (4) and eþa (2)
+Fixed construction found in swedish-old-ogl-a-116 with POS NOUN: biskops (5), nämd (6)
+Fixed construction found in swedish-old-ogl-a-116 with POS NOUN: uprättar (19), eþer (20)
+Fixed construction found in swedish-old-ogl-a-116 with POS NOUN: forfalz (22), eþer (23)
+Fixed construction found in swedish-old-ogl-a-116 with POS NOUN: gödslu (25), eþer (26)
+Fixed construction found in swedish-old-ogl-a-116 with POS NOUN: sätis (28), eþer (29)
+
+swedish-old-ogl-a-117
+Fixed construction found in swedish-old-ogl-a-117 with POS NOUN: iorþa (3), dela (4)
+Fixed construction found in swedish-old-ogl-a-117 with POS NOUN: manhälghis (5), mal (6)
+Fixed construction found in swedish-old-ogl-a-117 with POS NOUN: þiufta (7), mal (8)
+Fixed construction found in swedish-old-ogl-a-117 with POS NOUN: rans (9), mal (10)
+
+swedish-old-ogl-a-118
+Fixed construction found in swedish-old-ogl-a-118 with POS NOUN: biskops (6), nämd (7)
+
+swedish-old-ogl-a-119
+No issues found.
+
+swedish-old-ogl-a-120
+Fixed construction found in swedish-old-ogl-a-120 with POS NOUN: biskops (7), nämd (8)
+
+swedish-old-ogl-a-121
+Fixed construction found in swedish-old-ogl-a-121 with POS NOUN: biskops (10), rätter (11)
+
+swedish-old-ogl-a-122
+Dislocated relation found in swedish-old-ogl-a-122 between skal (28) and hwzs (25)
+Fixed construction found in swedish-old-ogl-a-122 with POS NOUN: hovuds (25), man (26)
+
+swedish-old-ogl-a-123
+Fixed construction found in swedish-old-ogl-a-123 with POS NOUN: biskops (6), nämd (7)
+Dislocated relation found in swedish-old-ogl-a-123 between skal (27) and huwþz (24)
+Fixed construction found in swedish-old-ogl-a-123 with POS NOUN: hovuds (24), man (25)
+
+swedish-old-ogl-a-124
+Fixed construction found in swedish-old-ogl-a-124 with POS NOUN: nämda (12), fal (13)
+
+swedish-old-ogl-a-125
+No issues found.
+
+swedish-old-ogl-a-126
+Fixed construction found in swedish-old-ogl-a-126 with POS NOUN: ätsku (8), spiäl (9)
+
+swedish-old-ogl-a-127
+Dislocated relation found in swedish-old-ogl-a-127 between sakær (7) and þæn (1)
+
+swedish-old-ogl-a-128
+Fixed construction found in swedish-old-ogl-a-128 with POS NOUN: lönda (5), skript (6)
+
+swedish-old-ogl-a-129
+No issues found.
+
+swedish-old-ogl-a-130
+No issues found.
+
+swedish-old-ogl-a-131
+No issues found.
+
+swedish-old-ogl-a-132
+No issues found.
+
+swedish-old-ogl-a-133
+Fixed construction found in swedish-old-ogl-a-133 with POS NOUN: lönda (14), skript (15)
+
+swedish-old-ogl-a-134
+Fixed construction found in swedish-old-ogl-a-134 with POS NOUN: ätsku (5), spiäl (6)
+Fixed construction found in swedish-old-ogl-a-134 with POS NOUN: skripta (24), brut (25)
+
+swedish-old-ogl-a-135
+Fixed construction found in swedish-old-ogl-a-135 with POS NOUN: löskaläghe (5), læghi (6)
+
+swedish-old-ogl-a-136
+Fixed construction found in swedish-old-ogl-a-136 with POS NOUN: fäar (13), giäld (14)
+
+swedish-old-ogl-a-137
+Fixed construction found in swedish-old-ogl-a-137 with POS NOUN: paska (8), dagher (9)
+Fixed construction found in swedish-old-ogl-a-137 with POS NOUN: löskaläghe (11), læghi (12)
+
+swedish-old-ogl-a-138
+Fixed construction found in swedish-old-ogl-a-138 with POS NOUN: biskops (8), nämd (9)
+
+swedish-old-ogl-a-139
+Dislocated relation found in swedish-old-ogl-a-139 between hialpær (12) and þe (2)
+Fixed construction found in swedish-old-ogl-a-139 with POS NOUN: hovuds (9), man (10)
+Fixed construction found in swedish-old-ogl-a-139 with POS NOUN: lönda (14), skript (15)
+Fixed construction found in swedish-old-ogl-a-139 with POS NOUN: biskops (17), sak (18)
+
+swedish-old-ogl-a-140
+Fixed construction found in swedish-old-ogl-a-140 with POS ADP: mote (7), biskops (8)
+Fixed construction found in swedish-old-ogl-a-140 with POS ADP: mote (7), nämd (9)
+
+swedish-old-ogl-a-141
+Fixed construction found in swedish-old-ogl-a-141 with POS NOUN: laghmanz (8), domber (9)
+
+swedish-old-ogl-a-142
+No issues found.
+
+swedish-old-ogl-a-143
+Fixed construction found in swedish-old-ogl-a-143 with POS NOUN: vitsorþ (5), orþ (6)
+Fixed construction found in swedish-old-ogl-a-143 with POS NOUN: biskops (18), nämd (19)
+Could not process 'sum', 26 in sentence swedish-old-ogl-a-143. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-144
+No issues found.
+
+swedish-old-ogl-a-145
+Fixed construction found in swedish-old-ogl-a-145 with POS NOUN: vitsorþ (11), orþ (12)
+
+swedish-old-ogl-a-146
+'vara' with deprel acl:relcl, 8 in sentence swedish-old-ogl-a-146, change to copula.
+
+swedish-old-ogl-a-147
+'vara' with deprel acl:relcl, 18 in sentence swedish-old-ogl-a-147, change to copula.
+
+swedish-old-ogl-a-148
+No issues found.
+
+swedish-old-ogl-a-149
+No issues found.
+
+swedish-old-ogl-a-150
+No issues found.
+
+swedish-old-ogl-a-151
+Fixed construction found in swedish-old-ogl-a-151 with POS NOUN: lagha (9), sokn (10)
+Fixed construction found in swedish-old-ogl-a-151 with POS NOUN: Lionga (13), þing* (14)
+
+swedish-old-ogl-a-152
+Fixed construction found in swedish-old-ogl-a-152 with POS NOUN: Lionga (6), þing* (7)
+
+swedish-old-ogl-a-153
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-153, change to copula.
+
+swedish-old-ogl-a-154
+Fixed construction found in swedish-old-ogl-a-154 with POS NOUN: biskops (3), nämd (4)
+Fixed construction found in swedish-old-ogl-a-154 with POS NOUN: lagha (10), gärþ (11)
+
+swedish-old-ogl-a-155
+Fixed construction found in swedish-old-ogl-a-155 with POS NOUN: biskops (10), sak (11)
+
+swedish-old-ogl-a-156
+Fixed construction found in swedish-old-ogl-a-156 with POS NOUN: biskops (3), sak (4)
+
+swedish-old-ogl-a-157
+No issues found.
+
+swedish-old-ogl-a-158
+Dislocated relation found in swedish-old-ogl-a-158 between böta (12) and kunungx (2)
+Fixed construction found in swedish-old-ogl-a-158 with POS NOUN: *konungs (2), sak (3)
+Fixed construction found in swedish-old-ogl-a-158 with POS NOUN: härads (5), sak* (6)
+Fixed construction found in swedish-old-ogl-a-158 with POS NOUN: malsäghanda (8), sak (9)
+
+swedish-old-ogl-a-159
+Fixed construction found in swedish-old-ogl-a-159 with POS NOUN: biskops (15), sak (16)
+Fixed construction found in swedish-old-ogl-a-159 with POS NOUN: *konungs (18), sak (19)
+
+swedish-old-ogl-a-160
+Fixed construction found in swedish-old-ogl-a-160 with POS ADJ: aterdöma (4), dömd (5)
+
+swedish-old-ogl-a-161
+Dislocated relation found in swedish-old-ogl-a-161 between saki (9) and þer (2)
+
+swedish-old-ogl-a-162
+No issues found.
+
+swedish-old-ogl-a-163
+Fixed construction found in swedish-old-ogl-a-163 with POS NOUN: löndskript (5), skript (6)
+Fixed construction found in swedish-old-ogl-a-163 with POS NOUN: biskops (8), sak (9)
+'vara' with deprel acl, 13 in sentence swedish-old-ogl-a-163, change to copula.
+Fixed construction found in swedish-old-ogl-a-163 with POS NOUN: hovuds (15), man (16)
+
+swedish-old-ogl-a-164
+No issues found.
+
+swedish-old-ogl-a-165
+No issues found.
+
+swedish-old-ogl-a-166
+Fixed construction found in swedish-old-ogl-a-166 with POS VERB: aterganga (7), ganga (8)
+
+swedish-old-ogl-a-167
+Dislocated relation found in swedish-old-ogl-a-167 between aghu (7) and þöm (2)
+
+swedish-old-ogl-a-168
+Fixed construction found in swedish-old-ogl-a-168 with POS NOUN: biskops (18), nämd (19)
+
+swedish-old-ogl-a-169
+No issues found.
+
+swedish-old-ogl-a-170
+Fixed construction found in swedish-old-ogl-a-170 with POS NOUN: vitsorþ (5), orþ (6)
+
+swedish-old-ogl-a-171
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-171. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-172
+Could not process 'sum', 2 in sentence swedish-old-ogl-a-172. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-173
+'vara' with deprel advcl, 1 in sentence swedish-old-ogl-a-173, change to copula.
+Fixed construction found in swedish-old-ogl-a-173 with POS NOUN: eþa (23), taki (24)
+'vara' with deprel parataxis, 34 in sentence swedish-old-ogl-a-173, change to copula.
+
+swedish-old-ogl-a-174
+No issues found.
+
+swedish-old-ogl-a-175
+Dislocated relation found in swedish-old-ogl-a-175 between dagh (11) and eþsört (5)
+'vara' with deprel acl:relcl, 14 in sentence swedish-old-ogl-a-175, change to copula.
+'vara' with deprel conj, 17 in sentence swedish-old-ogl-a-175, change to copula.
+
+swedish-old-ogl-a-176
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-176. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-177
+Could not process 'sum', 4 in sentence swedish-old-ogl-a-177. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-177 with POS NOUN: stämnomanna (18), eþer (19)
+Fixed construction found in swedish-old-ogl-a-177 with POS NOUN: stämnomanna (18), eþ (20)
+
+swedish-old-ogl-a-178
+No issues found.
+
+swedish-old-ogl-a-179
+No issues found.
+
+swedish-old-ogl-a-180
+No issues found.
+
+swedish-old-ogl-a-181
+No issues found.
+
+swedish-old-ogl-a-182
+Fixed construction found in swedish-old-ogl-a-182 with POS NOUN: lönda (5), skript (6)
+
+swedish-old-ogl-a-183
+Dislocated relation found in swedish-old-ogl-a-183 between hialpær (10) and malum (5)
+Fixed construction found in swedish-old-ogl-a-183 with POS NOUN: lönda (11), skript (12)
+Fixed construction found in swedish-old-ogl-a-183 with POS NOUN: fäar (14), bot (15)
+
+swedish-old-ogl-a-184
+Fixed construction found in swedish-old-ogl-a-184 with POS NOUN: ykildagher (3), dagh (4)
+
+swedish-old-ogl-a-185
+No issues found.
+
+swedish-old-ogl-a-186
+No issues found.
+
+swedish-old-ogl-a-187
+Fixed construction found in swedish-old-ogl-a-187 with POS NOUN: kirkio (7), dyr (8)
+
+swedish-old-ogl-a-188
+No issues found.
+
+swedish-old-ogl-a-189
+No issues found.
+
+swedish-old-ogl-a-190
+No issues found.
+
+swedish-old-ogl-a-191
+No issues found.
+
+swedish-old-ogl-a-192
+Fixed construction found in swedish-old-ogl-a-192 with POS NOUN: kirkio (7), fä (8)
+
+swedish-old-ogl-a-193
+No issues found.
+
+swedish-old-ogl-a-194
+No issues found.
+
+swedish-old-ogl-a-195
+No issues found.
+
+swedish-old-ogl-a-196
+No issues found.
+
+swedish-old-ogl-a-197
+No issues found.
+
+swedish-old-ogl-a-198
+No issues found.
+
+swedish-old-ogl-a-199
+No issues found.
+
+swedish-old-ogl-a-200
+No issues found.
+
+swedish-old-ogl-a-201
+No issues found.
+
+swedish-old-ogl-a-202
+No issues found.
+
+swedish-old-ogl-a-203
+Fixed construction found in swedish-old-ogl-a-203 with POS NOUN: iula (4), friþer (5)
+Fixed construction found in swedish-old-ogl-a-203 with POS NOUN: iula (7), aptan (8)
+'vara' with deprel conj, 14 in sentence swedish-old-ogl-a-203, change to copula.
+Fixed construction found in swedish-old-ogl-a-203 with POS SCONJ: þär (15), til (16)
+
+swedish-old-ogl-a-204
+Fixed construction found in swedish-old-ogl-a-204 with POS NOUN: paska (4), friþer (5)
+'vara' with deprel conj, 15 in sentence swedish-old-ogl-a-204, change to copula.
+Fixed construction found in swedish-old-ogl-a-204 with POS SCONJ: þär (16), til (17)
+'vara' with deprel advcl, 20 in sentence swedish-old-ogl-a-204, change to copula.
+
+swedish-old-ogl-a-205
+Fixed construction found in swedish-old-ogl-a-205 with POS NOUN: pingizdagha (3), hälghþ (4)
+Fixed construction found in swedish-old-ogl-a-205 with POS NOUN: pingizdagha (3), hælghþ (5)
+'vara' with deprel conj, 14 in sentence swedish-old-ogl-a-205, change to copula.
+Fixed construction found in swedish-old-ogl-a-205 with POS SCONJ: þär (15), til (16)
+
+swedish-old-ogl-a-206
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-206, change to copula.
+Fixed construction found in swedish-old-ogl-a-206 with POS NOUN: kirkmässo (3), hälghþ (4)
+'vara' with deprel conj, 13 in sentence swedish-old-ogl-a-206, change to copula.
+Fixed construction found in swedish-old-ogl-a-206 with POS SCONJ: þär (14), til (15)
+
+swedish-old-ogl-a-207
+Dislocated relation found in swedish-old-ogl-a-207 between sakær (9) and Huar (1)
+
+swedish-old-ogl-a-208
+Dislocated relation found in swedish-old-ogl-a-208 between huggær (23) and skærdax (2)
+Fixed construction found in swedish-old-ogl-a-208 with POS NOUN: skärdaghs (2), hälghþ (3)
+Fixed construction found in swedish-old-ogl-a-208 with POS NOUN: pätars (5), mässa (6)
+Fixed construction found in swedish-old-ogl-a-208 with POS NOUN: olafs (10), mässa (11)
+Fixed construction found in swedish-old-ogl-a-208 with POS NOUN: laurenz (16), mässa (17)
+Dislocated relation found in swedish-old-ogl-a-208 between ökir (35) and huar (20)
+'vara' with deprel conj, 33 in sentence swedish-old-ogl-a-208, change to copula.
+
+swedish-old-ogl-a-209
+No issues found.
+
+swedish-old-ogl-a-210
+Fixed construction found in swedish-old-ogl-a-210 with POS NOUN: hovuþluter (13), lut (14)
+
+swedish-old-ogl-a-211
+No issues found.
+
+swedish-old-ogl-a-212
+No issues found.
+
+swedish-old-ogl-a-213
+Fixed construction found in swedish-old-ogl-a-213 with POS NOUN: hovuþluter (4), lutær (5)
+
+swedish-old-ogl-a-214
+Could not process 'sum', 4 in sentence swedish-old-ogl-a-214. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 13 in sentence swedish-old-ogl-a-214. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-215
+No issues found.
+
+swedish-old-ogl-a-216
+Fixed construction found in swedish-old-ogl-a-216 with POS NOUN: kirkio (5), garþer (6)
+
+swedish-old-ogl-a-217
+Fixed construction found in swedish-old-ogl-a-217 with POS NOUN: kirkio (3), garþer (4)
+
+swedish-old-ogl-a-218
+Fixed construction found in swedish-old-ogl-a-218 with POS NOUN: soknar (4), man (5)
+Fixed construction found in swedish-old-ogl-a-218 with POS NOUN: mässu (11), fal (12)
+Fixed construction found in swedish-old-ogl-a-218 with POS NOUN: kirkio (20), garþer (21)
+
+swedish-old-ogl-a-219
+No issues found.
+
+swedish-old-ogl-a-220
+No issues found.
+
+swedish-old-ogl-a-221
+Dislocated relation found in swedish-old-ogl-a-221 between skal (7) and þæn (1)
+Fixed construction found in swedish-old-ogl-a-221 with POS NOUN: vighsla (3), spiäl (4)
+
+swedish-old-ogl-a-222
+No issues found.
+
+swedish-old-ogl-a-223
+No issues found.
+
+swedish-old-ogl-a-224
+Fixed construction found in swedish-old-ogl-a-224 with POS NOUN: fäar (18), giäld (19)
+
+swedish-old-ogl-a-225
+No issues found.
+
+swedish-old-ogl-a-226
+No issues found.
+
+swedish-old-ogl-a-227
+No issues found.
+
+swedish-old-ogl-a-228
+No issues found.
+
+swedish-old-ogl-a-229
+No issues found.
+
+swedish-old-ogl-a-230
+Dislocated relation found in swedish-old-ogl-a-230 between ökis (11) and misfall (4)
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-230. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-230 with POS NOUN: fäar (16), giäld (17)
+
+swedish-old-ogl-a-231
+No issues found.
+
+swedish-old-ogl-a-232
+Fixed construction found in swedish-old-ogl-a-232 with POS VERB: tilsighia (5), sæghia (6)
+
+swedish-old-ogl-a-233
+Fixed construction found in swedish-old-ogl-a-233 with POS NOUN: kirkio (8), garþer (9)
+
+swedish-old-ogl-a-234
+No issues found.
+
+swedish-old-ogl-a-235
+No issues found.
+
+swedish-old-ogl-a-236
+No issues found.
+
+swedish-old-ogl-a-237
+Fixed construction found in swedish-old-ogl-a-237 with POS NOUN: mals (5), maþer (6)
+
+swedish-old-ogl-a-238
+No issues found.
+
+swedish-old-ogl-a-239
+Fixed construction found in swedish-old-ogl-a-239 with POS NOUN: huna (10), mal (11)
+
+swedish-old-ogl-a-240
+Fixed construction found in swedish-old-ogl-a-240 with POS NOUN: horsak (5), sak (6)
+
+swedish-old-ogl-a-241
+No issues found.
+
+swedish-old-ogl-a-242
+Fixed construction found in swedish-old-ogl-a-242 with POS NOUN: horsak (14), sak (15)
+Fixed construction found in swedish-old-ogl-a-242 with POS NOUN: ätsku (19), spiäl (20)
+
+swedish-old-ogl-a-243
+No issues found.
+
+swedish-old-ogl-a-244
+No issues found.
+
+swedish-old-ogl-a-245
+Fixed construction found in swedish-old-ogl-a-245 with POS NOUN: biskops (4), rätter (5)
+Fixed construction found in swedish-old-ogl-a-245 with POS NOUN: hiona (6), fälagh (7)
+Could not process 'sum', 19 in sentence swedish-old-ogl-a-245. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-246
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-246. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-247
+No issues found.
+
+swedish-old-ogl-a-248
+Dislocated relation found in swedish-old-ogl-a-248 between skal (5) and mal (3)
+Fixed construction found in swedish-old-ogl-a-248 with POS NOUN: kirkio (9), dyr (10)
+
+swedish-old-ogl-a-249
+Fixed construction found in swedish-old-ogl-a-249 with POS NOUN: kirkio (6), dyr (7)
+Fixed construction found in swedish-old-ogl-a-249 with POS NOUN: paska (16), dagher (17)
+
+swedish-old-ogl-a-250
+Dislocated relation found in swedish-old-ogl-a-250 between stæmni (10) and mal (4)
+Fixed construction found in swedish-old-ogl-a-250 with POS NOUN: kirkio (13), dyr (14)
+
+swedish-old-ogl-a-251
+Fixed construction found in swedish-old-ogl-a-251 with POS NOUN: fäar (3), giäld (4)
+Fixed construction found in swedish-old-ogl-a-251 with POS NOUN: lands (10), lagh (11)
+
+swedish-old-ogl-a-252
+No issues found.
+
+swedish-old-ogl-a-253
+No issues found.
+
+swedish-old-ogl-a-254
+No issues found.
+
+swedish-old-ogl-a-255
+Fixed construction found in swedish-old-ogl-a-255 with POS NOUN: lands (4), lagh (5)
+
+swedish-old-ogl-a-256
+No issues found.
+
+swedish-old-ogl-a-257
+Fixed construction found in swedish-old-ogl-a-257 with POS NOUN: vreds (5), värk (6)
+
+swedish-old-ogl-a-258
+No issues found.
+
+swedish-old-ogl-a-259
+Fixed construction found in swedish-old-ogl-a-259 with POS NOUN: kirkio (25), ganga (26)
+
+swedish-old-ogl-a-260
+No issues found.
+
+swedish-old-ogl-a-261
+No issues found.
+
+swedish-old-ogl-a-262
+No issues found.
+
+swedish-old-ogl-a-263
+Deprel not changed for numeral. Please look over deprel for numeral: tiughu, 7 in sentence swedish-old-ogl-a-263
+
+swedish-old-ogl-a-264
+No issues found.
+
+swedish-old-ogl-a-265
+No issues found.
+
+swedish-old-ogl-a-266
+Dislocated relation found in swedish-old-ogl-a-266 between hawa (33) and þe (23)
+'vara' with deprel acl:relcl, 26 in sentence swedish-old-ogl-a-266, change to copula.
+
+swedish-old-ogl-a-267
+No issues found.
+
+swedish-old-ogl-a-268
+No issues found.
+
+swedish-old-ogl-a-269
+No issues found.
+
+swedish-old-ogl-a-270
+Fixed construction found in swedish-old-ogl-a-270 with POS SCONJ: än (2), þo (3)
+Fixed construction found in swedish-old-ogl-a-270 with POS SCONJ: än (2), at (4)
+
+swedish-old-ogl-a-271
+Dislocated relation found in swedish-old-ogl-a-271 between böte (17) and Bryta (1)
+
+swedish-old-ogl-a-272
+No issues found.
+
+swedish-old-ogl-a-273
+No issues found.
+
+swedish-old-ogl-a-274
+Fixed construction found in swedish-old-ogl-a-274 with POS VERB: forfara (4), fara (5)
+
+swedish-old-ogl-a-275
+Dislocated relation found in swedish-old-ogl-a-275 between ogilt (15) and þæt (2)
+Fixed construction found in swedish-old-ogl-a-275 with POS NOUN: gards (7), liþ (8)
+
+swedish-old-ogl-a-276
+No particles viþ* found for +-token aghas, 4 in sentence swedish-old-ogl-a-276
+Fixed construction found in swedish-old-ogl-a-276 with POS NOUN: gards (7), liþ (8)
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-276. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-276 with POS SCONJ: þy (30), at (31)
+Could not process 'sum', 34 in sentence swedish-old-ogl-a-276. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-277
+No issues found.
+
+swedish-old-ogl-a-278
+Fixed construction found in swedish-old-ogl-a-278 with POS NOUN: lands (3), lagh (4)
+
+swedish-old-ogl-a-279
+Dislocated relation found in swedish-old-ogl-a-279 between bötin (14) and far (1)
+Fixed construction found in swedish-old-ogl-a-279 with POS NOUN: lands (17), lagh (18)
+
+swedish-old-ogl-a-280
+No issues found.
+
+swedish-old-ogl-a-281
+No issues found.
+
+swedish-old-ogl-a-282
+No issues found.
+
+swedish-old-ogl-a-283
+No issues found.
+
+swedish-old-ogl-a-284
+'vara' with deprel acl:relcl, 10 in sentence swedish-old-ogl-a-284, change to copula.
+
+swedish-old-ogl-a-285
+No issues found.
+
+swedish-old-ogl-a-286
+No issues found.
+
+swedish-old-ogl-a-287
+No issues found.
+
+swedish-old-ogl-a-288
+No issues found.
+
+swedish-old-ogl-a-289
+Dislocated relation found in swedish-old-ogl-a-289 between stæmne (16) and brat (3)
+Could not process 'sum', 24 in sentence swedish-old-ogl-a-289. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-290
+Fixed construction found in swedish-old-ogl-a-290 with POS SCONJ: þär (8), til (9)
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-290. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-290 with POS SCONJ: þär (8), sum (10)
+
+swedish-old-ogl-a-291
+Dislocated relation found in swedish-old-ogl-a-291 between saklös (10) and hauær (3)
+Dislocated relation found in swedish-old-ogl-a-291 between saklös (10) and böt (4)
+Fixed construction found in swedish-old-ogl-a-291 with POS SCONJ: þy (18), at (19)
+
+swedish-old-ogl-a-292
+No issues found.
+
+swedish-old-ogl-a-293
+Dislocated relation found in swedish-old-ogl-a-293 between a (16) and far (1)
+
+swedish-old-ogl-a-294
+No issues found.
+
+swedish-old-ogl-a-295
+No issues found.
+
+swedish-old-ogl-a-296
+No issues found.
+
+swedish-old-ogl-a-297
+No issues found.
+
+swedish-old-ogl-a-298
+No issues found.
+
+swedish-old-ogl-a-299
+No issues found.
+
+swedish-old-ogl-a-300
+No issues found.
+
+swedish-old-ogl-a-301
+No issues found.
+
+swedish-old-ogl-a-302
+No issues found.
+
+swedish-old-ogl-a-303
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-303. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-304
+No issues found.
+
+swedish-old-ogl-a-305
+No issues found.
+
+swedish-old-ogl-a-306
+No issues found.
+
+swedish-old-ogl-a-307
+No issues found.
+
+swedish-old-ogl-a-308
+No issues found.
+
+swedish-old-ogl-a-309
+No issues found.
+
+swedish-old-ogl-a-310
+Fixed construction found in swedish-old-ogl-a-310 with POS NOUN: þings (7), vägher (8)
+Fixed construction found in swedish-old-ogl-a-310 with POS NOUN: kirkio (10), vägher (11)
+
+swedish-old-ogl-a-311
+No issues found.
+
+swedish-old-ogl-a-312
+Fixed construction found in swedish-old-ogl-a-312 with POS NOUN: þings (7), vägher (8)
+
+swedish-old-ogl-a-313
+No issues found.
+
+swedish-old-ogl-a-314
+Fixed construction found in swedish-old-ogl-a-314 with POS NOUN: þings (7), vägher (8)
+Fixed construction found in swedish-old-ogl-a-314 with POS NOUN: kirkio (10), vägher (11)
+
+swedish-old-ogl-a-315
+Fixed construction found in swedish-old-ogl-a-315 with POS NOUN: þings (12), vägher (13)
+
+swedish-old-ogl-a-316
+No issues found.
+
+swedish-old-ogl-a-317
+No issues found.
+
+swedish-old-ogl-a-318
+'vara' with deprel advcl, 8 in sentence swedish-old-ogl-a-318, change to copula.
+
+swedish-old-ogl-a-319
+Dislocated relation found in swedish-old-ogl-a-319 between hauær (26) and huar (12)
+
+swedish-old-ogl-a-320
+No issues found.
+
+swedish-old-ogl-a-321
+Fixed construction found in swedish-old-ogl-a-321 with POS NOUN: lagha (21), tilmäle (22)
+
+swedish-old-ogl-a-322
+Fixed construction found in swedish-old-ogl-a-322 with POS NOUN: lagha (3), tilmäle (4)
+
+swedish-old-ogl-a-323
+Fixed construction found in swedish-old-ogl-a-323 with POS NOUN: lagha (4), tilmäle (5)
+
+swedish-old-ogl-a-324
+Dislocated relation found in swedish-old-ogl-a-324 between haua (9) and huar (1)
+
+swedish-old-ogl-a-325
+No issues found.
+
+swedish-old-ogl-a-326
+No issues found.
+
+swedish-old-ogl-a-327
+No issues found.
+
+swedish-old-ogl-a-328
+No issues found.
+
+swedish-old-ogl-a-329
+No issues found.
+
+swedish-old-ogl-a-330
+No issues found.
+
+swedish-old-ogl-a-331
+'vara' with deprel acl:relcl, 7 in sentence swedish-old-ogl-a-331, change to copula.
+
+swedish-old-ogl-a-332
+Fixed construction found in swedish-old-ogl-a-332 with POS NOUN: vapna (4), skipte (5)
+
+swedish-old-ogl-a-333
+No issues found.
+
+swedish-old-ogl-a-334
+Fixed construction found in swedish-old-ogl-a-334 with POS NOUN: konungs (5), domber (6)
+Fixed construction found in swedish-old-ogl-a-334 with POS NOUN: konungs (23), domber (24)
+
+swedish-old-ogl-a-335
+'vara' with deprel acl:relcl, 14 in sentence swedish-old-ogl-a-335, change to copula.
+
+swedish-old-ogl-a-336
+No issues found.
+
+swedish-old-ogl-a-337
+No issues found.
+
+swedish-old-ogl-a-338
+No issues found.
+
+swedish-old-ogl-a-339
+Dislocated relation found in swedish-old-ogl-a-339 between haua (14) and huar (1)
+Fixed construction found in swedish-old-ogl-a-339 with POS ADV: ä (5), huru (6)
+'vara' with deprel acl:relcl, 10 in sentence swedish-old-ogl-a-339, change to copula.
+Fixed construction found in swedish-old-ogl-a-339 with POS ADV: ovan (21), a (22)
+
+swedish-old-ogl-a-340
+No issues found.
+
+swedish-old-ogl-a-341
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-341. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-341 with POS ADJ: ensamin (26), samins (27)
+Fixed construction found in swedish-old-ogl-a-341 with POS SCONJ: þy (28), at (29)
+
+swedish-old-ogl-a-342
+No issues found.
+
+swedish-old-ogl-a-343
+Dislocated relation found in swedish-old-ogl-a-343 between möte (15) and hua (2)
+Fixed construction found in swedish-old-ogl-a-343 with POS NOUN: malvarþer (12), uarþ (13)
+
+swedish-old-ogl-a-344
+Fixed construction found in swedish-old-ogl-a-344 with POS SCONJ: þär (6), til (7)
+Could not process 'sum', 22 in sentence swedish-old-ogl-a-344. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 27 in sentence swedish-old-ogl-a-344. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-345
+No issues found.
+
+swedish-old-ogl-a-346
+No issues found.
+
+swedish-old-ogl-a-347
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-347. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel acl, 21 in sentence swedish-old-ogl-a-347, change to copula.
+Could not process 'sum', 22 in sentence swedish-old-ogl-a-347. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-348
+Fixed construction found in swedish-old-ogl-a-348 with POS NOUN: häradshöfþinge (3), höfþingi (4)
+
+swedish-old-ogl-a-349
+Fixed construction found in swedish-old-ogl-a-349 with POS NOUN: häradshöfþinge (2), höfþingi (3)
+Fixed construction found in swedish-old-ogl-a-349 with POS VERB: uptälia (7), tælia (8)
+Fixed construction found in swedish-old-ogl-a-349 with POS VERB: undirtaka (13), taka (14)
+Fixed construction found in swedish-old-ogl-a-349 with POS VERB: uptälia (35), talia (36)
+
+swedish-old-ogl-a-350
+Dislocated relation found in swedish-old-ogl-a-350 between skulu (9) and þe (2)
+
+swedish-old-ogl-a-351
+No issues found.
+
+swedish-old-ogl-a-352
+Dislocated relation found in swedish-old-ogl-a-352 between böte (8) and huar (1)
+
+swedish-old-ogl-a-353
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-353. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-353 with POS NOUN: konungs (41), räfst (42)
+
+swedish-old-ogl-a-354
+No issues found.
+
+swedish-old-ogl-a-355
+Fixed construction found in swedish-old-ogl-a-355 with POS NOUN: lands (18), lagh (19)
+
+swedish-old-ogl-a-356
+Fixed construction found in swedish-old-ogl-a-356 with POS NOUN: konungs (13), räfst (14)
+
+swedish-old-ogl-a-357
+No issues found.
+
+swedish-old-ogl-a-358
+No issues found.
+
+swedish-old-ogl-a-359
+'vara' with deprel xcomp, 12 in sentence swedish-old-ogl-a-359, change to copula.
+
+swedish-old-ogl-a-360
+No issues found.
+
+swedish-old-ogl-a-361
+'vara' with deprel acl, 3 in sentence swedish-old-ogl-a-361, change to copula.
+
+swedish-old-ogl-a-362
+Dislocated relation found in swedish-old-ogl-a-362 between skal (18) and will (4)
+Dislocated relation found in swedish-old-ogl-a-362 between skal (18) and böta (6)
+Fixed construction found in swedish-old-ogl-a-362 with POS NOUN: lagha (11), þing (12)
+Fixed construction found in swedish-old-ogl-a-362 with POS VERB: uphängia (20), hængia (21)
+Fixed construction found in swedish-old-ogl-a-362 with POS NOUN: gards (23), liþ (24)
+Could not process 'sum', 26 in sentence swedish-old-ogl-a-362. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-363
+No issues found.
+
+swedish-old-ogl-a-364
+No issues found.
+
+swedish-old-ogl-a-365
+No issues found.
+
+swedish-old-ogl-a-366
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-366, change to copula.
+
+swedish-old-ogl-a-367
+Fixed construction found in swedish-old-ogl-a-367 with POS NOUN: iärnbyrþ (8), byrþina (9)
+'vara' with deprel root, 11 in sentence swedish-old-ogl-a-367, change to copula.
+Fixed construction found in swedish-old-ogl-a-367 with POS NOUN: konungs (21), räfst (22)
+Fixed construction found in swedish-old-ogl-a-367 with POS VERB: viþerganga (50), ganga (51)
+
+swedish-old-ogl-a-368
+No issues found.
+
+swedish-old-ogl-a-369
+Dislocated relation found in swedish-old-ogl-a-369 between skal (18) and will (7)
+Dislocated relation found in swedish-old-ogl-a-369 between skal (18) and biþa (9)
+Fixed construction found in swedish-old-ogl-a-369 with POS NOUN: konungs (10), räfst (11)
+
+swedish-old-ogl-a-370
+No issues found.
+
+swedish-old-ogl-a-371
+Fixed construction found in swedish-old-ogl-a-371 with POS ADV: ofharþlika* (6), harþlika (7)
+
+swedish-old-ogl-a-372
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-372. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-373
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-373. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-373 with POS VERB: uptaka (10), taka (11)
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-373. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-374
+No issues found.
+
+swedish-old-ogl-a-375
+Fixed construction found in swedish-old-ogl-a-375 with POS NOUN: ätta (13), lägger (14)
+
+swedish-old-ogl-a-376
+No issues found.
+
+swedish-old-ogl-a-377
+Fixed construction found in swedish-old-ogl-a-377 with POS NOUN: möþrinis (8), frände (9)
+Fixed construction found in swedish-old-ogl-a-377 with POS SCONJ: þär (25), til (26)
+
+swedish-old-ogl-a-378
+Dislocated relation found in swedish-old-ogl-a-378 between skal (7) and ær (1)
+'vara' with deprel dislocated, 1 in sentence swedish-old-ogl-a-378, change to copula.
+Fixed construction found in swedish-old-ogl-a-378 with POS SCONJ: þy (15), at (16)
+
+swedish-old-ogl-a-379
+No issues found.
+
+swedish-old-ogl-a-380
+Fixed construction found in swedish-old-ogl-a-380 with POS NOUN: ätta (5), lägger (6)
+
+swedish-old-ogl-a-381
+Dislocated relation found in swedish-old-ogl-a-381 between æruin (11) and ætta (2)
+Fixed construction found in swedish-old-ogl-a-381 with POS NOUN: ätta (2), lägger (3)
+
+swedish-old-ogl-a-382
+Dislocated relation found in swedish-old-ogl-a-382 between takær (8) and dræpær (5)
+Fixed construction found in swedish-old-ogl-a-382 with POS NOUN: hindradags (16), giäf (17)
+
+swedish-old-ogl-a-383
+No issues found.
+
+swedish-old-ogl-a-384
+Fixed construction found in swedish-old-ogl-a-384 with POS NOUN: fäþrinis (8), frände* (9)
+'vara' with deprel acl, 10 in sentence swedish-old-ogl-a-384, change to copula.
+
+swedish-old-ogl-a-385
+'vara' with deprel advcl, 1 in sentence swedish-old-ogl-a-385, change to copula.
+Fixed construction found in swedish-old-ogl-a-385 with POS NOUN: fäþrinis (9), frände* (10)
+
+swedish-old-ogl-a-386
+No issues found.
+
+swedish-old-ogl-a-387
+Could not process 'sum', 3 in sentence swedish-old-ogl-a-387. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-387 with POS NOUN: vaþa (5), bot (6)
+Could not process 'sum', 13 in sentence swedish-old-ogl-a-387. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-388
+No issues found.
+
+swedish-old-ogl-a-389
+No issues found.
+
+swedish-old-ogl-a-390
+Fixed construction found in swedish-old-ogl-a-390 with POS NOUN: konungs (4), räfst (5)
+'vara' with deprel xcomp, 10 in sentence swedish-old-ogl-a-390, change to copula.
+
+swedish-old-ogl-a-391
+Fixed construction found in swedish-old-ogl-a-391 with POS NOUN: ätta (14), lägger (15)
+
+swedish-old-ogl-a-392
+Fixed construction found in swedish-old-ogl-a-392 with POS ADV: ofharþlika* (3), harþlika (4)
+
+swedish-old-ogl-a-393
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-393. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-394
+No issues found.
+
+swedish-old-ogl-a-395
+No issues found.
+
+swedish-old-ogl-a-396
+Fixed construction found in swedish-old-ogl-a-396 with POS NOUN: fäþrinis (3), frände* (4)
+
+swedish-old-ogl-a-397
+No issues found.
+
+swedish-old-ogl-a-398
+No issues found.
+
+swedish-old-ogl-a-399
+No issues found.
+
+swedish-old-ogl-a-400
+Fixed construction found in swedish-old-ogl-a-400 with POS NOUN: fäþrinis (5), frände* (6)
+
+swedish-old-ogl-a-401
+No issues found.
+
+swedish-old-ogl-a-402
+No issues found.
+
+swedish-old-ogl-a-403
+No issues found.
+
+swedish-old-ogl-a-404
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-404. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-404 with POS NOUN: vaþa (8), bot (9)
+
+swedish-old-ogl-a-405
+No issues found.
+
+swedish-old-ogl-a-406
+Could not process 'sum', 15 in sentence swedish-old-ogl-a-406. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-407
+No issues found.
+
+swedish-old-ogl-a-408
+Fixed construction found in swedish-old-ogl-a-408 with POS NOUN: konungs (5), räfst (6)
+
+swedish-old-ogl-a-409
+No issues found.
+
+swedish-old-ogl-a-410
+No issues found.
+
+swedish-old-ogl-a-411
+No issues found.
+
+swedish-old-ogl-a-412
+No issues found.
+
+swedish-old-ogl-a-413
+No issues found.
+
+swedish-old-ogl-a-414
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 14 in sentence swedish-old-ogl-a-414
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 27 in sentence swedish-old-ogl-a-414
+Could not process 'sum', 35 in sentence swedish-old-ogl-a-414. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-415
+Fixed construction found in swedish-old-ogl-a-415 with POS NOUN: kirkio (5), garþer (6)
+
+swedish-old-ogl-a-416
+No issues found.
+
+swedish-old-ogl-a-417
+No issues found.
+
+swedish-old-ogl-a-418
+No issues found.
+
+swedish-old-ogl-a-419
+No issues found.
+
+swedish-old-ogl-a-420
+Fixed construction found in swedish-old-ogl-a-420 with POS NOUN: lösöre (14), örum (15)
+Fixed construction found in swedish-old-ogl-a-420 with POS ADP: utan (17), iorþ (18)
+
+swedish-old-ogl-a-421
+No issues found.
+
+swedish-old-ogl-a-422
+Could not process 'sum', 2 in sentence swedish-old-ogl-a-422. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-422 with POS SCONJ: sva (1), sum (2)
+Dislocated relation found in swedish-old-ogl-a-422 between bryta (11) and hæmnis (3)
+
+swedish-old-ogl-a-423
+No issues found.
+
+swedish-old-ogl-a-424
+Dislocated relation found in swedish-old-ogl-a-424 between böte (7) and þæn (2)
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-424. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-424 with POS NOUN: drapa (12), böter (13)
+
+swedish-old-ogl-a-425
+Could not process 'sum', 2 in sentence swedish-old-ogl-a-425. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-426
+No issues found.
+
+swedish-old-ogl-a-427
+No issues found.
+
+swedish-old-ogl-a-428
+No issues found.
+
+swedish-old-ogl-a-429
+Could not process 'sum', 27 in sentence swedish-old-ogl-a-429. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-430
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-430. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-431
+Fixed construction found in swedish-old-ogl-a-431 with POS ADJ: nyhitter (10), hit (11)
+
+swedish-old-ogl-a-432
+No issues found.
+
+swedish-old-ogl-a-433
+Fixed construction found in swedish-old-ogl-a-433 with POS VERB: bort (27), föra (28)
+
+swedish-old-ogl-a-434
+No issues found.
+
+swedish-old-ogl-a-435
+No issues found.
+
+swedish-old-ogl-a-436
+Dislocated relation found in swedish-old-ogl-a-436 between skulu (8) and uitis (5)
+'vara' with deprel ccomp, 20 in sentence swedish-old-ogl-a-436, change to copula.
+
+swedish-old-ogl-a-437
+No issues found.
+
+swedish-old-ogl-a-438
+Fixed construction found in swedish-old-ogl-a-438 with POS NOUN: kasna (7), vargher (8)
+
+swedish-old-ogl-a-439
+No issues found.
+
+swedish-old-ogl-a-440
+No issues found.
+
+swedish-old-ogl-a-441
+Could not process 'sum', 3 in sentence swedish-old-ogl-a-441. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel ccomp, 22 in sentence swedish-old-ogl-a-441, change to copula.
+
+swedish-old-ogl-a-442
+No issues found.
+
+swedish-old-ogl-a-443
+No issues found.
+
+swedish-old-ogl-a-444
+No issues found.
+
+swedish-old-ogl-a-445
+No issues found.
+
+swedish-old-ogl-a-446
+No issues found.
+
+swedish-old-ogl-a-447
+No issues found.
+
+swedish-old-ogl-a-448
+No issues found.
+
+swedish-old-ogl-a-449
+No issues found.
+
+swedish-old-ogl-a-450
+No issues found.
+
+swedish-old-ogl-a-451
+No issues found.
+
+swedish-old-ogl-a-452
+No issues found.
+
+swedish-old-ogl-a-453
+No issues found.
+
+swedish-old-ogl-a-454
+No issues found.
+
+swedish-old-ogl-a-455
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 3 in sentence swedish-old-ogl-a-455
+
+swedish-old-ogl-a-456
+No issues found.
+
+swedish-old-ogl-a-457
+No issues found.
+
+swedish-old-ogl-a-458
+No issues found.
+
+swedish-old-ogl-a-459
+No issues found.
+
+swedish-old-ogl-a-460
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-460. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-461
+Changed PRON/DET into NUM: attatighi (6) in sentence swedish-old-ogl-a-461. If this is not a numeral, add lemma attatighi to code.
+
+swedish-old-ogl-a-462
+Fixed construction found in swedish-old-ogl-a-462 with POS NOUN: vitsorþ (4), orþ (5)
+
+swedish-old-ogl-a-463
+No issues found.
+
+swedish-old-ogl-a-464
+Deprel not changed for numeral. Please look over deprel for numeral: tuem, 8 in sentence swedish-old-ogl-a-464
+Changed PRON/DET into NUM: siaxtantighi (14) in sentence swedish-old-ogl-a-464. If this is not a numeral, add lemma siäxtantighi to code.
+
+swedish-old-ogl-a-465
+No issues found.
+
+swedish-old-ogl-a-466
+Changed PRON/DET into NUM: attatighi (5) in sentence swedish-old-ogl-a-466. If this is not a numeral, add lemma attatighi to code.
+
+swedish-old-ogl-a-467
+No issues found.
+
+swedish-old-ogl-a-468
+No issues found.
+
+swedish-old-ogl-a-469
+No issues found.
+
+swedish-old-ogl-a-470
+Changed PRON/DET into NUM: siaxtantighi (6) in sentence swedish-old-ogl-a-470. If this is not a numeral, add lemma siäxtantighi to code.
+
+swedish-old-ogl-a-471
+Fixed construction found in swedish-old-ogl-a-471 with POS NOUN: drapa (3), balker* (4)
+
+swedish-old-ogl-a-472
+Deprel not changed for numeral. Please look over deprel for numeral: tiughu, 7 in sentence swedish-old-ogl-a-472
+
+swedish-old-ogl-a-473
+No issues found.
+
+swedish-old-ogl-a-474
+Fixed construction found in swedish-old-ogl-a-474 with POS NOUN: konungs (10), rätter (11)
+
+swedish-old-ogl-a-475
+No issues found.
+
+swedish-old-ogl-a-476
+No issues found.
+
+swedish-old-ogl-a-477
+No issues found.
+
+swedish-old-ogl-a-478
+Dislocated relation found in swedish-old-ogl-a-478 between böte (9) and arwa (4)
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-478. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-478. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-479
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-479. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-480
+No issues found.
+
+swedish-old-ogl-a-481
+No issues found.
+
+swedish-old-ogl-a-482
+No issues found.
+
+swedish-old-ogl-a-483
+No issues found.
+
+swedish-old-ogl-a-484
+No issues found.
+
+swedish-old-ogl-a-485
+Fixed construction found in swedish-old-ogl-a-485 with POS NOUN: ärma (7), band (8)
+
+swedish-old-ogl-a-486
+No issues found.
+
+swedish-old-ogl-a-487
+No issues found.
+
+swedish-old-ogl-a-488
+Fixed construction found in swedish-old-ogl-a-488 with POS NOUN: þing (9), vägher (10)
+
+swedish-old-ogl-a-489
+Fixed construction found in swedish-old-ogl-a-489 with POS NOUN: gislinga (17), brut (18)
+
+swedish-old-ogl-a-490
+No issues found.
+
+swedish-old-ogl-a-491
+Could not process 'sum', 4 in sentence swedish-old-ogl-a-491. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel ccomp, 6 in sentence swedish-old-ogl-a-491, change to copula.
+
+swedish-old-ogl-a-492
+No issues found.
+
+swedish-old-ogl-a-493
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-493. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-493 with POS ADV: framleþis (6), aleþe (7)
+
+swedish-old-ogl-a-494
+No issues found.
+
+swedish-old-ogl-a-495
+No issues found.
+
+swedish-old-ogl-a-496
+Dislocated relation found in swedish-old-ogl-a-496 between skulu (7) and friþlös (5)
+'vara' with deprel acl:relcl, 20 in sentence swedish-old-ogl-a-496, change to copula.
+
+swedish-old-ogl-a-497
+No issues found.
+
+swedish-old-ogl-a-498
+Fixed construction found in swedish-old-ogl-a-498 with POS NOUN: häradshöfþinge (3), höfþinga (4)
+
+swedish-old-ogl-a-499
+Fixed construction found in swedish-old-ogl-a-499 with POS NOUN: häradshöfþinge (1), höfþingi (2)
+Fixed construction found in swedish-old-ogl-a-499 with POS NOUN: buþkafle (4), kafla (5)
+Fixed construction found in swedish-old-ogl-a-499 with POS VERB: upskära (6), skæra (7)
+Fixed construction found in swedish-old-ogl-a-499 with POS NOUN: härads (10), man (11)
+
+swedish-old-ogl-a-500
+Fixed construction found in swedish-old-ogl-a-500 with POS NOUN: hovuds (3), man (4)
+
+swedish-old-ogl-a-501
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-501, change to copula.
+
+swedish-old-ogl-a-502
+'vara' with deprel acl:relcl, 6 in sentence swedish-old-ogl-a-502, change to copula.
+
+swedish-old-ogl-a-503
+Dislocated relation found in swedish-old-ogl-a-503 between ugilt (13) and kan (1)
+Dislocated relation found in swedish-old-ogl-a-503 between ugilt (13) and fa (7)
+
+swedish-old-ogl-a-504
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-504. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-505
+Dislocated relation found in swedish-old-ogl-a-505 between ma (8) and far (4)
+Fixed construction found in swedish-old-ogl-a-505 with POS NOUN: häradshöfþinge (9), höfþingi (10)
+
+swedish-old-ogl-a-506
+No issues found.
+
+swedish-old-ogl-a-507
+Fixed construction found in swedish-old-ogl-a-507 with POS NOUN: häradshöfþinge (4), höfþinga (5)
+'vara' with deprel acl:relcl, 16 in sentence swedish-old-ogl-a-507, change to copula.
+
+swedish-old-ogl-a-508
+Fixed construction found in swedish-old-ogl-a-508 with POS NOUN: buþkafle (4), kafla (5)
+Fixed construction found in swedish-old-ogl-a-508 with POS NOUN: fiärþungs (10), höfþinge (11)
+
+swedish-old-ogl-a-509
+Fixed construction found in swedish-old-ogl-a-509 with POS NOUN: häradshöfþinge (14), höfþinganum (15)
+
+swedish-old-ogl-a-510
+Fixed construction found in swedish-old-ogl-a-510 with POS NOUN: häradshöfþinge (9), höþingin (10)
+'vara' with deprel acl:relcl, 26 in sentence swedish-old-ogl-a-510, change to copula.
+
+swedish-old-ogl-a-511
+'vara' with deprel acl, 9 in sentence swedish-old-ogl-a-511, change to copula.
+
+swedish-old-ogl-a-512
+No issues found.
+
+swedish-old-ogl-a-513
+No issues found.
+
+swedish-old-ogl-a-514
+Fixed construction found in swedish-old-ogl-a-514 with POS ADJ: firi (12), hugga (13)
+
+swedish-old-ogl-a-515
+Fixed construction found in swedish-old-ogl-a-515 with POS NOUN: ennät (4), þing (5)
+
+swedish-old-ogl-a-516
+No issues found.
+
+swedish-old-ogl-a-517
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 4 in sentence swedish-old-ogl-a-517
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-517. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel conj, 20 in sentence swedish-old-ogl-a-517, change to copula.
+
+swedish-old-ogl-a-518
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 2 in sentence swedish-old-ogl-a-518
+Fixed construction found in swedish-old-ogl-a-518 with POS ADJ: þingstämna (9), stæmt (10)
+
+swedish-old-ogl-a-519
+No issues found.
+
+swedish-old-ogl-a-520
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-520. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-521
+No issues found.
+
+swedish-old-ogl-a-522
+Fixed construction found in swedish-old-ogl-a-522 with POS VERB: viþerhätta (8), hætaa (9)
+Fixed construction found in swedish-old-ogl-a-522 with POS NOUN: löskaman (11), mæn (12)
+Fixed construction found in swedish-old-ogl-a-522 with POS NOUN: leghodränger (14), drængia (15)
+
+swedish-old-ogl-a-523
+'vara' with deprel acl:relcl, 9 in sentence swedish-old-ogl-a-523, change to copula.
+
+swedish-old-ogl-a-524
+No issues found.
+
+swedish-old-ogl-a-525
+No issues found.
+
+swedish-old-ogl-a-526
+Fixed construction found in swedish-old-ogl-a-526 with POS SCONJ: än (1), þo (2)
+Fixed construction found in swedish-old-ogl-a-526 with POS SCONJ: än (1), at (3)
+Dislocated relation found in swedish-old-ogl-a-526 between söke (8) and se (5)
+'vara' with deprel dislocated, 5 in sentence swedish-old-ogl-a-526, change to copula.
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-526. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-527
+No issues found.
+
+swedish-old-ogl-a-528
+Fixed construction found in swedish-old-ogl-a-528 with POS ADV: a (5), mote (6)
+Fixed construction found in swedish-old-ogl-a-528 with POS NOUN: vista (8), vitne (9)
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-528. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-529
+No issues found.
+
+swedish-old-ogl-a-530
+No issues found.
+
+swedish-old-ogl-a-531
+Fixed construction found in swedish-old-ogl-a-531 with POS ADJ: þrännetylfter (5), tylftær (6)
+Dislocated relation found in swedish-old-ogl-a-531 between suoru (16) and hinir (11)
+
+swedish-old-ogl-a-532
+Fixed construction found in swedish-old-ogl-a-532 with POS NOUN: tylftar (5), eþer (6)
+
+swedish-old-ogl-a-533
+No issues found.
+
+swedish-old-ogl-a-534
+Dislocated relation found in swedish-old-ogl-a-534 between skulu (12) and þe (1)
+
+swedish-old-ogl-a-535
+Fixed construction found in swedish-old-ogl-a-535 with POS NOUN: tylftar (6), eþer (7)
+
+swedish-old-ogl-a-536
+No issues found.
+
+swedish-old-ogl-a-537
+No issues found.
+
+swedish-old-ogl-a-538
+No particles viþer found for +-token gangær, 2 in sentence swedish-old-ogl-a-538
+'vara' with deprel ccomp, 7 in sentence swedish-old-ogl-a-538, change to copula.
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-538. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-539
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-539. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-540
+Dislocated relation found in swedish-old-ogl-a-540 between skal (20) and uill (7)
+Dislocated relation found in swedish-old-ogl-a-540 between skal (20) and suæria (10)
+Fixed construction found in swedish-old-ogl-a-540 with POS NOUN: tylftar (23), eþer (24)
+
+swedish-old-ogl-a-541
+Fixed construction found in swedish-old-ogl-a-541 with POS NOUN: Lionga (31), þing* (32)
+
+swedish-old-ogl-a-542
+Fixed construction found in swedish-old-ogl-a-542 with POS NOUN: Lionga (15), þing* (16)
+
+swedish-old-ogl-a-543
+Could not process 'sum', 3 in sentence swedish-old-ogl-a-543. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-544
+No issues found.
+
+swedish-old-ogl-a-545
+Dislocated relation found in swedish-old-ogl-a-545 between böte (10) and hauær (5)
+Fixed construction found in swedish-old-ogl-a-545 with POS NOUN: sokna (16), nämd (17)
+Could not process 'sum', 19 in sentence swedish-old-ogl-a-545. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-546
+Dislocated relation found in swedish-old-ogl-a-546 between bötin (10) and hauær (5)
+Fixed construction found in swedish-old-ogl-a-546 with POS NOUN: fiärþungs (16), nämd (17)
+Could not process 'sum', 19 in sentence swedish-old-ogl-a-546. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-547
+Dislocated relation found in swedish-old-ogl-a-547 between bötin (10) and hauær (5)
+Could not process 'sum', 19 in sentence swedish-old-ogl-a-547. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-548
+Dislocated relation found in swedish-old-ogl-a-548 between skulu (27) and hauær (4)
+Dislocated relation found in swedish-old-ogl-a-548 between skulu (27) and böt (5)
+Dislocated relation found in swedish-old-ogl-a-548 between skulu (27) and þe (20)
+Could not process 'sum', 32 in sentence swedish-old-ogl-a-548. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-549
+No issues found.
+
+swedish-old-ogl-a-550
+No issues found.
+
+swedish-old-ogl-a-551
+No issues found.
+
+swedish-old-ogl-a-552
+Dislocated relation found in swedish-old-ogl-a-552 between skiptis (18) and þæt (13)
+
+swedish-old-ogl-a-553
+No issues found.
+
+swedish-old-ogl-a-554
+No issues found.
+
+swedish-old-ogl-a-555
+Dislocated relation found in swedish-old-ogl-a-555 between aghu (16) and kæra (4)
+'vara' with deprel ccomp, 12 in sentence swedish-old-ogl-a-555, change to copula.
+'vara' with deprel parataxis, 31 in sentence swedish-old-ogl-a-555, change to copula.
+
+swedish-old-ogl-a-556
+Dislocated relation found in swedish-old-ogl-a-556 between skulu (10) and uarþær (7)
+Could not process 'sum', 30 in sentence swedish-old-ogl-a-556. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-557
+No issues found.
+
+swedish-old-ogl-a-558
+No issues found.
+
+swedish-old-ogl-a-559
+Dislocated relation found in swedish-old-ogl-a-559 between skal (7) and skal (4)
+Dislocated relation found in swedish-old-ogl-a-559 between skal (7) and skiptas (5)
+Fixed construction found in swedish-old-ogl-a-559 with POS VERB: närvara (11), uara (12)
+Fixed construction found in swedish-old-ogl-a-559 with POS NOUN: häradshöfþinge (16), höfþinge (17)
+Fixed construction found in swedish-old-ogl-a-559 with POS VERB: närvara (24), uara (25)
+
+swedish-old-ogl-a-560
+No issues found.
+
+swedish-old-ogl-a-561
+'vara' with deprel ccomp, 5 in sentence swedish-old-ogl-a-561, change to copula.
+'vara' with deprel ccomp, 9 in sentence swedish-old-ogl-a-561, change to copula.
+
+swedish-old-ogl-a-562
+Fixed construction found in swedish-old-ogl-a-562 with POS NOUN: giptar (19), qvälder (20)
+Fixed construction found in swedish-old-ogl-a-562 with POS NOUN: fästninga (24), stämna (25)
+
+swedish-old-ogl-a-563
+No issues found.
+
+swedish-old-ogl-a-564
+No issues found.
+
+swedish-old-ogl-a-565
+Dislocated relation found in swedish-old-ogl-a-565 between uitzorþ (23) and son (6)
+
+swedish-old-ogl-a-566
+No issues found.
+
+swedish-old-ogl-a-567
+No issues found.
+
+swedish-old-ogl-a-568
+Fixed construction found in swedish-old-ogl-a-568 with POS ADJ: laghskipter (7), skiptær (8)
+
+swedish-old-ogl-a-569
+No issues found.
+
+swedish-old-ogl-a-570
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-570. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-571
+Dislocated relation found in swedish-old-ogl-a-571 between skal (10) and gangas (4)
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-571. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-571 with POS VERB: närvara (17), uara (18)
+Fixed construction found in swedish-old-ogl-a-571 with POS SCONJ: þy (19), at (20)
+
+swedish-old-ogl-a-572
+No issues found.
+
+swedish-old-ogl-a-573
+No issues found.
+
+swedish-old-ogl-a-574
+No issues found.
+
+swedish-old-ogl-a-575
+No issues found.
+
+swedish-old-ogl-a-576
+Fixed construction found in swedish-old-ogl-a-576 with POS NOUN: halsbani (2), bani (3)
+
+swedish-old-ogl-a-577
+No issues found.
+
+swedish-old-ogl-a-578
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 3 in sentence swedish-old-ogl-a-578
+
+swedish-old-ogl-a-579
+Fixed construction found in swedish-old-ogl-a-579 with POS NOUN: halsbani (3), bani (4)
+
+swedish-old-ogl-a-580
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-580. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-581
+Fixed construction found in swedish-old-ogl-a-581 with POS NOUN: halsbani (3), bani (4)
+
+swedish-old-ogl-a-582
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-582. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-583
+No issues found.
+
+swedish-old-ogl-a-584
+No issues found.
+
+swedish-old-ogl-a-585
+Fixed construction found in swedish-old-ogl-a-585 with POS SCONJ: sva (8), at (9)
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-585. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-586
+Fixed construction found in swedish-old-ogl-a-586 with POS ADV: þo (1), hvaro (2)
+Fixed construction found in swedish-old-ogl-a-586 with POS SCONJ: ä (9), thär (10)
+Fixed construction found in swedish-old-ogl-a-586 with POS SCONJ: ä (9), til (11)
+
+swedish-old-ogl-a-587
+No issues found.
+
+swedish-old-ogl-a-588
+No issues found.
+
+swedish-old-ogl-a-589
+No issues found.
+
+swedish-old-ogl-a-590
+No issues found.
+
+swedish-old-ogl-a-591
+No issues found.
+
+swedish-old-ogl-a-592
+Fixed construction found in swedish-old-ogl-a-592 with POS NOUN: fäþrinis (5), frände* (6)
+
+swedish-old-ogl-a-593
+Dislocated relation found in swedish-old-ogl-a-593 between hofþar (5) and ær (1)
+'vara' with deprel dislocated, 1 in sentence swedish-old-ogl-a-593, change to copula.
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-593. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-593 with POS NOUN: aþalkonu (15), sun (16)
+Fixed construction found in swedish-old-ogl-a-593 with POS NOUN: frillo (18), son (19)
+
+swedish-old-ogl-a-594
+No issues found.
+
+swedish-old-ogl-a-595
+No issues found.
+
+swedish-old-ogl-a-596
+Skipped genitive nmod manzs, 11 because head ætta is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-ogl-a-596)
+
+swedish-old-ogl-a-597
+Fixed construction found in swedish-old-ogl-a-597 with POS NOUN: fäþrinis (7), frände* (8)
+Fixed construction found in swedish-old-ogl-a-597 with POS NOUN: möþrinis (12), frände (13)
+
+swedish-old-ogl-a-598
+Dislocated relation found in swedish-old-ogl-a-598 between hofþe (10) and þæn (3)
+Fixed construction found in swedish-old-ogl-a-598 with POS NOUN: fäþrinis (13), frände* (14)
+
+swedish-old-ogl-a-599
+Dislocated relation found in swedish-old-ogl-a-599 between skal (10) and þæn (2)
+Could not process 'sum', 15 in sentence swedish-old-ogl-a-599. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel acl, 17 in sentence swedish-old-ogl-a-599, change to copula.
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 23 in sentence swedish-old-ogl-a-599
+
+swedish-old-ogl-a-600
+No issues found.
+
+swedish-old-ogl-a-601
+Dislocated relation found in swedish-old-ogl-a-601 between ma (8) and standær (4)
+
+swedish-old-ogl-a-602
+No issues found.
+
+swedish-old-ogl-a-603
+Could not process 'sum', 8 in sentence swedish-old-ogl-a-603. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-604
+Fixed construction found in swedish-old-ogl-a-604 with POS ADV: annorlund (16), lund (17)
+
+swedish-old-ogl-a-605
+Dislocated relation found in swedish-old-ogl-a-605 between sakær (9) and huar (1)
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 16 in sentence swedish-old-ogl-a-605
+
+swedish-old-ogl-a-606
+No issues found.
+
+swedish-old-ogl-a-607
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-607, change to copula.
+
+swedish-old-ogl-a-608
+No issues found.
+
+swedish-old-ogl-a-609
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-609, change to copula.
+
+swedish-old-ogl-a-610
+No issues found.
+
+swedish-old-ogl-a-611
+No issues found.
+
+swedish-old-ogl-a-612
+No issues found.
+
+swedish-old-ogl-a-613
+'vara' with deprel root, 1 in sentence swedish-old-ogl-a-613, change to copula.
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-613. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-614
+Fixed construction found in swedish-old-ogl-a-614 with POS NOUN: mals (8), maþer (9)
+
+swedish-old-ogl-a-615
+'vara' with deprel acl:relcl, 12 in sentence swedish-old-ogl-a-615, change to copula.
+
+swedish-old-ogl-a-616
+No issues found.
+
+swedish-old-ogl-a-617
+No issues found.
+
+swedish-old-ogl-a-618
+Could not process 'sum', 8 in sentence swedish-old-ogl-a-618. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-619
+No issues found.
+
+swedish-old-ogl-a-620
+Fixed construction found in swedish-old-ogl-a-620 with POS VERB: firi (4), hugga (5)
+
+swedish-old-ogl-a-621
+No issues found.
+
+swedish-old-ogl-a-622
+No issues found.
+
+swedish-old-ogl-a-623
+No issues found.
+
+swedish-old-ogl-a-624
+Fixed construction found in swedish-old-ogl-a-624 with POS NOUN: härra (9), þokke* (10)
+
+swedish-old-ogl-a-625
+No issues found.
+
+swedish-old-ogl-a-626
+No issues found.
+
+swedish-old-ogl-a-627
+Fixed construction found in swedish-old-ogl-a-627 with POS SCONJ: þy (12), at (13)
+Fixed construction found in swedish-old-ogl-a-627 with POS ADP: for (23), hin (24)
+Could not process 'sum', 25 in sentence swedish-old-ogl-a-627. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-628
+No issues found.
+
+swedish-old-ogl-a-629
+No issues found.
+
+swedish-old-ogl-a-630
+Fixed construction found in swedish-old-ogl-a-630 with POS NOUN: ennät (5), þing (6)
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-630. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-631
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-631. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-632
+No issues found.
+
+swedish-old-ogl-a-633
+Could not process 'sum', 18 in sentence swedish-old-ogl-a-633. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-634
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-634. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-635
+Fixed construction found in swedish-old-ogl-a-635 with POS VERB: tilsighia (23), sighia (24)
+Fixed construction found in swedish-old-ogl-a-635 with POS NOUN: viþerganga (27), gangu (28)
+
+swedish-old-ogl-a-636
+Fixed construction found in swedish-old-ogl-a-636 with POS VERB: viþerganga (8), ganga (9)
+
+swedish-old-ogl-a-637
+Fixed construction found in swedish-old-ogl-a-637 with POS NOUN: häradshöfþinge (3), höfþinga (4)
+
+swedish-old-ogl-a-638
+No issues found.
+
+swedish-old-ogl-a-639
+No issues found.
+
+swedish-old-ogl-a-640
+Fixed construction found in swedish-old-ogl-a-640 with POS NOUN: viþergangu (4), maþer (5)
+
+swedish-old-ogl-a-641
+No issues found.
+
+swedish-old-ogl-a-642
+Fixed construction found in swedish-old-ogl-a-642 with POS VERB: uptaka (18), taka (19)
+
+swedish-old-ogl-a-643
+Fixed construction found in swedish-old-ogl-a-643 with POS VERB: inbinda (8), binda (9)
+Fixed construction found in swedish-old-ogl-a-643 with POS NOUN: Lionga (17), þing* (18)
+
+swedish-old-ogl-a-644
+Fixed construction found in swedish-old-ogl-a-644 with POS NOUN: Lionga (2), þing* (3)
+Fixed construction found in swedish-old-ogl-a-644 with POS VERB: framganga (7), ganga (8)
+
+swedish-old-ogl-a-645
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 3 in sentence swedish-old-ogl-a-645
+
+swedish-old-ogl-a-646
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 2 in sentence swedish-old-ogl-a-646
+Fixed construction found in swedish-old-ogl-a-646 with POS ADJ: þingstämna (9), stæmpt (10)
+
+swedish-old-ogl-a-647
+No issues found.
+
+swedish-old-ogl-a-648
+No issues found.
+
+swedish-old-ogl-a-649
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-649. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-650
+No issues found.
+
+swedish-old-ogl-a-651
+No particles viþer found for +-token gangær, 11 in sentence swedish-old-ogl-a-651
+
+swedish-old-ogl-a-652
+No issues found.
+
+swedish-old-ogl-a-653
+No issues found.
+
+swedish-old-ogl-a-654
+No issues found.
+
+swedish-old-ogl-a-655
+No issues found.
+
+swedish-old-ogl-a-656
+No issues found.
+
+swedish-old-ogl-a-657
+No issues found.
+
+swedish-old-ogl-a-658
+No issues found.
+
+swedish-old-ogl-a-659
+Fixed construction found in swedish-old-ogl-a-659 with POS NOUN: malsäghanda (4), rätter (5)
+
+swedish-old-ogl-a-660
+Fixed construction found in swedish-old-ogl-a-660 with POS NOUN: malsäghanda (7), rätter (8)
+
+swedish-old-ogl-a-661
+Fixed construction found in swedish-old-ogl-a-661 with POS NOUN: malsäghanda (7), rätter (8)
+
+swedish-old-ogl-a-662
+No issues found.
+
+swedish-old-ogl-a-663
+No issues found.
+
+swedish-old-ogl-a-664
+No issues found.
+
+swedish-old-ogl-a-665
+No issues found.
+
+swedish-old-ogl-a-666
+Fixed construction found in swedish-old-ogl-a-666 with POS VERB: utfästa (5), fæsta (6)
+
+swedish-old-ogl-a-667
+Fixed construction found in swedish-old-ogl-a-667 with POS VERB: utböta (5), bötas (6)
+
+swedish-old-ogl-a-668
+No issues found.
+
+swedish-old-ogl-a-669
+Fixed construction found in swedish-old-ogl-a-669 with POS NOUN: häradshöfþinge (3), höfþingi (4)
+
+swedish-old-ogl-a-670
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-670. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-671
+No issues found.
+
+swedish-old-ogl-a-672
+No issues found.
+
+swedish-old-ogl-a-673
+Fixed construction found in swedish-old-ogl-a-673 with POS NOUN: härads (8), piäkker (9)
+
+swedish-old-ogl-a-674
+No issues found.
+
+swedish-old-ogl-a-675
+No issues found.
+
+swedish-old-ogl-a-676
+No issues found.
+
+swedish-old-ogl-a-677
+No issues found.
+
+swedish-old-ogl-a-678
+No issues found.
+
+swedish-old-ogl-a-679
+No issues found.
+
+swedish-old-ogl-a-680
+No issues found.
+
+swedish-old-ogl-a-681
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-681. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-682
+Fixed construction found in swedish-old-ogl-a-682 with POS SCONJ: þy (5), at (6)
+
+swedish-old-ogl-a-683
+No issues found.
+
+swedish-old-ogl-a-684
+Fixed construction found in swedish-old-ogl-a-684 with POS SCONJ: til (7), þäs (8)
+Fixed construction found in swedish-old-ogl-a-684 with POS SCONJ: til (7), at (9)
+Fixed construction found in swedish-old-ogl-a-684 with POS NOUN: eke (11), viþia (12)
+Fixed construction found in swedish-old-ogl-a-684 with POS VERB: uphängia (19), hængia (20)
+
+swedish-old-ogl-a-685
+No particles viþer found for +-token hætte, 7 in sentence swedish-old-ogl-a-685
+Fixed construction found in swedish-old-ogl-a-685 with POS VERB: hätta (7), uiþ (8)
+
+swedish-old-ogl-a-686
+Fixed construction found in swedish-old-ogl-a-686 with POS NOUN: Upsala (7), bo* (8)
+
+swedish-old-ogl-a-687
+No issues found.
+
+swedish-old-ogl-a-688
+No issues found.
+
+swedish-old-ogl-a-689
+No issues found.
+
+swedish-old-ogl-a-690
+No issues found.
+
+swedish-old-ogl-a-691
+Fixed construction found in swedish-old-ogl-a-691 with POS NOUN: Roþs (7), bo* (8)
+
+swedish-old-ogl-a-692
+No issues found.
+
+swedish-old-ogl-a-693
+No issues found.
+
+swedish-old-ogl-a-694
+No issues found.
+
+swedish-old-ogl-a-695
+No issues found.
+
+swedish-old-ogl-a-696
+No issues found.
+
+swedish-old-ogl-a-697
+No issues found.
+
+swedish-old-ogl-a-698
+No issues found.
+
+swedish-old-ogl-a-699
+No issues found.
+
+swedish-old-ogl-a-700
+No issues found.
+
+swedish-old-ogl-a-701
+Could not process 'sum', 12 in sentence swedish-old-ogl-a-701. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-702
+No issues found.
+
+swedish-old-ogl-a-703
+No issues found.
+
+swedish-old-ogl-a-704
+No issues found.
+
+swedish-old-ogl-a-705
+Fixed construction found in swedish-old-ogl-a-705 with POS NOUN: bolags (7), maþer (8)
+
+swedish-old-ogl-a-706
+Fixed construction found in swedish-old-ogl-a-706 with POS NOUN: bolags (13), maþer (14)
+
+swedish-old-ogl-a-707
+Fixed construction found in swedish-old-ogl-a-707 with POS NOUN: *konungs (4), man (5)
+
+swedish-old-ogl-a-708
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-708. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-708 with POS ADV: ivir (13), at (14)
+
+swedish-old-ogl-a-709
+No issues found.
+
+swedish-old-ogl-a-710
+Dislocated relation found in swedish-old-ogl-a-710 between daghom (8) and kunung (6)
+Fixed construction found in swedish-old-ogl-a-710 with POS ADV: ä (10), hvar (11)
+
+swedish-old-ogl-a-711
+No issues found.
+
+swedish-old-ogl-a-712
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-712. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-713
+No issues found.
+
+swedish-old-ogl-a-714
+No issues found.
+
+swedish-old-ogl-a-715
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-715. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-716
+No issues found.
+
+swedish-old-ogl-a-717
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-717. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-718
+No issues found.
+
+swedish-old-ogl-a-719
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-719. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel acl, 8 in sentence swedish-old-ogl-a-719, change to copula.
+
+swedish-old-ogl-a-720
+No issues found.
+
+swedish-old-ogl-a-721
+No issues found.
+
+swedish-old-ogl-a-722
+No issues found.
+
+swedish-old-ogl-a-723
+No issues found.
+
+swedish-old-ogl-a-724
+No issues found.
+
+swedish-old-ogl-a-725
+No issues found.
+
+swedish-old-ogl-a-726
+Fixed construction found in swedish-old-ogl-a-726 with POS VERB: firi (2), hugga (3)
+Skipped genitive nmod rætzs, 13 because head arua is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-ogl-a-726)
+
+swedish-old-ogl-a-727
+Fixed construction found in swedish-old-ogl-a-727 with POS VERB: firi (4), hugga (5)
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-727. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-728
+No issues found.
+
+swedish-old-ogl-a-729
+No issues found.
+
+swedish-old-ogl-a-730
+No issues found.
+
+swedish-old-ogl-a-731
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-731. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-732
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-732. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 21 in sentence swedish-old-ogl-a-732. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-733
+No issues found.
+
+swedish-old-ogl-a-734
+No issues found.
+
+swedish-old-ogl-a-735
+Fixed construction found in swedish-old-ogl-a-735 with POS ADJ: folkfräls (14), fræls (15)
+
+swedish-old-ogl-a-736
+No issues found.
+
+swedish-old-ogl-a-737
+No issues found.
+
+swedish-old-ogl-a-738
+No issues found.
+
+swedish-old-ogl-a-739
+No issues found.
+
+swedish-old-ogl-a-740
+No issues found.
+
+swedish-old-ogl-a-741
+No issues found.
+
+swedish-old-ogl-a-742
+No issues found.
+
+swedish-old-ogl-a-743
+No issues found.
+
+swedish-old-ogl-a-744
+Fixed construction found in swedish-old-ogl-a-744 with POS VERB: tilhugga (4), hugga (5)
+
+swedish-old-ogl-a-745
+No issues found.
+
+swedish-old-ogl-a-746
+No issues found.
+
+swedish-old-ogl-a-747
+No issues found.
+
+swedish-old-ogl-a-748
+No issues found.
+
+swedish-old-ogl-a-749
+No issues found.
+
+swedish-old-ogl-a-750
+No issues found.
+
+swedish-old-ogl-a-751
+No issues found.
+
+swedish-old-ogl-a-752
+Fixed construction found in swedish-old-ogl-a-752 with POS NOUN: vaþa (11), eþer (12)
+
+swedish-old-ogl-a-753
+Dislocated relation found in swedish-old-ogl-a-753 between böte (15) and dræpær (3)
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-753. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-754
+No issues found.
+
+swedish-old-ogl-a-755
+Fixed construction found in swedish-old-ogl-a-755 with POS NOUN: mals (3), maþer (4)
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-755. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-756
+No issues found.
+
+swedish-old-ogl-a-757
+Could not process 'sum', 3 in sentence swedish-old-ogl-a-757. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-758
+No issues found.
+
+swedish-old-ogl-a-759
+No issues found.
+
+swedish-old-ogl-a-760
+Fixed construction found in swedish-old-ogl-a-760 with POS NOUN: vitnis (14), maþer (15)
+
+swedish-old-ogl-a-761
+Deprel not changed for numeral. Please look over deprel for numeral: fiughurtan, 8 in sentence swedish-old-ogl-a-761
+
+swedish-old-ogl-a-762
+Changed PRON/DET into NUM: þrættande (1) in sentence swedish-old-ogl-a-762. If this is not a numeral, add lemma þrättande to code.
+Deprel not changed for numeral. Please look over deprel for numeral: þrættande, 1 in sentence swedish-old-ogl-a-762
+
+swedish-old-ogl-a-763
+Deprel not changed for numeral. Please look over deprel for numeral: fiughurtan, 2 in sentence swedish-old-ogl-a-763
+
+swedish-old-ogl-a-764
+No issues found.
+
+swedish-old-ogl-a-765
+Dislocated relation found in swedish-old-ogl-a-765 between böte (6) and þæn (1)
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-765. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-766
+Fixed construction found in swedish-old-ogl-a-766 with POS NOUN: nytia (16), nöt (17)
+Could not process 'sum', 19 in sentence swedish-old-ogl-a-766. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-766 with POS SCONJ: sva (18), sum (19)
+
+swedish-old-ogl-a-767
+Dislocated relation found in swedish-old-ogl-a-767 between uiti (13) and uill (7)
+Dislocated relation found in swedish-old-ogl-a-767 between uiti (13) and uita (8)
+Fixed construction found in swedish-old-ogl-a-767 with POS ADJ: ater (10), böta (11)
+
+swedish-old-ogl-a-768
+Fixed construction found in swedish-old-ogl-a-768 with POS NOUN: vaþa (3), mal (4)
+Fixed construction found in swedish-old-ogl-a-768 with POS NOUN: saramal (6), mal (7)
+
+swedish-old-ogl-a-769
+Deprel not changed for numeral. Please look over deprel for numeral: fiuratighi, 7 in sentence swedish-old-ogl-a-769
+
+swedish-old-ogl-a-770
+No issues found.
+
+swedish-old-ogl-a-771
+No issues found.
+
+swedish-old-ogl-a-772
+Fixed construction found in swedish-old-ogl-a-772 with POS SCONJ: sva (15), at (16)
+'vara' with deprel acl, 18 in sentence swedish-old-ogl-a-772, change to copula.
+
+swedish-old-ogl-a-773
+No issues found.
+
+swedish-old-ogl-a-774
+No issues found.
+
+swedish-old-ogl-a-775
+No issues found.
+
+swedish-old-ogl-a-776
+Fixed construction found in swedish-old-ogl-a-776 with POS VERB: närvara (5), uara (6)
+
+swedish-old-ogl-a-777
+Dislocated relation found in swedish-old-ogl-a-777 between fa (10) and þæn (1)
+
+swedish-old-ogl-a-778
+No issues found.
+
+swedish-old-ogl-a-779
+No issues found.
+
+swedish-old-ogl-a-780
+'vara' with deprel advcl, 14 in sentence swedish-old-ogl-a-780, change to copula.
+
+swedish-old-ogl-a-781
+No issues found.
+
+swedish-old-ogl-a-782
+Fixed construction found in swedish-old-ogl-a-782 with POS NOUN: vitsorþ (5), orþ (6)
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 18 in sentence swedish-old-ogl-a-782
+Could not process 'sum', 19 in sentence swedish-old-ogl-a-782. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel acl, 22 in sentence swedish-old-ogl-a-782, change to copula.
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 31 in sentence swedish-old-ogl-a-782
+
+swedish-old-ogl-a-783
+Fixed construction found in swedish-old-ogl-a-783 with POS NOUN: konungs (10), räfst (11)
+
+swedish-old-ogl-a-784
+No issues found.
+
+swedish-old-ogl-a-785
+No issues found.
+
+swedish-old-ogl-a-786
+No particles ur* found for +-token giua, 6 in sentence swedish-old-ogl-a-786
+
+swedish-old-ogl-a-787
+Dislocated relation found in swedish-old-ogl-a-787 between skulu (11) and sua (1)
+Could not process 'sum', 2 in sentence swedish-old-ogl-a-787. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-787 with POS NOUN: vaþa (7), eþer (8)
+Fixed construction found in swedish-old-ogl-a-787 with POS NOUN: manhälghþa (25), mal (26)
+
+swedish-old-ogl-a-788
+Fixed construction found in swedish-old-ogl-a-788 with POS NOUN: vaþa (17), eþer (18)
+
+swedish-old-ogl-a-789
+No issues found.
+
+swedish-old-ogl-a-790
+Fixed construction found in swedish-old-ogl-a-790 with POS NOUN: vaþa (4), eþer (5)
+
+swedish-old-ogl-a-791
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-791. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-792
+No issues found.
+
+swedish-old-ogl-a-793
+No issues found.
+
+swedish-old-ogl-a-794
+No issues found.
+
+swedish-old-ogl-a-795
+No issues found.
+
+swedish-old-ogl-a-796
+No issues found.
+
+swedish-old-ogl-a-797
+No issues found.
+
+swedish-old-ogl-a-798
+No issues found.
+
+swedish-old-ogl-a-799
+No issues found.
+
+swedish-old-ogl-a-800
+No issues found.
+
+swedish-old-ogl-a-801
+No issues found.
+
+swedish-old-ogl-a-802
+No issues found.
+
+swedish-old-ogl-a-803
+No issues found.
+
+swedish-old-ogl-a-804
+No issues found.
+
+swedish-old-ogl-a-805
+No issues found.
+
+swedish-old-ogl-a-806
+No issues found.
+
+swedish-old-ogl-a-807
+No issues found.
+
+swedish-old-ogl-a-808
+No issues found.
+
+swedish-old-ogl-a-809
+No issues found.
+
+swedish-old-ogl-a-810
+No issues found.
+
+swedish-old-ogl-a-811
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-811. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-812
+No issues found.
+
+swedish-old-ogl-a-813
+Dislocated relation found in swedish-old-ogl-a-813 between bana (7) and fæ (4)
+
+swedish-old-ogl-a-814
+No issues found.
+
+swedish-old-ogl-a-815
+No issues found.
+
+swedish-old-ogl-a-816
+Fixed construction found in swedish-old-ogl-a-816 with POS NOUN: vitsorþ (4), örþ (5)
+
+swedish-old-ogl-a-817
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-817. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-818
+No issues found.
+
+swedish-old-ogl-a-819
+Could not process 'sum', 8 in sentence swedish-old-ogl-a-819. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-820
+No issues found.
+
+swedish-old-ogl-a-821
+No issues found.
+
+swedish-old-ogl-a-822
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-822. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-823
+No issues found.
+
+swedish-old-ogl-a-824
+Could not process 'sum', 2 in sentence swedish-old-ogl-a-824. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-824 with POS NOUN: mals (13), maþer (14)
+
+swedish-old-ogl-a-825
+No issues found.
+
+swedish-old-ogl-a-826
+No issues found.
+
+swedish-old-ogl-a-827
+Dislocated relation found in swedish-old-ogl-a-827 between a (10) and stighær (3)
+
+swedish-old-ogl-a-828
+No issues found.
+
+swedish-old-ogl-a-829
+No issues found.
+
+swedish-old-ogl-a-830
+Changed PRON/DET into NUM: siaxtan (6) in sentence swedish-old-ogl-a-830. If this is not a numeral, add lemma siäxtantighi to code.
+Changed PRON/DET into NUM: tighi (7) in sentence swedish-old-ogl-a-830. If this is not a numeral, add lemma tighi to code.
+Deprel not changed for numeral. Please look over deprel for numeral: tighi, 7 in sentence swedish-old-ogl-a-830
+Fixed construction found in swedish-old-ogl-a-830 with POS NUM: siäxtantighi (6), tighi (7)
+
+swedish-old-ogl-a-831
+No issues found.
+
+swedish-old-ogl-a-832
+No particles viþer found for +-token þorf, 1 in sentence swedish-old-ogl-a-832
+
+swedish-old-ogl-a-833
+Fixed construction found in swedish-old-ogl-a-833 with POS NOUN: vitsorþ (3), orþ (4)
+
+swedish-old-ogl-a-834
+Fixed construction found in swedish-old-ogl-a-834 with POS NOUN: Lionga (33), þing* (34)
+
+swedish-old-ogl-a-835
+No issues found.
+
+swedish-old-ogl-a-836
+Fixed construction found in swedish-old-ogl-a-836 with POS NOUN: vreds (15), hand (16)
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 19 in sentence swedish-old-ogl-a-836
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 31 in sentence swedish-old-ogl-a-836
+Fixed construction found in swedish-old-ogl-a-836 with POS NOUN: Lionga (38), þing* (39)
+
+swedish-old-ogl-a-837
+Fixed construction found in swedish-old-ogl-a-837 with POS NOUN: Lionga (4), þing* (5)
+Fixed construction found in swedish-old-ogl-a-837 with POS NOUN: Lionga (14), þing* (15)
+
+swedish-old-ogl-a-838
+Fixed construction found in swedish-old-ogl-a-838 with POS NOUN: unghors* (15), hors (16)
+
+swedish-old-ogl-a-839
+'vara' with deprel acl, 8 in sentence swedish-old-ogl-a-839, change to copula.
+Fixed construction found in swedish-old-ogl-a-839 with POS NOUN: manhälghþa (15), mal (16)
+Fixed construction found in swedish-old-ogl-a-839 with POS NOUN: mätanz (49), maþer (50)
+
+swedish-old-ogl-a-840
+No issues found.
+
+swedish-old-ogl-a-841
+Dislocated relation found in swedish-old-ogl-a-841 between skal (31) and ær (4)
+'vara' with deprel dislocated, 4 in sentence swedish-old-ogl-a-841, change to copula.
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-841. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-841 with POS ADP: viþ (19), taka (20)
+Fixed construction found in swedish-old-ogl-a-841 with POS NOUN: Lionga (22), þing* (23)
+Fixed construction found in swedish-old-ogl-a-841 with POS NOUN: Lionga (27), þing* (28)
+
+swedish-old-ogl-a-842
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-842. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-843
+No issues found.
+
+swedish-old-ogl-a-844
+Fixed construction found in swedish-old-ogl-a-844 with POS VERB: forlata (5), lata (6)
+Fixed construction found in swedish-old-ogl-a-844 with POS VERB: forlata (5), ok (12)
+Fixed construction found in swedish-old-ogl-a-844 with POS NOUN: lagha (15), böter (16)
+Fixed construction found in swedish-old-ogl-a-844 with POS NOUN: konungs (20), rätter (21)
+
+swedish-old-ogl-a-845
+Deprel not changed for numeral. Please look over deprel for numeral: fiura, 12 in sentence swedish-old-ogl-a-845
+
+swedish-old-ogl-a-846
+No issues found.
+
+swedish-old-ogl-a-847
+No issues found.
+
+swedish-old-ogl-a-848
+No issues found.
+
+swedish-old-ogl-a-849
+No issues found.
+
+swedish-old-ogl-a-850
+No issues found.
+
+swedish-old-ogl-a-851
+Dislocated relation found in swedish-old-ogl-a-851 between sak (14) and afhug (3)
+Dislocated relation found in swedish-old-ogl-a-851 between sak (14) and þön (4)
+
+swedish-old-ogl-a-852
+Fixed construction found in swedish-old-ogl-a-852 with POS NOUN: lytis (4), bot (5)
+
+swedish-old-ogl-a-853
+No issues found.
+
+swedish-old-ogl-a-854
+No issues found.
+
+swedish-old-ogl-a-855
+Fixed construction found in swedish-old-ogl-a-855 with POS NOUN: konungs (3), rätter (4)
+
+swedish-old-ogl-a-856
+No particles viþ* found for +-token aghas, 2 in sentence swedish-old-ogl-a-856
+
+swedish-old-ogl-a-857
+No issues found.
+
+swedish-old-ogl-a-858
+Fixed construction found in swedish-old-ogl-a-858 with POS NOUN: vista (6), vitne (7)
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-858. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-859
+Fixed construction found in swedish-old-ogl-a-859 with POS ADJ: þrännetylfter (15), tylftær (16)
+Dislocated relation found in swedish-old-ogl-a-859 between suoru (26) and hini (21)
+
+swedish-old-ogl-a-860
+Fixed construction found in swedish-old-ogl-a-860 with POS NOUN: tylftar (6), eþer (7)
+
+swedish-old-ogl-a-861
+No issues found.
+
+swedish-old-ogl-a-862
+Dislocated relation found in swedish-old-ogl-a-862 between skulu (12) and þer (1)
+
+swedish-old-ogl-a-863
+No particles viþer found for +-token gangær, 2 in sentence swedish-old-ogl-a-863
+
+swedish-old-ogl-a-864
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-864. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-864 with POS NOUN: tylftar (18), eþer (19)
+Could not process 'sum', 20 in sentence swedish-old-ogl-a-864. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-865
+No issues found.
+
+swedish-old-ogl-a-866
+No issues found.
+
+swedish-old-ogl-a-867
+No issues found.
+
+swedish-old-ogl-a-868
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-868. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-868. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-869
+No issues found.
+
+swedish-old-ogl-a-870
+Could not process 'sum', 3 in sentence swedish-old-ogl-a-870. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-871
+No issues found.
+
+swedish-old-ogl-a-872
+Fixed construction found in swedish-old-ogl-a-872 with POS NOUN: giptarmaþer (4), maþær (5)
+Fixed construction found in swedish-old-ogl-a-872 with POS VERB: utsökia (6), sökia (7)
+Fixed construction found in swedish-old-ogl-a-872 with POS VERB: utböta (10), böta (11)
+
+swedish-old-ogl-a-873
+Fixed construction found in swedish-old-ogl-a-873 with POS NOUN: giptarmaþer (4), mannin (5)
+Fixed construction found in swedish-old-ogl-a-873 with POS VERB: intaka (6), taka (7)
+
+swedish-old-ogl-a-874
+No issues found.
+
+swedish-old-ogl-a-875
+No issues found.
+
+swedish-old-ogl-a-876
+Fixed construction found in swedish-old-ogl-a-876 with POS NOUN: konungs (8), friþer (9)
+
+swedish-old-ogl-a-877
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-877, change to copula.
+'vara' with deprel advcl, 7 in sentence swedish-old-ogl-a-877, change to copula.
+
+swedish-old-ogl-a-878
+Deprel not changed for numeral. Please look over deprel for numeral: þry, 19 in sentence swedish-old-ogl-a-878
+
+swedish-old-ogl-a-879
+No issues found.
+
+swedish-old-ogl-a-880
+Deprel not changed for numeral. Please look over deprel for numeral: þry, 18 in sentence swedish-old-ogl-a-880
+
+swedish-old-ogl-a-881
+Fixed construction found in swedish-old-ogl-a-881 with POS NOUN: knifs (5), lagh (6)
+
+swedish-old-ogl-a-882
+No issues found.
+
+swedish-old-ogl-a-883
+Fixed construction found in swedish-old-ogl-a-883 with POS ADJ: þrännetylfter (5), tylftum (6)
+
+swedish-old-ogl-a-884
+Fixed construction found in swedish-old-ogl-a-884 with POS NOUN: vitsorþ (8), orþ (9)
+
+swedish-old-ogl-a-885
+Fixed construction found in swedish-old-ogl-a-885 with POS NOUN: knifs (9), lagh (10)
+
+swedish-old-ogl-a-886
+No issues found.
+
+swedish-old-ogl-a-887
+Fixed construction found in swedish-old-ogl-a-887 with POS NOUN: knifs (3), lagh (4)
+
+swedish-old-ogl-a-888
+'vara' with deprel ccomp, 9 in sentence swedish-old-ogl-a-888, change to copula.
+
+swedish-old-ogl-a-889
+Fixed construction found in swedish-old-ogl-a-889 with POS NOUN: knifs (8), lagh (9)
+
+swedish-old-ogl-a-890
+Could not process 'sum', 6 in sentence swedish-old-ogl-a-890. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-890. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-891
+Fixed construction found in swedish-old-ogl-a-891 with POS NOUN: *konungs (3), man (4)
+
+swedish-old-ogl-a-892
+No issues found.
+
+swedish-old-ogl-a-893
+No issues found.
+
+swedish-old-ogl-a-894
+No issues found.
+
+swedish-old-ogl-a-895
+No issues found.
+
+swedish-old-ogl-a-896
+No issues found.
+
+swedish-old-ogl-a-897
+No issues found.
+
+swedish-old-ogl-a-898
+No issues found.
+
+swedish-old-ogl-a-899
+Dislocated relation found in swedish-old-ogl-a-899 between ugilt (10) and þæt (3)
+
+swedish-old-ogl-a-900
+Dislocated relation found in swedish-old-ogl-a-900 between gialdin (16) and far (4)
+
+swedish-old-ogl-a-901
+No issues found.
+
+swedish-old-ogl-a-902
+No issues found.
+
+swedish-old-ogl-a-903
+No issues found.
+
+swedish-old-ogl-a-904
+Fixed construction found in swedish-old-ogl-a-904 with POS NOUN: giptarmaþer (20), maþær (21)
+
+swedish-old-ogl-a-905
+Fixed construction found in swedish-old-ogl-a-905 with POS NOUN: giptarmaþer (16), manne (17)
+
+swedish-old-ogl-a-906
+Fixed construction found in swedish-old-ogl-a-906 with POS NOUN: giptar (5), mal (6)
+Fixed construction found in swedish-old-ogl-a-906 with POS NOUN: giptarmaþer (10), manninum (11)
+Fixed construction found in swedish-old-ogl-a-906 with POS VERB: firi (16), liggia (17)
+
+swedish-old-ogl-a-907
+No issues found.
+
+swedish-old-ogl-a-908
+No issues found.
+
+swedish-old-ogl-a-909
+No issues found.
+
+swedish-old-ogl-a-910
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-910. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-911
+Fixed construction found in swedish-old-ogl-a-911 with POS SCONJ: ä (1), hvat (2)
+Dislocated relation found in swedish-old-ogl-a-911 between skal (12) and gær (4)
+
+swedish-old-ogl-a-912
+Fixed construction found in swedish-old-ogl-a-912 with POS NOUN: malsäghanda (9), rätter (10)
+
+swedish-old-ogl-a-913
+No issues found.
+
+swedish-old-ogl-a-914
+No issues found.
+
+swedish-old-ogl-a-915
+No issues found.
+
+swedish-old-ogl-a-916
+No issues found.
+
+swedish-old-ogl-a-917
+Fixed construction found in swedish-old-ogl-a-917 with POS NOUN: mals (3), maþer (4)
+Fixed construction found in swedish-old-ogl-a-917 with POS NOUN: vitsorþ (5), orþ (6)
+'vara' with deprel ccomp, 15 in sentence swedish-old-ogl-a-917, change to copula.
+Changed PRON/DET into NUM: fæmtan (17) in sentence swedish-old-ogl-a-917. If this is not a numeral, add lemma fämtan to code.
+
+swedish-old-ogl-a-918
+Fixed construction found in swedish-old-ogl-a-918 with POS NOUN: lytis (18), bot (19)
+
+swedish-old-ogl-a-919
+'vara' with deprel advcl, 6 in sentence swedish-old-ogl-a-919, change to copula.
+Fixed construction found in swedish-old-ogl-a-919 with POS NOUN: lytis (11), bot (12)
+
+swedish-old-ogl-a-920
+'vara' with deprel advcl, 14 in sentence swedish-old-ogl-a-920, change to copula.
+
+swedish-old-ogl-a-921
+No issues found.
+
+swedish-old-ogl-a-922
+No issues found.
+
+swedish-old-ogl-a-923
+No issues found.
+
+swedish-old-ogl-a-924
+No issues found.
+
+swedish-old-ogl-a-925
+Fixed construction found in swedish-old-ogl-a-925 with POS VERB: firi (3), hugga (4)
+
+swedish-old-ogl-a-926
+No issues found.
+
+swedish-old-ogl-a-927
+No issues found.
+
+swedish-old-ogl-a-928
+Could not process 'sum', 4 in sentence swedish-old-ogl-a-928. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 13 in sentence swedish-old-ogl-a-928. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-929
+No issues found.
+
+swedish-old-ogl-a-930
+No issues found.
+
+swedish-old-ogl-a-931
+No issues found.
+
+swedish-old-ogl-a-932
+No issues found.
+
+swedish-old-ogl-a-933
+No issues found.
+
+swedish-old-ogl-a-934
+No issues found.
+
+swedish-old-ogl-a-935
+No issues found.
+
+swedish-old-ogl-a-936
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-936. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-937
+Fixed construction found in swedish-old-ogl-a-937 with POS NOUN: vaþa (3), eþer (4)
+
+swedish-old-ogl-a-938
+Fixed construction found in swedish-old-ogl-a-938 with POS NOUN: vaþa (4), eþer (5)
+
+swedish-old-ogl-a-939
+No issues found.
+
+swedish-old-ogl-a-940
+No issues found.
+
+swedish-old-ogl-a-941
+Fixed construction found in swedish-old-ogl-a-941 with POS NOUN: vaþa (3), eþer (4)
+
+swedish-old-ogl-a-942
+No issues found.
+
+swedish-old-ogl-a-943
+Fixed construction found in swedish-old-ogl-a-943 with POS NOUN: vaþa (3), eþer (4)
+
+swedish-old-ogl-a-944
+Fixed construction found in swedish-old-ogl-a-944 with POS NOUN: vaþa (10), eþer (11)
+
+swedish-old-ogl-a-945
+No issues found.
+
+swedish-old-ogl-a-946
+No issues found.
+
+swedish-old-ogl-a-947
+No issues found.
+
+swedish-old-ogl-a-948
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 8 in sentence swedish-old-ogl-a-948
+Fixed construction found in swedish-old-ogl-a-948 with POS NOUN: läkis (15), giäf (16)
+
+swedish-old-ogl-a-949
+Fixed construction found in swedish-old-ogl-a-949 with POS NOUN: þumulfinger (2), fingær (3)
+Fixed construction found in swedish-old-ogl-a-949 with POS ADJ: afhugga (4), huggin (5)
+Fixed construction found in swedish-old-ogl-a-949 with POS SCONJ: þy (12), at (13)
+Fixed construction found in swedish-old-ogl-a-949 with POS NOUN: läkis (27), giäf (28)
+
+swedish-old-ogl-a-950
+Fixed construction found in swedish-old-ogl-a-950 with POS ADJ: afhugga (4), huggin (5)
+Fixed construction found in swedish-old-ogl-a-950 with POS NOUN: läkis (21), giäf (22)
+
+swedish-old-ogl-a-951
+No issues found.
+
+swedish-old-ogl-a-952
+No issues found.
+
+swedish-old-ogl-a-953
+Could not process 'sum', 20 in sentence swedish-old-ogl-a-953. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-954
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-954. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-955
+No issues found.
+
+swedish-old-ogl-a-956
+No issues found.
+
+swedish-old-ogl-a-957
+No issues found.
+
+swedish-old-ogl-a-958
+No issues found.
+
+swedish-old-ogl-a-959
+No issues found.
+
+swedish-old-ogl-a-960
+Fixed construction found in swedish-old-ogl-a-960 with POS NOUN: öris (2), bot (3)
+
+swedish-old-ogl-a-961
+Deprel not changed for numeral. Please look over deprel for numeral: siax, 3 in sentence swedish-old-ogl-a-961
+
+swedish-old-ogl-a-962
+No issues found.
+
+swedish-old-ogl-a-963
+No issues found.
+
+swedish-old-ogl-a-964
+No issues found.
+
+swedish-old-ogl-a-965
+No issues found.
+
+swedish-old-ogl-a-966
+No issues found.
+
+swedish-old-ogl-a-967
+No issues found.
+
+swedish-old-ogl-a-968
+Fixed construction found in swedish-old-ogl-a-968 with POS NOUN: malþing (6), þing (7)
+Fixed construction found in swedish-old-ogl-a-968 with POS NOUN: Lionga (10), þing* (11)
+
+swedish-old-ogl-a-969
+Fixed construction found in swedish-old-ogl-a-969 with POS NOUN: Lionga (2), þing* (3)
+
+swedish-old-ogl-a-970
+Fixed construction found in swedish-old-ogl-a-970 with POS NOUN: vreds (15), hand (16)
+
+swedish-old-ogl-a-971
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 4 in sentence swedish-old-ogl-a-971
+Could not process 'sum', 12 in sentence swedish-old-ogl-a-971. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-972
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 3 in sentence swedish-old-ogl-a-972
+
+swedish-old-ogl-a-973
+No issues found.
+
+swedish-old-ogl-a-974
+'vara' with deprel conj, 19 in sentence swedish-old-ogl-a-974, change to copula.
+
+swedish-old-ogl-a-975
+No issues found.
+
+swedish-old-ogl-a-976
+Dislocated relation found in swedish-old-ogl-a-976 between falne (8) and orkar (1)
+
+swedish-old-ogl-a-977
+No issues found.
+
+swedish-old-ogl-a-978
+Fixed construction found in swedish-old-ogl-a-978 with POS NOUN: Lionga (5), þing* (6)
+Could not process 'sum', 8 in sentence swedish-old-ogl-a-978. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-979
+No issues found.
+
+swedish-old-ogl-a-980
+Fixed construction found in swedish-old-ogl-a-980 with POS NOUN: mätanz (4), maþer (5)
+Fixed construction found in swedish-old-ogl-a-980 with POS NOUN: vitsorþ (6), orþ (7)
+Could not process 'sum', 13 in sentence swedish-old-ogl-a-980. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-981
+Dislocated relation found in swedish-old-ogl-a-981 between a (6) and þæn (2)
+Fixed construction found in swedish-old-ogl-a-981 with POS NOUN: buþs (7), eþer (8)
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-981. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-981 with POS SCONJ: sva (13), sum (14)
+Fixed construction found in swedish-old-ogl-a-981 with POS NOUN: Lionga (22), þing* (23)
+
+swedish-old-ogl-a-982
+No issues found.
+
+swedish-old-ogl-a-983
+Fixed construction found in swedish-old-ogl-a-983 with POS NOUN: Lionga (5), þing* (6)
+
+swedish-old-ogl-a-984
+No issues found.
+
+swedish-old-ogl-a-985
+No issues found.
+
+swedish-old-ogl-a-986
+No issues found.
+
+swedish-old-ogl-a-987
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-987, change to copula.
+Fixed construction found in swedish-old-ogl-a-987 with POS NOUN: hovuds (4), sak (5)
+
+swedish-old-ogl-a-988
+No issues found.
+
+swedish-old-ogl-a-989
+No issues found.
+
+swedish-old-ogl-a-990
+Could not process 'sum', 4 in sentence swedish-old-ogl-a-990. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-991
+'vara' with deprel advcl, 9 in sentence swedish-old-ogl-a-991, change to copula.
+
+swedish-old-ogl-a-992
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-992. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-993
+No issues found.
+
+swedish-old-ogl-a-994
+No issues found.
+
+swedish-old-ogl-a-995
+No issues found.
+
+swedish-old-ogl-a-996
+No issues found.
+
+swedish-old-ogl-a-997
+No issues found.
+
+swedish-old-ogl-a-998
+No issues found.
+
+swedish-old-ogl-a-999
+Fixed construction found in swedish-old-ogl-a-999 with POS NOUN: svarta (3), slagh (4)
+
+swedish-old-ogl-a-1000
+Fixed construction found in swedish-old-ogl-a-1000 with POS NOUN: vitsorþ (4), orþ (5)
+
+swedish-old-ogl-a-1001
+No issues found.
+
+swedish-old-ogl-a-1002
+No particles ater found for +-token fulle, 8 in sentence swedish-old-ogl-a-1002
+
+swedish-old-ogl-a-1003
+No issues found.
+
+swedish-old-ogl-a-1004
+No issues found.
+
+swedish-old-ogl-a-1005
+Fixed construction found in swedish-old-ogl-a-1005 with POS NOUN: vaþa (6), eþer (7)
+
+swedish-old-ogl-a-1006
+No issues found.
+
+swedish-old-ogl-a-1007
+Fixed construction found in swedish-old-ogl-a-1007 with POS NOUN: svarta (8), slagh (9)
+
+swedish-old-ogl-a-1008
+Fixed construction found in swedish-old-ogl-a-1008 with POS NOUN: vaþa (6), eþer (7)
+
+swedish-old-ogl-a-1009
+No issues found.
+
+swedish-old-ogl-a-1010
+No issues found.
+
+swedish-old-ogl-a-1011
+Fixed construction found in swedish-old-ogl-a-1011 with POS NOUN: vaþa (6), eþer (7)
+Fixed construction found in swedish-old-ogl-a-1011 with POS NOUN: *konungs (10), sak (11)
+
+swedish-old-ogl-a-1012
+No issues found.
+
+swedish-old-ogl-a-1013
+'vara' with deprel acl:relcl, 19 in sentence swedish-old-ogl-a-1013, change to copula.
+
+swedish-old-ogl-a-1014
+No issues found.
+
+swedish-old-ogl-a-1015
+No issues found.
+
+swedish-old-ogl-a-1016
+Fixed construction found in swedish-old-ogl-a-1016 with POS NOUN: vitsorþ (4), orþ (5)
+
+swedish-old-ogl-a-1017
+No issues found.
+
+swedish-old-ogl-a-1018
+No issues found.
+
+swedish-old-ogl-a-1019
+No issues found.
+
+swedish-old-ogl-a-1020
+Fixed construction found in swedish-old-ogl-a-1020 with POS NOUN: fäar (6), garþer (7)
+
+swedish-old-ogl-a-1021
+No issues found.
+
+swedish-old-ogl-a-1022
+Fixed construction found in swedish-old-ogl-a-1022 with POS NOUN: lytis (8), bot (9)
+
+swedish-old-ogl-a-1023
+No issues found.
+
+swedish-old-ogl-a-1024
+No issues found.
+
+swedish-old-ogl-a-1025
+No issues found.
+
+swedish-old-ogl-a-1026
+No issues found.
+
+swedish-old-ogl-a-1027
+No issues found.
+
+swedish-old-ogl-a-1028
+No issues found.
+
+swedish-old-ogl-a-1029
+No issues found.
+
+swedish-old-ogl-a-1030
+No issues found.
+
+swedish-old-ogl-a-1031
+No issues found.
+
+swedish-old-ogl-a-1032
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-1032, change to copula.
+
+swedish-old-ogl-a-1033
+Dislocated relation found in swedish-old-ogl-a-1033 between gild (17) and þön (3)
+Fixed construction found in swedish-old-ogl-a-1033 with POS NOUN: manhälghþa (4), mal (5)
+Could not process 'sum', 18 in sentence swedish-old-ogl-a-1033. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1034
+Fixed construction found in swedish-old-ogl-a-1034 with POS NOUN: manhälghþa (4), mal (5)
+
+swedish-old-ogl-a-1035
+No issues found.
+
+swedish-old-ogl-a-1036
+No issues found.
+
+swedish-old-ogl-a-1037
+Could not process 'sum', 18 in sentence swedish-old-ogl-a-1037. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1038
+No issues found.
+
+swedish-old-ogl-a-1039
+No issues found.
+
+swedish-old-ogl-a-1040
+No issues found.
+
+swedish-old-ogl-a-1041
+Fixed construction found in swedish-old-ogl-a-1041 with POS VERB: varþa (1), ok (5)
+Fixed construction found in swedish-old-ogl-a-1041 with POS VERB: varþa (1), slippa (6)
+
+swedish-old-ogl-a-1042
+No issues found.
+
+swedish-old-ogl-a-1043
+No issues found.
+
+swedish-old-ogl-a-1044
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-1044. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1045
+No issues found.
+
+swedish-old-ogl-a-1046
+Fixed construction found in swedish-old-ogl-a-1046 with POS NOUN: konungs (7), domber (8)
+Fixed construction found in swedish-old-ogl-a-1046 with POS NOUN: eghna (13), dela (14)
+
+swedish-old-ogl-a-1047
+Fixed construction found in swedish-old-ogl-a-1047 with POS NOUN: iorþa (4), ran (5)
+
+swedish-old-ogl-a-1048
+Fixed construction found in swedish-old-ogl-a-1048 with POS NOUN: konungs (4), domber (5)
+
+swedish-old-ogl-a-1049
+No issues found.
+
+swedish-old-ogl-a-1050
+Fixed construction found in swedish-old-ogl-a-1050 with POS NOUN: laghmanz (4), domber (5)
+
+swedish-old-ogl-a-1051
+No issues found.
+
+swedish-old-ogl-a-1052
+Fixed construction found in swedish-old-ogl-a-1052 with POS NOUN: *häradshöfdhinga (4), domber (5)
+Fixed construction found in swedish-old-ogl-a-1052 with POS NOUN: *häradshöfdhinga (4), dom (6)
+
+swedish-old-ogl-a-1053
+No issues found.
+
+swedish-old-ogl-a-1054
+Fixed construction found in swedish-old-ogl-a-1054 with POS NOUN: fiärþungs (4), höfþinge (5)
+
+swedish-old-ogl-a-1055
+No issues found.
+
+swedish-old-ogl-a-1056
+No particles viþer found for +-token takin, 7 in sentence swedish-old-ogl-a-1056
+
+swedish-old-ogl-a-1057
+No issues found.
+
+swedish-old-ogl-a-1058
+No issues found.
+
+swedish-old-ogl-a-1059
+No issues found.
+
+swedish-old-ogl-a-1060
+No issues found.
+
+swedish-old-ogl-a-1061
+No issues found.
+
+swedish-old-ogl-a-1062
+No issues found.
+
+swedish-old-ogl-a-1063
+Fixed construction found in swedish-old-ogl-a-1063 with POS ADJ: fiäþertiugher (4), tiught (5)
+
+swedish-old-ogl-a-1064
+No issues found.
+
+swedish-old-ogl-a-1065
+No issues found.
+
+swedish-old-ogl-a-1066
+No issues found.
+
+swedish-old-ogl-a-1067
+No issues found.
+
+swedish-old-ogl-a-1068
+No issues found.
+
+swedish-old-ogl-a-1069
+No issues found.
+
+swedish-old-ogl-a-1070
+No issues found.
+
+swedish-old-ogl-a-1071
+Fixed construction found in swedish-old-ogl-a-1071 with POS NOUN: bos (4), ran (5)
+
+swedish-old-ogl-a-1072
+Fixed construction found in swedish-old-ogl-a-1072 with POS ADJ: fiäþertiugher (12), tiught (13)
+
+swedish-old-ogl-a-1073
+No issues found.
+
+swedish-old-ogl-a-1074
+No issues found.
+
+swedish-old-ogl-a-1075
+No issues found.
+
+swedish-old-ogl-a-1076
+No issues found.
+
+swedish-old-ogl-a-1077
+Fixed construction found in swedish-old-ogl-a-1077 with POS NOUN: handran (4), ran (5)
+
+swedish-old-ogl-a-1078
+No issues found.
+
+swedish-old-ogl-a-1079
+No issues found.
+
+swedish-old-ogl-a-1080
+No issues found.
+
+swedish-old-ogl-a-1081
+No issues found.
+
+swedish-old-ogl-a-1082
+Fixed construction found in swedish-old-ogl-a-1082 with POS NOUN: konungs (8), räfst (9)
+
+swedish-old-ogl-a-1083
+No issues found.
+
+swedish-old-ogl-a-1084
+No issues found.
+
+swedish-old-ogl-a-1085
+No issues found.
+
+swedish-old-ogl-a-1086
+No issues found.
+
+swedish-old-ogl-a-1087
+Fixed construction found in swedish-old-ogl-a-1087 with POS PRON: ä (2), hvar (3)
+
+swedish-old-ogl-a-1088
+No issues found.
+
+swedish-old-ogl-a-1089
+No issues found.
+
+swedish-old-ogl-a-1090
+No issues found.
+
+swedish-old-ogl-a-1091
+No issues found.
+
+swedish-old-ogl-a-1092
+Fixed construction found in swedish-old-ogl-a-1092 with POS VERB: uphängia (6), hængia (7)
+
+swedish-old-ogl-a-1093
+No issues found.
+
+swedish-old-ogl-a-1094
+No issues found.
+
+swedish-old-ogl-a-1095
+No particles viþer found for +-token takin, 9 in sentence swedish-old-ogl-a-1095
+
+swedish-old-ogl-a-1096
+No issues found.
+
+swedish-old-ogl-a-1097
+Fixed construction found in swedish-old-ogl-a-1097 with POS PRON: ä (1), hvar (2)
+Fixed construction found in swedish-old-ogl-a-1097 with POS ADV: þär (6), af (7)
+
+swedish-old-ogl-a-1098
+Fixed construction found in swedish-old-ogl-a-1098 with POS ADV: up (7), hængia (8)
+
+swedish-old-ogl-a-1099
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 3 in sentence swedish-old-ogl-a-1099
+
+swedish-old-ogl-a-1100
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 4 in sentence swedish-old-ogl-a-1100
+Dislocated relation found in swedish-old-ogl-a-1100 between skærskutat (14) and stulin (10)
+
+swedish-old-ogl-a-1101
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 3 in sentence swedish-old-ogl-a-1101
+
+swedish-old-ogl-a-1102
+Fixed construction found in swedish-old-ogl-a-1102 with POS VERB: uphängia (8), hængia (9)
+
+swedish-old-ogl-a-1103
+No issues found.
+
+swedish-old-ogl-a-1104
+No issues found.
+
+swedish-old-ogl-a-1105
+Fixed construction found in swedish-old-ogl-a-1105 with POS PRON: ä (2), hvar (3)
+
+swedish-old-ogl-a-1106
+No issues found.
+
+swedish-old-ogl-a-1107
+No issues found.
+
+swedish-old-ogl-a-1108
+Fixed construction found in swedish-old-ogl-a-1108 with POS NOUN: utlas (10), las (11)
+Could not process 'sum', 12 in sentence swedish-old-ogl-a-1108. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1109
+No issues found.
+
+swedish-old-ogl-a-1110
+No issues found.
+
+swedish-old-ogl-a-1111
+No issues found.
+
+swedish-old-ogl-a-1112
+No issues found.
+
+swedish-old-ogl-a-1113
+No issues found.
+
+swedish-old-ogl-a-1114
+No issues found.
+
+swedish-old-ogl-a-1115
+No issues found.
+
+swedish-old-ogl-a-1116
+Fixed construction found in swedish-old-ogl-a-1116 with POS VERB: uphängia (11), hængia (12)
+
+swedish-old-ogl-a-1117
+No issues found.
+
+swedish-old-ogl-a-1118
+No issues found.
+
+swedish-old-ogl-a-1119
+No issues found.
+
+swedish-old-ogl-a-1120
+No issues found.
+
+swedish-old-ogl-a-1121
+No issues found.
+
+swedish-old-ogl-a-1122
+No issues found.
+
+swedish-old-ogl-a-1123
+No issues found.
+
+swedish-old-ogl-a-1124
+No issues found.
+
+swedish-old-ogl-a-1125
+Could not process 'sum', 4 in sentence swedish-old-ogl-a-1125. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1126
+'vara' with deprel acl:relcl, 8 in sentence swedish-old-ogl-a-1126, change to copula.
+
+swedish-old-ogl-a-1127
+No issues found.
+
+swedish-old-ogl-a-1128
+No issues found.
+
+swedish-old-ogl-a-1129
+'vara' with deprel advcl, 1 in sentence swedish-old-ogl-a-1129, change to copula.
+'vara' with deprel advcl, 14 in sentence swedish-old-ogl-a-1129, change to copula.
+Fixed construction found in swedish-old-ogl-a-1129 with POS SCONJ: sva (30), at (31)
+'vara' with deprel conj, 37 in sentence swedish-old-ogl-a-1129, change to copula.
+Fixed construction found in swedish-old-ogl-a-1129 with POS SCONJ: sva (41), at (42)
+
+swedish-old-ogl-a-1130
+Fixed construction found in swedish-old-ogl-a-1130 with POS NOUN: vitsorþ (4), orþ (5)
+
+swedish-old-ogl-a-1131
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-1131, change to copula.
+
+swedish-old-ogl-a-1132
+No issues found.
+
+swedish-old-ogl-a-1133
+'vara' with deprel conj, 6 in sentence swedish-old-ogl-a-1133, change to copula.
+Fixed construction found in swedish-old-ogl-a-1133 with POS NOUN: häradshöfþinge (15), höfþinga (16)
+'vara' with deprel acl, 24 in sentence swedish-old-ogl-a-1133, change to copula.
+
+swedish-old-ogl-a-1134
+Fixed construction found in swedish-old-ogl-a-1134 with POS VERB: upskära (5), skæra (6)
+
+swedish-old-ogl-a-1135
+Fixed construction found in swedish-old-ogl-a-1135 with POS VERB: uplata (7), lata (8)
+
+swedish-old-ogl-a-1136
+No issues found.
+
+swedish-old-ogl-a-1137
+No issues found.
+
+swedish-old-ogl-a-1138
+Fixed construction found in swedish-old-ogl-a-1138 with POS VERB: uplata (5), lata (6)
+Fixed construction found in swedish-old-ogl-a-1138 with POS NOUN: häradshöfþinge (14), höfþinga (15)
+
+swedish-old-ogl-a-1139
+Deprel not changed for numeral. Please look over deprel for numeral: Þri, 1 in sentence swedish-old-ogl-a-1139
+
+swedish-old-ogl-a-1140
+No particles viþer found for +-token takær, 8 in sentence swedish-old-ogl-a-1140
+Fixed construction found in swedish-old-ogl-a-1140 with POS VERB: taka (8), uiþ (9)
+
+swedish-old-ogl-a-1141
+Fixed construction found in swedish-old-ogl-a-1141 with POS NOUN: þiufsak (6), sak (7)
+
+swedish-old-ogl-a-1142
+No issues found.
+
+swedish-old-ogl-a-1143
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-1143. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 40 in sentence swedish-old-ogl-a-1143. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-1143 with POS NOUN: konungs (54), räfst (55)
+
+swedish-old-ogl-a-1144
+No issues found.
+
+swedish-old-ogl-a-1145
+Could not process 'sum', 13 in sentence swedish-old-ogl-a-1145. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1146
+No issues found.
+
+swedish-old-ogl-a-1147
+No issues found.
+
+swedish-old-ogl-a-1148
+No issues found.
+
+swedish-old-ogl-a-1149
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-1149. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1150
+No issues found.
+
+swedish-old-ogl-a-1151
+No particles til found for +-token taki, 4 in sentence swedish-old-ogl-a-1151
+
+swedish-old-ogl-a-1152
+Could not process 'sum', 8 in sentence swedish-old-ogl-a-1152. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1153
+'vara' with deprel conj, 17 in sentence swedish-old-ogl-a-1153, change to copula.
+
+swedish-old-ogl-a-1154
+Fixed construction found in swedish-old-ogl-a-1154 with POS NOUN: ärma (9), band (10)
+
+swedish-old-ogl-a-1155
+No particles viþer found for +-token hætte, 1 in sentence swedish-old-ogl-a-1155
+Fixed construction found in swedish-old-ogl-a-1155 with POS VERB: hätta (1), uiþ (2)
+
+swedish-old-ogl-a-1156
+No particles viþer found for +-token hætte, 9 in sentence swedish-old-ogl-a-1156
+Fixed construction found in swedish-old-ogl-a-1156 with POS VERB: hätta (9), uiþ (10)
+
+swedish-old-ogl-a-1157
+Could not process 'sum', 8 in sentence swedish-old-ogl-a-1157. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 14 in sentence swedish-old-ogl-a-1157. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1158
+No issues found.
+
+swedish-old-ogl-a-1159
+No issues found.
+
+swedish-old-ogl-a-1160
+Fixed construction found in swedish-old-ogl-a-1160 with POS ADJ: fiäþertiugher (13), tiugxs (14)
+
+swedish-old-ogl-a-1161
+Fixed construction found in swedish-old-ogl-a-1161 with POS NOUN: vitsorþ (8), orþ (9)
+
+swedish-old-ogl-a-1162
+No issues found.
+
+swedish-old-ogl-a-1163
+No issues found.
+
+swedish-old-ogl-a-1164
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-1164. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1165
+Fixed construction found in swedish-old-ogl-a-1165 with POS NOUN: ärma (11), band (12)
+
+swedish-old-ogl-a-1166
+No issues found.
+
+swedish-old-ogl-a-1167
+No issues found.
+
+swedish-old-ogl-a-1168
+Skipped genitive nmod kunungxs, 22 because head soknarans is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-ogl-a-1168)
+
+swedish-old-ogl-a-1169
+Fixed construction found in swedish-old-ogl-a-1169 with POS SCONJ: sva (7), at (8)
+
+swedish-old-ogl-a-1170
+Fixed construction found in swedish-old-ogl-a-1170 with POS NOUN: gislinga (5), brut (6)
+
+swedish-old-ogl-a-1171
+No issues found.
+
+swedish-old-ogl-a-1172
+'vara' with deprel acl, 5 in sentence swedish-old-ogl-a-1172, change to copula.
+
+swedish-old-ogl-a-1173
+No issues found.
+
+swedish-old-ogl-a-1174
+No issues found.
+
+swedish-old-ogl-a-1175
+Fixed construction found in swedish-old-ogl-a-1175 with POS NOUN: mals (4), maþer (5)
+No particles at found for +-token uinzs, 15 in sentence swedish-old-ogl-a-1175
+
+swedish-old-ogl-a-1176
+Fixed construction found in swedish-old-ogl-a-1176 with POS VERB: uphängia (6), hængia (7)
+
+swedish-old-ogl-a-1177
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-1177. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1178
+Fixed construction found in swedish-old-ogl-a-1178 with POS NOUN: mals (4), maþer (5)
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-1178. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1179
+Fixed construction found in swedish-old-ogl-a-1179 with POS NOUN: giptarmaþer (9), man (10)
+
+swedish-old-ogl-a-1180
+No issues found.
+
+swedish-old-ogl-a-1181
+No issues found.
+
+swedish-old-ogl-a-1182
+Dislocated relation found in swedish-old-ogl-a-1182 between gaf (3) and kunung (4)
+
+swedish-old-ogl-a-1183
+Fixed construction found in swedish-old-ogl-a-1183 with POS NOUN: giptarmaþer (15), man (16)
+
+swedish-old-ogl-a-1184
+Fixed construction found in swedish-old-ogl-a-1184 with POS SCONJ: än (1), þo (2)
+Fixed construction found in swedish-old-ogl-a-1184 with POS SCONJ: än (1), at (3)
+
+swedish-old-ogl-a-1185
+No issues found.
+
+swedish-old-ogl-a-1186
+Fixed construction found in swedish-old-ogl-a-1186 with POS NOUN: mals (8), maþer (9)
+
+swedish-old-ogl-a-1187
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-1187. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1188
+No issues found.
+
+swedish-old-ogl-a-1189
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-1189. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1190
+No issues found.
+
+swedish-old-ogl-a-1191
+'vara' with deprel advcl, 1 in sentence swedish-old-ogl-a-1191, change to copula.
+Skipped genitive nmod kunungx, 11 because head soknarans is also genitive. Check whether the word is possessive and should have ':poss' (sentence swedish-old-ogl-a-1191)
+
+swedish-old-ogl-a-1192
+No issues found.
+
+swedish-old-ogl-a-1193
+No issues found.
+
+swedish-old-ogl-a-1194
+No issues found.
+
+swedish-old-ogl-a-1195
+No issues found.
+
+swedish-old-ogl-a-1196
+No issues found.
+
+swedish-old-ogl-a-1197
+No issues found.
+
+swedish-old-ogl-a-1198
+No issues found.
+
+swedish-old-ogl-a-1199
+No issues found.
+
+swedish-old-ogl-a-1200
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 10 in sentence swedish-old-ogl-a-1200
+
+swedish-old-ogl-a-1201
+No issues found.
+
+swedish-old-ogl-a-1202
+No issues found.
+
+swedish-old-ogl-a-1203
+No issues found.
+
+swedish-old-ogl-a-1204
+No issues found.
+
+swedish-old-ogl-a-1205
+No issues found.
+
+swedish-old-ogl-a-1206
+No issues found.
+
+swedish-old-ogl-a-1207
+No issues found.
+
+swedish-old-ogl-a-1208
+No issues found.
+
+swedish-old-ogl-a-1209
+No issues found.
+
+swedish-old-ogl-a-1210
+No issues found.
+
+swedish-old-ogl-a-1211
+No issues found.
+
+swedish-old-ogl-a-1212
+Fixed construction found in swedish-old-ogl-a-1212 with POS NOUN: malsäghanda (9), rätter (10)
+
+swedish-old-ogl-a-1213
+Dislocated relation found in swedish-old-ogl-a-1213 between a (10) and fallzs (3)
+Fixed construction found in swedish-old-ogl-a-1213 with POS NOUN: malsäghanda (12), rätter (13)
+
+swedish-old-ogl-a-1214
+No issues found.
+
+swedish-old-ogl-a-1215
+No issues found.
+
+swedish-old-ogl-a-1216
+No issues found.
+
+swedish-old-ogl-a-1217
+No issues found.
+
+swedish-old-ogl-a-1218
+No issues found.
+
+swedish-old-ogl-a-1219
+Fixed construction found in swedish-old-ogl-a-1219 with POS VERB: uphängia (23), hængia (24)
+
+swedish-old-ogl-a-1220
+No issues found.
+
+swedish-old-ogl-a-1221
+No issues found.
+
+swedish-old-ogl-a-1222
+No issues found.
+
+swedish-old-ogl-a-1223
+No issues found.
+
+swedish-old-ogl-a-1224
+No issues found.
+
+swedish-old-ogl-a-1225
+No issues found.
+
+swedish-old-ogl-a-1226
+Fixed construction found in swedish-old-ogl-a-1226 with POS NOUN: gipta (3), balker* (4)
+
+swedish-old-ogl-a-1227
+Deprel not changed for numeral. Please look over deprel for numeral: tiughu, 7 in sentence swedish-old-ogl-a-1227
+
+swedish-old-ogl-a-1228
+No issues found.
+
+swedish-old-ogl-a-1229
+Dislocated relation found in swedish-old-ogl-a-1229 between got (9) and uill (3)
+Dislocated relation found in swedish-old-ogl-a-1229 between got (9) and biþia (6)
+
+swedish-old-ogl-a-1230
+'vara' with deprel advcl, 18 in sentence swedish-old-ogl-a-1230, change to copula.
+'vara' with deprel advcl, 25 in sentence swedish-old-ogl-a-1230, change to copula.
+
+swedish-old-ogl-a-1231
+No issues found.
+
+swedish-old-ogl-a-1232
+Dislocated relation found in swedish-old-ogl-a-1232 between skal (5) and dör (3)
+
+swedish-old-ogl-a-1233
+No issues found.
+
+swedish-old-ogl-a-1234
+No issues found.
+
+swedish-old-ogl-a-1235
+Fixed construction found in swedish-old-ogl-a-1235 with POS NOUN: viþermynd (3), mund (4)
+
+swedish-old-ogl-a-1236
+Fixed construction found in swedish-old-ogl-a-1236 with POS NOUN: mantolköp (9), köps (10)
+
+swedish-old-ogl-a-1237
+No issues found.
+
+swedish-old-ogl-a-1238
+No issues found.
+
+swedish-old-ogl-a-1239
+Deprel not changed for numeral. Please look over deprel for numeral: fiughurtan, 14 in sentence swedish-old-ogl-a-1239
+Fixed construction found in swedish-old-ogl-a-1239 with POS NOUN: giptarmaþer (28), man (29)
+
+swedish-old-ogl-a-1240
+Fixed construction found in swedish-old-ogl-a-1240 with POS ADJ: illa (5), viliaþer (6)
+
+swedish-old-ogl-a-1241
+Fixed construction found in swedish-old-ogl-a-1241 with POS NOUN: konungs (8), domber (9)
+
+swedish-old-ogl-a-1242
+No issues found.
+
+swedish-old-ogl-a-1243
+Fixed construction found in swedish-old-ogl-a-1243 with POS NOUN: aþalkonu (14), barn (15)
+
+swedish-old-ogl-a-1244
+No issues found.
+
+swedish-old-ogl-a-1245
+No issues found.
+
+swedish-old-ogl-a-1246
+No issues found.
+
+swedish-old-ogl-a-1247
+Fixed construction found in swedish-old-ogl-a-1247 with POS NOUN: fästakonu (3), barn (4)
+Fixed construction found in swedish-old-ogl-a-1247 with POS NOUN: fästakonu (3), barn (5)
+
+swedish-old-ogl-a-1248
+Fixed construction found in swedish-old-ogl-a-1248 with POS NOUN: vitsorþ (4), orþ (5)
+Fixed construction found in swedish-old-ogl-a-1248 with POS NOUN: fästakonu (7), barn (8)
+Fixed construction found in swedish-old-ogl-a-1248 with POS NOUN: fästakonu (7), barn (9)
+
+swedish-old-ogl-a-1249
+'vara' with deprel acl:relcl, 20 in sentence swedish-old-ogl-a-1249, change to copula.
+Fixed construction found in swedish-old-ogl-a-1249 with POS NOUN: fästakonu (35), barn (36)
+Fixed construction found in swedish-old-ogl-a-1249 with POS NOUN: fästakonu (35), barn (37)
+
+swedish-old-ogl-a-1250
+No issues found.
+
+swedish-old-ogl-a-1251
+Fixed construction found in swedish-old-ogl-a-1251 with POS NOUN: giptarmaþer (3), maþrin (4)
+'vara' with deprel xcomp, 6 in sentence swedish-old-ogl-a-1251, change to copula.
+
+swedish-old-ogl-a-1252
+'vara' with deprel conj, 4 in sentence swedish-old-ogl-a-1252, change to copula.
+Fixed construction found in swedish-old-ogl-a-1252 with POS NOUN: giptarmaþer (5), maþrin (6)
+Fixed construction found in swedish-old-ogl-a-1252 with POS NOUN: giptar (11), mal (12)
+
+swedish-old-ogl-a-1253
+Fixed construction found in swedish-old-ogl-a-1253 with POS NOUN: giptarmaþer (17), mannin (18)
+'vara' with deprel acl:relcl, 19 in sentence swedish-old-ogl-a-1253, change to copula.
+
+swedish-old-ogl-a-1254
+No issues found.
+
+swedish-old-ogl-a-1255
+No issues found.
+
+swedish-old-ogl-a-1256
+Fixed construction found in swedish-old-ogl-a-1256 with POS NOUN: giptarmaþer (11), manzs (12)
+
+swedish-old-ogl-a-1257
+Dislocated relation found in swedish-old-ogl-a-1257 between haui (6) and hauær (1)
+Fixed construction found in swedish-old-ogl-a-1257 with POS NOUN: giptarmaþer (9), man (10)
+Fixed construction found in swedish-old-ogl-a-1257 with POS SCONJ: þär (11), til (12)
+Fixed construction found in swedish-old-ogl-a-1257 with POS SCONJ: þär (11), at (13)
+
+swedish-old-ogl-a-1258
+Dislocated relation found in swedish-old-ogl-a-1258 between stæmne (7) and hauær (1)
+
+swedish-old-ogl-a-1259
+Fixed construction found in swedish-old-ogl-a-1259 with POS NOUN: häradshöfþinge (19), höfþinge (20)
+
+swedish-old-ogl-a-1260
+Dislocated relation found in swedish-old-ogl-a-1260 between kumin (24) and uighz (5)
+Fixed construction found in swedish-old-ogl-a-1260 with POS SCONJ: ä (14), hvat (15)
+Fixed construction found in swedish-old-ogl-a-1260 with POS SCONJ: ä (14), hälder (16)
+
+swedish-old-ogl-a-1261
+No issues found.
+
+swedish-old-ogl-a-1262
+Dislocated relation found in swedish-old-ogl-a-1262 between æruir (29) and köpir (5)
+Fixed construction found in swedish-old-ogl-a-1262 with POS VERB: äptirliva (33), liuær (34)
+Could not process 'sum', 36 in sentence swedish-old-ogl-a-1262. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1263
+No issues found.
+
+swedish-old-ogl-a-1264
+No issues found.
+
+swedish-old-ogl-a-1265
+No issues found.
+
+swedish-old-ogl-a-1266
+Fixed construction found in swedish-old-ogl-a-1266 with POS NOUN: vitsorþ (4), orþ (5)
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 17 in sentence swedish-old-ogl-a-1266
+Could not process 'sum', 22 in sentence swedish-old-ogl-a-1266. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel ccomp, 24 in sentence swedish-old-ogl-a-1266, change to copula.
+'vara' with deprel conj, 29 in sentence swedish-old-ogl-a-1266, change to copula.
+
+swedish-old-ogl-a-1267
+No issues found.
+
+swedish-old-ogl-a-1268
+No issues found.
+
+swedish-old-ogl-a-1269
+Fixed construction found in swedish-old-ogl-a-1269 with POS NOUN: mungats (8), tiþir (9)
+Fixed construction found in swedish-old-ogl-a-1269 with POS NOUN: vitsorþ (15), orþ (16)
+
+swedish-old-ogl-a-1270
+Fixed construction found in swedish-old-ogl-a-1270 with POS VERB: tilfara (4), fara (5)
+Fixed construction found in swedish-old-ogl-a-1270 with POS NOUN: mungats (9), gärþ (10)
+Fixed construction found in swedish-old-ogl-a-1270 with POS NOUN: sunnodagher (14), daghrin (15)
+Fixed construction found in swedish-old-ogl-a-1270 with POS NOUN: martensmässo (20), dagher* (21)
+Fixed construction found in swedish-old-ogl-a-1270 with POS NOUN: martensmässo (20), dagh (22)
+Fixed construction found in swedish-old-ogl-a-1270 with POS NOUN: vighsla (25), stämna (26)
+
+swedish-old-ogl-a-1271
+No particles viþer found for +-token hætte, 5 in sentence swedish-old-ogl-a-1271
+Fixed construction found in swedish-old-ogl-a-1271 with POS VERB: hätta (5), uiþ (6)
+Fixed construction found in swedish-old-ogl-a-1271 with POS NOUN: lagha (18), forfal (19)
+
+swedish-old-ogl-a-1272
+No issues found.
+
+swedish-old-ogl-a-1273
+No issues found.
+
+swedish-old-ogl-a-1274
+Fixed construction found in swedish-old-ogl-a-1274 with POS NOUN: häradshöfþinge (3), höfþingi (4)
+Fixed construction found in swedish-old-ogl-a-1274 with POS NOUN: fästa (8), kona (9)
+
+swedish-old-ogl-a-1275
+'vara' with deprel acl:relcl, 15 in sentence swedish-old-ogl-a-1275, change to copula.
+
+swedish-old-ogl-a-1276
+No issues found.
+
+swedish-old-ogl-a-1277
+No issues found.
+
+swedish-old-ogl-a-1278
+Fixed construction found in swedish-old-ogl-a-1278 with POS NOUN: forvista (7), man (8)
+Fixed construction found in swedish-old-ogl-a-1278 with POS NOUN: bruþtughu (10), mö (11)
+
+swedish-old-ogl-a-1279
+No issues found.
+
+swedish-old-ogl-a-1280
+No issues found.
+
+swedish-old-ogl-a-1281
+Fixed construction found in swedish-old-ogl-a-1281 with POS VERB: utvarþa (4), uarþa (5)
+
+swedish-old-ogl-a-1282
+Changed PRON/DET into NUM: tuænni (4) in sentence swedish-old-ogl-a-1282. If this is not a numeral, add lemma tvänne to code.
+Fixed construction found in swedish-old-ogl-a-1282 with POS VERB: tilmäla (10), mæla (11)
+
+swedish-old-ogl-a-1283
+Dislocated relation found in swedish-old-ogl-a-1283 between aghu (7) and mælt (5)
+Fixed construction found in swedish-old-ogl-a-1283 with POS NOUN: lagha (10), drykkia (11)
+Fixed construction found in swedish-old-ogl-a-1283 with POS NOUN: giptarmaþer (16), maþrin (17)
+
+swedish-old-ogl-a-1284
+No issues found.
+
+swedish-old-ogl-a-1285
+Fixed construction found in swedish-old-ogl-a-1285 with POS NOUN: aþalkonu (8), sun (9)
+
+swedish-old-ogl-a-1286
+'vara' with deprel advcl, 1 in sentence swedish-old-ogl-a-1286, change to copula.
+
+swedish-old-ogl-a-1287
+Fixed construction found in swedish-old-ogl-a-1287 with POS NOUN: vapna (4), drykkia (5)
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-1287. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1288
+Fixed construction found in swedish-old-ogl-a-1288 with POS NOUN: forvista (1), man (2)
+
+swedish-old-ogl-a-1289
+No issues found.
+
+swedish-old-ogl-a-1290
+No issues found.
+
+swedish-old-ogl-a-1291
+No issues found.
+
+swedish-old-ogl-a-1292
+Dislocated relation found in swedish-old-ogl-a-1292 between skal (7) and þæn (2)
+Fixed construction found in swedish-old-ogl-a-1292 with POS VERB: tilmäla (4), mælir (5)
+Fixed construction found in swedish-old-ogl-a-1292 with POS NOUN: hindradags (8), giäf (9)
+
+swedish-old-ogl-a-1293
+Fixed construction found in swedish-old-ogl-a-1293 with POS NOUN: hindradags (6), giäf (7)
+
+swedish-old-ogl-a-1294
+No issues found.
+
+swedish-old-ogl-a-1295
+Fixed construction found in swedish-old-ogl-a-1295 with POS NOUN: hindradags (6), giäf (7)
+Fixed construction found in swedish-old-ogl-a-1295 with POS NOUN: hindradagher (20), dagh (21)
+
+swedish-old-ogl-a-1296
+No issues found.
+
+swedish-old-ogl-a-1297
+Fixed construction found in swedish-old-ogl-a-1297 with POS NOUN: hindradags (6), giäf (7)
+Fixed construction found in swedish-old-ogl-a-1297 with POS NOUN: hindradags (6), gæf (8)
+
+swedish-old-ogl-a-1298
+No issues found.
+
+swedish-old-ogl-a-1299
+No issues found.
+
+swedish-old-ogl-a-1300
+No issues found.
+
+swedish-old-ogl-a-1301
+'vara' with deprel conj, 14 in sentence swedish-old-ogl-a-1301, change to copula.
+Fixed construction found in swedish-old-ogl-a-1301 with POS NOUN: giptarmaþer (17), manninum (18)
+
+swedish-old-ogl-a-1302
+Could not process 'sum', 9 in sentence swedish-old-ogl-a-1302. Please check whether it should be relative pronoun or SCONJ.
+Deprel not changed for numeral. Please look over deprel for numeral: tem, 13 in sentence swedish-old-ogl-a-1302
+
+swedish-old-ogl-a-1303
+No issues found.
+
+swedish-old-ogl-a-1304
+Fixed construction found in swedish-old-ogl-a-1304 with POS NOUN: vitsorþ (4), orþ (5)
+Fixed construction found in swedish-old-ogl-a-1304 with POS NOUN: fästnaþar (18), stämna (19)
+Fixed construction found in swedish-old-ogl-a-1304 with POS NOUN: giptar (23), qvälder (24)
+
+swedish-old-ogl-a-1305
+No issues found.
+
+swedish-old-ogl-a-1306
+Fixed construction found in swedish-old-ogl-a-1306 with POS NOUN: vitsorþ (4), orþ (5)
+Fixed construction found in swedish-old-ogl-a-1306 with POS NOUN: niþiar (10), eþer (11)
+
+swedish-old-ogl-a-1307
+Fixed construction found in swedish-old-ogl-a-1307 with POS VERB: akoma (5), kumit (6)
+Fixed construction found in swedish-old-ogl-a-1307 with POS NOUN: afgipt (14), gift (15)
+
+swedish-old-ogl-a-1308
+Fixed construction found in swedish-old-ogl-a-1308 with POS NOUN: niþiar (7), eþer (8)
+Fixed construction found in swedish-old-ogl-a-1308 with POS NOUN: giptar (21), qvälder (22)
+
+swedish-old-ogl-a-1309
+No issues found.
+
+swedish-old-ogl-a-1310
+Could not process 'sum', 3 in sentence swedish-old-ogl-a-1310. Please check whether it should be relative pronoun or SCONJ.
+Deprel not changed for numeral. Please look over deprel for numeral: tua, 7 in sentence swedish-old-ogl-a-1310
+Could not process 'sum', 8 in sentence swedish-old-ogl-a-1310. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-1310. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1311
+No issues found.
+
+swedish-old-ogl-a-1312
+Dislocated relation found in swedish-old-ogl-a-1312 between a (10) and kombær (3)
+Fixed construction found in swedish-old-ogl-a-1312 with POS NOUN: grinda (7), stolpe (8)
+
+swedish-old-ogl-a-1313
+Fixed construction found in swedish-old-ogl-a-1313 with POS NOUN: vitsorþ (10), orþ (11)
+Fixed construction found in swedish-old-ogl-a-1313 with POS VERB: innehalda (12), halda (13)
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-1313. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1314
+Dislocated relation found in swedish-old-ogl-a-1314 between taka (17) and gær (4)
+Fixed construction found in swedish-old-ogl-a-1314 with POS NOUN: urmynda (18), eghn (19)
+
+swedish-old-ogl-a-1315
+Dislocated relation found in swedish-old-ogl-a-1315 between taka (11) and hauær (4)
+Dislocated relation found in swedish-old-ogl-a-1315 between taka (11) and lagh (5)
+Fixed construction found in swedish-old-ogl-a-1315 with POS VERB: lagh (5), häpta (6)
+Fixed construction found in swedish-old-ogl-a-1315 with POS SCONJ: þy (12), at (13)
+
+swedish-old-ogl-a-1316
+No issues found.
+
+swedish-old-ogl-a-1317
+Fixed construction found in swedish-old-ogl-a-1317 with POS SCONJ: þy (10), at (11)
+
+swedish-old-ogl-a-1318
+No issues found.
+
+swedish-old-ogl-a-1319
+Fixed construction found in swedish-old-ogl-a-1319 with POS NOUN: väggiar (3), köp (4)
+
+swedish-old-ogl-a-1320
+No issues found.
+
+swedish-old-ogl-a-1321
+Dislocated relation found in swedish-old-ogl-a-1321 between köp (10) and dör (4)
+
+swedish-old-ogl-a-1322
+No particles viþer found for +-token se, 25 in sentence swedish-old-ogl-a-1322
+'vara' with deprel advcl, 25 in sentence swedish-old-ogl-a-1322, change to copula.
+
+swedish-old-ogl-a-1323
+No issues found.
+
+swedish-old-ogl-a-1324
+No issues found.
+
+swedish-old-ogl-a-1325
+No issues found.
+
+swedish-old-ogl-a-1326
+No issues found.
+
+swedish-old-ogl-a-1327
+Fixed construction found in swedish-old-ogl-a-1327 with POS VERB: atergiälda (9), gialda (10)
+
+swedish-old-ogl-a-1328
+No issues found.
+
+swedish-old-ogl-a-1329
+Fixed construction found in swedish-old-ogl-a-1329 with POS VERB: atergiälda (7), gialda (8)
+
+swedish-old-ogl-a-1330
+No issues found.
+
+swedish-old-ogl-a-1331
+Fixed construction found in swedish-old-ogl-a-1331 with POS VERB: aterlösa (7), lösa (8)
+
+swedish-old-ogl-a-1332
+No issues found.
+
+swedish-old-ogl-a-1333
+Fixed construction found in swedish-old-ogl-a-1333 with POS VERB: aterlösa (8), lösa (9)
+
+swedish-old-ogl-a-1334
+No issues found.
+
+swedish-old-ogl-a-1335
+Fixed construction found in swedish-old-ogl-a-1335 with POS VERB: aterlösa (8), lösa (9)
+
+swedish-old-ogl-a-1336
+Fixed construction found in swedish-old-ogl-a-1336 with POS VERB: aterlösa (10), lösa (11)
+
+swedish-old-ogl-a-1337
+Fixed construction found in swedish-old-ogl-a-1337 with POS VERB: afhända (5), hænd (6)
+
+swedish-old-ogl-a-1338
+Fixed construction found in swedish-old-ogl-a-1338 with POS VERB: þrängia (14), til (15)
+
+swedish-old-ogl-a-1339
+No issues found.
+
+swedish-old-ogl-a-1340
+No issues found.
+
+swedish-old-ogl-a-1341
+No issues found.
+
+swedish-old-ogl-a-1342
+Fixed construction found in swedish-old-ogl-a-1342 with POS VERB: *aterbiuþa (4), biuþa (5)
+Could not process 'sum', 10 in sentence swedish-old-ogl-a-1342. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-1342 with POS NOUN: iorþa (14), köp (15)
+
+swedish-old-ogl-a-1343
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-1343, change to copula.
+Fixed construction found in swedish-old-ogl-a-1343 with POS ADV: utanlands (5), landzs (6)
+
+swedish-old-ogl-a-1344
+Fixed construction found in swedish-old-ogl-a-1344 with POS VERB: ater (5), dela (6)
+
+swedish-old-ogl-a-1345
+No issues found.
+
+swedish-old-ogl-a-1346
+No issues found.
+
+swedish-old-ogl-a-1347
+No issues found.
+
+swedish-old-ogl-a-1348
+'vara' with deprel advcl, 3 in sentence swedish-old-ogl-a-1348, change to copula.
+Fixed construction found in swedish-old-ogl-a-1348 with POS NOUN: vidhergiäld (10), giald (11)
+Fixed construction found in swedish-old-ogl-a-1348 with POS NOUN: vidhergiäld (19), gialdum (20)
+
+swedish-old-ogl-a-1349
+No particles til found for +-token höre, 14 in sentence swedish-old-ogl-a-1349
+
+swedish-old-ogl-a-1350
+No issues found.
+
+swedish-old-ogl-a-1351
+Fixed construction found in swedish-old-ogl-a-1351 with POS VERB: aterganga (4), ganga (5)
+
+swedish-old-ogl-a-1352
+No issues found.
+
+swedish-old-ogl-a-1353
+No issues found.
+
+swedish-old-ogl-a-1354
+No issues found.
+
+swedish-old-ogl-a-1355
+Fixed construction found in swedish-old-ogl-a-1355 with POS SCONJ: ä (1), mäþan (2)
+Dislocated relation found in swedish-old-ogl-a-1355 between stande (24) and köpis (5)
+Fixed construction found in swedish-old-ogl-a-1355 with POS ADJ: saman (11), binda (12)
+'vara' with deprel conj, 14 in sentence swedish-old-ogl-a-1355, change to copula.
+Fixed construction found in swedish-old-ogl-a-1355 with POS NOUN: vitsorþ (29), orþ (30)
+
+swedish-old-ogl-a-1356
+Dislocated relation found in swedish-old-ogl-a-1356 between gangær (8) and sæl (4)
+Fixed construction found in swedish-old-ogl-a-1356 with POS ADP: amote (16), mote (17)
+
+swedish-old-ogl-a-1357
+Fixed construction found in swedish-old-ogl-a-1357 with POS NOUN: giptarmaþer (14), manzs (15)
+
+swedish-old-ogl-a-1358
+Fixed construction found in swedish-old-ogl-a-1358 with POS VERB: laghgöra (4), giort (5)
+
+swedish-old-ogl-a-1359
+No issues found.
+
+swedish-old-ogl-a-1360
+Fixed construction found in swedish-old-ogl-a-1360 with POS NOUN: viþermynd (12), mund (13)
+Could not process 'sum', 21 in sentence swedish-old-ogl-a-1360. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1361
+Fixed construction found in swedish-old-ogl-a-1361 with POS VERB: at (10), lita (11)
+
+swedish-old-ogl-a-1362
+No issues found.
+
+swedish-old-ogl-a-1363
+Fixed construction found in swedish-old-ogl-a-1363 with POS NOUN: ismugs (7), kläþe (8)
+Fixed construction found in swedish-old-ogl-a-1363 with POS NOUN: härþa (10), mantul (11)
+Fixed construction found in swedish-old-ogl-a-1363 with POS NOUN: hovuþduker (13), duki (14)
+
+swedish-old-ogl-a-1364
+No issues found.
+
+swedish-old-ogl-a-1365
+No issues found.
+
+swedish-old-ogl-a-1366
+No issues found.
+
+swedish-old-ogl-a-1367
+Dislocated relation found in swedish-old-ogl-a-1367 between æruir (7) and þæn (3)
+
+swedish-old-ogl-a-1368
+Dislocated relation found in swedish-old-ogl-a-1368 between skal (9) and glömir (3)
+
+swedish-old-ogl-a-1369
+No issues found.
+
+swedish-old-ogl-a-1370
+Fixed construction found in swedish-old-ogl-a-1370 with POS VERB: utluka (5), lukær (6)
+Deprel not changed for numeral. Please look over deprel for numeral: tuem, 9 in sentence swedish-old-ogl-a-1370
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 13 in sentence swedish-old-ogl-a-1370
+
+swedish-old-ogl-a-1371
+No issues found.
+
+swedish-old-ogl-a-1372
+No issues found.
+
+swedish-old-ogl-a-1373
+No issues found.
+
+swedish-old-ogl-a-1374
+Fixed construction found in swedish-old-ogl-a-1374 with POS NOUN: köpe (5), äng (6)
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-1374. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1375
+Fixed construction found in swedish-old-ogl-a-1375 with POS NOUN: forþing (3), þing (4)
+Fixed construction found in swedish-old-ogl-a-1375 with POS NOUN: hindradags (8), giäf (9)
+Fixed construction found in swedish-old-ogl-a-1375 with POS NOUN: hindradags (8), gæf (10)
+Fixed construction found in swedish-old-ogl-a-1375 with POS VERB: utfa (16), fa (17)
+
+swedish-old-ogl-a-1376
+'vara' with deprel advcl, 9 in sentence swedish-old-ogl-a-1376, change to copula.
+
+swedish-old-ogl-a-1377
+No issues found.
+
+swedish-old-ogl-a-1378
+No issues found.
+
+swedish-old-ogl-a-1379
+No issues found.
+
+swedish-old-ogl-a-1380
+'vara' with deprel root, 2 in sentence swedish-old-ogl-a-1380, change to copula.
+
+swedish-old-ogl-a-1381
+Dislocated relation found in swedish-old-ogl-a-1381 between a (11) and eghn (3)
+Fixed construction found in swedish-old-ogl-a-1381 with POS ADP: utan (16), köpe (17)
+Fixed construction found in swedish-old-ogl-a-1381 with POS ADP: utan (16), äng (18)
+
+swedish-old-ogl-a-1382
+No issues found.
+
+swedish-old-ogl-a-1383
+Fixed construction found in swedish-old-ogl-a-1383 with POS VERB: utluka (4), luka (5)
+Fixed construction found in swedish-old-ogl-a-1383 with POS ADJ: iämfulder (14), fulla (15)
+Could not process 'sum', 20 in sentence swedish-old-ogl-a-1383. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-1383 with POS VERB: intaka (23), tok (24)
+
+swedish-old-ogl-a-1384
+No issues found.
+
+swedish-old-ogl-a-1385
+Fixed construction found in swedish-old-ogl-a-1385 with POS VERB: utluka (7), luka (8)
+'vara' with deprel advcl, 12 in sentence swedish-old-ogl-a-1385, change to copula.
+Could not process 'sum', 16 in sentence swedish-old-ogl-a-1385. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-1385 with POS VERB: intaka (18), tok (19)
+
+swedish-old-ogl-a-1386
+Dislocated relation found in swedish-old-ogl-a-1386 between skal (7) and skil (4)
+Deprel not changed for numeral. Please look over deprel for numeral: tue, 14 in sentence swedish-old-ogl-a-1386
+Could not process 'sum', 23 in sentence swedish-old-ogl-a-1386. Please check whether it should be relative pronoun or SCONJ.
+Changed PRON/DET into NUM: fæmtan (31) in sentence swedish-old-ogl-a-1386. If this is not a numeral, add lemma fämtan to code.
+Fixed construction found in swedish-old-ogl-a-1386 with POS ADJ: utgöra (40), giort (41)
+Could not process 'sum', 42 in sentence swedish-old-ogl-a-1386. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-1386 with POS VERB: intaka (44), tok (45)
+Deprel not changed for numeral. Please look over deprel for numeral: tolf, 47 in sentence swedish-old-ogl-a-1386
+
+swedish-old-ogl-a-1387
+No issues found.
+
+swedish-old-ogl-a-1388
+Fixed construction found in swedish-old-ogl-a-1388 with POS VERB: inganga (5), ganga (6)
+Could not process 'sum', 7 in sentence swedish-old-ogl-a-1388. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-1388 with POS ADJ: utgöra (10), giorþ (11)
+Fixed construction found in swedish-old-ogl-a-1388 with POS ADP: til (13), maþer (15)
+
+swedish-old-ogl-a-1389
+Fixed construction found in swedish-old-ogl-a-1389 with POS VERB: afliþa (2), liþær (3)
+
+swedish-old-ogl-a-1390
+No issues found.
+
+swedish-old-ogl-a-1391
+No issues found.
+
+swedish-old-ogl-a-1392
+No issues found.
+
+swedish-old-ogl-a-1393
+Fixed construction found in swedish-old-ogl-a-1393 with POS NOUN: varsäþ (15), sæþ (16)
+Fixed construction found in swedish-old-ogl-a-1393 with POS NOUN: träþis (20), äria (21)
+
+swedish-old-ogl-a-1394
+No issues found.
+
+swedish-old-ogl-a-1395
+No issues found.
+
+swedish-old-ogl-a-1396
+No issues found.
+
+swedish-old-ogl-a-1397
+Fixed construction found in swedish-old-ogl-a-1397 with POS NOUN: vitsorþ (3), orþ (4)
+Fixed construction found in swedish-old-ogl-a-1397 with POS NOUN: fäþrinis (12), frände* (13)
+
+swedish-old-ogl-a-1398
+No issues found.
+
+swedish-old-ogl-a-1399
+No issues found.
+
+swedish-old-ogl-a-1400
+Fixed construction found in swedish-old-ogl-a-1400 with POS NOUN: mals (18), maþer (19)
+
+swedish-old-ogl-a-1401
+Dislocated relation found in swedish-old-ogl-a-1401 between kallas (12) and gull (1)
+Fixed construction found in swedish-old-ogl-a-1401 with POS NOUN: diurs (9), horn (10)
+
+swedish-old-ogl-a-1402
+Fixed construction found in swedish-old-ogl-a-1402 with POS NOUN: raþa (10), gärþ (11)
+
+swedish-old-ogl-a-1403
+Fixed construction found in swedish-old-ogl-a-1403 with POS NOUN: fäþrinis (4), frände* (5)
+
+swedish-old-ogl-a-1404
+No issues found.
+
+swedish-old-ogl-a-1405
+No issues found.
+
+swedish-old-ogl-a-1406
+No issues found.
+
+swedish-old-ogl-a-1407
+Fixed construction found in swedish-old-ogl-a-1407 with POS ADV: þär (3), til (4)
+Fixed construction found in swedish-old-ogl-a-1407 with POS NOUN: fäþrinis (34), frände* (35)
+
+swedish-old-ogl-a-1408
+No issues found.
+
+swedish-old-ogl-a-1409
+Fixed construction found in swedish-old-ogl-a-1409 with POS NOUN: hovuþluter (5), lut (6)
+
+swedish-old-ogl-a-1410
+Dislocated relation found in swedish-old-ogl-a-1410 between æruir (8) and alt (2)
+Could not process 'sum', 11 in sentence swedish-old-ogl-a-1410. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1411
+No issues found.
+
+swedish-old-ogl-a-1412
+Dislocated relation found in swedish-old-ogl-a-1412 between æruir (6) and ær (1)
+'vara' with deprel dislocated, 1 in sentence swedish-old-ogl-a-1412, change to copula.
+
+swedish-old-ogl-a-1413
+No issues found.
+
+swedish-old-ogl-a-1414
+Fixed construction found in swedish-old-ogl-a-1414 with POS VERB: afliþa (3), liþær (4)
+Fixed construction found in swedish-old-ogl-a-1414 with POS NOUN: *brödhra (5), arf (6)
+
+swedish-old-ogl-a-1415
+Fixed construction found in swedish-old-ogl-a-1415 with POS ADJ: sunderkulla (5), kulla (6)
+
+swedish-old-ogl-a-1416
+No issues found.
+
+swedish-old-ogl-a-1417
+Dislocated relation found in swedish-old-ogl-a-1417 between a (12) and þæt (2)
+Fixed construction found in swedish-old-ogl-a-1417 with POS NOUN: grinda (9), stolpe (10)
+
+swedish-old-ogl-a-1418
+Dislocated relation found in swedish-old-ogl-a-1418 between fylgir (7) and þæt (2)
+Fixed construction found in swedish-old-ogl-a-1418 with POS NOUN: bofä (13), fæ (14)
+
+swedish-old-ogl-a-1419
+No issues found.
+
+swedish-old-ogl-a-1420
+No issues found.
+
+swedish-old-ogl-a-1421
+No issues found.
+
+swedish-old-ogl-a-1422
+No issues found.
+
+swedish-old-ogl-a-1423
+No issues found.
+
+swedish-old-ogl-a-1424
+Could not process 'sum', 5 in sentence swedish-old-ogl-a-1424. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-ogl-a-1424 with POS ADJ: iämmykin (9), mykit (10)
+Could not process 'sum', 13 in sentence swedish-old-ogl-a-1424. Please check whether it should be relative pronoun or SCONJ.
+Could not process 'sum', 17 in sentence swedish-old-ogl-a-1424. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-ogl-a-1425
+No issues found.
+
+swedish-old-ogl-a-1426
+Fixed construction found in swedish-old-ogl-a-1426 with POS ADJ: iämiämn (3), iamt (4)
+
+swedish-old-ogl-a-1427
+No issues found.
+
+swedish-old-ogl-a-1428
+No issues found.
+
+swedish-old-ogl-a-1429
+No issues found.
+
+swedish-old-ogl-a-1430
+No issues found.
+
+swedish-old-ogl-a-1431
+Dislocated relation found in swedish-old-ogl-a-1431 between æruir (7) and þer (2)
+
+swedish-old-ogl-a-1432
+No issues found.
+
+swedish-old-ogl-a-1433
+No issues found.
+
+swedish-old-ogl-a-1434
+No issues found.
+
+swedish-old-ogl-a-1435
+No issues found.
+
+swedish-old-ogl-a-1436
+No issues found.
+
+swedish-old-ogl-a-1437
+No issues found.
+
+swedish-old-ogl-a-1438
+No issues found.
+
+swedish-old-ogl-a-1439
+No issues found.
+
+swedish-old-ogl-a-1440
+Fixed construction found in swedish-old-ogl-a-1440 with POS ADP: giuit (4), van (5)
+
+swedish-old-ogl-a-1441
+No issues found.
+
+swedish-old-ogl-a-1442
+No issues found.
+
+swedish-old-ogl-a-1443
+No issues found.
+
+swedish-old-ogl-a-1444
+No issues found.
+
+swedish-old-ogl-a-1445
+No issues found.
+
+swedish-old-ogl-a-1446
+No issues found.
+
+swedish-old-ogl-a-1447
+No issues found.
+
+swedish-old-ogl-a-1448
+No issues found.
+
+swedish-old-ogl-a-1449
+No issues found.
+
+swedish-old-ogl-a-1450
+No issues found.
+
+swedish-old-ogl-a-1451
+No issues found.
+
+swedish-old-ogl-a-1452
+No issues found.
+
+swedish-old-ogl-a-1453
+No issues found.
+
+swedish-old-ogl-a-1454
+'vara' with deprel advcl, 1 in sentence swedish-old-ogl-a-1454, change to copula.
+
+swedish-old-ogl-a-1455
+Fixed construction found in swedish-old-ogl-a-1455 with POS NOUN: höfþa (4), dyna (5)
+
+swedish-old-ogl-a-1456
+Fixed construction found in swedish-old-ogl-a-1456 with POS NOUN: hamarsiäng (3), siangh (4)
+
+swedish-old-ogl-a-1457
+No issues found.
+
+swedish-old-ogl-a-1458
+No issues found.
+
+swedish-old-ogl-a-1459
+No issues found.
+
+swedish-old-ogl-a-1460
+No issues found.
+
+swedish-old-ogl-a-1461
+Fixed construction found in swedish-old-ogl-a-1461 with POS NOUN: ärfþar (3), balker (4)
+
+swedish-old-ogl-a-1462
+Deprel not changed for numeral. Please look over deprel for numeral: tiughu, 7 in sentence swedish-old-ogl-a-1462
+
+swedish-old-ogl-a-1463
+No issues found.
+
+swedish-old-ogl-a-1464
+Fixed construction found in swedish-old-ogl-a-1464 with POS NOUN: eghna (3), sala (4)
+
+swedish-old-ogl-a-1465
+Deprel not changed for numeral. Please look over deprel for numeral: tiughu, 7 in sentence swedish-old-ogl-a-1465
+
+swedish-old-ogl-a-1466
+No issues found.
+
+swedish-old-ogl-a-1467
+Deprel not changed for numeral. Please look over deprel for numeral: tuem, 9 in sentence swedish-old-ogl-a-1467
+
+swedish-old-ogl-a-1468
+No issues found.
+
+swedish-old-ogl-a-1469
+No issues found.
+
+swedish-old-ogl-a-1470
+Dislocated relation found in swedish-old-ogl-a-1470 between atær (13) and bitær (1)
+Fixed construction found in swedish-old-ogl-a-1470 with POS VERB: atergiälda (13), gialda (14)
+
+swedish-old-ogl-a-1471
+Fixed construction found in swedish-old-ogl-a-1471 with POS VERB: atergiälda (10), gialda (11)
+
+swedish-old-ogl-a-1472
+No issues found.
+
+swedish-old-ogl-a-1473
+Fixed construction found in swedish-old-ogl-a-1473 with POS VERB: inne (5), häpta (6)
+
+swedish-old-ogl-a-1474
+Dislocated relation found in swedish-old-ogl-a-1474 between atær (13) and bita (1)
+Fixed construction found in swedish-old-ogl-a-1474 with POS SCONJ: fyrra (3), än (4)
+Fixed construction found in swedish-old-ogl-a-1474 with POS VERB: lagh (7), häpta (8)
+Fixed construction found in swedish-old-ogl-a-1474 with POS VERB: atergiälda (13), gialda (14)
+
+swedish-old-ogl-a-1475
+No issues found.
+
+swedish-old-ogl-a-1476
+Fixed construction found in swedish-old-ogl-a-1476 with POS ADJ: utsighia (7), saghþ (8)
+Fixed construction found in swedish-old-ogl-a-1476 with POS NOUN: harvu (12), tindi (13)
+

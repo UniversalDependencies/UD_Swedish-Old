@@ -12,7 +12,7 @@ Currently, the treebank contains only one text: "Här sigx aff abotum allum skem
 
 The conversion from MAÞiR Trees to UD has been performed by Astrid Berntsson Ingelstam and Joakim Nivre, with support by Lars Ahrenberg, Gerlof Bouma, Lars Borin, Erik Magnusson Petzell, Eva Pettersson, and Sara Stymne.
 
-This work is funded by the Swedish national research infrastructure Språkbanken, jointly financially supported by the Swedish Research Council (2025–2028; grant 2023-00161) and the 10 participating partner institutions.
+This work is funded by the Swedish national research infrastructure Språkbanken, jointly financially supported by the Swedish Research Council (2025–2028; grant 2023-00161) and the 10 participating partner institutions. We acknowledge the support of the UniDive COST Action (CA21167).
 
 The work has benefited from discussions within UniDive (COST Action CA21167).
 

@@ -1,0 +1,331 @@
+swedish-old-avgl-1
+No issues found.
+
+swedish-old-avgl-2
+'vara' with deprel root, 2 in sentence swedish-old-avgl-2, change to copula.
+
+swedish-old-avgl-3
+'vara' with deprel root, 2 in sentence swedish-old-avgl-3, change to copula.
+
+swedish-old-avgl-4
+Dislocated relation found in swedish-old-avgl-4 between scal (10) and Varþær (1)
+
+swedish-old-avgl-5
+No issues found.
+
+swedish-old-avgl-6
+No issues found.
+
+swedish-old-avgl-7
+Fixed construction found in swedish-old-avgl-7 with POS NOUN: kirkio (4), bol (5)
+
+swedish-old-avgl-8
+Fixed construction found in swedish-old-avgl-8 with POS ADP: utan (5), kirkio (6)
+Fixed construction found in swedish-old-avgl-8 with POS ADP: utan (5), dyr (7)
+
+swedish-old-avgl-9
+Fixed construction found in swedish-old-avgl-9 with POS VERB: ahalda* (10), haldæ (11)
+
+swedish-old-avgl-10
+No issues found.
+
+swedish-old-avgl-11
+Dislocated relation found in swedish-old-avgl-11 between scal (13) and Hændir (1)
+Fixed construction found in swedish-old-avgl-11 with POS VERB: ahalda* (18), haldæ (19)
+'vara' with deprel orphan, 24 in sentence swedish-old-avgl-11, change to copula.
+
+swedish-old-avgl-12
+Fixed construction found in swedish-old-avgl-12 with POS NOUN: kirkio (5), garþer (6)
+
+swedish-old-avgl-13
+No issues found.
+
+swedish-old-avgl-14
+No issues found.
+
+swedish-old-avgl-15
+No issues found.
+
+swedish-old-avgl-16
+No issues found.
+
+swedish-old-avgl-17
+Dislocated relation found in swedish-old-avgl-17 between vuighz (14) and Uerder (1)
+Fixed construction found in swedish-old-avgl-17 with POS NOUN: niþingsvärk (8), værk (9)
+
+swedish-old-avgl-18
+Dislocated relation found in swedish-old-avgl-18 between scal (7) and Er (1)
+'vara' with deprel dislocated, 1 in sentence swedish-old-avgl-18, change to copula.
+
+swedish-old-avgl-19
+Dislocated relation found in swedish-old-avgl-19 between sculu (15) and er (5)
+'vara' with deprel dislocated, 5 in sentence swedish-old-avgl-19, change to copula.
+
+swedish-old-avgl-20
+Fixed construction found in swedish-old-avgl-20 with POS NOUN: hovuþsynd (18), syndir (19)
+
+swedish-old-avgl-21
+Dislocated relation found in swedish-old-avgl-21 between scal (6) and Værþer (1)
+Fixed construction found in swedish-old-avgl-21 with POS NOUN: altara (2), sten (3)
+Fixed construction found in swedish-old-avgl-21 with POS VERB: viþervara (9), væræ (10)
+No particles viþer found for +-token hetta, 12 in sentence swedish-old-avgl-21
+
+swedish-old-avgl-22
+Fixed construction found in swedish-old-avgl-22 with POS NOUN: altara (9), vighsl (10)
+
+swedish-old-avgl-23
+Fixed construction found in swedish-old-avgl-23 with POS NOUN: kirkio (3), garþer (4)
+Fixed construction found in swedish-old-avgl-23 with POS NOUN: kirkio (10), garþer (11)
+
+swedish-old-avgl-24
+Dislocated relation found in swedish-old-avgl-24 between vighia (10) and Crusszur (1)
+
+swedish-old-avgl-25
+Fixed construction found in swedish-old-avgl-25 with POS NOUN: altara (17), sten (18)
+Fixed construction found in swedish-old-avgl-25 with POS SCONJ: þo (26), at (27)
+
+swedish-old-avgl-26
+Fixed construction found in swedish-old-avgl-26 with POS NOUN: mässu­fat (5), fat (6)
+
+swedish-old-avgl-27
+No issues found.
+
+swedish-old-avgl-28
+Dislocated relation found in swedish-old-avgl-28 between scal (8) and Varþer (1)
+Fixed construction found in swedish-old-avgl-28 with POS ADJ: inganga (2), gangit (3)
+No particles ater found for +-token gialdæ, 10 in sentence swedish-old-avgl-28
+Fixed construction found in swedish-old-avgl-28 with POS SCONJ: til (17), þäs (18)
+Fixed construction found in swedish-old-avgl-28 with POS SCONJ: til (17), är (19)
+'vara' with deprel advcl, 22 in sentence swedish-old-avgl-28, change to copula.
+
+swedish-old-avgl-29
+No issues found.
+
+swedish-old-avgl-30
+No issues found.
+
+swedish-old-avgl-31
+Dislocated relation found in swedish-old-avgl-31 between a (5) and Spyrs (1)
+
+swedish-old-avgl-32
+Dislocated relation found in swedish-old-avgl-32 between skal (5) and Brender (1)
+
+swedish-old-avgl-33
+No issues found.
+
+swedish-old-avgl-34
+No particles up found for +-token Brender, 1 in sentence swedish-old-avgl-34
+No particles ater found for +-token gialdi, 7 in sentence swedish-old-avgl-34
+Could not process 'sum', 11 in sentence swedish-old-avgl-34. Please check whether it should be relative pronoun or SCONJ.
+'vara' with deprel ccomp, 13 in sentence swedish-old-avgl-34, change to copula.
+Fixed construction found in swedish-old-avgl-34 with POS SCONJ: til (14), þäs (15)
+'vara' with deprel advcl, 18 in sentence swedish-old-avgl-34, change to copula.
+
+swedish-old-avgl-35
+No issues found.
+
+swedish-old-avgl-36
+Dislocated relation found in swedish-old-avgl-36 between skal (31) and Skil (1)
+Fixed construction found in swedish-old-avgl-36 with POS NOUN: tylftar (19), eþer (20)
+
+swedish-old-avgl-37
+Fixed construction found in swedish-old-avgl-37 with POS VERB: atergiälda (11), gialdæ (12)
+Could not process 'sum', 13 in sentence swedish-old-avgl-37. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-avgl-38
+No issues found.
+
+swedish-old-avgl-39
+No issues found.
+
+swedish-old-avgl-40
+No issues found.
+
+swedish-old-avgl-41
+Dislocated relation found in swedish-old-avgl-41 between vgild (8) and Brester (1)
+
+swedish-old-avgl-42
+No particles nidher found for +-token felli, 4 in sentence swedish-old-avgl-42
+Could not process 'sum', 17 in sentence swedish-old-avgl-42. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-avgl-43
+Fixed construction found in swedish-old-avgl-43 with POS SCONJ: þo (7), at (8)
+
+swedish-old-avgl-44
+No issues found.
+
+swedish-old-avgl-45
+No issues found.
+
+swedish-old-avgl-46
+No issues found.
+
+swedish-old-avgl-47
+No issues found.
+
+swedish-old-avgl-48
+Dislocated relation found in swedish-old-avgl-48 between skal (11) and Værþer (1)
+
+swedish-old-avgl-49
+No issues found.
+
+swedish-old-avgl-50
+No issues found.
+
+swedish-old-avgl-51
+Dislocated relation found in swedish-old-avgl-51 between skal (9) and Dylia (1)
+Fixed construction found in swedish-old-avgl-51 with POS NOUN: soknar (2), man (3)
+Fixed construction found in swedish-old-avgl-51 with POS NOUN: soknar (14), man (15)
+Fixed construction found in swedish-old-avgl-51 with POS NOUN: tylftar (16), eþer (17)
+
+swedish-old-avgl-52
+Fixed construction found in swedish-old-avgl-52 with POS NOUN: kirkio (1), garþer (2)
+
+swedish-old-avgl-53
+Could not process 'sum', 6 in sentence swedish-old-avgl-53. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-avgl-54
+No issues found.
+
+swedish-old-avgl-55
+No issues found.
+
+swedish-old-avgl-56
+No issues found.
+
+swedish-old-avgl-57
+No issues found.
+
+swedish-old-avgl-58
+No issues found.
+
+swedish-old-avgl-59
+No issues found.
+
+swedish-old-avgl-60
+No issues found.
+
+swedish-old-avgl-61
+No issues found.
+
+swedish-old-avgl-62
+Dislocated relation found in swedish-old-avgl-62 between skal (8) and þorf (1)
+
+swedish-old-avgl-63
+No issues found.
+
+swedish-old-avgl-64
+Dislocated relation found in swedish-old-avgl-64 between sæker (7) and forfallalös (3)
+
+swedish-old-avgl-65
+No issues found.
+
+swedish-old-avgl-66
+No issues found.
+
+swedish-old-avgl-67
+No issues found.
+
+swedish-old-avgl-68
+No issues found.
+
+swedish-old-avgl-69
+No issues found.
+
+swedish-old-avgl-70
+Dislocated relation found in swedish-old-avgl-70 between scal (12) and Skil (1)
+Fixed construction found in swedish-old-avgl-70 with POS ADP: amote (16), mote (17)
+Fixed construction found in swedish-old-avgl-70 with POS NOUN: lagha (23), forfal (24)
+
+swedish-old-avgl-71
+No issues found.
+
+swedish-old-avgl-72
+Fixed construction found in swedish-old-avgl-72 with POS NOUN: lägherstaþer (23), staþ (24)
+
+swedish-old-avgl-73
+Fixed construction found in swedish-old-avgl-73 with POS SCONJ: þy (17), at (18)
+
+swedish-old-avgl-74
+No issues found.
+
+swedish-old-avgl-75
+Could not process 'sum', 7 in sentence swedish-old-avgl-75. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-avgl-76
+Dislocated relation found in swedish-old-avgl-76 between a (4) and Dör (1)
+
+swedish-old-avgl-77
+Dislocated relation found in swedish-old-avgl-77 between skyldugher (15) and Sitær (1)
+
+swedish-old-avgl-78
+No issues found.
+
+swedish-old-avgl-79
+Dislocated relation found in swedish-old-avgl-79 between sakar (19) and Ganger (1)
+
+swedish-old-avgl-80
+No issues found.
+
+swedish-old-avgl-81
+No issues found.
+
+swedish-old-avgl-82
+Could not process 'sum', 4 in sentence swedish-old-avgl-82. Please check whether it should be relative pronoun or SCONJ.
+Fixed construction found in swedish-old-avgl-82 with POS SCONJ: sva (3), sum (4)
+Fixed construction found in swedish-old-avgl-82 with POS ADJ: tilvighia (7), vigþ (8)
+
+swedish-old-avgl-83
+No issues found.
+
+swedish-old-avgl-84
+No issues found.
+
+swedish-old-avgl-85
+Fixed construction found in swedish-old-avgl-85 with POS NOUN: krussu (10), foter (11)
+
+swedish-old-avgl-86
+No issues found.
+
+swedish-old-avgl-87
+No issues found.
+
+swedish-old-avgl-88
+No issues found.
+
+swedish-old-avgl-89
+No issues found.
+
+swedish-old-avgl-90
+'vara' with deprel root, 7 in sentence swedish-old-avgl-90, change to copula.
+
+swedish-old-avgl-91
+Dislocated relation found in swedish-old-avgl-91 between skal (11) and A (1)
+Could not process 'sum', 18 in sentence swedish-old-avgl-91. Please check whether it should be relative pronoun or SCONJ.
+
+swedish-old-avgl-92
+Dislocated relation found in swedish-old-avgl-92 between skal (8) and Sar (1)
+Fixed construction found in swedish-old-avgl-92 with POS VERB: äptirstanda (12), standæ (13)
+Fixed construction found in swedish-old-avgl-92 with POS VERB: *bortflytia (16), flytia (17)
+
+swedish-old-avgl-93
+'vara' with deprel xcomp, 12 in sentence swedish-old-avgl-93, change to copula.
+
+swedish-old-avgl-94
+Fixed construction found in swedish-old-avgl-94 with POS NOUN: kirkio (8), byr (9)
+
+swedish-old-avgl-95
+Fixed construction found in swedish-old-avgl-95 with POS NOUN: vaþa (2), bloþ (3)
+
+swedish-old-avgl-96
+No issues found.
+
+swedish-old-avgl-97
+No issues found.
+
+swedish-old-avgl-98
+No issues found.
+
+swedish-old-avgl-99
+No issues found.
+

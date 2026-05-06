@@ -1,0 +1,1645 @@
+# source = Äldre Västgötalagen, enligt Holm B 59, 
+# text = Her byriarz laghbok væsgöta
+# sent_id = 25542
+1	Her	här	ADV	Df	_	2	advmod	_	ref=
+2	byriarz	byria	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	ref=
+3	laghbok	laghbok	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	2	nsubj	_	ref=
+4	væsgöta	västgöte	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	3	nmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = Krister ær fyrst i laghum warum
+# sent_id = 25543
+1	Krister	Kristus	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	fyrst	fyr	ADV	Df	Degree=Sup	2	advmod	_	ref=
+4	i	i	ADP	R-	_	5	case	_	ref=
+5	laghum	lagh	NOUN	Nb	Case=Dat|Gender=Masc,Neut|Number=Plur|Variant=Short	2	obl	_	ref=
+6	warum	var	DET	Ps	Case=Dat|Gender=Masc,Neut|Number=Plur|Poss=Yes	5	det	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = þa ær cristna var oc allir cristnir konongær böndær oc allir bocarlær biscupær oc allir boclærðir mæn
+# sent_id = 25732
+1	þa	þa	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	cristna	kristna	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	2	nsubj	_	ref=
+4	var	var	DET	Ps	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes	3	det	_	ref=
+5	oc	ok	CCONJ	C-	_	8	cc	_	ref=
+6	allir	alder	PRON	Py	Case=Nom|Gender=Masc|Number=Plur	8	det	_	ref=
+7	cristnir	kristin	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	8	amod	_	ref=
+8	konongær	konunger	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	3	conj	_	ref=
+9	böndær	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	3	conj	_	ref=
+10	oc	ok	CCONJ	C-	_	12	cc	_	ref=
+11	allir	alder	PRON	Py	Case=Nom|Gender=Masc|Number=Plur	12	det	_	ref=
+12	bocarlær	bokarl	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	9	conj	_	ref=
+13	biscupær	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	3	conj	_	ref=
+14	oc	ok	CCONJ	C-	_	17	cc	_	ref=
+15	allir	alder	PRON	Py	Case=Nom|Gender=Masc|Number=Plur	17	det	_	ref=
+16	boclærðir	boklärþer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	17	amod	_	ref=
+17	mæn	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	13	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = Varþær barn til kirkiu boret oc beþiz cristnu þa scal faþir ok moðer fa guðfæþur oc guðmoþor oc salt oc uatn
+# sent_id = 25731
+1	Varþær	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	dislocated	_	ref=
+2	barn	barn	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	til	til	ADP	R-	_	4	case	_	ref=
+4	kirkiu	kirkia	NOUN	Nb	Case=Obl|Gender=Fem|Number=Sing|Variant=Short	5	obl	_	ref=
+5	boret	bära	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	xcomp	_	ref=
+6	oc	ok	CCONJ	C-	_	7	cc	_	ref=
+7	beþiz	beþas	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	ref=
+8	cristnu	kristna	NOUN	Nb	Case=Obl|Gender=Fem|Number=Sing|Variant=Short	7	obl:arg	_	ref=
+9	þa	þa	ADV	Df	Degree=Pos	10	advmod	_	ref=
+10	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+11	faþir	faþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	10	nsubj	_	ref=
+12	ok	ok	CCONJ	C-	_	13	cc	_	ref=
+13	moðer	moþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	11	conj	_	ref=
+14	fa	fa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=
+15	guðfæþur	guþfaþir	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	14	obl:arg	_	ref=
+16	oc	ok	CCONJ	C-	_	17	cc	_	ref=
+17	guðmoþor	guþmoþir	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	15	conj	_	ref=
+18	oc	ok	CCONJ	C-	_	19	cc	_	ref=
+19	salt	salt	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	15	conj	_	ref=
+20	oc	ok	CCONJ	C-	_	21	cc	_	ref=
+21	uatn	vatn	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	19	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = þæt scal bæræ til kirkiu
+# sent_id = 25730
+1	þæt	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	bæræ	bära	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	til	til	ADP	R-	_	5	case	_	ref=
+5	kirkiu	kirkia	NOUN	Nb	Case=Obl|Gender=Fem|Number=Sing|Variant=Short	3	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = þa scal a prést kallæ
+# sent_id = 25729
+1	þa	þa	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	a	a	ADP	R-	_	4	case	_	ref=
+4	prést	präster	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Number=Sing|Variant=Short	5	obl	_	ref=
+5	kallæ	kalla	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = han skal a kirkiu bole boæ
+# sent_id = 25728
+1	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	ref=
+2	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	a	a	ADP	R-	_	4	case	_	ref=
+4	kirkiu	kirkio	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	6	obl	_	ref=
+5	bole	bol	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	4	fixed	_	ref=
+6	boæ	boa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = barn scal brymsignæ firi utan kirkiu. dyr
+# sent_id = 25727
+1	barn	barn	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	3	obj	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	brymsignæ	brimsigna	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	firi	for	ADP	R-	_	5	case	_	ref=
+5	utan	utan	ADP	R-	_	2	obl	_	ref=
+6	kirkiu.	kirkio	NOUN	Nb	Case=Acc|Gender=Fem|Variant=Short	5	fixed	_	ref=
+7	dyr	dyr	NOUN	Nb	Case=Acc|Gender=Fem|Variant=Short	5	fixed	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = Siþen scal font wigyæ prester barn döpæ oc gudfaþir a haldæ gudmoþer til namns sygiæ
+# sent_id = 25726
+1	Siþen	siþan	ADV	Df	_	2	advmod	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	font	fonter	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	4	obj	_	ref=
+4	wigyæ	vighia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	ref=
+6	barn	barn	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	7	obj	_	ref=
+7	döpæ	döpa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	orphan	_	ref=
+8	oc	ok	CCONJ	C-	_	9	cc	_	ref=
+9	gudfaþir	guþfaþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	ref=
+10	a	ahalda*	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	orphan	_	ref=
+11	haldæ	haldæ	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	fixed	_	ref=
+12	gudmoþer	guþmoþir	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	9	conj	_	ref=
+13	til	til	ADP	R-	_	14	case	_	ref=
+14	namns	namn	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing|Variant=Short	15	obl	_	ref=
+15	sygiæ	sighia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	orphan	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = prester scal byuþe husu lengi faþir oc moþer sculu vardvetæ
+# sent_id = 25725
+1	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	byuþe	biuþa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	husu	huru	ADV	Du	PronType=Int	5	advmod	_	ref=
+5	lengi	länge	ADV	Df	_	9	advmod	_	ref=
+6	faþir	faþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	nsubj	_	ref=
+7	oc	ok	CCONJ	C-	_	8	cc	_	ref=
+8	moþer	moþir	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	6	conj	_	ref=
+9	sculu	skula	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	ref=
+10	vardvetæ	varþveta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = Hændir þæt sot a vegh oc ma igh til kyrkiu coma þa scal gudfaþir döpæ oc gudmoþer a haldæ i vatn æn uatn ær til i namn faþurs oc suner oc andæs hælagha
+# sent_id = 25724
+1	Hændir	hända	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	dislocated	_	ref=
+2	þæt	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	ref=
+3	sot	sot	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	1	nsubj	_	ref=
+4	a	a	ADP	R-	_	5	case	_	ref=
+5	vegh	vägher	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Number=Sing|Variant=Short	1	obl	_	ref=
+6	oc	ok	CCONJ	C-	_	7	cc	_	ref=
+7	ma	magha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+8	igh	eigh	ADV	Df	_	7	advmod	_	ref=
+9	til	til	ADP	R-	_	10	case	_	ref=
+10	kyrkiu	kirkia	NOUN	Nb	Case=Obl|Gender=Fem|Variant=Short	11	obl	_	ref=
+11	coma	koma	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+12	þa	þa	ADV	Df	Degree=Pos	13	advmod	_	ref=
+13	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+14	gudfaþir	guþfaþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	13	nsubj	_	ref=
+15	döpæ	döpa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	xcomp	_	ref=
+16	oc	ok	CCONJ	C-	_	17	cc	_	ref=
+17	gudmoþer	guþmoþir	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	13	conj	_	ref=
+18	a	ahalda*	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	17	orphan	_	ref=
+19	haldæ	haldæ	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	18	fixed	_	ref=
+20	i	i	ADP	R-	_	21	case	_	ref=
+21	vatn	vatn	NOUN	Nb	Case=Acc,Dat|Gender=Neut|Number=Sing|Variant=Short	18	obl	_	ref=
+22	æn	än	SCONJ	G-	_	24	mark	_	ref=
+23	uatn	vatn	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	24	nsubj	_	ref=
+24	ær	vara+til	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	orphan	_	ref=
+25	til	til	ADP	R-	_	24	obl	_	ref=
+26	i	i	ADP	R-	_	27	case	_	ref=
+27	namn	namn	NOUN	Nb	Case=Acc,Dat|Gender=Neut|Number=Sing|Variant=Short	18	obl	_	ref=
+28	faþurs	faþir	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	27	nmod	_	ref=
+29	oc	ok	CCONJ	C-	_	30	cc	_	ref=
+30	suner	son	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	28	conj	_	ref=
+31	oc	ok	CCONJ	C-	_	32	cc	_	ref=
+32	andæs	ande	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	28	conj	_	ref=
+33	hælagha	helagher	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	32	amod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 1
+# text = þa scal þét j kyrkiu. gard gravæ oc arf
+# sent_id = 25723
+1	þa	þa	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	þét	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	ref=
+4	j	i	ADP	R-	_	5	case	_	ref=
+5	kyrkiu.	kirkio	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Number=Sing|Variant=Short	7	obl	_	ref=
+6	gard	garþer	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Number=Sing|Variant=Short	5	fixed	_	ref=
+7	gravæ	grava	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+8	oc	ok	CCONJ	C-	_	9	cc	_	ref=
+9	arf	DUMMY*	X	X-	_	2	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 2
+# text = æn gengyærd þerra brinder vp
+# sent_id = 25544
+1	æn	än	SCONJ	G-	_	4	mark	_	ref=
+2	gengyærd	gengärþ	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	4	nsubj	_	ref=
+3	þerra	þän	DET	Pd	Case=Gen|Gender=Masc|Number=Plur	2	det	_	ref=
+4	brinder	brinna+up	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	vp	up	ADV	Df	Degree=Pos	4	advmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 2
+# text = Byscupi scal gengyærd geræ twar næter oc til quels hins þridia med tolf mannum
+# sent_id = 25770
+1	Byscupi	biskoper	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	4	obl:arg	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	gengyærd	gengärþ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	4	obj	_	ref=
+4	geræ	göra	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	twar	tver	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	6	det	_	ref=
+6	næter	nat	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	2	obl	_	ref=
+7	oc	ok	CCONJ	C-	_	9	cc	_	ref=
+8	til	til	ADP	R-	_	9	case	_	ref=
+9	quels	qvälder	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	6	conj	_	ref=
+10	hins	hin	DET	Pd	Case=Gen|Gender=Masc|Number=Sing	11	det	_	ref=
+11	þridia	þriþi	ADJ	A-	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	9	nmod	_	ref=
+12	med	mäþ	ADP	R-	_	14	case	_	ref=
+13	tolf	tolf	PRON	Py	Case=Dat|Gender=Masc|Number=Plur	14	det	_	ref=
+14	mannum	maþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	1	nmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 2
+# text = sialuer han hin þrættandi
+# sent_id = 25769
+1	sialuer	siälver	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	advmod	_	ref=
+2	han	han	PRON	Pp	Case=Nom|PronType=Prs	4	nsubj	_	ref=
+3	hin	hin	DET	Pd	Case=Nom|Gender=Masc|Number=Sing	4	det	_	ref=
+4	þrættandi	þrättande	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 2
+# text = oc han drikki myod oc allir klerkar hans
+# sent_id = 25768
+1	oc	ok	CCONJ	C-	_	3	cc	_	ref=
+2	han	han	PRON	Pp	Case=Nom|PronType=Prs	3	nsubj	_	ref=
+3	drikki	drikka	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	myod	mioþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	3	obj	_	ref=
+5	oc	ok	CCONJ	C-	_	7	cc	_	ref=
+6	allir	alder	PRON	Py	Case=Nom|Gender=Masc|Number=Plur	7	det	_	ref=
+7	klerkar	klärker	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	2	conj	_	ref=
+8	hans	han	PRON	Pp	Case=Gen|PronType=Prs	7	det	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 3
+# text = Uerder maþer i kyrkiu dræpin þet ær niþings værk þa er kyrkia al vuighz
+# sent_id = 25545
+1	Uerder	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	dislocated	_	ref=
+2	maþer	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	i	i	ADP	R-	_	4	case	_	ref=
+4	kyrkiu	kirkia	NOUN	Nb	Case=Obl|Gender=Fem|Variant=Short	1	obl	_	ref=
+5	dræpin	dräpa	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	xcomp	_	ref=
+6	þet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	ref=
+7	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=
+8	niþings	niþingsvärk	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	14	parataxis	_	ref=
+9	værk	værk	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	8	fixed	_	ref=
+10	þa	þa	ADV	Df	Degree=Pos	14	advmod	_	ref=
+11	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	cop	_	ref=
+12	kyrkia	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	14	nsubj	_	ref=
+13	al	alder	PRON	Py	Case=Nom|Gender=Fem|Number=Sing	12	det	_	ref=
+14	vuighz	ovigþer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 3
+# text = Er þet firi tiu vitrum þa scal gyuæ byscupe þrer marker firir vilx oc natter gengerd
+# sent_id = 25772
+1	Er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	dislocated	_	ref=
+2	þet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	ref=
+3	firi	for	ADP	R-	_	5	case	_	ref=
+4	tiu	tio	PRON	Py	Case=Dat|Gender=Masc|Number=Plur	5	det	_	ref=
+5	vitrum	vinter	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	1	obl	_	ref=
+6	þa	þa	ADV	Df	Degree=Pos	7	advmod	_	ref=
+7	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	gyuæ	giva	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+9	byscupe	biskoper	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	8	obl:arg	_	ref=
+10	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	11	det	_	ref=
+11	marker	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	8	obj	_	ref=
+12	firir	for	ADP	R-	_	13	case	_	ref=
+13	vilx	vighsl	NOUN	Nb	Case=Acc,Dat|Gender=Fem|Number=Sing|Variant=Short	11	nmod	_	ref=
+14	oc	ok	CCONJ	C-	_	16	cc	_	ref=
+15	natter	nat	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	16	nmod	_	ref=
+16	gengerd	gengärþ	NOUN	Nb	Case=Acc,Dat|Gender=Fem|Number=Sing|Variant=Short	13	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 3
+# text = En a tiu vittrum er at þer hovodtiundaþo oc uilia kyrkiu vighiæ letæ þa sculu þer houodtiundæ
+# sent_id = 25771
+1	En	än	SCONJ	G-	_	5	mark	_	ref=
+2	a	a	ADP	R-	_	4	case	_	ref=
+3	tiu	tio	PRON	Py	Case=Dat|Gender=Masc|Number=Plur	4	det	_	ref=
+4	vittrum	vinter	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	5	obl	_	ref=
+5	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	dislocated	_	ref=
+6	at	at	SCONJ	G-	_	8	mark	_	ref=
+7	þer	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	ref=
+8	hovodtiundaþo	hovuþtionda	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	ccomp	_	ref=
+9	oc	ok	CCONJ	C-	_	10	cc	_	ref=
+10	uilia	vilia	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+11	kyrkiu	kirkia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	12	obj	_	ref=
+12	vighiæ	vighia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	13	ccomp	_	ref=
+13	letæ	lata	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=
+14	þa	þa	ADV	Df	Degree=Pos	15	advmod	_	ref=
+15	sculu	skula	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+16	þer	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	15	nsubj	_	ref=
+17	houodtiundæ	hovuþtionda	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	15	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 4
+# text = Landbor sculu eigh houodtiundæ gæræ mer en enu sinni vten þer uili eller at þer falli i houod syndir
+# sent_id = 25546
+1	Landbor	landboe	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	2	nsubj	_	ref=
+2	sculu	skula	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	eigh	eigh	ADV	Df	_	2	advmod	_	ref=
+4	houodtiundæ	hovuþtionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	5	obj	_	ref=
+5	gæræ	göra	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+6	mer	mer	ADV	Df	Degree=Pos	2	advmod	_	ref=
+7	en	än	SCONJ	G-	_	9	mark	_	ref=
+8	enu	en	PRON	Py	Case=Dat|Gender=Neut|Number=Sing	9	det	_	ref=
+9	sinni	sin	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	6	ccomp	_	ref=
+10	vten	utan	ADP	R-	_	2	obl	_	ref=
+11	þer	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	12	nsubj	_	ref=
+12	uili	vilia	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	ccomp	_	ref=
+13	eller	älla	CCONJ	C-	_	16	cc	_	ref=
+14	at	at	SCONJ	G-	_	16	mark	_	ref=
+15	þer	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	ref=
+16	falli	falla	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	ref=
+17	i	i	ADP	R-	_	18	case	_	ref=
+18	houod	hovuþsynd	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	16	obl	_	ref=
+19	syndir	syndir	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	18	fixed	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 5
+# text = Værþer altæræ sten lös þa scal prester byscup uid væræ eller hetta uid sinum þrim marcum
+# sent_id = 25547
+1	Værþer	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	dislocated	_	ref=
+2	altæræ	altara	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	sten	sten	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	fixed	_	ref=
+4	lös	lös	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	xcomp	_	ref=
+5	þa	þa	ADV	Df	Degree=Pos	6	advmod	_	ref=
+6	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	6	nsubj	_	ref=
+8	byscup	biskoper	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Number=Sing|Variant=Short	9	obj	_	ref=
+9	uid	viþervara	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=
+10	væræ	væræ	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	fixed	_	ref=
+11	eller	älla	CCONJ	C-	_	12	cc	_	ref=
+12	hetta	hätta+viþer	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	conj	_	ref=
+13	uid	viþ	ADP	R-	_	12	obl	_	ref=
+14	sinum	sin	DET	Ps	Case=Dat|Gender=Fem|Number=Plur|Poss=Yes	16	det	_	ref=
+15	þrim	þrir	PRON	Py	Case=Dat|Gender=Fem|Number=Plur	16	det	_	ref=
+16	marcum	mark	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	12	obl:arg	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 5
+# text = þa sculu bönder giuæ byscupi þrer marcher firi altæræ vixls oc natter gengerð
+# sent_id = 25784
+1	þa	þa	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	sculu	skula	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	bönder	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	2	nsubj	_	ref=
+4	giuæ	giva	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	byscupi	biskoper	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	4	obl:arg	_	ref=
+6	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	7	det	_	ref=
+7	marcher	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	4	obj	_	ref=
+8	firi	for	ADP	R-	_	9	case	_	ref=
+9	altæræ	altara	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	4	obl	_	ref=
+10	vixls	vighsl	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	9	fixed	_	ref=
+11	oc	ok	CCONJ	C-	_	13	cc	_	ref=
+12	natter	nat	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	13	nmod	_	ref=
+13	gengerð	gengärþ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	9	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 5
+# text = Oc firi kyrkiu gærð allen þrer marcher firi s kyrkiu gærd tolf öra oc firi stapul tolf öra
+# sent_id = 25785
+1	Oc	ok	CCONJ	C-	_	7	cc	_	ref=
+2	firi	for	ADP	R-	_	3	case	_	ref=
+3	kyrkiu	kirkio	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	7	orphan	_	ref=
+4	gærð	garþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	3	fixed	_	ref=
+5	allen	alder	PRON	Py	Case=Acc|Gender=Masc|Number=Sing	3	det	_	ref=
+6	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	7	det	_	ref=
+7	marcher	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	0	root	_	ref=
+8	firi	for	ADP	R-	_	10	case	_	ref=
+9	s	DUMMY*	ADJ	X-	_	10	amod	_	ref=
+10	kyrkiu	kirkio	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	13	orphan	_	ref=
+11	gærd	garþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	10	fixed	_	ref=
+12	tolf	tolf	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	13	det	_	ref=
+13	öra	öre	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	7	conj	_	ref=
+14	oc	ok	CCONJ	C-	_	18	cc	_	ref=
+15	firi	for	ADP	R-	_	16	case	_	ref=
+16	stapul	stapul	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	18	orphan	_	ref=
+17	tolf	tolf	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	18	det	_	ref=
+18	öra	öre	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	7	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 5
+# text = Crusszur oc klokchor calka oc messufat þa scal byscuper vighia firi tyundæ þen er bonder giuæ hanum oc börn fermæ
+# sent_id = 25783
+1	Crusszur	krussa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	10	dislocated	_	ref=
+2	oc	ok	CCONJ	C-	_	3	cc	_	ref=
+3	klokchor	klokka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	1	conj	_	ref=
+4	calka	kalker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	1	conj	_	ref=
+5	oc	ok	CCONJ	C-	_	6	cc	_	ref=
+6	messufat	mässu­fat	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur|Variant=Short	4	conj	_	ref=
+7	þa	þän	PRON	Pd	Case=Acc|Gender=Fem,Masc|Number=Plur	10	obj	_	ref=
+8	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	byscuper	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	nsubj	_	ref=
+10	vighia	vighia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+11	firi	for	ADP	R-	_	12	case	_	ref=
+12	tyundæ	tionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	8	obl	_	ref=
+13	þen	þän	DET	Pd	Case=Acc|Gender=Masc|Number=Sing	12	det	_	ref=
+14	er	är	SCONJ	G-	_	16	mark	_	ref=
+15	bonder	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	16	nsubj	_	ref=
+16	giuæ	giva	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	ref=
+17	hanum	han	PRON	Pp	Case=Dat|PronType=Prs	16	obl:arg	_	ref=
+18	oc	ok	CCONJ	C-	_	20	cc	_	ref=
+19	börn	barn	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur|Variant=Short	20	obj	_	ref=
+20	fermæ	färma	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 6
+# text = Taker kyrkia at fyrnass standæ stulpær liggia sillir er helt dyrni oc festiband ligger kamber hell haltæræ sten oc altare haui kikya vixl sinæ samu þo at hana böte en þessi æru all hel
+# sent_id = 25548
+1	Taker	taka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	ref=
+2	kyrkia	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	at	at	SCONJ	G-	_	4	mark	_	ref=
+4	fyrnass	fyrnas	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	1	xcomp	_	ref=
+5	standæ	standa	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	ref=
+6	stulpær	stolpe	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	5	nsubj	_	ref=
+7	liggia	liggia	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+8	sillir	syl	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	7	nsubj	_	ref=
+9	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	ref=
+10	helt	hel	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	ref=
+11	dyrni	dyrne	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	10	nsubj	_	ref=
+12	oc	ok	CCONJ	C-	_	13	cc	_	ref=
+13	festiband	fästeband	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	11	conj	_	ref=
+14	ligger	liggia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	ref=
+15	kamber	kamber	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	14	nsubj	_	ref=
+16	hell	hel	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	14	xcomp	_	ref=
+17	haltæræ	altara	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	15	conj	_	ref=
+18	sten	sten	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	17	fixed	_	ref=
+19	oc	ok	CCONJ	C-	_	20	cc	_	ref=
+20	altare	altare	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	15	conj	_	ref=
+21	haui	hava	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+22	kikya	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	21	nsubj	_	ref=
+23	vixl	vighsl	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	21	obj	_	ref=
+24	sinæ	sin	DET	Ps	Case=Acc|Gender=Fem|Number=Sing|Poss=Yes	23	det	_	ref=
+25	samu	samber	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	23	amod	_	ref=
+26	þo	þo	SCONJ	G-	_	29	mark	_	ref=
+27	at	at	SCONJ	G-	_	26	fixed	_	ref=
+28	hana	hon	PRON	Pp	Case=Acc|PronType=Prs	29	obj	_	ref=
+29	böte	böta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	advcl	_	ref=
+30	en	än	SCONJ	G-	_	34	mark	_	ref=
+31	þessi	þänne	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	34	nsubj	_	ref=
+32	æru	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	ref=
+33	all	alder	PRON	Py	Case=Nom|Gender=Neut|Number=Plur	34	xcomp	_	ref=
+34	hel	hel	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	21	advcl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 7
+# text = Uerdher kyrkia brutin oc mæssu fat stolen þet er niþingsværk
+# sent_id = 25549
+1	Uerdher	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	_	ref=
+2	kyrkia	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	brutin	bryta	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	xcomp	_	ref=
+4	oc	ok	CCONJ	C-	_	7	cc	_	ref=
+5	mæssu	mässu­fat	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur|Variant=Short	7	nsubj	_	ref=
+6	fat	fat	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur|Variant=Short	5	fixed	_	ref=
+7	stolen	stiäla	VERB	V-	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	conj	_	ref=
+8	þet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	ref=
+9	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	ref=
+10	niþingsværk	niþingsvärk	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	0	root	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 7
+# text = þat er niv marcha sak kyrky swa hæreþe sva konogge
+# sent_id = 25822
+1	þat	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=
+2	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=
+3	niv	nio	PRON	Py	Case=Gen|Gender=Fem|Number=Plur	4	det	_	ref=
+4	marcha	mark	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	5	nmod	_	ref=
+5	sak	sak	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=
+6	kyrky	kirkia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	5	obl:arg	_	ref=
+7	swa	sva	ADV	Df	_	8	orphan	_	ref=
+8	hæreþe	häraþe	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	5	conj	_	ref=
+9	sva	sva	ADV	Df	_	10	orphan	_	ref=
+10	konogge	konunger	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	5	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 7
+# text = Varþer in gangit at opnom dorom þa scal prester gialdæ skaþa apter þen sum kyrkia fik til þes er þrer marcher æru
+# sent_id = 25821
+1	Varþer	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	dislocated	_	ref=
+2	in	inganga	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	1	xcomp	_	ref=
+3	gangit	gangit	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	2	fixed	_	ref=
+4	at	at	ADP	R-	_	6	case	_	ref=
+5	opnom	opin	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	6	amod	_	ref=
+6	dorom	dyr	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	2	obl	_	ref=
+7	þa	þa	ADV	Df	Degree=Pos	8	advmod	_	ref=
+8	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	nsubj	_	ref=
+10	gialdæ	giälda+ater	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+11	skaþa	skaþi	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	10	obj	_	ref=
+12	apter	apter	ADV	Df	_	10	advmod	_	ref=
+13	þen	þän	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	11	appos	_	ref=
+14	sum	sum	SCONJ	G-	_	16	mark	_	ref=
+15	kyrkia	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	16	nsubj	_	ref=
+16	fik	fa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl	_	ref=
+17	til	til	SCONJ	G-	_	22	mark	_	ref=
+18	þes	þäs	SCONJ	G-	_	17	fixed	_	ref=
+19	er	är	SCONJ	G-	_	17	fixed	_	ref=
+20	þrer	þrir	PRON	Py	Case=Nom|Gender=Fem|Number=Plur	21	det	_	ref=
+21	marcher	mark	NOUN	Nb	Case=Nom|Gender=Fem|Number=Plur|Variant=Short	22	nsubj	_	ref=
+22	æru	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 7
+# text = oc eigh þy meræ at skaþi se mere gör
+# sent_id = 25823
+1	oc	ok	CCONJ	C-	_	4	cc	_	ref=
+2	eigh	eigh	ADV	Df	_	4	orphan	_	ref=
+3	þy	þän	PRON	Pd	Case=Dat|Gender=Neut|Number=Sing	4	orphan	_	ref=
+4	meræ	mere	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	ref=
+5	at	at	SCONJ	G-	_	9	mark	_	ref=
+6	skaþi	skaþi	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	nsubj	_	ref=
+7	se	vara	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=
+8	mere	mere	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	9	advmod	_	ref=
+9	gör	gör	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	acl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 7
+# text = Er grauit vndir syll þa skal ecki prester værþæ
+# sent_id = 25820
+1	Er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	ref=
+2	grauit	grava	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	dislocated	_	ref=
+3	vndir	undir	ADP	R-	_	4	case	_	ref=
+4	syll	syl	NOUN	Nb	Case=Acc,Dat|Gender=Fem,Neut|Number=Sing|Variant=Short	2	obl	_	ref=
+5	þa	þa	ADV	Df	Degree=Pos	6	advmod	_	ref=
+6	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+7	ecki	äkke	ADV	Df	_	6	advmod	_	ref=
+8	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	6	nsubj	_	ref=
+9	værþæ	varþa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 7
+# text = Spyrs vp scaþi þa a presti böta þrer marcher þagher kyrkia hauir sit alt
+# sent_id = 25819
+1	Spyrs	spyria+up	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	5	dislocated	_	ref=
+2	vp	up	ADV	Df	Degree=Pos	1	advmod	_	ref=
+3	scaþi	skaþi	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	1	nsubj	_	ref=
+4	þa	þa	ADV	Df	Degree=Pos	5	advmod	_	ref=
+5	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	presti	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	7	obl:arg	_	ref=
+7	böta	böta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=
+8	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	9	det	_	ref=
+9	marcher	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	7	obj	_	ref=
+10	þagher	þaghar	SCONJ	G-	_	12	mark	_	ref=
+11	kyrkia	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	12	nsubj	_	ref=
+12	hauir	hava	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=
+13	sit	sin	DET	Ps	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes	14	det	_	ref=
+14	alt	alder	PRON	Py	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 8
+# text = Brender up kyrkia þa skal prester böta þrer markær
+# sent_id = 25550
+1	Brender	brinna+up	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	dislocated	_	ref=
+2	up	up	ADV	Df	Degree=Pos	1	advmod	_	ref=
+3	kyrkia	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	1	nsubj	_	ref=
+4	þa	þa	ADV	Df	Degree=Pos	5	advmod	_	ref=
+5	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	5	nsubj	_	ref=
+7	böta	böta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	xcomp	_	ref=
+8	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	9	det	_	ref=
+9	markær	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	7	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 8
+# text = prester skal wardæ framlyvsum oc þen baklyvsum er tænder
+# sent_id = 25856
+1	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	wardæ	varþa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	framlyvsum	framlius	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur|Variant=Short	3	obl:arg	_	ref=
+5	oc	ok	CCONJ	C-	_	6	cc	_	ref=
+6	þen	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Sing	2	conj	_	ref=
+7	baklyvsum	baklius	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur|Variant=Short	6	orphan	_	ref=
+8	er	är	SCONJ	G-	_	9	mark	_	ref=
+9	tænder	tända	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 8
+# text = Brender i kirkiu scruþer af framlyvsum gialdi prester apter hvat sum varþ er til þés þrer mærchær æru
+# sent_id = 25855
+1	Brender	brinna+up	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+2	i	i	ADP	R-	_	3	case	_	ref=
+3	kirkiu	kirkia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	1	obl	_	ref=
+4	scruþer	skruþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+5	af	af	ADP	R-	_	6	case	_	ref=
+6	framlyvsum	framlius	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur|Variant=Short	1	obl	_	ref=
+7	gialdi	giälda+ater	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	7	nsubj	_	ref=
+9	apter	apter	ADV	Df	_	7	advmod	_	ref=
+10	hvat	hvar	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	13	obj	_	ref=
+11	sum	sum	SCONJ	G-	_	13	mark	_	ref=
+12	varþ	värþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	13	nsubj	_	ref=
+13	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	ref=
+14	til	til	SCONJ	G-	_	18	mark	_	ref=
+15	þés	þäs	SCONJ	G-	_	14	fixed	_	ref=
+16	þrer	þrir	PRON	Py	Case=Nom|Gender=Fem|Number=Plur	17	det	_	ref=
+17	mærchær	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	18	obj	_	ref=
+18	æru	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 8
+# text = eigh þy meræ at mere se skaþi gör
+# sent_id = 25854
+1	eigh	eigh	ADV	Df	_	3	orphan	_	ref=
+2	þy	þän	PRON	Pd	Case=Dat|Gender=Neut|Number=Sing	3	orphan	_	ref=
+3	meræ	mere	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	ref=
+4	at	at	SCONJ	G-	_	8	mark	_	ref=
+5	mere	mere	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	8	advmod	_	ref=
+6	se	vara	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=
+7	skaþi	skaþi	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	nsubj	_	ref=
+8	gör	göra	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	acl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 8
+# text = Skil þem a bondæ oc presti kaller prester bondi tende oc bonde kuaþer ne vid byvþer firir sik tylftér éþ at han tændi eigh þa er han hauir svoret þa skal prester bötæ
+# sent_id = 25853
+1	Skil	skilia+a	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	dislocated	_	ref=
+2	þem	þän	PRON	Pd	Case=Dat|Gender=Masc|Number=Plur	1	obl:arg	_	ref=
+3	a	a	ADP	R-	_	1	obl	_	ref=
+4	bondæ	bonde	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	3	appos	_	ref=
+5	oc	ok	CCONJ	C-	_	6	cc	_	ref=
+6	presti	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	ref=
+7	kaller	kalla	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+8	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	7	nsubj	_	ref=
+9	bondi	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	10	nsubj	_	ref=
+10	tende	tända	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	31	parataxis	_	ref=
+11	oc	ok	CCONJ	C-	_	13	cc	_	ref=
+12	bonde	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	13	nsubj	_	ref=
+13	kuaþer	qväþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+14	ne	ne	INTJ	I-	_	31	parataxis	_	ref=
+15	vid	viþ	ADP	R-	_	13	obl	_	ref=
+16	byvþer	biuþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+17	firir	for	ADP	R-	_	18	case	_	ref=
+18	sik	sik	PRON	Pk	Case=Acc,Dat|PronType=Prs|Reflex=Yes	16	obl	_	ref=
+19	tylftér	tylftar	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	16	obj	_	ref=
+20	éþ	eþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	19	fixed	_	ref=
+21	at	at	SCONJ	G-	_	23	mark	_	ref=
+22	han	han	PRON	Pp	Case=Nom|PronType=Prs	23	nsubj	_	ref=
+23	tændi	tända	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	acl	_	ref=
+24	eigh	eigh	ADV	Df	_	23	advmod	_	ref=
+25	þa	þa	ADV	Df	Degree=Pos	31	advmod	_	ref=
+26	er	är	SCONJ	G-	_	28	mark	_	ref=
+27	han	han	PRON	Pp	Case=Nom|PronType=Prs	28	nsubj	_	ref=
+28	hauir	hava	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	25	advcl	_	ref=
+29	svoret	sväria	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	28	xcomp	_	ref=
+30	þa	þa	ADV	Df	Degree=Pos	31	advmod	_	ref=
+31	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+32	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	31	nsubj	_	ref=
+33	bötæ	böta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	31	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 9
+# text = Bær prester messufat hém oc glatass þer skal prester þem apter gialdæ sum þer varu værð med suornum eþe at þer varu eigh bætri
+# sent_id = 25551
+1	Bær	bära	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=
+2	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	messufat	mässu­fat	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur|Variant=Short	1	obj	_	ref=
+4	hém	hem	ADV	Df	Degree=Pos	1	advmod	_	ref=
+5	oc	ok	CCONJ	C-	_	6	cc	_	ref=
+6	glatass	glata	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	1	conj	_	ref=
+7	þer	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	6	nsubj	_	ref=
+8	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	8	nsubj	_	ref=
+10	þem	þän	PRON	Pd	Case=Dat|Gender=Masc|Number=Plur	11	obl:arg	_	ref=
+11	apter	atergiälda	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+12	gialdæ	gialdæ	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	fixed	_	ref=
+13	sum	sum	SCONJ	G-	_	16	mark	_	ref=
+14	þer	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	16	nsubj	_	ref=
+15	varu	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	cop	_	ref=
+16	værð	värþer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	11	ccomp	_	ref=
+17	med	mäþ	ADP	R-	_	19	case	_	ref=
+18	suornum	sväria	VERB	V-	Case=Dat|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	19	acl	_	ref=
+19	eþe	eþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	8	obl	_	ref=
+20	at	at	SCONJ	G-	_	24	mark	_	ref=
+21	þer	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Plur	24	nsubj	_	ref=
+22	varu	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	24	cop	_	ref=
+23	eigh	eigh	ADV	Df	_	24	advmod	_	ref=
+24	bætri	bätre	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Neut|Number=Plur	19	acl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 10
+# text = Hængir klocka i kyrkiu falder i hovod mannæ böte sopn firi niv marchum kirkiudroten iardeghendi en bana far
+# sent_id = 25552
+1	Hængir	hängia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=
+2	klocka	klokka	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	i	i	ADP	R-	_	4	case	_	ref=
+4	kyrkiu	kirkia	NOUN	Nb	Case=Obl|Gender=Fem|Number=Sing|Variant=Short	1	obl	_	ref=
+5	falder	falla	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+6	i	i	ADP	R-	_	7	case	_	ref=
+7	hovod	hovuþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	5	obl	_	ref=
+8	mannæ	maþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	7	nmod	_	ref=
+9	böte	böta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+10	sopn	sokn	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	9	nsubj	_	ref=
+11	firi	for	ADP	R-	_	9	obl	_	ref=
+12	niv	nio	PRON	Py	Case=Dat|Gender=Fem|Number=Plur	13	det	_	ref=
+13	marchum	mark	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	9	obl:arg	_	ref=
+14	kirkiudroten	kirkio.droten	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	parataxis	_	ref=
+15	iardeghendi	iorþäghande	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	parataxis	_	ref=
+16	en	än	SCONJ	G-	_	18	mark	_	ref=
+17	bana	bani	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	18	obj	_	ref=
+18	far	fa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 10
+# text = Falder klockæ rummi nider i hovoþ manni böti sopcn marchum þrim en han far banæ af
+# sent_id = 25860
+1	Falder	falla+niþer	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=
+2	klockæ	klokka	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	rummi	rummi	ADV	Df	_	1	advmod	_	ref=
+4	nider	niþer	ADV	Df	_	1	advmod	_	ref=
+5	i	i	ADP	R-	_	6	case	_	ref=
+6	hovoþ	hovuþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	1	obl	_	ref=
+7	manni	maþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	6	nmod	_	ref=
+8	böti	böta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	sopcn	sokn	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	8	obl:arg	_	ref=
+10	marchum	mark	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	8	obl:arg	_	ref=
+11	þrim	þrir	PRON	Py	Case=Dat|Gender=Fem|Number=Plur	10	det	_	ref=
+12	en	än	SCONJ	G-	_	14	mark	_	ref=
+13	han	han	PRON	Pp	Case=Nom|PronType=Prs	14	nsubj	_	ref=
+14	far	fa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=
+15	banæ	bani	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	14	obj	_	ref=
+16	af	af	ADP	R-	_	14	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 10
+# text = Falder i hovod presti æller klocchæræ varþi sær sialvar
+# sent_id = 25859
+1	Falder	falla	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+2	i	i	ADP	R-	_	3	case	_	ref=
+3	hovod	hovuþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	1	obl	_	ref=
+4	presti	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	3	nmod	_	ref=
+5	æller	ällar	CCONJ	C-	_	6	cc	_	ref=
+6	klocchæræ	klokkare	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	ref=
+7	varþi	varþa	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	sær	sik	PRON	Pk	Case=Dat|PronType=Prs|Reflex=Yes	7	obl:arg	_	ref=
+9	sialvar	siälver	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	advmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 10
+# text = Brester klockæ firi þem þa ér hvn vgild
+# sent_id = 25858
+1	Brester	brista	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	dislocated	_	ref=
+2	klockæ	klokka	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	firi	for	ADP	R-	_	4	case	_	ref=
+4	þem	þän	PRON	Pd	Case=Dat|Gender=Masc|Number=Plur	1	obl	_	ref=
+5	þa	þa	ADV	Df	Degree=Pos	8	advmod	_	ref=
+6	ér	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=
+7	hvn	hon	PRON	Pp	Case=Nom|PronType=Prs	8	nsubj	_	ref=
+8	vgild	ogilder	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 10
+# text = En annar maþar felli kloccho niþer bræster hvn viþer er hun værri en þrer marcher böte sum hun ær værð
+# sent_id = 25857
+1	En	än	SCONJ	G-	_	4	mark	_	ref=
+2	annar	annar	PRON	Py	Case=Nom|Gender=Masc|Number=Sing	3	det	_	ref=
+3	maþar	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	4	nsubj	_	ref=
+4	felli	fälla+nidher	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	ref=
+5	kloccho	klokka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	4	obj	_	ref=
+6	niþer	niþer	ADV	Df	_	4	advmod	_	ref=
+7	bræster	brista	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=
+8	hvn	hon	PRON	Pp	Case=Nom|PronType=Prs	7	nsubj	_	ref=
+9	viþer	viþ	ADV	Df	_	7	advmod	_	ref=
+10	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	ref=
+11	hun	hon	PRON	Pp	Case=Nom|PronType=Prs	12	nsubj	_	ref=
+12	værri	värre	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	4	conj	_	ref=
+13	en	än	SCONJ	G-	_	15	mark	_	ref=
+14	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	15	det	_	ref=
+15	marcher	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	12	ccomp	_	ref=
+16	böte	böta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+17	sum	sum	SCONJ	G-	_	20	mark	_	ref=
+18	hun	hon	PRON	Pp	Case=Nom|PronType=Prs	20	nsubj	_	ref=
+19	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	cop	_	ref=
+20	værð	värþer	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	16	advcl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 10
+# text = oc iki mære en þrer marcher þo at hun se bættri
+# sent_id = 25861
+1	oc	ok	CCONJ	C-	_	3	cc	_	ref=
+2	iki	äkke	ADV	Df	_	3	orphan	_	ref=
+3	mære	mere	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	ref=
+4	en	än	SCONJ	G-	_	6	mark	_	ref=
+5	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	6	det	_	ref=
+6	marcher	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	3	ccomp	_	ref=
+7	þo	þo	SCONJ	G-	_	11	mark	_	ref=
+8	at	at	SCONJ	G-	_	7	fixed	_	ref=
+9	hun	hon	PRON	Pp	Case=Nom|PronType=Prs	11	nsubj	_	ref=
+10	se	vara	AUX	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	ref=
+11	bættri	bätre	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing	3	orphan	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 11
+# text = Scill sopn valdi þer sum flere æru
+# sent_id = 25553
+1	Scill	skilia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	ref=
+2	sopn	sokn	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	1	obl:arg	_	ref=
+3	valdi	valda	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	þer	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=
+5	sum	sum	SCONJ	G-	_	6	mark	_	ref=
+6	flere	flere	ADJ	A-	Case=Nom|Degree=Cmp|Gender=Masc|Number=Plur	4	acl	_	ref=
+7	æru	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 12
+# text = Værþer marder i kyrkiugardhi dræpin ællær sargheþer gialde biscupe þrer marcher
+# sent_id = 25554
+1	Værþer	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=
+2	marder	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	i	i	ADP	R-	_	4	case	_	ref=
+4	kyrkiugardhi	kirkio.garþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	1	obl	_	ref=
+5	dræpin	dräpa	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	xcomp	_	ref=
+6	ællær	älla	CCONJ	C-	_	7	cc	_	ref=
+7	sargheþer	sargha	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|Variant=Short|VerbForm=Part|Voice=Act	5	conj	_	ref=
+8	gialde	giälda	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	biscupe	biskoper	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	8	obl:arg	_	ref=
+10	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	11	det	_	ref=
+11	marcher	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	8	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 12
+# text = þa skal eighi tiþir uetæ fyr æn hauir biscups lof til num han hætti uid sinum þrim marchum
+# sent_id = 25865
+1	þa	þa	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	eighi	eigh	ADV	Df	_	2	advmod	_	ref=
+4	tiþir	tiþ	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	5	obj	_	ref=
+5	uetæ	veta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+6	fyr	fyr	SCONJ	G-	_	8	mark	_	ref=
+7	æn	än	SCONJ	G-	_	6	fixed	_	ref=
+8	hauir	hava	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+9	biscups	biskoper	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	10	nmod	_	ref=
+10	lof	lof	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	8	obj	_	ref=
+11	til	til	ADP	R-	_	10	amod	_	ref=
+12	num	num	SCONJ	G-	_	14	mark	_	ref=
+13	han	han	PRON	Pp	Case=Nom|PronType=Prs	14	nsubj	_	ref=
+14	hætti	hätta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+15	uid	viþ	ADP	R-	_	18	case	_	ref=
+16	sinum	sin	DET	Ps	Case=Dat|Gender=Masc|Number=Sing|Poss=Yes	18	det	_	ref=
+17	þrim	þrir	PRON	Py	Case=Dat|Gender=Fem|Number=Plur	18	det	_	ref=
+18	marchum	mark	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	14	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 12
+# text = Biscuper skal viþ sopn mælæ æn þær viþer þen vihit uan
+# sent_id = 25864
+1	Biscuper	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	viþ	viþ	ADP	R-	_	4	case	_	ref=
+4	sopn	sokn	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	5	obl	_	ref=
+5	mælæ	mäla	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+6	æn	än	CCONJ	C-	_	7	cc	_	ref=
+7	þær	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	2	conj	_	ref=
+8	viþer	viþ	ADV	Df	_	7	orphan	_	ref=
+9	þen	þän	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	8	obl	_	ref=
+10	vihit	DUMMY*	ADJ	X-	_	9	amod	_	ref=
+11	uan	van	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	10	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 12
+# text = Værþer maþer lustin i kyrkiugarþi æller i har takin þa skal eigh prester mæssu sæghia fyr æn han hauir biscups lof til ællar hans lænsprests
+# sent_id = 25863
+1	Værþer	varþa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	dislocated	_	ref=
+2	maþer	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	lustin	liusta	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	xcomp	_	ref=
+4	i	i	ADP	R-	_	5	case	_	ref=
+5	kyrkiugarþi	kirkio.garþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	1	obl	_	ref=
+6	æller	ällar	CCONJ	C-	_	9	cc	_	ref=
+7	i	i	ADP	R-	_	8	case	_	ref=
+8	har	har	NOUN	Nb	Case=Acc,Dat|Gender=Neut|Variant=Short	9	obl	_	ref=
+9	takin	taka	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	3	conj	_	ref=
+10	þa	þa	ADV	Df	Degree=Pos	11	advmod	_	ref=
+11	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+12	eigh	eigh	ADV	Df	_	11	advmod	_	ref=
+13	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	11	nsubj	_	ref=
+14	mæssu	mässa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	15	obj	_	ref=
+15	sæghia	sighia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=
+16	fyr	fyr	SCONJ	G-	_	19	mark	_	ref=
+17	æn	än	SCONJ	G-	_	16	fixed	_	ref=
+18	han	han	PRON	Pp	Case=Nom|PronType=Prs	19	nsubj	_	ref=
+19	hauir	hava	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	ref=
+20	biscups	biskoper	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	21	nmod	_	ref=
+21	lof	lof	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	19	obj	_	ref=
+22	til	til	ADP	R-	_	21	amod	_	ref=
+23	ællar	ällar	CCONJ	C-	_	25	cc	_	ref=
+24	hans	han	PRON	Pp	Case=Gen|PronType=Prs	25	det	_	ref=
+25	lænsprests	läns­präster	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	20	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 12
+# text = böte biscupi tolf öra
+# sent_id = 25961
+1	böte	böta	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	biscupi	biskoper	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	1	obl:arg	_	ref=
+3	tolf	tolf	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	4	det	_	ref=
+4	öra	öre	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	1	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 12
+# text = Æn þer mali til þæs ær friþ bröt
+# sent_id = 25962
+1	Æn	än	SCONJ	G-	_	3	mark	_	ref=
+2	þer	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	ref=
+3	mali	mäla	VERB	V-	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	til	til	ADP	R-	_	5	case	_	ref=
+5	þæs	þän	PRON	Pd	Case=Gen|Gender=Masc|Number=Sing	3	obl	_	ref=
+6	ær	är	SCONJ	G-	_	8	mark	_	ref=
+7	friþ	friþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	8	obj	_	ref=
+8	bröt	bryta	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 12
+# text = Dylia sopnær mæn kalla eigh friþ brutin þa skal biscups lensprester se af sopnar mannum tylptar eþ biþia sær sva gud holl oc uatum sinum at þer eigh fridbrut giöt suat biscuper a sak af
+# sent_id = 25862
+1	Dylia	dylia	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	dislocated	_	ref=
+2	sopnær	soknar	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	1	nsubj	_	ref=
+3	mæn	man	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	2	fixed	_	ref=
+4	kalla	kalla	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+5	eigh	eigh	ADV	Df	_	4	advmod	_	ref=
+6	friþ	friþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	4	obj	_	ref=
+7	brutin	bryta	VERB	V-	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	4	xcomp	_	ref=
+8	þa	þa	ADV	Df	Degree=Pos	9	advmod	_	ref=
+9	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+10	biscups	biskoper	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	11	nmod	_	ref=
+11	lensprester	läns­präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	9	nsubj	_	ref=
+12	se	sea	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=
+13	af	af	ADP	R-	_	14	case	_	ref=
+14	sopnar	soknar	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	12	obl	_	ref=
+15	mannum	man	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	14	fixed	_	ref=
+16	tylptar	tylftar	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	12	obj	_	ref=
+17	eþ	eþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	16	fixed	_	ref=
+18	biþia	biþia	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	_	ref=
+19	sær	sik	PRON	Pk	Case=Dat|PronType=Prs|Reflex=Yes	18	obl:arg	_	ref=
+20	sva	sva	ADV	Df	_	18	advmod	_	ref=
+21	gud	guþ	NOUN	Nb	Case=Acc|Gender=Masc,Neut|Number=Plur|Variant=Short	18	obj	_	ref=
+22	holl	hulder	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Variant=Short	18	xcomp	_	ref=
+23	oc	ok	CCONJ	C-	_	24	cc	_	ref=
+24	uatum	vatter	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	19	conj	_	ref=
+25	sinum	sin	DET	Ps	Case=Dat|Gender=Masc|Number=Plur|Poss=Yes	24	det	_	ref=
+26	at	at	SCONJ	G-	_	30	mark	_	ref=
+27	þer	þär	ADV	Df	_	30	advmod	_	ref=
+28	eigh	eigh	ADV	Df	_	30	advmod	_	ref=
+29	fridbrut	friþbrut	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	30	nsubj	_	ref=
+30	giöt	gör	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	16	advcl	_	ref=
+31	suat	sva.at	SCONJ	G-	_	33	mark	_	ref=
+32	biscuper	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	33	nsubj	_	ref=
+33	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	30	advcl	_	ref=
+34	sak	sak	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	33	obj	_	ref=
+35	af	af	ADP	R-	_	34	amod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = kirkiu gard skal scipæ bolæ mælli
+# sent_id = 25555
+1	kirkiu	kirkio	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	4	obj	_	ref=
+2	gard	garþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	1	fixed	_	ref=
+3	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	scipæ	skipa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+5	bolæ	bol	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur|Variant=Short	4	obl	_	ref=
+6	mælli	mällom	ADP	R-	_	5	case	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = slict a bol at gærþe sum annat
+# sent_id = 26055
+1	slict	sliker	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	5	obj	_	ref=
+2	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	bol	bol	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	2	nsubj	_	ref=
+4	at	at	SCONJ	G-	_	5	mark	_	ref=
+5	gærþe	gärþa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+6	sum	sum	SCONJ	G-	_	1	advcl	_	ref=
+7	annat	annar	PRON	Py	Case=Acc|Gender=Neut|Number=Sing	6	nsubj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = Liggær kirkiugardær alþer open þet er þriggia marcha sak
+# sent_id = 26054
+1	Liggær	liggia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=
+2	kirkiugardær	kirkio.garþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	alþer	alder	PRON	Py	Case=Nom|Gender=Masc|Number=Sing	2	det	_	ref=
+4	open	opin	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	xcomp	_	ref=
+5	þet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	9	nsubj	_	ref=
+6	er	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	ref=
+7	þriggia	þrir	PRON	Py	Case=Gen|Gender=Fem|Number=Plur	8	det	_	ref=
+8	marcha	mark	NOUN	Nb	Case=Gen|Gender=Fem|Number=Plur|Variant=Short	9	nmod	_	ref=
+9	sak	sak	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = þet a biscopér
+# sent_id = 26053
+1	þet	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	ref=
+2	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	biscopér	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = Ligger þridiunger vpen þæt ér siax oræ sak
+# sent_id = 26052
+1	Ligger	liggia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	advcl	_	ref=
+2	þridiunger	þriþiunger	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	vpen	opin	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	1	xcomp	_	ref=
+4	þæt	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	ref=
+5	ér	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	ref=
+6	siax	siäx	PRON	Py	Case=Gen|Gender=Masc|Number=Plur	7	det	_	ref=
+7	oræ	öre	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	8	nmod	_	ref=
+8	sak	sak	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	0	root	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = þæt a biscopær
+# sent_id = 26051
+1	þæt	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	ref=
+2	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	biscopær	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = siþan a hæræd firi balka han atta örtoghor
+# sent_id = 26050
+1	siþan	siþan	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	hæræd	häraþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	2	nsubj	_	ref=
+4	firi	for	ADP	R-	_	5	case	_	ref=
+5	balka	balke	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	2	obl	_	ref=
+6	han	hvar	PRON	Py	Case=Acc|Gender=Masc|Number=Sing	5	det	_	ref=
+7	atta	atta	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	8	det	_	ref=
+8	örtoghor	örtogh	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	2	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 13
+# text = Oc e skal kirkiugarþær gilder varæ baþi vinter oc somar
+# sent_id = 26049
+1	Oc	ok	CCONJ	C-	_	3	cc	_	ref=
+2	e	ä	ADV	Df	_	3	advmod	_	ref=
+3	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	kirkiugarþær	kirkio.garþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	3	nsubj	_	ref=
+5	gilder	gilder	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	3	xcomp	_	ref=
+6	varæ	vara	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	ref=
+7	baþi	baþe	CCONJ	C-	_	8	cc	_	ref=
+8	vinter	vinter	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	2	appos	_	ref=
+9	oc	ok	CCONJ	C-	_	10	cc	_	ref=
+10	somar	somar	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	8	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Barn þorf kristnu maþer huls
+# sent_id = 25556
+1	Barn	barn	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	þorf	þorva	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	kristnu	kristna	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	2	obj	_	ref=
+4	maþer	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	ref=
+5	huls	husl	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	4	orphan	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = fyrra scal barn cristna æn man huslæ
+# sent_id = 26364
+1	fyrra	fyrre	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	2	advmod	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	barn	barn	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	4	obj	_	ref=
+4	cristna	kristna	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	æn	än	SCONJ	G-	_	7	mark	_	ref=
+6	man	maþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	7	obj	_	ref=
+7	huslæ	husla	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	ccomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = þorf maþer oling ok annar husl þa skal fyrræ man huslæ æn olæ
+# sent_id = 26363
+1	þorf	þorva	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	dislocated	_	ref=
+2	maþer	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	oling	oling	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	1	obj	_	ref=
+4	ok	ok	CCONJ	C-	_	5	cc	_	ref=
+5	annar	annar	PRON	Py	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	ref=
+6	husl	husl	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	5	orphan	_	ref=
+7	þa	þa	ADV	Df	Degree=Pos	8	advmod	_	ref=
+8	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	fyrræ	fyrre	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	8	advmod	_	ref=
+10	man	maþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	11	obj	_	ref=
+11	huslæ	husla	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+12	æn	än	SCONJ	G-	_	13	mark	_	ref=
+13	olæ	ola	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	ccomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Barn far eigh kristnu maþer eigh husl ællér öleng
+# sent_id = 26365
+1	Barn	barn	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	far	fa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	eigh	eigh	ADV	Df	_	2	advmod	_	ref=
+4	kristnu	kristna	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	2	obj	_	ref=
+5	maþer	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	ref=
+6	eigh	eigh	ADV	Df	_	5	orphan	_	ref=
+7	husl	husl	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	5	orphan	_	ref=
+8	ællér	ällar	CCONJ	C-	_	9	cc	_	ref=
+9	öleng	öling	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	7	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = ær prester forfallalös þa ær han sæker at marchum þrim viþ biscup oc þrim marchum vid saksöchenden
+# sent_id = 26361
+1	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=
+2	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	3	nsubj	_	ref=
+3	forfallalös	forfalla.lös	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	dislocated	_	ref=
+4	þa	þa	ADV	Df	Degree=Pos	7	advmod	_	ref=
+5	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=
+6	han	han	PRON	Pp	Case=Nom|PronType=Prs	7	nsubj	_	ref=
+7	sæker	saker	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=
+8	at	at	ADP	R-	_	9	case	_	ref=
+9	marchum	mark	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	7	obl	_	ref=
+10	þrim	þrir	PRON	Py	Case=Dat|Gender=Fem|Number=Plur	9	det	_	ref=
+11	viþ	viþ	ADP	R-	_	12	case	_	ref=
+12	biscup	biskoper	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	9	nmod	_	ref=
+13	oc	ok	CCONJ	C-	_	15	cc	_	ref=
+14	þrim	þrir	PRON	Py	Case=Dat|Gender=Fem|Number=Plur	15	det	_	ref=
+15	marchum	mark	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	9	conj	_	ref=
+16	vid	viþ	ADP	R-	_	17	case	_	ref=
+17	saksöchenden	saksökiande	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	15	nmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Forfal prests æru æn biscuper hauir hanum buþ sænt oc ær bortfarin för
+# sent_id = 26368
+1	Forfal	forfal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Plur|Variant=Short	0	root	_	ref=
+2	prests	präster	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	1	nmod	_	ref=
+3	æru	vara	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=
+4	æn	än	SCONJ	G-	_	6	mark	_	ref=
+5	biscuper	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	6	nsubj	_	ref=
+6	hauir	hava	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	ref=
+7	hanum	han	PRON	Pp	Case=Dat|PronType=Prs	9	obl:arg	_	ref=
+8	buþ	buþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	9	obj	_	ref=
+9	sænt	sända	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	xcomp	_	ref=
+10	oc	ok	CCONJ	C-	_	12	cc	_	ref=
+11	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	ref=
+12	bortfarin	bortfara	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	6	conj	_	ref=
+13	för	fyr	ADV	Df	Degree=Pos	12	advmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Annur æn han siukær ligher
+# sent_id = 26367
+1	Annur	annar	PRON	Py	Case=Nom|Gender=Neut|Number=Plur	0	root	_	ref=
+2	æn	än	SCONJ	G-	_	5	mark	_	ref=
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	5	nsubj	_	ref=
+4	siukær	siuker	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	xcomp	_	ref=
+5	ligher	liggia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Þridiæ æn han þighiændæ mæssu sighir
+# sent_id = 26369
+1	Þridiæ	þriþi	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	ref=
+2	æn	än	SCONJ	G-	_	6	mark	_	ref=
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	6	nsubj	_	ref=
+4	þighiændæ	þighia	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	ref=
+5	mæssu	mässa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	6	obj	_	ref=
+6	sighir	sighia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Fyardæ æn han ær i sokn farin siukum at hiælpæ
+# sent_id = 26366
+1	Fyardæ	fiärþe	ADJ	A-	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	0	root	_	ref=
+2	æn	än	SCONJ	G-	_	7	mark	_	ref=
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	7	nsubj	_	ref=
+4	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=
+5	i	i	ADP	R-	_	6	case	_	ref=
+6	sokn	sokn	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	7	obl	_	ref=
+7	farin	fara	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	ccomp	_	ref=
+8	siukum	siuker	ADJ	A-	Case=Dat|Degree=Pos|Variant=Short	10	obl:arg	_	ref=
+9	at	at	SCONJ	G-	_	10	mark	_	ref=
+10	hiælpæ	hiälpa	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Vr skal mæssufatum fara ok sivkum hialpæ æn han sivngær æigh þighianda mæssu
+# sent_id = 26360
+1	Vr	ur	ADP	R-	_	3	case	_	ref=
+2	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	mæssufatum	mässu­fat	NOUN	Nb	Case=Dat|Gender=Neut|Number=Plur|Variant=Short	4	obl	_	ref=
+4	fara	fara	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	ok	ok	CCONJ	C-	_	7	cc	_	ref=
+6	sivkum	siuker	ADJ	A-	Case=Dat|Degree=Pos|Variant=Short	7	obl:arg	_	ref=
+7	hialpæ	hiälpa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	ref=
+8	æn	än	SCONJ	G-	_	10	mark	_	ref=
+9	han	han	PRON	Pp	Case=Nom|PronType=Prs	10	nsubj	_	ref=
+10	sivngær	siunga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	ref=
+11	æigh	eigh	ADV	Df	_	10	advmod	_	ref=
+12	þighianda	þighia	VERB	V-	Case=Acc|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	ref=
+13	mæssu	mässa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	10	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 14
+# text = Skil þæm a bonda ok prest kallær bondi han forfallalösan þa scal han væriæ sik a mote mæder siax prestum at han laghæ forfall fæk
+# sent_id = 26359
+1	Skil	skilia+a	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	dislocated	_	ref=
+2	þæm	þär	ADV	Df	Degree=Pos	1	advmod	_	ref=
+3	a	a	ADP	R-	_	1	obl	_	ref=
+4	bonda	bonde	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	2	appos	_	ref=
+5	ok	ok	CCONJ	C-	_	6	cc	_	ref=
+6	prest	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	4	conj	_	ref=
+7	kallær	kalla	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+8	bondi	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	7	nsubj	_	ref=
+9	han	han	PRON	Pp	Case=Acc|PronType=Prs	7	obj	_	ref=
+10	forfallalösan	forfalla.lös	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	7	xcomp	_	ref=
+11	þa	þa	ADV	Df	Degree=Pos	12	advmod	_	ref=
+12	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+13	han	han	PRON	Pp	Case=Nom|PronType=Prs	12	nsubj	_	ref=
+14	væriæ	väria+sik	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	xcomp	_	ref=
+15	sik	sik	PRON	Pk	Case=Acc|PronType=Prs|Reflex=Yes	14	obj	_	ref=
+16	a	amote	ADP	R-	_	14	obl	_	ref=
+17	mote	mote	ADP	R-	_	16	fixed	_	ref=
+18	mæder	mäþ	ADP	R-	_	20	case	_	ref=
+19	siax	siäx	PRON	Py	Case=Dat|Gender=Masc|Number=Plur	20	det	_	ref=
+20	prestum	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	14	obl	_	ref=
+21	at	at	SCONJ	G-	_	25	mark	_	ref=
+22	han	han	PRON	Pp	Case=Nom|PronType=Prs	25	nsubj	_	ref=
+23	laghæ	lagha	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur|Variant=Short	25	obj	_	ref=
+24	forfall	forfal	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur|Variant=Short	23	fixed	_	ref=
+25	fæk	fa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	ccomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = Prester scal bondæ ola oc bonda kono bonda svn oc dottor hans ælstæ barn firi tyunda sin
+# sent_id = 25557
+1	Prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	bondæ	bonde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	4	obj	_	ref=
+4	ola	ola	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	oc	ok	CCONJ	C-	_	7	cc	_	ref=
+6	bonda	bonde	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	7	nmod	_	ref=
+7	kono	kona	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	3	conj	_	ref=
+8	bonda	bonde	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	9	nmod	_	ref=
+9	svn	son	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	3	conj	_	ref=
+10	oc	ok	CCONJ	C-	_	11	cc	_	ref=
+11	dottor	dottir	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	9	conj	_	ref=
+12	hans	han	PRON	Pp	Case=Gen|PronType=Prs	14	det	_	ref=
+13	ælstæ	äldre	ADJ	A-	Case=Acc|Degree=Sup|Gender=Neut|Number=Sing	14	amod	_	ref=
+14	barn	barn	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	11	appos	_	ref=
+15	firi	for	ADP	R-	_	16	case	_	ref=
+16	tyunda	tionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	2	obl	_	ref=
+17	sin	sin	DET	Ps	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes	16	det	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = æn firi hiona huart er olia scal giui öra tva ok sva firi alla þa mæn eigh tyundæ sin ok öri firi lægher. staþ allum frælsum mannum þem huls taca ok ortogh firi natuaku
+# sent_id = 26378
+1	æn	än	CCONJ	C-	_	8	cc	_	ref=
+2	firi	for	ADP	R-	_	4	case	_	ref=
+3	hiona	hion	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur|Variant=Short	4	nmod	_	ref=
+4	huart	hvar	PRON	Py	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	ref=
+5	er	är	SCONJ	G-	_	7	mark	_	ref=
+6	olia	olia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	7	xcomp	_	ref=
+7	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl	_	ref=
+8	giui	giva	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	öra	öre	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	8	obj	_	ref=
+10	tva	tver	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	9	det	_	ref=
+11	ok	ok	CCONJ	C-	_	16	cc	_	ref=
+12	sva	sva	ADV	Df	_	16	orphan	_	ref=
+13	firi	for	ADP	R-	_	16	case	_	ref=
+14	alla	alder	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	16	det	_	ref=
+15	þa	þän	DET	Pd	Case=Acc|Gender=Masc|Number=Plur	16	det	_	ref=
+16	mæn	maþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	8	conj	_	ref=
+17	eigh	eigh	ADV	Df	_	18	orphan	_	ref=
+18	tyundæ	tionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	16	acl	_	ref=
+19	sin	sin	DET	Ps	Case=Acc|Gender=Masc|Number=Sing|Poss=Yes	18	det	_	ref=
+20	ok	ok	CCONJ	C-	_	21	cc	_	ref=
+21	öri	öre	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	8	conj	_	ref=
+22	firi	for	ADP	R-	_	23	case	_	ref=
+23	lægher.	lägherstaþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	21	orphan	_	ref=
+24	staþ	staþ	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	23	fixed	_	ref=
+25	allum	alder	PRON	Py	Case=Dat|Gender=Masc|Number=Plur	27	det	_	ref=
+26	frælsum	fräls	ADJ	A-	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur|Variant=Short	27	amod	_	ref=
+27	mannum	maþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur|Variant=Short	23	nmod	_	ref=
+28	þem	þän	DET	Pd	Case=Dat|Gender=Masc|Number=Plur	27	det	_	ref=
+29	huls	husl	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	30	obj	_	ref=
+30	taca	taka	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	27	acl	_	ref=
+31	ok	ok	CCONJ	C-	_	32	cc	_	ref=
+32	ortogh	örtogh	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	8	conj	_	ref=
+33	firi	for	ADP	R-	_	34	case	_	ref=
+34	natuaku	natvaka	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	32	orphan	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = Eigh mæra þit fleræ vaki Eigh ok flera vaka num prester uili æller bondi uili oc þy at þrer nætær liggi lik inni
+# sent_id = 26379
+1	Eigh	eigh	ADV	Df	_	2	orphan	_	ref=
+2	mæra	mere	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	ref=
+3	þit	þy.at	SCONJ	G-	_	5	mark	_	ref=
+4	fleræ	flere	ADJ	A-	Case=Acc,Dat|Degree=Cmp|Gender=Masc|Number=Plur	5	dep	_	ref=
+5	vaki	vaka	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	ref=
+6	Eigh	eigh	ADV	Df	_	9	advmod	_	ref=
+7	ok	ok	ADV	Df	_	9	advmod	_	ref=
+8	flera	flera	ADJ	A-	Case=Acc,Dat|Degree=Cmp|Gender=Masc|Number=Plur	9	dep	_	ref=
+9	vaka	vaka	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	parataxis	_	ref=
+10	num	num	SCONJ	G-	_	12	mark	_	ref=
+11	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	12	nsubj	_	ref=
+12	uili	vilia	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	advcl	_	ref=
+13	æller	ällar	CCONJ	C-	_	15	cc	_	ref=
+14	bondi	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	15	nsubj	_	ref=
+15	uili	vilia	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	ref=
+16	oc	ok	CCONJ	C-	_	21	cc	_	ref=
+17	þy	þy	SCONJ	G-	_	21	mark	_	ref=
+18	at	at	SCONJ	G-	_	17	fixed	_	ref=
+19	þrer	þrir	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	20	det	_	ref=
+20	nætær	nat	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	21	obl	_	ref=
+21	liggi	liggia	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+22	lik	lik	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	21	nsubj	_	ref=
+23	inni	inne	ADV	Df	Degree=Pos	21	advmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = Vill han lengær læta inni liggia giui örtogh naat huaria
+# sent_id = 26377
+1	Vill	vilia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+2	han	han	PRON	Pp	Case=Nom|PronType=Prs	1	nsubj	_	ref=
+3	lengær	länge	ADV	Df	Degree=Cmp	6	advmod	_	ref=
+4	læta	lata	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	1	xcomp	_	ref=
+5	inni	inne	ADV	Df	Degree=Pos	6	advmod	_	ref=
+6	liggia	liggia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	ccomp	_	ref=
+7	giui	giva	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	örtogh	örtogh	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	7	obj	_	ref=
+9	naat	nat	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	7	obl	_	ref=
+10	huaria	hvar	PRON	Py	Case=Acc|Gender=Fem|Number=Sing	9	det	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = præster ær skyldugher gest at husla sum bondæ
+# sent_id = 26375
+1	præster	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	3	nsubj	_	ref=
+2	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=
+3	skyldugher	skyldogher	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=
+4	gest	gäster	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	6	obj	_	ref=
+5	at	at	SCONJ	G-	_	6	mark	_	ref=
+6	husla	husla	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=
+7	sum	sum	SCONJ	G-	_	3	advcl	_	ref=
+8	bondæ	bonde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	7	obj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = Dör stafkarl þa a prester pik ok screppu ok læghærstad
+# sent_id = 26374
+1	Dör	döia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	dislocated	_	ref=
+2	stafkarl	stafkarl	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	1	nsubj	_	ref=
+3	þa	þa	ADV	Df	Degree=Pos	4	advmod	_	ref=
+4	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+5	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	4	nsubj	_	ref=
+6	pik	piker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	4	obj	_	ref=
+7	ok	ok	CCONJ	C-	_	8	cc	_	ref=
+8	screppu	skräppa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	6	conj	_	ref=
+9	ok	ok	CCONJ	C-	_	10	cc	_	ref=
+10	læghærstad	lägherstaþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	6	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = Sitær biscuper innan soknæ far bondi buþ hanum biþær ola sik þa ær han skyldugher han at ola
+# sent_id = 26373
+1	Sitær	sitia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	dislocated	_	ref=
+2	biscuper	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	innan	innan	ADP	R-	_	4	case	_	ref=
+4	soknæ	sokn	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	1	obl	_	ref=
+5	far	fa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+6	bondi	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	5	nsubj	_	ref=
+7	buþ	buþ	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	5	obj	_	ref=
+8	hanum	han	PRON	Pp	Case=Dat|PronType=Prs	5	obl:arg	_	ref=
+9	biþær	biþia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+10	ola	ola	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	9	xcomp	_	ref=
+11	sik	sik	PRON	Pk	Case=Acc|PronType=Prs|Reflex=Yes	10	obj	_	ref=
+12	þa	þa	ADV	Df	Degree=Pos	15	advmod	_	ref=
+13	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	cop	_	ref=
+14	han	han	PRON	Pp	Case=Nom|PronType=Prs	15	nsubj	_	ref=
+15	skyldugher	skyldogher	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=
+16	han	han	PRON	Pp	Case=Acc|PronType=Prs	18	obj	_	ref=
+17	at	at	SCONJ	G-	_	18	mark	_	ref=
+18	ola	ola	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	15	ccomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 15
+# text = haui half mark firir
+# sent_id = 26372
+1	haui	hava	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	half	halver	ADJ	A-	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	3	amod	_	ref=
+3	mark	mark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	1	obj	_	ref=
+4	firir	for	ADP	R-	_	1	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 16
+# text = Ganger prester i sokn annars prests ber i bok ok stol ok læs iuir folké þa ær han sakar at marchum þrim
+# sent_id = 25558
+1	Ganger	ganga	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	dislocated	_	ref=
+2	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	i	i	ADP	R-	_	4	case	_	ref=
+4	sokn	sokn	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	1	obl	_	ref=
+5	annars	annar	PRON	Py	Case=Gen|Gender=Masc|Number=Sing	6	det	_	ref=
+6	prests	präster	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	4	nmod	_	ref=
+7	ber	bäria	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+8	i	i	ADP	R-	_	7	obl	_	ref=
+9	bok	bok	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	7	obj	_	ref=
+10	ok	ok	CCONJ	C-	_	11	cc	_	ref=
+11	stol	stol	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	9	conj	_	ref=
+12	ok	ok	CCONJ	C-	_	13	cc	_	ref=
+13	læs	läsa	VERB	V-	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+14	iuir	ivir	ADP	R-	_	15	case	_	ref=
+15	folké	folk	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	13	obl	_	ref=
+16	þa	þa	ADV	Df	Degree=Pos	19	advmod	_	ref=
+17	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	cop	_	ref=
+18	han	han	PRON	Pp	Case=Nom|PronType=Prs	19	nsubj	_	ref=
+19	sakar	saker	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=
+20	at	at	ADP	R-	_	21	case	_	ref=
+21	marchum	mark	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur|Variant=Short	19	nmod	_	ref=
+22	þrim	þrir	PRON	Py	Case=Dat|Gender=Fem|Number=Plur	21	det	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 16
+# text = gialdi tolf öræ biscupi ok tolf öræ presti
+# sent_id = 26380
+1	gialdi	giälda	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	tolf	tolf	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	3	det	_	ref=
+3	öræ	öre	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	1	obj	_	ref=
+4	biscupi	biskoper	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	1	obl:arg	_	ref=
+5	ok	ok	CCONJ	C-	_	7	cc	_	ref=
+6	tolf	tolf	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	7	det	_	ref=
+7	öræ	öre	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	1	conj	_	ref=
+8	presti	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	7	orphan	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 17
+# text = A acri scal tyundæ scipta
+# sent_id = 25559
+1	A	a	ADP	R-	_	2	case	_	ref=
+2	acri	aker	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	3	obl	_	ref=
+3	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+4	tyundæ	tionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	5	obj	_	ref=
+5	scipta	skipta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 17
+# text = tacher prester sva sum kiurkiæ ær til vigþ
+# sent_id = 26383
+1	tacher	taker	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	sva	sva	SCONJ	G-	_	7	mark	_	ref=
+4	sum	sum	SCONJ	G-	_	3	fixed	_	ref=
+5	kiurkiæ	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	7	nsubj	_	ref=
+6	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=
+7	til	tilvighia	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	1	advcl	_	ref=
+8	vigþ	vigþ	VERB	V-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	7	fixed	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 17
+# text = siþan scal sciptæ i þrer lötæ
+# sent_id = 26382
+1	siþan	siþan	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	scal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	sciptæ	skipta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+4	i	i	ADP	R-	_	6	case	_	ref=
+5	þrer	þrir	PRON	Py	Case=Acc|Gender=Masc|Number=Plur	6	det	_	ref=
+6	lötæ	luter	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur|Variant=Short	3	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 17
+# text = En a biscopær Annan a kiurkia Þridia væslir mæn
+# sent_id = 26385
+1	En	en	PRON	Py	Case=Nom|Gender=Masc|Number=Sing	2	obj	_	ref=
+2	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	biscopær	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+4	Annan	annar	PRON	Py	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	ref=
+5	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+6	kiurkia	kirkia	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing|Variant=Short	5	nsubj	_	ref=
+7	Þridia	þriþi	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	9	orphan	_	ref=
+8	væslir	väsal	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Variant=Short	9	amod	_	ref=
+9	mæn	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	2	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 17
+# text = prester a kuikkæn tyundæ allan ok offær þet til cruszu fotæ kombær a langafreadaghi
+# sent_id = 26381
+1	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	a	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	kuikkæn	qvikker	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	amod	_	ref=
+4	tyundæ	tionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	2	obj	_	ref=
+5	allan	alder	PRON	Py	Case=Acc|Gender=Masc|Number=Sing	4	det	_	ref=
+6	ok	ok	CCONJ	C-	_	7	cc	_	ref=
+7	offær	offer	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	4	conj	_	ref=
+8	þet	þän	DET	Pd	Case=Acc|Gender=Neut|Number=Sing	7	det	_	ref=
+9	til	til	ADP	R-	_	10	case	_	ref=
+10	cruszu	krussu	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	12	obl	_	ref=
+11	fotæ	foter	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	10	fixed	_	ref=
+12	kombær	koma	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	acl	_	ref=
+13	a	a	ADP	R-	_	14	case	_	ref=
+14	langafreadaghi	langa.freadagher	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	12	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 18
+# text = Bonde dör i sokn ok uill annærstagd læghærstað hauæ
+# sent_id = 25560
+1	Bonde	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	dör	döia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	i	i	ADP	R-	_	4	case	_	ref=
+4	sokn	sokn	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	2	obl	_	ref=
+5	ok	ok	CCONJ	C-	_	6	cc	_	ref=
+6	uill	vilia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	ref=
+7	annærstagd	annars.stads	ADV	Df	_	6	advmod	_	ref=
+8	læghærstað	lägherstaþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	6	obj	_	ref=
+9	hauæ	hava	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 18
+# text = þa skal prester lik hans uighia ok til gardsliz fylghia
+# sent_id = 26388
+1	þa	þa	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+4	lik	lik	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	6	obj	_	ref=
+5	hans	han	PRON	Pp	Case=Gen|PronType=Prs	4	det	_	ref=
+6	uighia	vighia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+7	ok	ok	CCONJ	C-	_	10	cc	_	ref=
+8	til	til	ADP	R-	_	9	case	_	ref=
+9	gardsliz	gards.liþ	NOUN	Nb	Case=Gen|Gender=Neut|Number=Sing|Variant=Short	10	obl	_	ref=
+10	fylghia	fylghia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	6	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 18
+# text = eighi længræ num han uili
+# sent_id = 26387
+1	eighi	eigh	ADV	Df	_	2	orphan	_	ref=
+2	længræ	langer	ADJ	A-	Case=Acc|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	ref=
+3	num	num	SCONJ	G-	_	5	mark	_	ref=
+4	han	han	PRON	Pp	Case=Nom|PronType=Prs	5	nsubj	_	ref=
+5	uili	vilia	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	orphan	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 18
+# text = þa skal han halvæn læghærstad hauæ ok haluæn þén prester uid liki takær
+# sent_id = 26386
+1	þa	þa	ADV	Df	Degree=Pos	2	advmod	_	ref=
+2	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	han	han	PRON	Pp	Case=Nom|PronType=Prs	2	nsubj	_	ref=
+4	halvæn	halvan	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	5	amod	_	ref=
+5	læghærstad	lägherstaþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	6	obj	_	ref=
+6	hauæ	hava	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+7	ok	ok	CCONJ	C-	_	10	cc	_	ref=
+8	haluæn	halver	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	9	amod	_	ref=
+9	þén	þän	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	10	orphan	_	ref=
+10	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	conj	_	ref=
+11	uid	viþ	ADP	R-	_	12	case	_	ref=
+12	liki	lik	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	13	obl	_	ref=
+13	takær	taka	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 19
+# text = Æn presti vill gipt gyuæ þet ær tvar skæppur ællær örtugh pænningæ
+# sent_id = 25561
+1	Æn	än	SCONJ	G-	_	3	mark	_	ref=
+2	presti	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	5	obl:arg	_	ref=
+3	vill	vilia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+4	gipt	gipt	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	5	obj	_	ref=
+5	gyuæ	giva	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	3	xcomp	_	ref=
+6	þet	þän	PRON	Pd	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	ref=
+7	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+8	tvar	tver	PRON	Py	Case=Acc|Gender=Fem|Number=Plur	9	det	_	ref=
+9	skæppur	skäppa	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	7	obj	_	ref=
+10	ællær	älla	CCONJ	C-	_	11	cc	_	ref=
+11	örtugh	örtogh	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	9	conj	_	ref=
+12	pænningæ	pänninger	NOUN	Nb	Case=Gen|Gender=Masc|Number=Plur|Variant=Short	11	nmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 20
+# text = A maþer bol i by aþrum ok sar afsædhum þa skal han tyundæ lucæ presti ok kiurkiu sum bol ligger ok kirkiugarþi varþæ
+# sent_id = 25562
+1	A	ägha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	dislocated	_	ref=
+2	maþer	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	bol	bol	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing|Variant=Short	1	obj	_	ref=
+4	i	i	ADP	R-	_	5	case	_	ref=
+5	by	byr	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	3	nmod	_	ref=
+6	aþrum	annar	PRON	Py	Case=Dat|Gender=Masc|Number=Sing	5	det	_	ref=
+7	ok	ok	CCONJ	C-	_	8	cc	_	ref=
+8	sar	sa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	ref=
+9	afsædhum	afsädhum	ADV	Df	_	8	advmod	_	ref=
+10	þa	þa	ADV	Df	Degree=Pos	11	advmod	_	ref=
+11	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+12	han	han	PRON	Pp	Case=Nom|PronType=Prs	11	nsubj	_	ref=
+13	tyundæ	tionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	14	obj	_	ref=
+14	lucæ	luka	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=
+15	presti	präster	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	14	obl:arg	_	ref=
+16	ok	ok	CCONJ	C-	_	17	cc	_	ref=
+17	kiurkiu	kirkia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	15	conj	_	ref=
+18	sum	sum	SCONJ	G-	_	20	mark	_	ref=
+19	bol	bol	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	20	nsubj	_	ref=
+20	ligger	liggia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	advcl	_	ref=
+21	ok	ok	CCONJ	C-	_	23	cc	_	ref=
+22	kirkiugarþi	kirkio.garþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	23	obl:arg	_	ref=
+23	varþæ	varþa	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	14	conj	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 20
+# text = Sar man enka aker til byiar þa skal præstins tiundæ lætæ aftær standæ allæn ællar bort. flytia
+# sent_id = 26391
+1	Sar	sa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	dislocated	_	ref=
+2	man	maþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	enka	enka	PRON	Py	Case=Acc|Gender=Masc|Number=Sing	4	det	_	ref=
+4	aker	aker	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	1	obj	_	ref=
+5	til	til	ADP	R-	_	6	case	_	ref=
+6	byiar	byr	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing|Variant=Short	4	nmod	_	ref=
+7	þa	þa	ADV	Df	Degree=Pos	8	advmod	_	ref=
+8	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	præstins	präster	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	ref=
+10	tiundæ	tionde	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	11	obj	_	ref=
+11	lætæ	lata	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+12	aftær	äptirstanda	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	xcomp	_	ref=
+13	standæ	standæ	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	12	fixed	_	ref=
+14	allæn	alder	PRON	Py	Case=Acc|Gender=Masc|Number=Sing	12	xcomp	_	ref=
+15	ællar	ällar	CCONJ	C-	_	16	cc	_	ref=
+16	bort.	*bortflytia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	11	conj	_	ref=
+17	flytia	flytia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	16	fixed	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 20
+# text = Bor bondi a odmarkær söki þingæt kirkiu ær hanum þykkir næst varæ æn han vill sva
+# sent_id = 26390
+1	Bor	boa	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=
+2	bondi	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+3	a	a	ADP	R-	_	4	case	_	ref=
+4	odmarkær	öþemark	NOUN	Nb	Case=Acc|Gender=Fem|Number=Plur|Variant=Short	1	obl	_	ref=
+5	söki	sökia	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+6	þingæt	þingat	ADV	Df	_	5	advmod	_	ref=
+7	kirkiu	kirkia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	5	obj	_	ref=
+8	ær	är	SCONJ	G-	_	10	mark	_	ref=
+9	hanum	han	PRON	Pp	Case=Dat|PronType=Prs	10	obl:arg	_	ref=
+10	þykkir	þykkia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	ref=
+11	næst	näst	ADV	Df	Degree=Sup	12	advmod	_	ref=
+12	varæ	vara	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	xcomp	_	ref=
+13	æn	än	SCONJ	G-	_	15	mark	_	ref=
+14	han	han	PRON	Pp	Case=Nom|PronType=Prs	15	nsubj	_	ref=
+15	vill	vilia	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	advcl	_	ref=
+16	sva	sva	ADV	Df	_	15	advmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 20
+# text = Eighi ma landboæ nöghæ at söchia or kirkiu by til annarrær kirkiu
+# sent_id = 26389
+1	Eighi	eigh	ADV	Df	_	2	advmod	_	ref=
+2	ma	magha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	landboæ	landboe	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Number=Sing|Variant=Short	4	dep	_	ref=
+4	nöghæ	nödhga	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+5	at	at	SCONJ	G-	_	6	mark	_	ref=
+6	söchia	sökia	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	xcomp	_	ref=
+7	or	ur	ADP	R-	_	8	case	_	ref=
+8	kirkiu	kirkio	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Variant=Short	6	obl	_	ref=
+9	by	byr	NOUN	Nb	Case=Acc,Dat|Gender=Masc|Variant=Short	8	fixed	_	ref=
+10	til	til	ADP	R-	_	12	case	_	ref=
+11	annarrær	annar	PRON	Py	Case=Gen|Gender=Fem|Number=Sing	12	det	_	ref=
+12	kirkiu	kirkia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing|Variant=Short	6	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 21
+# text = Æn vaþa bloð comber i kirkiugard þa skal torvu skæræ mæð bloþi oc kastæ ur kirkiugærði
+# sent_id = 25563
+1	Æn	än	SCONJ	G-	_	4	mark	_	ref=
+2	vaþa	vaþa	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	4	nsubj	_	ref=
+3	bloð	bloþ	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing|Variant=Short	2	fixed	_	ref=
+4	comber	koma	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	ref=
+5	i	i	ADP	R-	_	6	case	_	ref=
+6	kirkiugard	kirkio.garþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	4	obl	_	ref=
+7	þa	þa	ADV	Df	Degree=Pos	8	advmod	_	ref=
+8	skal	skula	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+9	torvu	torva	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing|Variant=Short	10	obj	_	ref=
+10	skæræ	skära	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	8	xcomp	_	ref=
+11	mæð	mäþ	ADP	R-	_	12	case	_	ref=
+12	bloþi	bloþ	NOUN	Nb	Case=Dat|Gender=Neut|Number=Sing|Variant=Short	9	nmod	_	ref=
+13	oc	ok	CCONJ	C-	_	14	cc	_	ref=
+14	kastæ	kasta	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	10	conj	_	ref=
+15	ur	ur	ADP	R-	_	16	case	_	ref=
+16	kirkiugærði	kirkio.garþer	NOUN	Nb	Case=Dat|Gender=Masc|Number=Sing|Variant=Short	14	obl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 21
+# text = ok kirkiugærþér ær ækki vskir þy hældær
+# sent_id = 26392
+1	ok	ok	CCONJ	C-	_	5	cc	_	ref=
+2	kirkiugærþér	kirkio.garþer	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	5	nsubj	_	ref=
+3	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=
+4	ækki	äkke	ADV	Df	Degree=Pos	5	advmod	_	ref=
+5	vskir	oskir	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=
+6	þy	þän	PRON	Pd	Case=Dat|Gender=Neut|Number=Sing	5	obl	_	ref=
+7	hældær	hälder	ADV	Df	Degree=Cmp	5	advmod	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 22
+# text = Præstær ma ængin man fra kiurkiu vrakæ num þen biscopær havir forboþét
+# sent_id = 25564
+1	Præstær	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	2	nsubj	_	ref=
+2	ma	magha	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+3	ængin	ängin	PRON	Py	Case=Acc|Gender=Masc|Number=Sing	4	det	_	ref=
+4	man	maþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	7	obj	_	ref=
+5	fra	fran	ADP	R-	_	6	case	_	ref=
+6	kiurkiu	kirkia	NOUN	Nb	Case=Dat|Gender=Fem|Number=Sing|Variant=Short	7	obl	_	ref=
+7	vrakæ	vraka	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	xcomp	_	ref=
+8	num	num	SCONJ	G-	_	11	mark	_	ref=
+9	þen	þän	PRON	Pd	Case=Acc|Gender=Masc|Number=Sing	12	obj	_	ref=
+10	biscopær	biskoper	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	11	nsubj	_	ref=
+11	havir	hava	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	2	advcl	_	ref=
+12	forboþét	forbiuþa	VERB	V-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Act	11	xcomp	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 22
+# text = vrækæ böndær fridlösæn man æn þer uilia
+# sent_id = 26393
+1	vrækæ	vräka	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=
+2	böndær	bonde	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur|Variant=Short	1	nsubj	_	ref=
+3	fridlösæn	friþlös	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	amod	_	ref=
+4	man	maþer	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing|Variant=Short	1	obj	_	ref=
+5	æn	än	SCONJ	G-	_	7	mark	_	ref=
+6	þer	þän	PRON	Pd	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	ref=
+7	uilia	vilia	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	ref=
+
+# source = Äldre Västgötalagen, enligt Holm B 59, Kirkiu Bolkær 22
+# text = Orsaker ær prester vm þat
+# sent_id = 26394
+1	Orsaker	ursaker	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	ref=
+2	ær	vara	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	ref=
+3	prester	präster	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing|Variant=Short	1	nsubj	_	ref=
+4	vm	um	ADP	R-	_	5	case	_	ref=
+5	þat	þän	PRON	Pd	Case=Acc|Gender=Neut|Number=Sing	1	obl	_	ref=
+
